@@ -9,19 +9,18 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 ## Table of Contents
 
 1.  [Coding Resources - How to learn xyz ](#coding-resources)
-
 2.  [ Hackathons and Events ](#hackathons-and-events)
 
-     2.1 [Hackathon Search Portals](#hackathon-search-portals)
+     2.1 - [Hackathon Search Portals](#hackathon-search-portals)
+     2.2 - [Events]()
     
 4.  [ Student Programs ](#student-programs)
 5.  [ Open Source Programs ](#open-source-programs)
 6.  [ Internship Portals ](#internship-portals)
 7.  [Developer Clubs and Meetups](#developer-clubs-and-meetups)
-8.  [ Conferences for students ](#conference)
-9.  [Top Websites to Follow](#website-to-follow)
-10.  [Top People to Follow](#people-to-follow)
-11. [Are you a Startup guy ? Check it out. ](#startup-guy)
+8.  [ Conferences for students ](#conferences-for-students)
+9.  [Top Websites to Follow](#top-websites-to-follow)
+10.  [Top People to Follow](#top-people-to-follow)
 
 ================================================================================================
 # Coding Resources
@@ -78,6 +77,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | 
 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - | 
+| [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
+| [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 
 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 
@@ -88,10 +89,12 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
+| [Y Combinator Hacks]() | USA | - | - | - |
+| [TreeHacks](#) | USA | - | - | - | 
+| [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | 
 ----------------------------------------------------------
 
 ##  Hackathon Search Portals
-
 |s.no| Name  | Location |
 |---| ------ |---| 
 |1| [HackSociety](https://hacksociety.tech/attend/)| India| INDIA | 
@@ -99,9 +102,18 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |3| [HackerEarth](#https://hackerearth.com/) | Online & On-site | 
 |4| [Hackathon.io](#http://www.hackathon.io/events) | GLOBAL |  
 
+## Events 
+
+> **Check out these events for your region**
+
+1. Google Developer Day - Organised by GDG 
+2. Google IO extended - Organised by GDG
+3. Google Solve for India 
+3. Paytm Build for India Workshops [ Delhi, Banglore ] 
+4. NVIDIA Developer Connect [ Global ] 
+5. AWS meetups [ Global ] 
 
 ================================================================================================
-
 
 # Student Programs
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
@@ -112,8 +124,6 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador]()
 8. [ HackerEarth Campus Ambassador]()
-
-
 
 ================================================================================================
 # Open Source Programs
@@ -143,7 +153,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 # Developer Clubs and Meetups
 
-> T**ake a moment to search for these clubs on Google and facebook for your city.**
+> **Take a moment to search for these clubs on Google and facebook for your city.**
 
 -  Google Developer Group 
 -  Mozilla Open Source Community
@@ -151,6 +161,26 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 -  Developers Student Club by Google
 - Microsoft Student Technical Community 
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
-- Python Student Communiyt [ ex  -  PyDelhi ] 
+- Python Student Community [ ex  -  PyDelhi ] 
 - Toastmaster International
+
+> **Check Meetup.com for more events in your locality**
+================================================================================================
+# Conferences for students
+- [Harvard Project for Asian and International Relations](https://www.hpair.org/) - Travel Reimbursment ✔
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
