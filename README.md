@@ -1,26 +1,28 @@
 
 # A - Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out. 
+I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
+
+>**Check out the list of Resources for Student developers**
 
 ## Table of Contents
 
-1.  [Coding Resources - How to learn xyz ](coding-resources)
-2.  [ Hackathons and Events ](hackathons-and-events)
-3.  [ Student Programs ](3)
-4.  [ Open Source Programs ](4)
-5.  [How to get Internship in startups ? ](5)
-6.  [Developers Clubs and Meetups](6)
-7.  [ Conferences for students ](7)
-8.  [Top Websites to Follow](8)
-9.  [Top People to Follow](9)
-10. [Are you a Startup guy ? Check it out. ](10)
+1.  [Coding Resources - How to learn xyz ](#coding-resources)
+2.  [ Hackathons and Events ](#hackathons-and-events)
+3.  [ Student Programs ](#student-programs)
+4.  [ Open Source Programs ](#open-source-programs)
+5.  [How to get Internship in startups ? ](#how-to-get-internship)
+6.  [Developers Clubs and Meetups](#clubs-and-meetups)
+7.  [ Conferences for students ](#conference)
+8.  [Top Websites to Follow](#website-to-follow)
+9.  [Top People to Follow](#people-to-follow)
+10. [Are you a Startup guy ? Check it out. ](#startup-guy)
 
 
-# [Coding How to learn xyz](#coding-resources)
+# Coding How to learn xyz
 
 
-1.  [Python](#coding-resources-how-to-learn-xyz)
+1.  **Python**
     -  [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
     -  [Video Tutorial for absolute beginners - Youtube](#http://bit.ly/2NkrsKh)
     -  Programming Foundation with Python - Udacity [ Free course ] 
@@ -43,7 +45,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
     - Follow this to know everything about about computer science fundamentals and data structures - https://github.com/jwasham/coding-interview-university
 
 
-# [Hackathons and Events](#hackathons-and-events)
+# **Hackathons and Events**
 
 Top Global Hackathon
 
