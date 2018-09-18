@@ -167,17 +167,26 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 > **Check Meetup.com for more events in your locality**
 ================================================================================================
 # Conferences for students
-- [Harvard Project for Asian and International Relations](https://www.hpair.org/) - Travel Reimbursment ✔
-- 
 
+>> ### Tech, Entrepreneurship Events and Conferences 
 
+| Name | Place| Travel Reimbursment |Timeline | Deadline |
+| ------ |---|---| ------ | ----|
+|[World Business Dialogue](www.world-business-dialogue.com/)| India | Yes |  - | - | 
+| [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
+| [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - | 
+| [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
+| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
+| [**Grace Hopper Conference and Fellowship**]() - ONLY FOR GIRLS| USA | YES | - | - | 
+| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
+| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
+| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | 
+|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
+| [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - | 
+| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - | 
+| [KPMG Future Diversity Leaders]() | California | YES | - | - | 
 
-
-
-
-
-
-
+================================================================================================
 
 
 
