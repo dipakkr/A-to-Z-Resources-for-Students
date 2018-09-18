@@ -23,7 +23,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 10.  [Top People to Follow](#people-to-follow)
 11. [Are you a Startup guy ? Check it out. ](#startup-guy)
 
-======================================================================================================================
+================================================================================================
 # Coding Resources
 
 
@@ -61,7 +61,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
          - [Research Gate](https://www.researchgate.net/)
      
 
-=====================================================================================
+
+================================================================================================
 
 # **Hackathons and Events**
 
@@ -99,7 +100,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |4| [Hackathon.io](#http://www.hackathon.io/events) | GLOBAL |  
 
 
-======================================================================================================================
+================================================================================================
 
 
 # Student Programs
@@ -113,8 +114,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 8. [ HackerEarth Campus Ambassador]()
 
 
-=======================================================================================================================
 
+================================================================================================
 # Open Source Programs
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -126,7 +127,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| Yes|- | - | 
 
-======================================================================================================================
+
+================================================================================================
 
 # Internship Portals 
 1. [Angel List](https://angel.co)
@@ -136,7 +138,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
     ### Tips for Internship : 
      - For summer internship, start looking atleast 3-4 months in advance.
     
-====================================================================================================================
+
+================================================================================================
 
 # Developer Clubs and Meetups
 
