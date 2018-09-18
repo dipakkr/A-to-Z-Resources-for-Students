@@ -85,19 +85,17 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 # Student Programs
 1. [Microsoft Student Partner](#https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
 2. [Github Campus Expert](#https://githubcampus.expert/)
-3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
-4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
+3. [College Representative  - E-Cell IITB](#https://www.ecell.in/cr/)
+4. [Internshala Student Partner  -   | ISP](#https://internshala.com/)
 5. [Progate Student Ambassador](#http://progate.com/)
-6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
+6. [ISB - YLP Campus Ambassador Program ](#http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador](#)
 8. [ HackerEarth Campus Ambassador](#)
 
 # Open Source Programs
-
-|Id | Name | Organisation| Stipend/Incentives |Timeline | Deadline |
-|-|--|---- |---|---| ------ | ----|
-
-|1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| Yes| - | - | 
+|id |Name | Organisation| Stipend |Timeline | Deadline |
+|--|--|---|--|--|--|
+|1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| Yes| - |- | 
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Coding Blocks, INDIA| Yes|- | - | 
 |4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | Yes | - | - |
 |4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | Yes | - | - |
