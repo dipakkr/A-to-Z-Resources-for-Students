@@ -9,17 +9,21 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 ## Table of Contents
 
 1.  [Coding Resources - How to learn xyz ](#coding-resources)
+
 2.  [ Hackathons and Events ](#hackathons-and-events)
-3.  [ Student Programs ](#student-programs)
-4.  [ Open Source Programs ](#open-source-programs)
-5.  [ Internship Portals ](#internship-portals)
-6.  [Developer Clubs and Meetups](#developer-clubs-and-meetups)
-7.  [ Conferences for students ](#conference)
-8.  [Top Websites to Follow](#website-to-follow)
-9.  [Top People to Follow](#people-to-follow)
-10. [Are you a Startup guy ? Check it out. ](#startup-guy)
 
+     2.1 [Hackathon Search Portals](#hackathon-search-portals)
+    
+4.  [ Student Programs ](#student-programs)
+5.  [ Open Source Programs ](#open-source-programs)
+6.  [ Internship Portals ](#internship-portals)
+7.  [Developer Clubs and Meetups](#developer-clubs-and-meetups)
+8.  [ Conferences for students ](#conference)
+9.  [Top Websites to Follow](#website-to-follow)
+10.  [Top People to Follow](#people-to-follow)
+11. [Are you a Startup guy ? Check it out. ](#startup-guy)
 
+======================================================================================================================
 # Coding Resources
 
 
@@ -83,8 +87,9 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
-----------------------
-## Looking for Hackathons -  Browse here !!
+----------------------------------------------------------
+
+##  Hackathon Search Portals
 
 |s.no| Name  | Location |
 |---| ------ |---| 
@@ -93,6 +98,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |3| [HackerEarth](#https://hackerearth.com/) | Online & On-site | 
 |4| [Hackathon.io](#http://www.hackathon.io/events) | GLOBAL |  
 
+
+======================================================================================================================
 
 
 # Student Programs
@@ -105,6 +112,9 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 7. [GeeksforGeeks Campus Ambassador]()
 8. [ HackerEarth Campus Ambassador]()
 
+
+=======================================================================================================================
+
 # Open Source Programs
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -116,15 +126,18 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| Yes|- | - | 
 
+======================================================================================================================
 
 # Internship Portals 
-1. Angel list - https://angel.co
-2. Internshala 
+1. [Angel List](https://angel.co)
+2. [Internshala](https://internshala.com)
 3. Contact HRs on LinkedIn 
 
-    ### Tips for Internships : 
+    ### Tips for Internship : 
      - For summer internship, start looking atleast 3-4 months in advance.
-  
+    
+====================================================================================================================
+
 # Developer Clubs and Meetups
 
 > T**ake a moment to search for these clubs on Google and facebook for your city.**
