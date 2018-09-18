@@ -165,7 +165,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 - Toastmaster International
 
 > **Check Meetup.com for more events in your locality**
-================================================================================================
+
+===========================================================================================
 # Conferences for students
 
 >> ### Tech, Entrepreneurship Events and Conferences 
