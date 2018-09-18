@@ -45,6 +45,19 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 5.  **Data Structures**
     - Follow this to know everything about about computer science fundamentals and data structures - https://github.com/jwasham/coding-interview-university
 
+6.  **Machine Learning**
+    -  *Online Courses*
+        - [AndrewNg Coursera](#https://www.coursera.org/learn/machine-learning)
+        - [Udacity Machine Learning Nanodegree](#https://in.udacity.com/course/intro-to-machine-learning--ud120-india)  
+        - [ML with Python - Youtube ](#https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+        
+      -  *Research Papers*
+         - [Arxiv](https://arxiv.org/)
+         - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
+         - [Research Gate](https://www.researchgate.net/)
+     
+
+=====================================================================================
 
 # **Hackathons and Events**
 
@@ -83,18 +96,18 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 
 # Student Programs
-1. [Microsoft Student Partner](#https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
-2. [Github Campus Expert](#https://githubcampus.expert/)
-3. [College Representative  - E-Cell IITB](#https://www.ecell.in/cr/)
-4. [Internshala Student Partner  -   | ISP](#https://internshala.com/)
-5. [Progate Student Ambassador](#http://progate.com/)
-6. [ISB - YLP Campus Ambassador Program ](#http://www.isb.edu/ylp/CAP)
-7. [GeeksforGeeks Campus Ambassador](#)
-8. [ HackerEarth Campus Ambassador](#)
+1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
+2. [Github Campus Expert](https://githubcampus.expert/)
+3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
+4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
+5. [Progate Student Ambassador](http://progate.com/)
+6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
+7. [GeeksforGeeks Campus Ambassador]()
+8. [ HackerEarth Campus Ambassador]()
 
 # Open Source Programs
-|id |Name | Organisation| Stipend |Timeline | Deadline |
-|--|--|---|--|--|--|
+|Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
+|-|--|---- |---|---| ------ | ----|
 |1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| Yes| - |- | 
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Coding Blocks, INDIA| Yes|- | - | 
 |4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | Yes | - | - |
@@ -111,8 +124,6 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
     ### Tips for Internships : 
      - For summer internship, start looking atleast 3-4 months in advance.
-     - point 2
-     - point 3
   
 # Developer Clubs and Meetups
 
