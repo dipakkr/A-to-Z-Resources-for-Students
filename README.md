@@ -1,5 +1,6 @@
 
 
+
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
@@ -11,19 +12,21 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 1.  [Coding Resources - How to learn xyz ](#coding-resources)
 2.  [ Hackathons and Events ](#hackathons-and-events)
 
-     2.1 - [Hackathon Search Portals](#hackathon-search-portals)
-     2.2 - [Events]()
+     2.1 - [Top Global Hackathons](#top-global-hackathons)
+     2.2 - [Competitions](#competitions)
+     2.3 - [Hackathon Search Portal](#hackathon-search-portals)
+     2.4 - [Events](#events)
     
-4.  [ Student Programs ](#student-programs)
-5.  [ Open Source Programs ](#open-source-programs)
-6.  [ Internship Portals ](#internship-portals)
-7.  [Developer Clubs and Meetups](#developer-clubs-and-meetups)
-8.  [ Conferences for students ](#conferences-for-students)
+3.  [ Student Programs ](#student-programs)
+4.  [ Open Source Programs ](#open-source-programs)
+5.  [ Internship Portals ](#internship-portals)
+6.  [Developer Clubs and Meetups](#developer-clubs-and-meetups)
+7.  [ Conferences for students ](#conferences)
+8.  [Top People to Follow](#top-people-to-follow)
 9.  [Top Websites to Follow](#top-websites-to-follow)
-10.  [Top People to Follow](#top-people-to-follow)
 
 ================================================================================================
-# Coding Resources
+# 1. **Coding Resources**
 
 
 1.  **Python**
@@ -31,41 +34,74 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
     -  [Video Tutorial for absolute beginners - Youtube](#http://bit.ly/2NkrsKh)
     -  Programming Foundation with Python - Udacity [ Free course ] 
     - Google Python class
-       
-2.  **React**
-    - Udemy - https://www.udemy.com/react-the-complete-guide-incl-redux/ [ PAID ] 
-    
-    
-3.  **Node.Js**
-    -  Udemy - https://www.udemy.com/the-complete-nodejs-developer-course-2/ [PAID]
    
+   ---
 
-4.  **Android and Kotlin**
-    - Udacity [ Free courses ]
-    -  [PluralSight - Android Developer Track](#http://pluralsight.com/) [FREE for 60 days] 
+2.  **Machine Learning**
   
-  
-5.  **Data Structures**
-    - Follow this to know everything about about computer science fundamentals and data structures - https://github.com/jwasham/coding-interview-university
-
-6.  **Machine Learning**
-    -  *Online Courses*
+    -  **Best Online Courses**
+        - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
         - [AndrewNg Coursera](#https://www.coursera.org/learn/machine-learning)
         - [Udacity Machine Learning Nanodegree](#https://in.udacity.com/course/intro-to-machine-learning--ud120-india)  
+        - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
         - [ML with Python - Youtube ](#https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
         
-      -  *Research Papers*
+    -  **Best Github Repositories to follow**
+       - [Self Taught Path for Data Science](#https://github.com/ossu/data-science)
+
+     -  **Research Papers**
          - [Arxiv](https://arxiv.org/)
          - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
          - [Research Gate](https://www.researchgate.net/)
-     
+------
+2.  **Deep Learning**
+  
+    -  **Best Online Courses**
+        - [Deep Learning Specialization - Coursera](#https://www.coursera.org/specializations/deep-learning)   
+        
+    -  **Best Github Repositories to follow**
+        - [Top -200 Github Repos in Deep learning](#https://github.com/mbadry1/Top-Deep-Learning)    
+        - [DensePose - FB Research](#https://github.com/facebookresearch/DensePose)
+        - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
+        - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+        - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
+        - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
+    
+
+------
+
+3.  **React**
+    - Udemy - https://www.udemy.com/react-the-complete-guide-incl-redux/ [ PAID ] 
+    
+ ------
+
+4.  **Node.Js**
+    -  Udemy - https://www.udemy.com/the-complete-nodejs-developer-course-2/ [PAID]
+   
+------
+
+5.  **Android and Kotlin**
+
+    -  [Udacity - Free courses & Nanodegree](#https://udacity.com)
+    -  [PluralSight - Android Developer Track](#http://pluralsight.com/) [FREE for 60 days] 
+    - [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+    - [Android examples ](https://github.com/nisrulz/android-examples)
+    - [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
+   
+------
+
+  
+6.  **Data Structures**
+    - Follow this to know everything about about computer science fundamentals and data structures - https://github.com/jwasham/coding-interview-university
+
 
 
 ================================================================================================
 
-# **Hackathons and Events**
 
-> **Top Global Hackathons**
+# **2. Hackathons and Events**
+
+## 2.1 **Top Global Hackathons**
           
 | Name | Place| Travel Reimbursment |Timeline | Deadline |
 | ------ |---|---| ------ | ----|
@@ -94,15 +130,27 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | 
 ----------------------------------------------------------
 
-##  Hackathon Search Portals
-|s.no| Name  | Location |
-|---| ------ |---| 
-|1| [HackSociety](https://hacksociety.tech/attend/)| India| INDIA | 
-|2| [DevPost](#https://devpost.com/hackathons) | Online & On-site |
-|3| [HackerEarth](#https://hackerearth.com/) | Online & On-site | 
-|4| [Hackathon.io](#http://www.hackathon.io/events) | GLOBAL |  
+##  2.2 **Competitions**
 
-## Events 
+1. [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)
+2.  [ACM - ICPC]()
+3. [Shell Ideas360](https://bit.ly/14iPmYn)
+4. [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt)
+5. [Doodle 4 Google](https://doodles.google.com/d4g/)
+6. [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/)
+
+
+##  2.3  **Hackathon Search Portals**
+|s.no| Name  | Location | Category | 
+|---| ------ |---| --- | 
+|1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
+|2| [DevPost](#https://devpost.com/hackathons) | Online & On-site | ALL |
+|3| [HackerEarth](#https://hackerearth.com/) | Online & On-site |  |
+|4| [Hackathon.io](#http://www.hackathon.io/events) | GLOBAL |  |
+|5|[TechGIG - Search Online Competitons]()| Online & On-Site |
+|6| [Analytical Vidya](#https://www.analyticsvidhya.com/) |Online & On-Site |  | |
+
+## 2.4 Events 
 
 > **Check out these events for your region**
 
@@ -113,9 +161,11 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 4. NVIDIA Developer Connect [ Global ] 
 5. AWS meetups [ Global ] 
 
+
+
 ================================================================================================
 
-# Student Programs
+# 3. **Student Programs**
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
@@ -123,10 +173,12 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 5. [Progate Student Ambassador](http://progate.com/)
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador]()
-8. [ HackerEarth Campus Ambassador]()
+8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
+9. [ HackerRank Campus Ambassador](https://hackerrank.com)
+
 
 ================================================================================================
-# Open Source Programs
+# 4 .**Open Source Programs**
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| Yes| - |- | 
@@ -140,10 +192,12 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 ================================================================================================
 
-# Internship Portals 
+# 5. **Internship Portals**
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
-3. Contact HRs on LinkedIn 
+3. [Vettery](https://www.vettery.com/)
+4. [LinkedIn](https://linkedin.com)
+5. *Contact HRs on LinkedIn*
 
     ### Tips for Internship : 
      - For summer internship, start looking atleast 3-4 months in advance.
@@ -151,7 +205,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 ================================================================================================
 
-# Developer Clubs and Meetups
+# 6. **Developer Clubs and Meetups**
 
 > **Take a moment to search for these clubs on Google and facebook for your city.**
 
@@ -167,18 +221,20 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 > **Check Meetup.com for more events in your locality**
 
 ================================================================================================
-# Conferences for students
+# 7. **Conferences**
 
 >> ### Tech, Entrepreneurship Events and Conferences 
 
 | Name | Place| Travel Reimbursment |Timeline | Deadline |
 | ------ |---|---| ------ | ----|
+| [PyCon - Python Conference]() |  GLOBAL | NO |  - | - | 
+| [ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - | 
 |[World Business Dialogue](www.world-business-dialogue.com/)| India | Yes |  - | - | 
 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - | 
 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
-| [**Grace Hopper Conference and Fellowship**]() - ONLY FOR GIRLS| USA | YES | - | - | 
+| [**Grace Hopper Conference and Fellowship**]() - *ONLY FOR GIRLS*| USA | YES | - | - | 
 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
 | [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | 
@@ -189,8 +245,28 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 ================================================================================================
 
+# 8.  **Top Peoples to Follow**
+| | Name | Categoty| 
+| --|------ |---|
+|1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
+|2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
+|3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
+|4| [Arnav Gupta -Coding Blocks](https://github.com/championswimmer)| Android and Node.JS |  
+
+
+# 9. **Top Websites to Follow**
+
+
+1.   **Data Science**
+      -  [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
+      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
+   
+2.   **Startup News and Stories**
+      -  [Y Combinator](http://www.ycombinator.com/)
+      -  [YourStory](https://yourstory.com/)
 
 
 
-
-
+---
+## Contributers 
+1. **Deepak Kumar** - [Github](https://github.com/dipakkr) [LinkedIn](https://www.linkedin.com/in/dipakkr/) 
