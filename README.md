@@ -249,7 +249,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - | 
 |6 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
 |7 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
-|8 | [**Grace Hopper Conference and Fellowship**]() - *ONLY FOR GIRLS*| USA | YES | - | - | 
+|8 | [Grace Hopper Conference and Fellowship]() - *ONLY FOR GIRLS*| USA | YES | - | - | 
 |9 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
 |10 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
 |11| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | 
