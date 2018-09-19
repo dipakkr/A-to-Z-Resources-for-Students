@@ -25,7 +25,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 8.  [Top People to Follow](#top-people-to-follow)
 9.  [Top Websites to Follow](#top-websites-to-follow)
 
-================================================================================================
+=============================================================================================
 # 1. **Coding Resources**
 
 
@@ -96,7 +96,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 
 
-================================================================================================
+=============================================================================================
 
 
 # **2. Hackathons and Events**
@@ -163,7 +163,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 
 
-================================================================================================
+=============================================================================================
 
 # 3. **Student Programs**
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
@@ -177,7 +177,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 
 
-================================================================================================
+=============================================================================================
 # 4 .**Open Source Programs**
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -190,7 +190,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| Yes|- | - | 
 
 
-================================================================================================
+=============================================================================================
 
 # 5. **Internship Portals**
 1. [Angel List](https://angel.co)
@@ -203,7 +203,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
      - For summer internship, start looking atleast 3-4 months in advance.
     
 
-================================================================================================
+=============================================================================================
 
 # 6. **Developer Clubs and Meetups**
 
@@ -220,7 +220,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 > **Check Meetup.com for more events in your locality**
 
-================================================================================================
+=============================================================================================
 # 7. **Conferences**
 
 >> ### Tech, Entrepreneurship Events and Conferences 
@@ -243,7 +243,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 | [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - | 
 | [KPMG Future Diversity Leaders]() | California | YES | - | - | 
 
-================================================================================================
+=============================================================================================
 
 # 8.  **Top Peoples to Follow**
 | | Name | Categoty| 
@@ -253,6 +253,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
 |4| [Arnav Gupta -Coding Blocks](https://github.com/championswimmer)| Android and Node.JS |  
 
+=============================================================================================
 
 # 9. **Top Websites to Follow**
 
@@ -265,7 +266,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
       -  [Y Combinator](http://www.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
 
+=============================================================================================
 
-
-## Contributers 
+# Contributers 
 1. **Deepak Kumar** - [Github](https://github.com/dipakkr) [LinkedIn](https://www.linkedin.com/in/dipakkr/) 
