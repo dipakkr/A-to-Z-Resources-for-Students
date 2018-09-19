@@ -3,7 +3,8 @@
 
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-### **Are you college student or working proffessional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ??? Then, you should definitely check this out**
+
+### **Are you college student or working proffessional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.**
 
 
 When I was in College, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out. 
@@ -46,6 +47,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 2.  **Machine Learning**
   
+      > [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
+
     -  **Best Online Courses**
         - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
         - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
@@ -60,9 +63,15 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
          - [Arxiv](https://arxiv.org/)
          - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
          - [Research Gate](https://www.researchgate.net/)
+         - [Academics Torrent - Search Dataset](http://academictorrents.com/)
+         
+    
+
 ------
 
 2.  **Deep Learning**
+
+      > [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
   
     -  **Best Online Courses**
         - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
@@ -75,20 +84,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
         - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
         - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     
-
-------
-
-3.  **React**
-    - Udemy - https://www.udemy.com/react-the-complete-guide-incl-redux/ [ PAID ] 
-    
- ------
-
-4.  **Node.Js**
-    -  Udemy - https://www.udemy.com/the-complete-nodejs-developer-course-2/ [PAID]
    
 ------
 
-5.  **Android and Kotlin**
+3.  **Android and Kotlin**
 
     -  [Udacity - Free courses & Nanodegree](https://udacity.com)
     -  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days] 
@@ -99,9 +98,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ------
 
   
-6.  **Data Structures**
-    - Follow this to know everything about about computer science fundamentals and data structures - https://github.com/jwasham/coding-interview-university
-
+4.  **Data Structures**
+    - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
 
 =============================================================================================
@@ -153,10 +151,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |---| ------ |---| --- | 
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
-|3| [HackerEarth](https://hackerearth.com/) | Online & On-site |  |
-|4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL |  |
-|5|[TechGIG - Search Online Competitons]()| Online & On-Site |
-|6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site |  | |
+|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
+|4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
+|5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL | 
+|6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
 
 ## 2.4 Events 
 
@@ -194,15 +192,18 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 # 4 .**Open Source Programs**
+
+> **For more Detailed Information about the GSOC Orgranisation** - [Click Here]() 
+
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
-|1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| Yes| - |- | 
+|1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| YES| - |- | 
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Coding Blocks, INDIA| Yes|- | - | 
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | Yes | - | - |
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | Yes | - | - |
+|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
+|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  | 
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
-|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| Yes|- | - | 
+|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - | 
 
 
 =============================================================================================
