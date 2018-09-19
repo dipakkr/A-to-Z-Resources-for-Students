@@ -172,7 +172,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 # 3. **Student Benefits and Programs**
 
-## **Campus Ambassador Programs**
+### **Campus Ambassador Programs**
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
@@ -183,7 +183,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 
-## **Students Benfits and Packs**
+### **Students Benfits and Packs**
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Resources ](https://visualstudio.microsoft.com/dev-essentials/)
 
