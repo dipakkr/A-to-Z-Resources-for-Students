@@ -42,7 +42,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
     -  **Best Online Courses**
         - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
         - [AndrewNg Coursera](#https://www.coursera.org/learn/machine-learning)
-        - [Udacity Machine Learning Nanodegree](#https://in.udacity.com/course/intro-to-machine-learning--ud120-india)  
+        - [Udacity Machine Learning Nanodegree](#https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
         - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
         - [ML with Python - Youtube ](#https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
         
@@ -60,8 +60,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
         - [Deep Learning Specialization - Coursera](#https://www.coursera.org/specializations/deep-learning)   
         
     -  **Best Github Repositories to follow**
-        - [Top -200 Github Repos in Deep learning](#https://github.com/mbadry1/Top-Deep-Learning)    
-        - [DensePose - FB Research](#https://github.com/facebookresearch/DensePose)
+        - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
+        - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
         - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
         - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
         - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
@@ -267,6 +267,5 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 
 
----
 ## Contributers 
 1. **Deepak Kumar** - [Github](https://github.com/dipakkr) [LinkedIn](https://www.linkedin.com/in/dipakkr/) 
