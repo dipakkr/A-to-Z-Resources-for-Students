@@ -3,7 +3,7 @@
 
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
->**Are you college student or working proffessional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons ??? Then, you should definitely check this out**
+### **Are you college student or working proffessional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ??? Then, you should definitely check this out**
 
 
 When I was in College, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out. 
