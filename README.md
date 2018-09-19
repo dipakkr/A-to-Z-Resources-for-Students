@@ -24,6 +24,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Competitions](#2.2-competitions)
      - [Hackathon Search Portal](#2.3-hackathon-search-portals)
      - [Events](#2.4-events)
+     - [Startup Summits and Competitions](#2.5-startup-summits-and-competitions)
     
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
 4.  [ Open Source Programs ](#4-open-source-programs)
@@ -138,12 +139,17 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ##  2.2 **Competitions**
 
-1. [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)
-2.  [ACM - ICPC]()
-3. [Shell Ideas360](https://bit.ly/14iPmYn)
-4. [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt)
-5. [Doodle 4 Google](https://doodles.google.com/d4g/)
-6. [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/)
+|ID| Name  | Location | 
+|--|------ |----------|
+|3 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite | 
+|2 |  [ACM - ICPC]() | Online & On-Site |
+|4 | [http://www.e-yantra.org/](http://www.e-yantra.org/) | Online & Onsite | 
+|1 | [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - | 
+|4 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite | 
+|5 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online | 
+|6 | [Doodle 4 Google](https://doodles.google.com/d4g/) | Online | 
+|7 |  [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  | 
+|8| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite | 
 
 
 ##  2.3  **Hackathon Search Portals**
@@ -156,7 +162,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL | 
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
 
-## 2.4 Events 
+## 2.4 **Events** 
 
 > **Check out these events for your region**
 
@@ -167,8 +173,20 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 4. NVIDIA Developer Connect [ Global ] 
 5. AWS meetups [ Global ] 
 
+## 2.5 **Startup Summits and Competitions**
+
+
+|ID| Name  | Location | 
+|--|------ |----------|
+|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA | 
+|2| []()  | INDIA | 
+|3| []()  |  INDIA | 
+|4| []()  |  INDIA | 
+|5| []()  |   INDIA | 
+
 
 =============================================================================================
+
 
 # 3. **Student Benefits and Programs**
 
@@ -193,7 +211,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 # 4 .**Open Source Programs**
 
-> **For more Detailed Information about the GSOC Orgranisation** - [Click Here]() 
+> **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) 
 
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
