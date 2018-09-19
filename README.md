@@ -282,7 +282,3 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Y Combinator](http://www.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
 
-=============================================================================================
-
-# Contributers 
-1. **Deepak Kumar** - [Github](https://github.com/dipakkr) |  [LinkedIn](https://www.linkedin.com/in/dipakkr/) 
