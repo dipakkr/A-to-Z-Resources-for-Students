@@ -269,4 +269,4 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 =============================================================================================
 
 # Contributers 
-1. **Deepak Kumar** - [Github](https://github.com/dipakkr) [LinkedIn](https://www.linkedin.com/in/dipakkr/) 
+1. **Deepak Kumar** - [Github](https://github.com/dipakkr) |  [LinkedIn](https://www.linkedin.com/in/dipakkr/) 
