@@ -16,21 +16,21 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ## Table of Contents
 
-1.  [Coding Resources - How to learn xyz ](#coding-resources)
-2.  [ Hackathons and Events ](#hackathons-and-events)
+1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
+2.  [ Hackathons and Events ](#2-hackathons-and-events)
 
-     - [Top Global Hackathons](#top-global-hackathons)
-     - [Competitions](#competitions)
-     - [Hackathon Search Portal](#hackathon-search-portals)
-     - [Events](#events)
+     - [Top Global Hackathons](#2.1-top-global-hackathons)
+     - [Competitions](#2.2-competitions)
+     - [Hackathon Search Portal](#2.3-hackathon-search-portals)
+     - [Events](#2.4-events)
     
-3.  [ Student Benefits and Programs ](#student-benefits-and-programs)
-4.  [ Open Source Programs ](#open-source-programs)
-5.  [ Internship Portals ](#internship-portals)
-6.  [Developer Clubs and Meetups](#developer-clubs-and-meetups)
-7.  [ Conferences for students ](#conferences)
-8.  [Top People to Follow](#top-people-to-follow)
-9.  [Top Websites to Follow](#top-websites-to-follow)
+3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
+4.  [ Open Source Programs ](#4-open-source-programs)
+5.  [ Internship Portals ](#5-internship-portals)
+6.  [Developer Clubs and Meetups](#6-developer-clubs-and-meetups)
+7.  [ Conferences for students ](#7-conferences)
+8.  [Top People to Follow](#8-top-people-to-follow)
+9.  [Top Websites to Follow](#9-top-websites-to-follow)
 
 =============================================================================================
 # 1. **Coding Resources**
