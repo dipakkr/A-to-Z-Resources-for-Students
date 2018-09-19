@@ -7,6 +7,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ![Image](res/xx.gif)
 
+*Image credits : Google*
 
 >**Check out the list of Resources for Student developers**
 
@@ -57,6 +58,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
          - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
          - [Research Gate](https://www.researchgate.net/)
 ------
+
 2.  **Deep Learning**
   
     -  **Best Online Courses**
