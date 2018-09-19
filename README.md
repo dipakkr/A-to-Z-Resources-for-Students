@@ -167,7 +167,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 5. AWS meetups [ Global ] 
 
 
-
 =============================================================================================
 
 # 3. **Student Benefits and Programs**
@@ -188,7 +187,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 2. [Visual Studio Essentials - Access to Microsoft Premimum Resources ](https://visualstudio.microsoft.com/dev-essentials/)
 
  
-
 
 
 =============================================================================================
@@ -260,7 +258,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 
 # 8.  **Top Peoples to Follow**
-| | Name | Categoty| 
+| | Name | Category| 
 | --|------ |---|
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
 |2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
@@ -275,6 +273,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 1.   **Data Science**
       -  [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
+      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
    
 2.   **Startup News and Stories**
       -  [Y Combinator](http://www.ycombinator.com/)
