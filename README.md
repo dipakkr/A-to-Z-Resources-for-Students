@@ -12,10 +12,10 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 1.  [Coding Resources - How to learn xyz ](#coding-resources)
 2.  [ Hackathons and Events ](#hackathons-and-events)
 
-     2.1 - [Top Global Hackathons](#top-global-hackathons)
-     2.2 - [Competitions](#competitions)
-     2.3 - [Hackathon Search Portal](#hackathon-search-portals)
-     2.4 - [Events](#events)
+     - [Top Global Hackathons](#top-global-hackathons)
+     - [Competitions](#competitions)
+     - [Hackathon Search Portal](#hackathon-search-portals)
+     - [Events](#events)
     
 3.  [ Student Programs ](#student-programs)
 4.  [ Open Source Programs ](#open-source-programs)
@@ -31,7 +31,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 1.  **Python**
     -  [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-    -  [Video Tutorial for absolute beginners - Youtube](#http://bit.ly/2NkrsKh)
+    -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
     -  Programming Foundation with Python - Udacity [ Free course ] 
     - Google Python class
    
@@ -41,13 +41,13 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
   
     -  **Best Online Courses**
         - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-        - [AndrewNg Coursera](#https://www.coursera.org/learn/machine-learning)
-        - [Udacity Machine Learning Nanodegree](#https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
+        - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
+        - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
         - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-        - [ML with Python - Youtube ](#https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+        - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
         
     -  **Best Github Repositories to follow**
-       - [Self Taught Path for Data Science](#https://github.com/ossu/data-science)
+       - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
 
      -  **Research Papers**
          - [Arxiv](https://arxiv.org/)
@@ -57,7 +57,7 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 2.  **Deep Learning**
   
     -  **Best Online Courses**
-        - [Deep Learning Specialization - Coursera](#https://www.coursera.org/specializations/deep-learning)   
+        - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
         
     -  **Best Github Repositories to follow**
         - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
@@ -82,8 +82,8 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 5.  **Android and Kotlin**
 
-    -  [Udacity - Free courses & Nanodegree](#https://udacity.com)
-    -  [PluralSight - Android Developer Track](#http://pluralsight.com/) [FREE for 60 days] 
+    -  [Udacity - Free courses & Nanodegree](https://udacity.com)
+    -  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days] 
     - [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
     - [Android examples ](https://github.com/nisrulz/android-examples)
     - [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
@@ -103,31 +103,31 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 ## 2.1 **Top Global Hackathons**
           
-| Name | Place| Travel Reimbursment |Timeline | Deadline |
-| ------ |---|---| ------ | ----|
-| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website | 
-| [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | 
-| [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | 
-| [PenApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | 
-| [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |  
-| [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | 
-| [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-| [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - | 
-| [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
-| [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
-| [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
-| [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 
-| [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 
-| [MHacks](http://www.mhacks.org/) |USA | - |  - | - | 
-| [HackDavis](http://hackdavis.io/)|USA | - |  - |   - |
-| [QHacks](http://qhacks.io/) | USA | - | - |  - |
-| [Hackinit](https://hackinit.org/) | China | - | - |  - |
-| [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
-| [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
-| [McHacks](http://mchacks.io/) | USA| - | - |  - |
-| [Y Combinator Hacks]() | USA | - | - | - |
-| [TreeHacks](#) | USA | - | - | - | 
-| [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | 
+|Id |Name | Place| Travel Reimbursment |Timeline | Deadline |
+|--|------ |---|---| ------ | ----|
+|1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website | 
+|2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | 
+|3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | 
+|4 | [PenApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | 
+|5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |  
+|6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | 
+|7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
+|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - | 
+|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
+|10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
+|11 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
+|12 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 
+|13 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 
+|14 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - | 
+|15 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - |
+|16 | [QHacks](http://qhacks.io/) | USA | - | - |  - |
+|17 | [Hackinit](https://hackinit.org/) | China | - | - |  - |
+|18 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
+|19 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
+|20 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
+|21 | [Y Combinator Hacks]() | USA | - | - | - |
+|22 | [TreeHacks]() | USA | - | - | - | 
+|23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | 
 ----------------------------------------------------------
 
 ##  2.2 **Competitions**
@@ -144,11 +144,11 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 |s.no| Name  | Location | Category | 
 |---| ------ |---| --- | 
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
-|2| [DevPost](#https://devpost.com/hackathons) | Online & On-site | ALL |
-|3| [HackerEarth](#https://hackerearth.com/) | Online & On-site |  |
-|4| [Hackathon.io](#http://www.hackathon.io/events) | GLOBAL |  |
+|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
+|3| [HackerEarth](https://hackerearth.com/) | Online & On-site |  |
+|4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL |  |
 |5|[TechGIG - Search Online Competitons]()| Online & On-Site |
-|6| [Analytical Vidya](#https://www.analyticsvidhya.com/) |Online & On-Site |  | |
+|6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site |  | |
 
 ## 2.4 Events 
 
@@ -225,23 +225,23 @@ I missed a lot of opportunties like hackathons, conferences, internships and man
 
 >> ### Tech, Entrepreneurship Events and Conferences 
 
-| Name | Place| Travel Reimbursment |Timeline | Deadline |
-| ------ |---|---| ------ | ----|
-| [PyCon - Python Conference]() |  GLOBAL | NO |  - | - | 
-| [ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - | 
-|[World Business Dialogue](www.world-business-dialogue.com/)| India | Yes |  - | - | 
-| [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
-| [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - | 
-| [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
-| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
-| [**Grace Hopper Conference and Fellowship**]() - *ONLY FOR GIRLS*| USA | YES | - | - | 
-| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
-| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
-| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | 
-|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
-| [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - | 
-| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - | 
-| [KPMG Future Diversity Leaders]() | California | YES | - | - | 
+|Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
+|--|------ |---|---| ------ | ----|
+|1 |[PyCon - Python Conference]() |  GLOBAL | NO |  - | - | 
+|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - | 
+|3 |[World Business Dialogue](www.world-business-dialogue.com/)| India | Yes |  - | - | 
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - | 
+|6 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
+|7 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
+|8 | [**Grace Hopper Conference and Fellowship**]() - *ONLY FOR GIRLS*| USA | YES | - | - | 
+|9 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
+|10 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
+|11| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | 
+|12 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
+|13 | [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - | 
+|14| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - | 
+|15| [KPMG Future Diversity Leaders]() | California | YES | - | - | 
 
 =============================================================================================
 
