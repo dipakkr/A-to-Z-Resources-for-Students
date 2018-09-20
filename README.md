@@ -34,7 +34,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8.  [Top People to Follow](#8-top-people-to-follow)
 9.  [Top Websites to Follow](#9-top-websites-to-follow)
 
-10. [Additional Links](10-additional-links)
+10. [Additional Links](#10-additional-links)
 
 =============================================================================================
 # 1. **Coding Resources**
