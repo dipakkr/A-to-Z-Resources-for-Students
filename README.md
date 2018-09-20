@@ -34,6 +34,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8.  [Top People to Follow](#8-top-people-to-follow)
 9.  [Top Websites to Follow](#9-top-websites-to-follow)
 
+10. [Additional Links](10-additional-links)
+
 =============================================================================================
 # 1. **Coding Resources**
 
@@ -143,6 +145,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |--|------ |----------|
 |3 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite | 
 |2 |  [ACM - ICPC]() | Online & On-Site |
+|3 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online | 
+|4 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite | 
+|5|  []
 |4 | [http://www.e-yantra.org/](http://www.e-yantra.org/) | Online & Onsite | 
 |1 | [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - | 
 |4 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite | 
@@ -150,6 +155,11 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6 | [Doodle 4 Google](https://doodles.google.com/d4g/) | Online | 
 |7 |  [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  | 
 |8| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite | 
+|9| [Quest Ingenium](https://www.questingenium.com/) | -  | 
+|10| [ROBOCON](https://www.roboconindia.com/) | Onsite | 
+|12| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite | 
+
+
 
 
 ##  2.3  **Hackathon Search Portals**
@@ -173,16 +183,15 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 4. NVIDIA Developer Connect [ Global ] 
 5. AWS meetups [ Global ] 
 
-## 2.5 **Startup Summits and Competitions**
+## 2.5 **Startup Summits, Competitions and Bootcamps**
 
 
 |ID| Name  | Location | 
 |--|------ |----------|
 |1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA | 
-|2| []()  | INDIA | 
-|3| []()  |  INDIA | 
-|4| []()  |  INDIA | 
-|5| []()  |   INDIA | 
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA | 
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
+|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York | 
 
 
 =============================================================================================
@@ -257,7 +266,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 # 7. **Conferences**
 
->> ### Tech, Entrepreneurship Events and Conferences 
+>> ### **Tech, Entrepreneurship Events and Conferences**
 
 |Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
@@ -276,6 +285,11 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |13 | [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - | 
 |14| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - | 
 |15| [KPMG Future Diversity Leaders]() | California | YES | - | - | 
+|16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL, INDIA | NO | - | - |
+|17| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | Banglore, INDIA | - | - | - |
+| 18 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
+|19 | [Amazon Web Services Global Summit 2017]() | GLOBAL, INDIA | NO | - | - |  
+|20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | California, USA | NO | - | - | 
 
 =============================================================================================
 
@@ -285,6 +299,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
 |2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
+|4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator | 
 |4| [Arnav Gupta -Coding Blocks](https://github.com/championswimmer)| Android and Node.JS |  
 
 =============================================================================================
@@ -298,6 +313,13 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
    
 2.   **Startup News and Stories**
-      -  [Y Combinator](http://www.ycombinator.com/)
+      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
+      -  [Entrepreneur.com](https://www.entrepreneur.com/)
+      -  [ TechCrunch](https://techcrunch.com/)
+      -  [ProductHunt](https://producthunt.com)
+      - 
 
+# 10. **Additional Links**
+
+1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
