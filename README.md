@@ -147,7 +147,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |2 |  [ACM - ICPC]() | Online & On-Site |
 |3 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online | 
 |4 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite | 
-|4 | [http://www.e-yantra.org/](http://www.e-yantra.org/) | Online & Onsite | 
+|4 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite | 
 |1 | [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - | 
 |4 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite | 
 |5 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online | 
