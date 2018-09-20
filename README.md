@@ -1,6 +1,3 @@
-
-
-
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 
@@ -137,6 +134,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
 |22 | [TreeHacks]() | USA | - | - | - | 
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | 
+|24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
+
+
 ----------------------------------------------------------
 
 ##  2.2 **Competitions**
@@ -252,6 +252,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 > **Take a moment to search for these clubs on Google and facebook for your city.**
 
+> **Check **Meetup.com** for more events in your locality**
+
+
 -  Google Developer Group 
 -  Mozilla Open Source Community
 -  Facebook Developer Community.
@@ -260,8 +263,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
 - Python Student Community [ ex  -  PyDelhi ] 
 - Toastmaster International
+- Swift Users Group
 
-> **Check Meetup.com for more events in your locality**
+
 
 =============================================================================================
 # 7. **Conferences**
