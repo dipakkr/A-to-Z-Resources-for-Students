@@ -198,7 +198,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 # 3. **Student Benefits and Programs**
 
-### **Campus Ambassador Programs**
+## **Campus Ambassador Programs**
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
@@ -209,11 +209,17 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 
-### **Students Benfits and Packs**
+##  **Student Benfits and Packs**
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
-2. [Visual Studio Essentials - Access to Microsoft Premimum Resources ](https://visualstudio.microsoft.com/dev-essentials/)
+2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 
- 
+## **Student Fellowship Programs**
+1. 
+2. 
+3.
+4.
+5.
+
 
 
 =============================================================================================
@@ -288,11 +294,11 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |13 | [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - | 
 |14| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - | 
 |15| [KPMG Future Diversity Leaders]() | California | YES | - | - | 
-|16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL, INDIA | NO | - | - |
-|17| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | Banglore, INDIA | - | - | - |
+|16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
+|17| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
 | 18 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
-|19 | [Amazon Web Services Global Summit 2017]() | GLOBAL, INDIA | NO | - | - |  
-|20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | California, USA | NO | - | - | 
+|19 | [Amazon Web Services Global Summit 2017]() | NDIA | NO | - | - |  
+|20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - | 
 
 =============================================================================================
 
