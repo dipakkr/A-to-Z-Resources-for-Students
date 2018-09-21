@@ -15,15 +15,27 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ## Table of Contents
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
+
+     - [Python](#1.1-python)
+     - [Machine Learning](#1.2-machine-learning)
+     - [Deep Learning](#1.3-deep-learning)
+     - [Android Development](#1.4-android-development)
+     - [JavaScript ](#1.5-javascript)
+   
+
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
 
-     - [Top Global Hackathons](#2.1-top-global-hackathons)
-     - [Competitions](#2.2-competitions)
-     - [Hackathon Search Portal](#2.3-hackathon-search-portals)
-     - [Events](#2.4-events)
-     - [Startup Summits and Competitions](#2.5-startup-summits-and-competitions)
+     - [Top Global Hackathons](#top-global-hackathons)
+     - [Competitions](#competitions)
+     - [Hackathon Search Portal](#hackathon-search-portals)
+     - [Events](events)
+     - [Startup Summits and Competitions](#startup-summits-and-competitions)
     
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
+     - [Campus Ambassador Programs](#campus-ambassador-programs)
+     - [Student Benfits and Packs](#student-benefits-and-packs)
+     - [Student Fellowship Programs](#student-fellowship-programs)
+
 4.  [ Open Source Programs ](#4-open-source-programs)
 5.  [ Internship Portals ](#5-internship-portals)
 6.  [Developer Clubs and Meetups](#6-developer-clubs-and-meetups)
@@ -37,69 +49,76 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 # 1. **Coding Resources**
 
 
-1.  **Python**
-    -  [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+## 1.1   **Python**
+  -  [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
     -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
-    -  Programming Foundation with Python - Udacity [ Free course ] 
-    - Google Python class
+    -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
+    -  [Google Python class](https://developers.google.com/edu/python/)
    
    ---
 
-2.  **Machine Learning**
+## 1.2  **Machine Learning**
   
-      > [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
+> [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
 
-    -  **Best Online Courses**
-        - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-        - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
-        - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
-        - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-        - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-        
-    -  **Best Github Repositories to follow**
-       - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
+-  **Best Online Courses**
+    - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
+    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
+    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) 
+    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
+    - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    
+-  **Best Github Repositories to follow**
+- [Self Taught Path for Data Science](https://github.com/ossu/data-science)
 
-     -  **Research Papers**
-         - [Arxiv](https://arxiv.org/)
-         - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
-         - [Research Gate](https://www.researchgate.net/)
-         - [Academics Torrent - Search Dataset](http://academictorrents.com/)
+-  **Research Papers**
+    - [Arxiv](https://arxiv.org/)
+    - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
+    - [Research Gate](https://www.researchgate.net/)
+    - [Academics Torrent - Search Dataset](http://academictorrents.com/)
          
-    
 
 ------
 
-2.  **Deep Learning**
+## 1.3 **Deep Learning**
 
-      > [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
-  
-    -  **Best Online Courses**
-        - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
-        
-    -  **Best Github Repositories to follow**
-        - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
-        - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
-        - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
-        - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
-        - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
-        - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
+> [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
+
+-  **Best Online Courses**
+    - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
+    
+-  **Best Github Repositories to follow**
+    - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
+    - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
+    - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
+    - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+    - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
+    - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     
    
 ------
 
-3.  **Android and Kotlin**
+## 1.4 **Android Development**
 
-    -  [Udacity - Free courses & Nanodegree](https://udacity.com)
-    -  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days] 
-    - [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
-    - [Android examples ](https://github.com/nisrulz/android-examples)
-    - [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
+
+-  [Udacity - Free courses & Nanodegree](https://udacity.com)
+-  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days] 
+-  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+-  [Android examples ](https://github.com/nisrulz/android-examples)
+-  [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
    
-------
+## 1.5 - **JavaScript**
+- 
+-
+-
+-
+-
+-
 
+------
   
-4.  **Data Structures**
-    - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
+## 1.5 -   **Data Structures**
+- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 
 
 =============================================================================================
@@ -230,6 +249,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 12. [Rajiv Gandhi National Fellowship - **For SC/ST candidates pursuing post graduations**]()
 13. [Gandhi Fellowship - UG/PG Students]()
 14. [Ratan Tata Post doctoral Fellowship - **Only For PHD Scholars**]()
+15. [President Abdul Kalam Azad Postgraduate Fellowship - **Graduate Students**]()
 
 =============================================================================================
 # 4 .**Open Source Programs**
@@ -245,6 +265,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  | 
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - | 
+| 8 | [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
 
 
 =============================================================================================
@@ -336,8 +357,11 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
-      - 
+      
 
 # 10. **Additional Links**
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
+2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
+3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
+4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships, 
