@@ -55,8 +55,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
 -  [Google Python class](https://developers.google.com/edu/python/)
-   
-   ---
+  
 
 ## 1.2  **Machine Learning**
   
@@ -79,8 +78,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
          
 
-------
-
 ## 1.3 **Deep Learning**
 
 > [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
@@ -97,7 +94,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     
    
-------
 
 ## 1.4 **Android Development**
 
@@ -107,6 +103,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples) 
+   
    
 ## 1.5 - **JavaScript**
 - 
