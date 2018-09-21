@@ -145,6 +145,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |--|------ |----------|
 |3 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite | 
 |2 |  [ACM - ICPC]() | Online & On-Site |
+|4|  [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
 |3 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online | 
 |4 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite | 
 |4 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite | 
@@ -214,13 +215,21 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 
 ## **Student Fellowship Programs**
-1. 
-2. 
-3.
-4.
-5.
-
-
+1. [University Innovation Fellowship - Standford University]()
+1. [Teach for India Fellowship]()
+2. [Young India Fellowship]()
+3. [Urban Leaders Fellowship]()
+4. [Facebook fellowship Programme - **Only For PHD Scholars**]()
+5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship]()
+6. [Prime Minister’s Rural Fellowship]()
+7. [Azim Premji Foundation Fellowship Program]()
+8. [Stanford-ABC News Global Health and Media Fellowship]()
+9. [NSF Graduate Research Fellows, Graduate Research Opportunities Worldwide (GROW)]()
+10. [Acumen Regional Fellows India]()
+11. [Ramanujan Fellowship - Only for Scientists]()
+12. [Rajiv Gandhi National Fellowship - **For SC/ST candidates pursuing post graduations**]()
+13. [Gandhi Fellowship - UG/PG Students]()
+14. [Ratan Tata Post doctoral Fellowship - **Only For PHD Scholars**]()
 
 =============================================================================================
 # 4 .**Open Source Programs**
