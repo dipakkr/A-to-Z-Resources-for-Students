@@ -271,7 +271,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 # 5. **Startup Programs And Incubators**
 
 |Id |Name | Organisation|
-|-|--|---- |---|
+|-|--|---- |
 |1| [Amity Innovation Incubator](http://www.amity.edu/) | Amity University |
 |2| [Atal Incubation Centre](http://www.aim.gov.in/) | Government | 
 |3| [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/) | Google | 
