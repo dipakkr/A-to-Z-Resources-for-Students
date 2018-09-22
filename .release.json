@@ -1,6 +1,0 @@
-{
-    "dist": {
-      "repo": "git@github.com:dipakkr/A-to-Z-Resources-for-Students.git#gh-pages",
-      "beforeStageCommand": "cat front.yml ../README.md > index.md"
-    }
-  }
