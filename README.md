@@ -58,7 +58,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ## 1.2  **Machine Learning**
   
-> [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
+> [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
@@ -79,7 +79,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ## 1.3 **Deep Learning**
 
-> [**Browse this link for detailed Information on Machine Learning and Deep Learning**]()
+> [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
