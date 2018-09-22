@@ -21,29 +21,35 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Deep Learning](#1.3-deep-learning)
      - [Android Development](#1.4-android-development)
      - [JavaScript ](#1.5-javascript)
+
+2.  [Coding Resources - Career Track](#2-coding-resources-career)
+
+     - [Data Science](#2.1-data-science)
+     - [Front Development](#2.2-frontend)
+     - [Backend Development](#2.3-backend)
    
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
+3.  [ Hackathons and Events ](#3-hackathons-and-events)
 
-     - [Top Global Hackathons](#top-global-hackathons)
+     - [Top Global Hackathons](#3.1-top-global-hackathons)
      - [Competitions](#competitions)
      - [Hackathon Search Portal](#hackathon-search-portals)
      - [Events](events)
      - [Startup Summits and Competitions](#startup-summits-and-competitions)
     
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
+4.  [ Student Benefits and Programs ](#4-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
      - [Student Benfits and Packs](#student-benefits-and-packs)
      - [Student Fellowship Programs](#student-fellowship-programs)
 
-4.  [ Open Source Programs ](#4-open-source-programs)
-5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators)
-6.  [ Internship Portals ](#5-internship-portals)
-7.  [Developer Clubs and Meetups](#6-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#7-conferences)
-9.  [Top People to Follow](#8-top-people-to-follow)
-10.  [Top Websites to Follow](#9-top-websites-to-follow)
-11. [Additional Links](#10-additional-links)
+5.  [ Open Source Programs ](#5-open-source-programs)
+6.  [Startup Programs and Incubators](#6-startup-programs-and-incubators)
+7.  [ Internship Portals ](#7-internship-portals)
+8.  [Developer Clubs and Meetups](#8-developer-clubs-and-meetups)
+9.  [ Conferences for students ](#9-conferences)
+10.  [Top People to Follow](#10-top-people-to-follow)
+11.  [Top Websites to Follow](#11-top-websites-to-follow)
+12. [Additional Links](#12-additional-links)
 
 =============================================================================================
 # 1. **Coding Resources**
@@ -107,11 +113,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
    
 ## 1.5 - **JavaScript**
 - 
--
--
--
--
--
+
 
 ------
   
@@ -121,10 +123,36 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
+# 2. **Coding Resources -  Career Track**
 
-# **2. Hackathons and Events**
 
-## 2.1 **Top Global Hackathons**
+## 1.1   **Data Science**
+- TODO
+  
+
+## 1.2  **FrontEnd**
+- TODO
+
+## 1.3  **Backend Development**
+
+-  **Django - Python**
+    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
+    - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
+    - [Django Girls](https://tutorial.djangogirls.org/en/)
+
+-  **Node.JS**
+    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
+
+    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+
+    - [Learn Node.JS | Hacker.io](https://hackr.io/tutorials/learn-node-js)
+
+
+=============================================================================================
+
+# **3. Hackathons and Events**
+
+## 3.1 **Top Global Hackathons**
           
 |Id |Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
@@ -156,7 +184,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ----------------------------------------------------------
 
-##  2.2 **Competitions**
+##  3.2 **Competitions**
 
 |ID| Name  | Location | 
 |--|------ |----------|
@@ -179,7 +207,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 
-##  2.3  **Hackathon Search Portals**
+##  3.3  **Hackathon Search Portals**
 |s.no| Name  | Location | Category | 
 |---| ------ |---| --- | 
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
@@ -189,7 +217,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL | 
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
 
-## 2.4 **Events** 
+## 3.4 **Events** 
 
 > **Check out these events for your region**
 
@@ -200,7 +228,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 4. NVIDIA Developer Connect [ Global ] 
 5. AWS meetups [ Global ] 
 
-## 2.5 **Startup Summits, Competitions and Bootcamps**
+## 3.5 **Startup Summits, Competitions and Bootcamps**
 
 
 |ID| Name  | Location | 
@@ -214,7 +242,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 
 
-# 3. **Student Benefits and Programs**
+# 4. **Student Benefits and Programs**
 
 ## **Campus Ambassador Programs**
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
@@ -250,7 +278,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 15. [President Abdul Kalam Azad Postgraduate Fellowship - **Graduate Students**]()
 
 =============================================================================================
-# 4 .**Open Source Programs**
+# 5 .**Open Source Programs**
 
 > **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) 
 
@@ -268,7 +296,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 5. **Startup Programs And Incubators**
+# 6. **Startup Programs And Incubators**
 
 |Id |Name | Organisation|
 |-|--|---- |
@@ -282,7 +310,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 5. **Internship Portals**
+# 7. **Internship Portals**
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
@@ -295,7 +323,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 6. **Developer Clubs and Meetups**
+# 8. **Developer Clubs and Meetups**
 
 > **Take a moment to search for these clubs on Google and facebook for your city.**
 
@@ -315,7 +343,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 =============================================================================================
-# 7. **Conferences**
+# 9. **Conferences**
 
 >> ### **Tech, Entrepreneurship Events and Conferences**
 
@@ -345,7 +373,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 8.  **Top Peoples to Follow**
+# 10.  **Top Peoples to Follow**
 
 |Id | Name | Category| 
 |--|------ |---|
@@ -357,7 +385,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 9. **Top Websites to Follow**
+# 11. **Top Websites to Follow**
 
 
 1.   **Data Science**
@@ -373,7 +401,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [ProductHunt](https://producthunt.com)
       
 
-# 10. **Additional Links**
+# 12. **Additional Links**
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
