@@ -114,8 +114,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     
-    - [Learn Node.JS | Hacker.io](https://hackr.io/tutorials/learn-node-js)
-
+    
 ------
   
 ## 1.5 -   **Data Structures**
