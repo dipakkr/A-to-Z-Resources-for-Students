@@ -280,12 +280,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG | 
 
 
-
-
-
-
-
-
 =============================================================================================
 
 # 5. **Internship Portals**
@@ -352,12 +346,15 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 
 # 8.  **Top Peoples to Follow**
-| | Name | Category| 
-| --|------ |---|
+
+|Id | Name | Category| 
+|--|------ |---|
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
 |2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
 |4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+
+
 =============================================================================================
 
 # 9. **Top Websites to Follow**
