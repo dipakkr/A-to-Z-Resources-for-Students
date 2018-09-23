@@ -51,6 +51,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ## 1.1   **Python**
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+- [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
 -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india) 
 -  [Google Python class](https://developers.google.com/edu/python/)
