@@ -114,7 +114,16 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     
-    
+## 1.6 **Front-End Web Development**
+
+- **React.js**
+     - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+     - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
+     - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
+     - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
+     - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
+
 ------
   
 ## 1.5 -   **Data Structures**
