@@ -142,7 +142,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |--|------ |---|---| ------ | ----|
 |1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website | 
 |2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | 
-|3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | 
+|3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
+|4 | [Micrsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - | 
 |4 | [PenApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | 
 |5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |  
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | 
