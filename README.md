@@ -84,6 +84,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)   
+    - [Deep Learning - Fast.AI](http://course.fast.ai/)
     
 -  **Best Github Repositories to follow**
     - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)    
@@ -186,6 +187,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |9| [Quest Ingenium](https://www.questingenium.com/) | -  | 
 |10| [ROBOCON](https://www.roboconindia.com/) | Onsite | 
 |12| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite | 
+|13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)
+
 
 
 
@@ -220,6 +223,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA | 
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York | 
+|5 | [Y Combinator's Startup School](https://www.startupschool.org/) 
 
 
 =============================================================================================
@@ -237,6 +241,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 7. [GeeksforGeeks Campus Ambassador]()
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
+10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 
 ##  **Student Benfits and Packs**
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
@@ -259,6 +264,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 13. [Gandhi Fellowship - UG/PG Students]()
 14. [Ratan Tata Post doctoral Fellowship - **Only For PHD Scholars**]()
 15. [President Abdul Kalam Azad Postgraduate Fellowship - **Graduate Students**]()
+16. [Venkat Pachpakesan Memorial Scholarship](https://wiki.rethinkfoundation.in/Venkat_Panchapakesan_Memorial_Scholarship)
+17. [Young Leaders For Active Citizenship](http://ylacindia.com) 
+18. [Helium Grant Fellowship](https://www.heliumgrant.org)
+
 
 =============================================================================================
 # 4 .**Open Source Programs**
@@ -298,6 +307,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 3. [Vettery](https://www.vettery.com/)
 4. [LinkedIn](https://linkedin.com)
 5. *Contact HRs on LinkedIn*
+6. [Hackkar](https://hackkar.com/)
 
     ### Tips for Internship : 
      - For summer internship, start looking atleast 3-4 months in advance.
@@ -349,9 +359,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
 |17| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
 | 18 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
-|19 | [Amazon Web Services Global Summit 2017]() | NDIA | NO | - | - |  
+|19 | [Amazon Web Services Global Summit 2017]() | INDIA | NO | - | - |  
 |20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - | 
 |21 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
+|22 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 
 =============================================================================================
 
