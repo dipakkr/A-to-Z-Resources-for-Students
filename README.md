@@ -187,7 +187,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |9| [Quest Ingenium](https://www.questingenium.com/) | -  | 
 |10| [ROBOCON](https://www.roboconindia.com/) | Onsite | 
 |12| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite | 
-|13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)
+|13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
 
 
 
@@ -223,7 +223,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA | 
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York | 
-|5 | [Y Combinator's Startup School](https://www.startupschool.org/) 
+|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
 
 
 =============================================================================================
