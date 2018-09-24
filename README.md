@@ -32,7 +32,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
-     - [Student Benfits and Packs](studentbenefitspack.md)
+     - [Student Benfits and Packs](#student-benefits-and-packs)
      - [Student Fellowship Programs](#student-fellowship-programs)
 
 4.  [ Open Source Programs ](#4-open-source-programs)
@@ -247,6 +247,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ##  **Student Benfits and Packs**
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
+3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
+
 
 ## **Student Fellowship Programs**
 1. [University Innovation Fellowship - Standford University]()
