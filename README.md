@@ -32,7 +32,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
-     - [Student Benfits and Packs](#student-benefits-and-packs)
+     - [Student Benfits and Packs](studentbenefitspack.md)
      - [Student Fellowship Programs](#student-fellowship-programs)
 
 4.  [ Open Source Programs ](#4-open-source-programs)
