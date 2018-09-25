@@ -165,6 +165,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |22 | [TreeHacks]() | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
+|25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
 
 
 ----------------------------------------------------------
