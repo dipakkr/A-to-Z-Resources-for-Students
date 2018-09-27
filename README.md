@@ -125,6 +125,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
+     - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
 ------
 
