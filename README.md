@@ -228,6 +228,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
+|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 
 
 =============================================================================================
