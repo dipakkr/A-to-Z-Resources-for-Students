@@ -76,6 +76,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
+    - [Arxiv Sanity- Best Arxiv Papers](http://www.arxiv-sanity.com/)
+    
          
 
 ## 1.3 **Deep Learning**
