@@ -129,10 +129,12 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ------
 
-## 1.5 -   **Data Structures**
+## 1.7 -   **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
-
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
+- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
+- [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 
 =============================================================================================
 
@@ -229,7 +231,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
-|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China | 
+|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 
 =============================================================================================
 
