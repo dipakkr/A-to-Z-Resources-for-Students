@@ -67,6 +67,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
 
 -  **Best Github Repositories to follow**
 - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -123,6 +124,11 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
 ## 1.6 **Front-End Web Development**
+- **HTML and CSS3**
+    - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
+
+- **Bootstrap4**
+    - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
