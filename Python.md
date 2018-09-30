@@ -2,17 +2,19 @@
 
 # Python
 
-## Basics 
+## Basics
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
 + <a href="https://www.geeksforgeeks.org/socket-programming-multi-threading-python/"> Socket Programming with Multithreading in Python</a>
 
 
-## DataScience 
-
+## DataScience
 
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 + <a href = "http://cs231n.github.io/python-numpy-tutorial/"> Python Numpy Library</a>
 + <a href = "https://www.youtube.com/watch?v=B42n3Pc-N2A"> Pandas Tutorial </a>
++ <a href = "https://www.geeksforgeeks.org/python-introduction-matplotlib/"> Matplotlib Introduction</a>
++ <a href = "https://www.tutorialspoint.com/seaborn/index.htm"> Seaborn Tutorial</a>
++ <a href = "https://www.youtube.com/watch?v=-BQCB6Uch1g">Scikit Learn Tutorial</a>
 
 
 ## Databases
@@ -35,4 +37,4 @@
 
 
 ## **Projects**
-+ Add PROJECTS
++ <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
