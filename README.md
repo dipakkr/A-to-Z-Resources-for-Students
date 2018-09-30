@@ -116,6 +116,12 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
+- **PHP**
+    - [W3Schools](https://www.w3schools.com/php/)
+    - [Turorial Point](https://www.tutorialspoint.com/php/)
+    - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
+    - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
+
 ## 1.6 **Front-End Web Development**
 
 - **React.js**
