@@ -35,6 +35,11 @@
   + <a href = "https://www.guru99.com/selenium-python.html">Python Selenium Tutorial</a>
   + <a href = "https://www.geeksforgeeks.org/selenium-python-tricks/"> Python Selenium Tricks</a>
 
+## Python Miscellaneous
++ <a href = "https://www.geeksforgeeks.org/youtube-mediaaudio-download-using-python-pafy/"> YouTube Media/Audio Download using Python | pafy</a>
++ <a href = "http://qr.ae/TbcLvy"> Python Faker Library | Generates Fake data </a>
++ <a href = "https://pypi.org/project/haversine/"> Harversine | Calculates distance between two points on Earth </a>
++ <a href = "https://www.geeksforgeeks.org/python-holidays-library/">Python Holidays Library </a>
 
 ## **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
