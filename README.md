@@ -43,7 +43,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8.  [ Conferences for students ](#8-conferences)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10.  [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links)
+11. [Great YouTube Channels to Follow]
+11. [Additional Links](#12-additional-links)
 
 =============================================================================================
 # 1. **Coding Resources**
@@ -439,9 +440,19 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+      
+     
+============================================================================================
+
+# 11. **Great YouTube Channels to Follow**
 
 
-# 11. **Additional Links**
+- [7-second riddles](https://www.youtube.com/channel/UCttFk8-Nysnyw59aNlWOWzw)
+- 
+
+
+
+# 12. **Additional Links**
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
