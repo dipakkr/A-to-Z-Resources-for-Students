@@ -139,6 +139,12 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
+- **Front-End DevTools**
+     ###### Package managers
+     - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
+     - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
+     - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+
 ------
 
 ## 1.7 -   **Data Structures**
