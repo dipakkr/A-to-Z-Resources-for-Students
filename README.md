@@ -237,6 +237,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
 |5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
+|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
 ## 2.4 **Events**
 
