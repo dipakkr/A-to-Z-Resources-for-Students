@@ -67,6 +67,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
 
 -  **Best Github Repositories to follow**
 - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -116,7 +117,18 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
+- **PHP**
+    - [W3Schools](https://www.w3schools.com/php/)
+    - [Turorial Point](https://www.tutorialspoint.com/php/)
+    - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
+    - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
+
 ## 1.6 **Front-End Web Development**
+- **HTML and CSS3**
+    - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
+
+- **Bootstrap4**
+    - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -129,10 +141,12 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ------
 
-## 1.5 -   **Data Structures**
+## 1.7 -   **Data Structures**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
-
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
+- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
+- [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 
 =============================================================================================
 
@@ -229,7 +243,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
-|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China | 
+|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 
 =============================================================================================
 

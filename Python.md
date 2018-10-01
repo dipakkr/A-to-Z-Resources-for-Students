@@ -2,17 +2,19 @@
 
 # Python
 
-## Basics 
+## Basics
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
 + <a href="https://www.geeksforgeeks.org/socket-programming-multi-threading-python/"> Socket Programming with Multithreading in Python</a>
 
 
-## DataScience 
-
+## DataScience
 
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 + <a href = "http://cs231n.github.io/python-numpy-tutorial/"> Python Numpy Library</a>
 + <a href = "https://www.youtube.com/watch?v=B42n3Pc-N2A"> Pandas Tutorial </a>
++ <a href = "https://www.geeksforgeeks.org/python-introduction-matplotlib/"> Matplotlib Introduction</a>
++ <a href = "https://www.tutorialspoint.com/seaborn/index.htm"> Seaborn Tutorial</a>
++ <a href = "https://www.youtube.com/watch?v=-BQCB6Uch1g">Scikit Learn Tutorial</a>
 
 
 ## Databases
@@ -33,6 +35,11 @@
   + <a href = "https://www.guru99.com/selenium-python.html">Python Selenium Tutorial</a>
   + <a href = "https://www.geeksforgeeks.org/selenium-python-tricks/"> Python Selenium Tricks</a>
 
+## Python Miscellaneous
++ <a href = "https://www.geeksforgeeks.org/youtube-mediaaudio-download-using-python-pafy/"> YouTube Media/Audio Download using Python | pafy</a>
++ <a href = "http://qr.ae/TbcLvy"> Python Faker Library | Generates Fake data </a>
++ <a href = "https://pypi.org/project/haversine/"> Harversine | Calculates distance between two points on Earth </a>
++ <a href = "https://www.geeksforgeeks.org/python-holidays-library/">Python Holidays Library </a>
 
 ## **Projects**
-+ Add PROJECTS
++ <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
