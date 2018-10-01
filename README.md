@@ -196,6 +196,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
+|26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
+|27 | [HackIIITD](esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
+|28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
 
 
 ----------------------------------------------------------
