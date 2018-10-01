@@ -10,7 +10,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 *Image credits : Google*
 
->**Check out the list of Resources for Student developers**
+>**[New to Open Source, but still want to contribute ? CLICK HERE](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/HOW-TO-CONTRIBUTE.md)**
 
 ## Table of Contents
 
