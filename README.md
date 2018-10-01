@@ -367,6 +367,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Python Student Community [ ex  -  PyDelhi ]
 - Toastmaster International
 - Swift Users Group
+- MUG - MongoDB User Group (Meetups)
 
 
 
