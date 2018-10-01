@@ -316,7 +316,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| YES| - |- |
-|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Coding Blocks, INDIA| Yes|- | - |
+|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
 |4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
