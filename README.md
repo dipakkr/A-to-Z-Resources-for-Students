@@ -20,7 +20,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Machine Learning](#1.2-machine-learning)
      - [Deep Learning](#1.3-deep-learning)
      - [Android Development](#1.4-android-development)
-     - [JavaScript ](#1.5-javascript)
+     - [Backend Development ](#1.5-backend-development)
+     - [Frontend Web Development](#1.6-frontend-web-development)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
 
@@ -123,7 +124,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
-## 1.6 **Front-End Web Development**
+## 1.6 **Frontend Web Development**
 - **HTML and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
 
@@ -139,7 +140,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
-- **Front-End DevTools**
+- **Frontend DevTools**
      ###### Package managers
      - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
      - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
