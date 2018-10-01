@@ -448,6 +448,34 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 - [7-second riddles](https://www.youtube.com/channel/UCttFk8-Nysnyw59aNlWOWzw)
+- [99U](https://www.youtube.com/channel/UCVpIzLeRuPW5xy4iBum3IPw)
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+- [Algorithms with Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+- [Angular Firebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- [Be Smarter Faster](https://www.youtube.com/channel/UCfzLlzRGxSL487ZsK1Q9M4Q)
+- [Beyond Science](https://www.youtube.com/channel/UCxo8ooAqXiObjuaIy10ud0A)
+- [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
+- [BlitheringGenius](https://www.youtube.com/channel/UCbDBo1nfPbSa_UJ_9z0Q3sA)
+- [Bright Side](https://www.youtube.com/channel/UC4rlAVgAK0SGk-yTfe48Qpw)
+- [Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w)
+- [Cave of Programming](https://www.youtube.com/channel/UCnAdXkr17iQS8YcYl0LhPdw)
+- [Codechef](https://www.youtube.com/channel/UCmk2YHXZQk_3GsLKBqsZoBQ)
+- [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
+- [Coder's Guide](https://www.youtube.com/channel/UCmZ61pTvEj7a2-Z8rFzovZQ)
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+- [CppCast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA)
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+- [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- [CSBreakdown](https://www.youtube.com/channel/UCyJfwPzs4rDuxFd_Ix5cxBw)
+- [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [Designcourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Entrepreneur](https://www.youtube.com/channel/UCNFGSWVOdVWEe9XJNnfTdyQ)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [GitHub Training and Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw)
+
 
 ============================================================================================
 
