@@ -196,6 +196,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
+|26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
+|27 | [HackIIITD](esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
+|28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
 
 
 ----------------------------------------------------------
@@ -234,6 +237,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
 |5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
+|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
 ## 2.4 **Events**
 
@@ -312,7 +316,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| YES| - |- |
-|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Coding Blocks, INDIA| Yes|- | - |
+|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
 |4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
@@ -367,6 +371,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Python Student Community [ ex  -  PyDelhi ]
 - Toastmaster International
 - Swift Users Group
+- MUG - MongoDB User Group (Meetups)
 
 
 
@@ -411,6 +416,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
 |4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+|5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 
 
 =============================================================================================
