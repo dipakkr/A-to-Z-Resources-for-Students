@@ -67,11 +67,13 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
+    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
 
 -  **Best Github Repositories to follow**
-- [Self Taught Path for Data Science](https://github.com/ossu/data-science)
+     - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
+     - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
