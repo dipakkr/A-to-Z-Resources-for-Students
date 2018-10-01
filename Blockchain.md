@@ -1,4 +1,4 @@
-#Blockchain
+# Blockchain
 
 ## Basics
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
