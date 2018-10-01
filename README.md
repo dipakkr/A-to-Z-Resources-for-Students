@@ -144,6 +144,13 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
      - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
      - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+     
+     ###### Bundlers
+     - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
+     - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+     - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
+     - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
+     - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
 ------
 
