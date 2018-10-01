@@ -412,6 +412,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
 |4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+|5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 
 
 =============================================================================================
