@@ -1,7 +1,7 @@
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 
-### **Are you college student or working professional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.**
+### Are you college student or working professional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.
 
 
 When I was in College, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
@@ -10,26 +10,26 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 *Image credits : Google*
 
->**Check out the list of Resources for Student developers**
+>**[New to Open Source, but still want to contribute ? CLICK HERE](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/HOW-TO-CONTRIBUTE.md)**
 
 ## Table of Contents
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
 
      - [Python](Python.md)
-     - [Machine Learning](#1.2-machine-learning)
-     - [Deep Learning](#1.3-deep-learning)
-     - [Android Development](#1.4-android-development)
-     - [Backend Development ](#1.5-backend-development)
-     - [Frontend Web Development](#1.6-frontend-web-development)
+     - [Machine Learning](#12-machine-learning)
+     - [Deep Learning](#13-deep-learning)
+     - [Android Development](#14-android-development)
+     - [Backend Development ](#15-backend-development)
+     - [Frontend Web Development](#16-frontend-web-development)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
 
-     - [Top Global Hackathons](#2.1-top-global-hackathons)
-     - [Competitions](#2.2-competitions)
-     - [Hackathon Search Portal](#2.3-hackathon-search-portals)
-     - [Events](#2.4-events)
-     - [Startup Summits and Competitions](#2.5-startup-summits-and-competitions)
+     - [Top Global Hackathons](#21-top-global-hackathons)
+     - [Competitions](#22-competitions)
+     - [Hackathon Search Portal](#23-hackathon-search-portals)
+     - [Events](#24-events)
+     - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
@@ -47,10 +47,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 11. [Additional Links](#12-additional-links)
 
 =============================================================================================
-# 1. **Coding Resources**
+# 1. Coding Resources
 
 
-## 1.1   **Python**
+## 1.1  Python
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
@@ -59,7 +59,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  [Google Python class](https://developers.google.com/edu/python/)
 
 
-## 1.2  **Machine Learning**
+## 1.2  Machine Learning
 
 > [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
@@ -81,7 +81,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
 
 
-## 1.3 **Deep Learning**
+## 1.3 Deep Learning
 
 > [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
@@ -98,7 +98,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
 
 
-## 1.4 **Android Development**
+## 1.4 Android Development
 
 
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
@@ -107,7 +107,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 
-## 1.5  **Backend Development**
+## 1.5  Backend Development
 
 -  **Django - Python**
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
@@ -125,7 +125,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
-## 1.6 **Frontend Web Development**
+## 1.6 Frontend Web Development
 - **HTML and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
 
@@ -156,7 +156,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ------
 
-## 1.7 -   **Data Structures**
+## 1.7 Data Structures
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
@@ -166,9 +166,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# **2. Hackathons and Events**
+# 2. Hackathons and Events
 
-## 2.1 **Top Global Hackathons**
+## 2.1 Top Global Hackathons
 
 |Id |Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
@@ -205,7 +205,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ----------------------------------------------------------
 
-##  2.2 **Competitions**
+##  2.2 Competitions
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -230,7 +230,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 
-##  2.3  **Hackathon Search Portals**
+##  2.3  Hackathon Search Portals
 |s.no| Name  | Location | Category |
 |---| ------ |---| --- |
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
@@ -241,7 +241,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
-## 2.4 **Events**
+## 2.4 Events
 
 > **Check out these events for your region**
 
@@ -252,7 +252,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
 
-## 2.5 **Startup Summits, Competitions and Bootcamps**
+## 2.5 Startup Summits, Competitions and Bootcamps
 
 
 |ID| Name  | Location |
@@ -269,9 +269,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 
 
-# 3. **Student Benefits and Programs**
+# 3. Student Benefits and Programs
 
-## **Campus Ambassador Programs**
+## Campus Ambassador Programs
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
@@ -283,13 +283,13 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 
-##  **Student Benfits and Packs**
+##  Student Benfits and Packs
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
 
 
-## **Student Fellowship Programs**
+## Student Fellowship Programs
 1. [University Innovation Fellowship - Standford University]()
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
@@ -312,7 +312,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 =============================================================================================
-# 4 .**Open Source Programs**
+# 4 .Open Source Programs
 
 > **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
@@ -329,7 +329,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 5. **Startup Programs And Incubators**
+# 5. Startup Programs And Incubators
 
 |Id |Name | Organisation|
 |-|--|---- |
@@ -344,7 +344,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 6. **Internship Portals**
+# 6. Internship Portals
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
@@ -358,7 +358,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 7. **Developer Clubs and Meetups**
+# 7. Developer Clubs and Meetups
 
 > **Take a moment to search for these clubs on Google and facebook for your city.**
 
@@ -381,7 +381,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 =============================================================================================
-# 8. **Conferences**
+# 8. Conferences
 
 >> ### **Tech, Entrepreneurship Events and Conferences**
 
@@ -413,7 +413,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 9.  **Top Peoples to Follow**
+# 9. Top Peoples to Follow
 
 |Id | Name | Category|
 |--|------ |---|
@@ -426,7 +426,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 =============================================================================================
 
-# 10. **Top Websites to Follow**
+# 10. Top Websites to Follow
 
 
 1.   **Data Science**
@@ -448,8 +448,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 - [7-second riddles](https://www.youtube.com/channel/UCttFk8-Nysnyw59aNlWOWzw)
-- 
 
+============================================================================================
 
 
 # 12. **Additional Links**
