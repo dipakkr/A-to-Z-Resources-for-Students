@@ -263,6 +263,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 
 =============================================================================================
 
@@ -373,6 +374,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Women In Tech](https://www.womenintechnology.org/)
 
 
 
