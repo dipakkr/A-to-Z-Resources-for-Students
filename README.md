@@ -374,6 +374,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Women In Tech](https://www.womenintechnology.org/)
 
 
 
