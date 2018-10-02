@@ -415,7 +415,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
 |21 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
 |22 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
-|23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | -
+|23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
+|24 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
 
 =============================================================================================
 
