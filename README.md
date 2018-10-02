@@ -385,16 +385,18 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 > **Check **Meetup.com** for more events in your locality**
 
 
--  Google Developer Group
--  Mozilla Open Source Community
--  Facebook Developer Community.
--  Developers Student Club by Google
+- Google Developer Group
+- Mozilla Open Source Community
+- [Mozilla Campus Clubs](https://campus.mozilla.community/)
+- [Facebook Developer Cirlce](https://developers.facebook.com/developercircles)
+- Developers Student Club by Google
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Woment Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
 
