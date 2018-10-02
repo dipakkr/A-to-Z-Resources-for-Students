@@ -58,7 +58,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  [Google Python class](https://developers.google.com/edu/python/)
 
 
-## 1.2  Machine Learning
+## 1.2 Machine Learning
 
 > [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
 
@@ -106,7 +106,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 
-## 1.5  Backend Development
+## 1.5 Backend Development
 
 -  **Django - Python**
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
@@ -371,7 +371,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  Developers Student Club by Google
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
-- Python Student Community [ ex  -  PyDelhi ]
+- Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
