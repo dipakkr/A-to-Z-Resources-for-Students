@@ -313,6 +313,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 16. [Venkat Pachpakesan Memorial Scholarship](https://wiki.rethinkfoundation.in/Venkat_Panchapakesan_Memorial_Scholarship)
 17. [Young Leaders For Active Citizenship](http://ylacindia.com)
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
+19. [HackNY Fellows Program](https://apply.hackny.org/)
 
 
 =============================================================================================
