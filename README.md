@@ -204,6 +204,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
 |29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
 |30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
+|31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
 
 
 ----------------------------------------------------------
