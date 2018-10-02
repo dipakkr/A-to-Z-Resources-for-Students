@@ -386,6 +386,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 > **Check **Meetup.com** for more events in your locality**
 
 
+- Coursera F2F Office Hours at PyCon India - **TRENDING**
 - Google Developer Group
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
