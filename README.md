@@ -410,7 +410,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 |Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
-|1 |[PyCon - Python Conference](https://us.pycon.org/2019/) |  GLOBAL | NO |  - | - |
+|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - |
 |3 |[World Business Dialogue](www.world-business-dialogue.com/)| India | Yes |  - | - |
 |4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
