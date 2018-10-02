@@ -204,6 +204,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
 |29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
 |30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
+|31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
 
 
 ----------------------------------------------------------
@@ -312,6 +313,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 16. [Venkat Pachpakesan Memorial Scholarship](https://wiki.rethinkfoundation.in/Venkat_Panchapakesan_Memorial_Scholarship)
 17. [Young Leaders For Active Citizenship](http://ylacindia.com)
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
+19. [HackNY Fellows Program](https://apply.hackny.org/)
 
 
 =============================================================================================
@@ -413,8 +415,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
 |21 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
 |22 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
-|23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | -|
-|23 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec
+|23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
+|24 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
+|25 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec
 
 =============================================================================================
 

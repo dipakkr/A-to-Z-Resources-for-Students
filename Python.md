@@ -15,7 +15,7 @@
 + <a href = "https://www.geeksforgeeks.org/python-introduction-matplotlib/"> Matplotlib Introduction</a>
 + <a href = "https://www.tutorialspoint.com/seaborn/index.htm"> Seaborn Tutorial</a>
 + <a href = "https://www.youtube.com/watch?v=-BQCB6Uch1g">Scikit Learn Tutorial</a>
-
++ <a href = "https://www.datacamp.com/community/data-science-cheatsheets"> Cheat Sheets</a>
 
 ## Databases
 
