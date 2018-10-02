@@ -205,8 +205,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
 |30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
 |31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
-
-
+|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | October(Idea Submission) | Nov End | - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions
@@ -229,6 +228,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |10| [ROBOCON](https://www.roboconindia.com/) | Onsite |
 |12| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
 |13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
+|14| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
+|15| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
+
 
 
 
