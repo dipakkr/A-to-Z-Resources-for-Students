@@ -228,7 +228,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |10| [ROBOCON](https://www.roboconindia.com/) | Onsite |
 |12| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
 |13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
 |14| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
 |15| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 
