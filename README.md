@@ -30,6 +30,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Hackathon Search Portal](#23-hackathon-search-portals)
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
+     - [Hiring Challenges](#4-Hiring Challenges)
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
@@ -272,6 +273,17 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 
+## 2.6 Hiring Challenges
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+
+
 =============================================================================================
 
 
@@ -373,16 +385,18 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 > **Check **Meetup.com** for more events in your locality**
 
 
--  Google Developer Group
--  Mozilla Open Source Community
--  Facebook Developer Community.
--  Developers Student Club by Google
+- Google Developer Group
+- Mozilla Open Source Community
+- [Mozilla Campus Clubs](https://campus.mozilla.community/)
+- [Facebook Developer Cirlce](https://developers.facebook.com/developercircles)
+- Developers Student Club by Google
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Woment Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
 
