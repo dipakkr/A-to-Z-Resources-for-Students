@@ -23,7 +23,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
+2.  [Hackathons and Events](#2-hackathons-and-events)
 
      - [Top Global Hackathons](#21-top-global-hackathons)
      - [Competitions](#22-competitions)
@@ -31,19 +31,20 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
+3.  [Student Benefits and Programs](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
      - [Student Benfits and Packs](#student-benefits-and-packs)
      - [Student Fellowship Programs](#student-fellowship-programs)
 
-4.  [ Open Source Programs ](#4-open-source-programs)
+4.  [Open Source Programs](#4-open-source-programs)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators)
-6.  [ Internship Portals ](#6-internship-portals)
+6.  [Internship Portals](#6-internship-portals)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences)
+8.  [Conferences for students](#8-conferences)
 9.  [Top People to Follow](#9-top-people-to-follow)
-10.  [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links)
+10. [Top Websites to Follow](#10-top-websites-to-follow)
+11. [Recommended YouTube Channels to Follow](#11-recommended-youtube-channels-to-follow)
+12. [Additional Links](#12-additional-links)
 
 =============================================================================================
 # 1. Coding Resources
@@ -53,9 +54,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
--  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
--  [Google Python class](https://developers.google.com/edu/python/)
+- [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+- [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+- [Google Python class](https://developers.google.com/edu/python/)
 
 
 ## 1.2 Machine Learning
@@ -448,9 +449,47 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+      
+     
+============================================================================================
+
+# 11. Recommended YouTube Channels to Follow
 
 
-# 11. Additional Links
+- [7-second riddles](https://www.youtube.com/channel/UCttFk8-Nysnyw59aNlWOWzw)
+- [99U](https://www.youtube.com/channel/UCVpIzLeRuPW5xy4iBum3IPw)
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+- [Algorithms with Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+- [Angular Firebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- [Be Smarter Faster](https://www.youtube.com/channel/UCfzLlzRGxSL487ZsK1Q9M4Q)
+- [Beyond Science](https://www.youtube.com/channel/UCxo8ooAqXiObjuaIy10ud0A)
+- [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
+- [BlitheringGenius](https://www.youtube.com/channel/UCbDBo1nfPbSa_UJ_9z0Q3sA)
+- [Bright Side](https://www.youtube.com/channel/UC4rlAVgAK0SGk-yTfe48Qpw)
+- [Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w)
+- [Cave of Programming](https://www.youtube.com/channel/UCnAdXkr17iQS8YcYl0LhPdw)
+- [Codechef](https://www.youtube.com/channel/UCmk2YHXZQk_3GsLKBqsZoBQ)
+- [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
+- [Coder's Guide](https://www.youtube.com/channel/UCmZ61pTvEj7a2-Z8rFzovZQ)
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+- [CppCast](https://www.youtube.com/channel/UCuCjADS4u3uJDTqUaG0H9dA)
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+- [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- [CSBreakdown](https://www.youtube.com/channel/UCyJfwPzs4rDuxFd_Ix5cxBw)
+- [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [Designcourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+- [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+- [Entrepreneur](https://www.youtube.com/channel/UCNFGSWVOdVWEe9XJNnfTdyQ)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [GitHub Training and Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw)
+
+
+============================================================================================
+
+
+# 12. Additional Links
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
