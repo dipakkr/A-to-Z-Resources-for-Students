@@ -320,7 +320,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 |Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
-|1| [Google Summer of Code](https://innovate.mygov.in/sih2018/)| Google| YES| - |- |
+|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
 |4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
@@ -353,6 +353,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 4. [LinkedIn](https://linkedin.com)
 5. *Contact HRs on LinkedIn*
 6. [Hackkar](https://hackkar.com/)
+7. [LetsIntern](https://www.letsintern.com)
 
     ### Tips for Internship :
      - For summer internship, start looking atleast 3-4 months in advance.
