@@ -287,7 +287,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
 4. [LinkedIn](https://linkedin.com)
-5. *Contact HRs on LinkedIn*
+5. [LetsIntern](https://www.letsintern.com/)
+6. *Contact HRs on LinkedIn*
 
     ### Tips for Internship : 
      - For summer internship, start looking atleast 3-4 months in advance.
