@@ -30,7 +30,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Hackathon Search Portal](#23-hackathon-search-portals)
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
-     - [Hiring Challenges](#4-Hiring Challenges)
+     - [Hiring Challenges](#26-hiring-challenges)
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
