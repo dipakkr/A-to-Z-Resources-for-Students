@@ -447,6 +447,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+       -  [Medium](https://medium.com/)
+      
 
 
 # 11. Additional Links
