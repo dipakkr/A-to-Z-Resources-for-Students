@@ -202,7 +202,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
 |27 | [HackIIITD](esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
 |28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
-|29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | -
+|29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
+|30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
 
 
 ----------------------------------------------------------
