@@ -272,6 +272,17 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 
+## 2.6 Hiring Challenges
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+
+
 =============================================================================================
 
 
