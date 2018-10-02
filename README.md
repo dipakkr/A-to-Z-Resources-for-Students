@@ -435,6 +435,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |24 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
 |25 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |26 | [DotJS](https://www.dotjs.io/) | France | - | Nov | - |
+|27 | [PyCon](https://www.pycon.fr/2018/) | France | - | October | - |
+|28 | [React Europe]() | France | - | May | - |
 
 =============================================================================================
 
