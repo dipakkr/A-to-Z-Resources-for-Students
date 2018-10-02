@@ -148,7 +148,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
      - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
      - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
-     
+
      ###### Bundlers
      - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
      - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
@@ -165,6 +165,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
 - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and DataStructure in Different Programming Languages**
 
 =============================================================================================
 
@@ -467,8 +468,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
-       -  [Medium](https://medium.com/)
-      
+      -  [Medium](https://medium.com/)
+
 
 
 # 11. Additional Links
