@@ -52,6 +52,9 @@
 + <a href = "http://qr.ae/TbcLvy"> Python Faker Library | Generates Fake data </a>
 + <a href = "https://pypi.org/project/haversine/"> Harversine | Calculates distance between two points on Earth </a>
 + <a href = "https://www.geeksforgeeks.org/python-holidays-library/">Python Holidays Library </a>
++ <a href = "https://www.geeksforgeeks.org/python-convert-html-pdf/">Convert PDF to HTML | Python </a>
++ <a href = "https://www.geeksforgeeks.org/python-schedule-library/">Python Schedule Library </a>
++ <a href = "https://www.geeksforgeeks.org/calendar-functions-in-python-set-1-calendar-month-isleap/">Python Calendar Library</a>
 
 ## 7. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
