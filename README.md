@@ -23,7 +23,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
+2.  [Hackathons and Events](#2-hackathons-and-events)
 
      - [Top Global Hackathons](#21-top-global-hackathons)
      - [Competitions](#22-competitions)
@@ -31,20 +31,20 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
+3.  [Student Benefits and Programs](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
      - [Student Benfits and Packs](#student-benefits-and-packs)
      - [Student Fellowship Programs](#student-fellowship-programs)
 
-4.  [ Open Source Programs ](#4-open-source-programs)
+4.  [Open Source Programs](#4-open-source-programs)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators)
-6.  [ Internship Portals ](#6-internship-portals)
+6.  [Internship Portals](#6-internship-portals)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences)
+8.  [Conferences for students](#8-conferences)
 9.  [Top People to Follow](#9-top-people-to-follow)
-10.  [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Great YouTube Channels to Follow]
-11. [Additional Links](#12-additional-links)
+10. [Top Websites to Follow](#10-top-websites-to-follow)
+11. [Recommended YouTube Channels to Follow](#11-recommended-youtube-channels-to-follow)
+12. [Additional Links](#12-additional-links)
 
 =============================================================================================
 # 1. Coding Resources
@@ -54,9 +54,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
--  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
--  [Google Python class](https://developers.google.com/edu/python/)
+- [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+- [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+- [Google Python class](https://developers.google.com/edu/python/)
 
 
 ## 1.2  Machine Learning
@@ -444,7 +444,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      
 ============================================================================================
 
-# 11. **Great YouTube Channels to Follow**
+# 11. Recommended YouTube Channels to Follow
 
 
 - [7-second riddles](https://www.youtube.com/channel/UCttFk8-Nysnyw59aNlWOWzw)
@@ -480,7 +480,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ============================================================================================
 
 
-# 12. **Additional Links**
+# 12. Additional Links
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
