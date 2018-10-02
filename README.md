@@ -30,6 +30,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Hackathon Search Portal](#23-hackathon-search-portals)
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
+     - [Hiring Challenges](#4-Hiring Challenges)
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
@@ -271,6 +272,17 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
+
+## 2.6 Hiring Challenges
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+
 
 =============================================================================================
 
