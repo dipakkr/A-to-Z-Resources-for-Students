@@ -417,6 +417,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |22 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
 |24 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
+|25 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec
 
 =============================================================================================
 
