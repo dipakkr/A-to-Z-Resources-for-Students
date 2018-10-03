@@ -159,13 +159,16 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ------
 
 ## 1.7 Data Structures
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
-- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
-- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
-- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
-- [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and DataStructure in Different Programming Languages**
+- [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
+- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contets**
+- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
+- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
+- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
+- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
+- [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
+- [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
 
 =============================================================================================
 
