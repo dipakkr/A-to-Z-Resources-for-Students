@@ -11,6 +11,11 @@
 ## 5. Full Stack Web Development
 
 ## 6. Backend Development
+- Simple blog
+- Todo list
+- API Services with token authentication (JWT)
+- E-Commerce
+- Social network
 
 ## 7. Frontend Development
 
