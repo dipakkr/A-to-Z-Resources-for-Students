@@ -44,8 +44,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8.  [ Conferences for students ](#8-conferences)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10.  [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Cloud Computing](#11-cloud-computing)
-12. [Additional Links](#12-additional-links)
+11. [Additional Links](#11-additional-links)
 
 =============================================================================================
 # 1. Coding Resources
@@ -311,6 +310,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
+4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
+5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
+6. [Google Cloud](https://cloud.google.com/free/)
 
 
 ## Student Fellowship Programs
@@ -477,15 +479,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Medium](https://medium.com/)
 
 
-
-# 11. Cloud Computing
-
-1. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
-2. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
-3. [Google Cloud](https://cloud.google.com/free/)
-
-
-# 12. Additional Links
+# 11. Additional Links
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
