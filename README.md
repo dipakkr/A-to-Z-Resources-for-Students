@@ -259,7 +259,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 3. Paytm Build for India Workshops [ Delhi, Banglore ]
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
-6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/) 
+6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
 7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
@@ -310,6 +310,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
+4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
+5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
+6. [Google Cloud](https://cloud.google.com/free/)
 
 
 ## Student Fellowship Programs
@@ -474,7 +477,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [Medium](https://medium.com/)
-
 
 
 # 11. Additional Links
