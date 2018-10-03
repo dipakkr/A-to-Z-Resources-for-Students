@@ -9,6 +9,7 @@
 3. Book
 4. Podcast
 5. Blog
+6. References
 
 ## 1. Courses
 + [Android Fundamental by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) 
@@ -36,3 +37,10 @@
 + [Android Hive](https://www.androidhive.info/)
 + [JakeWharton's Blog](https://jakewharton.com/blog/)
 + [Offical Android Developer on Medium](https://medium.com/androiddevelopers)
++ [Android Devleopers Blog](https://android-developers.googleblog.com/)
+
+## 6. References
+
++ [Android Developer Page](https://developer.android.com/)
++ [Android Jetpack](https://developer.android.com/jetpack/)
++ [Material Design](https://material.io/)
