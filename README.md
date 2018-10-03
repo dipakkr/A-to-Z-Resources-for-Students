@@ -168,7 +168,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
-- [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3] data structures problems(http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html)**
+- [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
 
 =============================================================================================
 
