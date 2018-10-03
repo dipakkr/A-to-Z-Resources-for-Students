@@ -18,5 +18,9 @@
 - Social network
 
 ## 7. Frontend Development
+- Calculator
+- Todo list
+- Weather app
+- Realtime chat backed by Firebase API.
 
 ## 8. Mobile App Development
