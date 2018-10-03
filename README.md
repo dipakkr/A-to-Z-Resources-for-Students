@@ -337,6 +337,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
 
+## Scholarship
+1. [University Innovation Fellowship - Standford University](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
 
 =============================================================================================
 # 4 .Open Source Programs
