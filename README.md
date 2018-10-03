@@ -394,10 +394,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 
 - Coursera F2F Office Hours at PyCon India - **TRENDING**
-- Google Developer Group
+- [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
-- [Facebook Developer Cirlce](https://developers.facebook.com/developercircles)
+- [Facebook Developer Circle](https://developers.facebook.com/developercircles)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
@@ -405,7 +405,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
-- [Woment Tech Makers](https://womentechmakers.com)
+- [Women Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
 
