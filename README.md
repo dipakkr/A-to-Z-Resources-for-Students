@@ -129,6 +129,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ## 1.6 Frontend Web Development
 - **HTML and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [HTML](https://www.codecademy.com/learn/learn-html)
+    - [CSS](https://www.codecademy.com/learn/learn-css)
 
 - **Bootstrap4**
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
