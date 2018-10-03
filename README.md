@@ -30,6 +30,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Hackathon Search Portal](#23-hackathon-search-portals)
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
+     - [Hiring Challenges](#26-hiring-challenges)
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
      - [Campus Ambassador Programs](#campus-ambassador-programs)
@@ -147,7 +148,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
      - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
      - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
-     
+
      ###### Bundlers
      - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
      - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
@@ -158,12 +159,16 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ------
 
 ## 1.7 Data Structures
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
-- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
-- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
-- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and DataStructure in Different Programming Languages**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
+- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contets**
+- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
+- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
+- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
+- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
+- [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
+- [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
 
 =============================================================================================
 
@@ -200,8 +205,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
 |26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
-|27 | [HackIIITD](esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
-|28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
+|27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
+|28 | [HackDTU](http://hackdtu.tech/) | Onsite(India) | No | - | - |
 |29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
 |30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
 |31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
@@ -257,6 +262,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 3. Paytm Build for India Workshops [ Delhi, Banglore ]
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
+6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
+7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
+8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
+9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
 
 ## 2.5 Startup Summits, Competitions and Bootcamps
 
@@ -271,6 +280,18 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA | 
+
+## 2.6 Hiring Challenges
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+
 
 =============================================================================================
 
@@ -293,6 +314,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
+4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
+5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
+6. [Google Cloud](https://cloud.google.com/free/)
 
 
 ## Student Fellowship Programs
@@ -317,6 +341,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
 
+## Scholarship
+1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
 
 =============================================================================================
 # 4 .Open Source Programs
@@ -373,16 +399,19 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 > **Check **Meetup.com** for more events in your locality**
 
 
--  Google Developer Group
--  Mozilla Open Source Community
--  Facebook Developer Community.
--  Developers Student Club by Google
+- Coursera F2F Office Hours at PyCon India - **TRENDING**
+- [Google Developer Group](https://developers.google.com/programs/community/gdg/)
+- Mozilla Open Source Community
+- [Mozilla Campus Clubs](https://campus.mozilla.community/)
+- [Facebook Developer Circle](https://developers.facebook.com/developercircles)
+- Developers Student Club by Google
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Women Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
 
@@ -395,31 +424,34 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 |Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
-|1 |[PyCon - Python Conference]() |  GLOBAL | NO |  - | - |
+|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - |
-|3 |[World Business Dialogue](www.world-business-dialogue.com/)| India | Yes |  - | - |
+|3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 |
 |4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - |
-|6 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
-|7 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
-|8 | [Grace Hopper Conference and Fellowship]() - *ONLY FOR GIRLS*| USA | YES | - | - |
-|9 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
-|10 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
-|11| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
-|12 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
-|13 | [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - |
-|14| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - |
-|15| [KPMG Future Diversity Leaders]() | California | YES | - | - |
-|16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
-|17| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
-| 18 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
-|19 | [Amazon Web Services Global Summit 2017]() | INDIA | NO | - | - |
-|20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
-|21 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
-|22 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
-|23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
-|24 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
-|25 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov | - |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October | - |
+|8 | [React Europe]() | France | - | May | - |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
+|10 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
+|11 | [Grace Hopper Conference and Fellowship]() - *ONLY FOR GIRLS*| USA | YES | - | - |
+|12 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
+|13 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
+|14 | [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
+|15 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
+|16 | [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | - | - |
+|17 | [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - |
+|18 | [KPMG Future Diversity Leaders]() | California | YES | - | - |
+|19 | [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
+|20 | [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
+|21 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
+|22 | [Amazon Web Services Global Summit 2017]() | INDIA | NO | - | - |
+|23 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
+|24 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
+|25 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
+|26 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
+|27 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
+|28 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 
 =============================================================================================
 
@@ -450,8 +482,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
-       -  [Medium](https://medium.com/)
-      
+      -  [Medium](https://medium.com/)
+      -  [Android Authority](https://www.androidauthority.com/)
+     
 
 
 # 11. Additional Links
