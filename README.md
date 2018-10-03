@@ -483,6 +483,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
       -  [ TechCrunch](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [Medium](https://medium.com/)
+      -  [Android Authority](https://www.androidauthority.com/)
+     
 
 
 # 11. Additional Links
