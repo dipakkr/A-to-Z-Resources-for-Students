@@ -430,22 +430,22 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |10 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
 |11 | [Grace Hopper Conference and Fellowship]() - *ONLY FOR GIRLS*| USA | YES | - | - |
 |12 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
-|13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
-|11| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
-|12 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
-|13 | [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | - | - |
-|14| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - |
-|15| [KPMG Future Diversity Leaders]() | California | YES | - | - |
-|16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
-|17| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
-| 18 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
-|19 | [Amazon Web Services Global Summit 2017]() | INDIA | NO | - | - |
-|20 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
-|21 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
-|22 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
-|23 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
-|24 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
-|25 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|13 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
+|14 | [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
+|15 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
+|16 | [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | - | - |
+|17 | [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - |
+|18 | [KPMG Future Diversity Leaders]() | California | YES | - | - |
+|19 | [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
+|20 | [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
+|21 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
+|22 | [Amazon Web Services Global Summit 2017]() | INDIA | NO | - | - |
+|23 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
+|24 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
+|25 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
+|26 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
+|27 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
+|28 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 
 =============================================================================================
 
