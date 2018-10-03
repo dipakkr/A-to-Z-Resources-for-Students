@@ -202,8 +202,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
 |26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
-|27 | [HackIIITD](esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
-|28 | [HackDTU](hackdtu.tech/) | Onsite(India) | No | - | - |
+|27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
+|28 | [HackDTU](http://hackdtu.tech/) | Onsite(India) | No | - | - |
 |29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
 |30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
 |31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
@@ -423,7 +423,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |10 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
 |11| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
 |12 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
-|13 | [South American Business Forum](www.sabf.org.ar/) | Argentina | Partial | - | - |
+|13 | [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | - | - |
 |14| [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - |
 |15| [KPMG Future Diversity Leaders]() | California | YES | - | - |
 |16| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
