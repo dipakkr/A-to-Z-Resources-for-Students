@@ -131,6 +131,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
+- **ASP.NET CORE**
+    - [Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017](https://www.pluralsight.com/courses/aspdotnet-core-2-0-mvc-application-visual-studio-2017)
+    - [Building Your First API with ASP.NET Core](https://www.pluralsight.com/courses/asp-dotnet-core-api-building-first)
+
 ## 1.6 Frontend Web Development
 - **HTML and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
