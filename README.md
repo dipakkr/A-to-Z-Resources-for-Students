@@ -427,7 +427,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 =============================================================================================
 # 8. Conferences
 
->> ### **Tech, Entrepreneurship Events and Conferences**
+> ### **Tech, Entrepreneurship Events and Conferences**
 
 |Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
