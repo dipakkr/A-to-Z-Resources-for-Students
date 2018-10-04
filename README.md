@@ -182,7 +182,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 ## 2.1 Top Global Hackathons
 
-|Id |Name | Place| Travel Reimbursment |Timeline | Deadline |
+|Id |Name | Place| Travel Reimbursment |Application Start | Application End |
 |--|------ |---|---| ------ | ----|
 |1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
 |2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
@@ -429,7 +429,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
+|Id | Name | Place| Travel Reimbursment |Application Start | Application End |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - |
