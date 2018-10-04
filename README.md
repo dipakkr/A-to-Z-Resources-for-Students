@@ -224,24 +224,24 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 |ID| Name  | Location |
 |--|------ |----------|
-|3 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 |  [ACM - ICPC]() | Online & On-Site |
-|4|  [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
-|3 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
-|4 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
-|4 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
-|1 | [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
-|4 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
-|5 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
-|6 | [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
-|7 |  [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|8| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
-|9| [Quest Ingenium](https://www.questingenium.com/) | -  |
-|10| [ROBOCON](https://www.roboconindia.com/) | Onsite |
-|12| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
-|13| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|14| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
-|15| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
+|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
+|2 | [ACM - ICPC]() | Online & On-Site |
+|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
+|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
+|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
+|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
+|7 | [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
+|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
+|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
+|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
+|11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
+|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
+|13| [Quest Ingenium](https://www.questingenium.com/) | -  |
+|14| [ROBOCON](https://www.roboconindia.com/) | Onsite |
+|15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
+|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
+|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
+|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 
 
 
