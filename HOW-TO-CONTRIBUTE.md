@@ -1,4 +1,4 @@
-## Guidelines for Contribution
+## How to Make a Pull Request ?
 
 Every Expert was once a beginner, so if you are facing difficulties or don't know how to make pull request. Don't worry, we are here to help you.
 

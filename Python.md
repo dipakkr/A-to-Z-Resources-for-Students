@@ -4,13 +4,13 @@
 ![Python](https://img.shields.io/badge/PYTHON--red.svg)
 
 ## Index
-1. Python Basics
-2. Socket programming
-3. DataScience
-4. Databases
-5. Testing
-6. Python Miscellaneous (Libraries andn other stuff)
-7. Projects
+1. [Python Basics](#1-python-basics)
+2. [Socket programming](#2-socket-programming)
+3. [DataScience](#3-datascience)
+4. [Databases](#4-databases)
+5. [Testing](#5-testing)
+6. [Python Miscellaneous (Libraries andn other stuff)](#6-python-miscellaneous)
+7. [Projects](#7-projects)
 
 ## 1. Python Basics
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
