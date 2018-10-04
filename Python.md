@@ -1,5 +1,5 @@
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
+![Python Image](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/02/python-logo-master.png)
 # Python
 ![Python](https://img.shields.io/badge/PYTHON--red.svg)
 
