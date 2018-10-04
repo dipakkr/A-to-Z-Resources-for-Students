@@ -58,3 +58,5 @@
 
 ## 7. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
++ <a href ="https://github.com/manojmj92/subtitle-downloader">Subtitle Downloader</a>
++ <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
