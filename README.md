@@ -36,6 +36,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Campus Ambassador Programs](#campus-ambassador-programs)
      - [Student Benfits and Packs](#student-benefits-and-packs)
      - [Student Fellowship Programs](#student-fellowship-programs)
+     - [Scholarship](#scholarship)
 
 4.  [ Open Source Programs ](#4-open-source-programs)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators)
