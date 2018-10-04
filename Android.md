@@ -2,7 +2,6 @@
 
 # Android
 
-
 ## Index
 1. Courses
 2. Certificate
@@ -12,11 +11,13 @@
 6. References
 
 ## 1. Courses
+
 + [Android Fundamental by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) 
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
 
 ## 2. Certificate
+
 + [Associate Android Developer](https://developers.google.com/training/certification/associate-android-developer/)
 
 
