@@ -19,6 +19,12 @@
 
 ## 7. Frontend Development
 
+###### Watch and Code
+  -  [Watch and Code](https://watchandcode.com/) Build a strong JavaScript foundation for web development.
+
+###### Codewars
+  -  [Codewars](https://www.codewars.com/) Improves skills by training with others on real code challenges.
+
 ###### JavaScript	
   -  [Javascript 30](https://javascript30.com/) Provides a list of front end development projects along with their sourcecode.
 
