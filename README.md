@@ -368,9 +368,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-| 8 | [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
-
-
+|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|10| [The X.Org Endless Vacation of Code (EVoC)] | X.Org | Yes | -| - |
 =============================================================================================
 
 # 5. Startup Programs And Incubators
