@@ -135,6 +135,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017](https://www.pluralsight.com/courses/aspdotnet-core-2-0-mvc-application-visual-studio-2017)
     - [Building Your First API with ASP.NET Core](https://www.pluralsight.com/courses/asp-dotnet-core-api-building-first)
 
+- **Ruby on Rails**
+    - [theodinproject](https://www.theodinproject.com/courses) Learn HTML,CSS,JS and Ruby On Rails
+    - [railstutorial.org](https://www.railstutorial.org/book) For those who like to read book
+
 ## 1.6 Frontend Web Development
 - **HTML and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
