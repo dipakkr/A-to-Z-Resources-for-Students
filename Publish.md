@@ -1,4 +1,4 @@
-##How can I publish My Android App by myself?
+## How can I publish My Android App by myself?
 Follow below mentioned steps to easily publish your Android app on Google Play Store by yourself:
 
 **Step 1**: Go to Google Play Console ( https://play.google.com/apps/publish/ )

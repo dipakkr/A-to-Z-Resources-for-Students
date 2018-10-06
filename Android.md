@@ -47,7 +47,7 @@
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
 
-##7. Publish
+## 7. Publish
 + [Google Playstore](https://play.google.com/apps/publish/)  *[Paid]*  [Click here for steps](res/Publish.md)
 + [Amazon App Market](https://www.amazon.com/b?node=2350149011) *[Free]*
 + [APTOIDE](https://www.aptoide.com/page/publishers) *[Free]*
