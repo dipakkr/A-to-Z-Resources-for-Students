@@ -14,6 +14,8 @@
      - [Online Courses](#1.2-online-courses)
      - [Research Paper](#1.3-research-paper)
      - [Top Github Repositories](#1.4-top-github-repositories)
+     - [Linear Regression from scratch](https://www.cs.toronto.edu/~frossard/post/linear_regression/)
+     - [Logistic Regression from scratch](https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac)
 
 
 2.  [Deep Learning](#2-hackathons-and-events)
@@ -30,6 +32,14 @@
 4. [Celebrities in ML and AI world]()
 
 6. [Tips for ML & AI enthusiasts]()
+
+7. [Pandas](#pandas)
+     - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+     - [Pandas Tutorial | Kaggle](https://www.kaggle.com/junaaaaloo/pandas-tutorial)
+     - [https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
+
+8. [Online Mathematical Resources](#maths-online-resources)
+     - [Create staright line by slope and y-intercept](https://www.desmos.com/calculator/5kn5x8f7zk)
 
 ---
 
