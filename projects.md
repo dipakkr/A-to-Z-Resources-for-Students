@@ -1,6 +1,7 @@
 # Must ToDo projects
 
 ## 1. Machine Learning
+  - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
 
 ## 2. Blockchain
 
