@@ -370,7 +370,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
 |8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
 |9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
-|10| [The X.Org Endless Vacation of Code (EVoC)] | X.Org | Yes | -| - |
+|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 
 =============================================================================================
 
