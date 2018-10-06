@@ -241,7 +241,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
 |12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
-|14| [ROBOCON](https://www.roboconindia.com/) | Onsite |
+|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
 |15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
 |16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
 |17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
@@ -368,8 +368,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-| 8 | [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
-
+|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 
 =============================================================================================
 
