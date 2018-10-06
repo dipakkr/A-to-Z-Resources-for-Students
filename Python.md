@@ -14,6 +14,8 @@
 
 ## 1. Python Basics
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
++ [30 days of Python](http://developer.getjar.mobi/) 
+
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
