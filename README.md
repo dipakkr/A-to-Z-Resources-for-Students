@@ -369,6 +369,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
 | 8 | [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+| 9 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 
 
 =============================================================================================
