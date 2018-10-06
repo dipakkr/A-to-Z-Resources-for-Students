@@ -9,6 +9,7 @@
 4. Podcast
 5. Blog
 6. References
+7. Publish
 
 ## 1. Courses
 
@@ -45,3 +46,9 @@
 + [Android Developer Page](https://developer.android.com/)
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
+
+##7. Publish
++ [Google Playstore](https://play.google.com/apps/publish/)  (Click here for steps)
++ [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects)
+
+
