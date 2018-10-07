@@ -9,6 +9,7 @@
 4. Podcast
 5. Blog
 6. References
+7. Publish
 
 ## 1. Courses
 
@@ -45,3 +46,19 @@
 + [Android Developer Page](https://developer.android.com/)
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
+
+## 7. Publish
++ [Google Playstore](https://play.google.com/apps/publish/)  *[Paid]*  [Click here for steps](res/Publish.md)
++ [Amazon App Market](https://www.amazon.com/b?node=2350149011) *[Free]*
++ [APTOIDE](https://www.aptoide.com/page/publishers) *[Free]*
++ [Appszoom](http://www.appszoom.com/developers) *[Free]*
++ [GETJAR](http://developer.getjar.mobi/) *[Free]*
++ [Opera Mobile Store](https://publishers.apps.opera.com/) *[Free]*
++ [ Mobango](http://developer.mobango.com/view/homedeveloper.php?developerHeader=1) *[Free]*
++ [SlideME](http://slideme.org/developers) *[Free]*
++ [1MOBILE](http://slideme.org/developers) *[Free]*
++ [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects) *[Free]*
++ [C.Net](https://www.amazon.com/b?node=2350149011) *[Free]*
++ [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
+
+

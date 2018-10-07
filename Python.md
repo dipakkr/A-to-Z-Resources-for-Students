@@ -15,6 +15,8 @@
 ## 1. Python Basics
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 
+
+
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
 + <a href="https://www.geeksforgeeks.org/socket-programming-multi-threading-python/"> Socket Programming with Multithreading in Python</a>
