@@ -440,36 +440,36 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursment |Application Start | Application End |
+Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
-|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  - | - |
+|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
 |3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| - | -  |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | - | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov | - |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October | - |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 |
 |8 | [React Europe]() | France | - | May | - |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | - | - |
-|10 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | - | - |
-|11 | [Grace Hopper Conference and Fellowship]() - *ONLY FOR GIRLS*| USA | YES | - | - |
-|12 | [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | - | - |
-|13 | [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
-|14 | [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
-|15 |  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | - | - |
-|16 | [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | - | - |
-|17 | [Capital One Summit for Developing Leaders]() | Virginia | YES | - | - |
-|18 | [KPMG Future Diversity Leaders]() | California | YES | - | - |
-|19 | [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
-|20 | [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
-|21 | [SURGE](https://surgeconf.com/surge2017) | INDIA | - | - | - |
-|22 | [Amazon Web Services Global Summit 2017]() | INDIA | NO | - | - |
-|23 | [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | - | - |
-|24 | [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | - | - |
-|25 | [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
-|26 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | - | - |
-|27 | [Grace Hopper Conference India](https://ghcindia.anitab.org) | Bangalore,India | YES | - | - |
-|28 | [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | Aug16 | Aug20 |
+|11| [Grace Hopper Conference and Fellowship]((https://ghcindia.anitab.org)) - *ONLY FOR GIRLS*| USA | YES | Nov14 | Nov16 |
+|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 |
+|13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
+|14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
+|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | March to Oct(varies every year) | 3 days |
+|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug3 | Aug5 |
+|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | YES | Jan6 | Jan11 |
+|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | YES | Summer | - |
+|19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - |
+|20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - |
+|21| [SURGE](https://surgeconf.com/surge2017) | INDIA | - | Nov | - |
+|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | INDIA | NO | Differs with area | Check the website |
+|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | Sep5 | Sep7 |
+|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 |
+|25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
+|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
+|28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+
 
 =============================================================================================
 
