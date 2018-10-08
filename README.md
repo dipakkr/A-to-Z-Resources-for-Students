@@ -1,5 +1,6 @@
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+> ## Feel free to show your love :heart: by putting a star :star: 
 
 ### Are you college student or working professional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.
 
@@ -9,6 +10,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ![Image](res/xx.gif)
 
 *Image credits : Google*
+
 
 >**[New to Open Source, but still want to contribute ? CLICK HERE](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/HOW-TO-CONTRIBUTE.md)**
 
@@ -513,5 +515,5 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships,
 
  
-## Feel free to show your love :heart: by putting a star :star: 
+
 
