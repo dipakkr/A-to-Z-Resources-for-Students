@@ -511,3 +511,7 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
 3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
 4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships,
+
+ 
+## Feel free to show your love :heart: by putting a star :star: 
+
