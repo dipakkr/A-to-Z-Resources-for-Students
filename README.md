@@ -26,6 +26,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Frontend Web Development](#16-frontend-web-development)
      - [Data Structure](#17-data-structures)
      - [Alexa](#18-alexa-tutorials)
+     - [C Language](#19--c-language)
      
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
@@ -196,7 +197,19 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
  - [Youtube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
  - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
  - [Qwiklabs](https://qwiklabs.com/quests/19)
+ 
+ ## 1.9  C Language
+ - [Tutorial Point](https://www.tutorialspoint.com/cprogramming/)
+ - [HackerRank]( https://www.hackerrank.com/domains/c)
+ - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
+ - [Promamiz](https://www.programiz.com/c-programming)
+ - [Fresh2Refresh](https://fresh2refresh.com/c-programming/)
+ - [Study Tonight](https://www.studytonight.com/c/)
+ - [Learn C](https://www.learn-c.org/)
+ - [Randu](https://randu.org/tutorials/c/)
 
+
+  
 
 =============================================================================================
 
