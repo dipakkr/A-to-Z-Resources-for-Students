@@ -24,6 +24,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
+     - [Data Structure](#17-data-structures)
+     - [Alexa](#18-alexa-tutorials)
+     
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
 
@@ -185,6 +188,15 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
 - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
+
+## 1.8 Alexa Tutorials
+ - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
+ - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
+ - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
+ - [Youtube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+ - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
+ - [Qwiklabs](https://qwiklabs.com/quests/19)
+
 
 =============================================================================================
 
