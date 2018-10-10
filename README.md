@@ -28,15 +28,13 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Alexa](#18-alexa-tutorials)
      - [C Language](#19--c-language)
      - [C++ Language](#110-c-language)
-     
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
-
      - [Top Global Hackathons](#21-top-global-hackathons)
      - [Competitions](#22-competitions)
-     - [Hackathon Search Portal](#23-hackathon-search-portals)
+     - [Hackathon Search Portal](#23--hackathon-search-portals)
      - [Events](#24-events)
-     - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
+     - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps)
      - [Hiring Challenges](#26-hiring-challenges)
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
@@ -52,7 +50,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 8.  [ Conferences for students ](#8-conferences)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10.  [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links)
+11.  [Additional Links](#11-additional-links)
 
 =============================================================================================
 # 1. Coding Resources
@@ -153,6 +151,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
 
 - **Bootstrap4**
+
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
 - **React.js**
@@ -198,7 +197,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
  - [Youtube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
  - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
  - [Qwiklabs](https://qwiklabs.com/quests/19)
- 
+
  ## 1.9  C Language
  - [Tutorial Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
@@ -208,7 +207,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
  - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
- 
+
  ## 1.10 C++ Language
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -333,7 +332,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA | 
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
 
 ## 2.6 Hiring Challenges
 
