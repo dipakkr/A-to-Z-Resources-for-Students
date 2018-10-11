@@ -14,3 +14,5 @@
      - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
      - [Event Loop series - Part 1](https://jsblog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810) - *Great read for understanding nodejs with practical examples
     
+3.  [Tutorials](#3-tutorials)
+ - [Node Oauth Implementation](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/)
