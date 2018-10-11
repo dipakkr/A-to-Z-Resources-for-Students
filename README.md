@@ -396,6 +396,10 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 ## Scholarship
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
 
+2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
+
+3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
+
 =============================================================================================
 # 4 .Open Source Programs
 
@@ -459,6 +463,9 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Facebook Developer Circle](https://developers.facebook.com/developercircles)
+- [Women Tech Makers](https://womentechmakers.com)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Banglore ]**
@@ -466,9 +473,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
-- [Women Tech Makers](https://womentechmakers.com)
-- [Women Who Code](https://www.womenwhocode.com/)
-- [Women In Tech](https://www.womenintechnology.org/)
 
 
 
@@ -527,7 +531,7 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 
 
 1.   **Data Science**
-      -  [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
+      - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
 
@@ -535,10 +539,8 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
-      -  [ TechCrunch](https://techcrunch.com/)
+      -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
-      -  [Medium](https://medium.com/)
-      -  [Android Authority](https://www.androidauthority.com/)
      
 
 
@@ -547,7 +549,7 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
 3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
-4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships,
+4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*,
 
  
 
