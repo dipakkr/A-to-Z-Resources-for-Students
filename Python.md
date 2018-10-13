@@ -1,19 +1,21 @@
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
+![Python Image](https://cdn.makeawebsitehub.com/wp-content/uploads/2016/02/python-logo-master.png)
 # Python
 ![Python](https://img.shields.io/badge/PYTHON--red.svg)
 
 ## Index
-1. Python Basics
-2. Socket programming
-3. DataScience
-4. Databases
-5. Testing
-6. Python Miscellaneous (Libraries andn other stuff)
-7. Projects
+1. [Python Basics](#1-python-basics)
+2. [Socket programming](#2-socket-programming)
+3. [DataScience](#3-datascience)
+4. [Databases](#4-databases)
+5. [Testing](#5-testing)
+6. [Python Miscellaneous (Libraries andn other stuff)](#6-python-miscellaneous)
+7. [Projects](#7-projects)
 
 ## 1. Python Basics
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
+
+
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
@@ -58,3 +60,5 @@
 
 ## 7. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
++ <a href ="https://github.com/manojmj92/subtitle-downloader">Subtitle Downloader</a>
++ <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
