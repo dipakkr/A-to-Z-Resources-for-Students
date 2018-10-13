@@ -2,10 +2,10 @@
 
 > ## Feel free to show your love :heart: by putting a star :star: 
 
-### Are you college student or working professional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.
+### Are you college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.
 
 
-When I was in College, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to the lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
+When I was in college, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
 
 ![Image](res/xx.gif)
 
@@ -447,7 +447,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 
 # 7. Developer Clubs and Meetups
 
-> **Take a moment to search for these clubs on Google and facebook for your city.**
+> **Take a moment to search for these clubs on Google and Facebook in your city.**
 
 > **Check **Meetup.com** for more events in your locality**
 
@@ -508,7 +508,7 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 
 =============================================================================================
 
-# 9. Top Peoples to Follow
+# 9. Top People to Follow
 
 |Id | Name | Category|
 |--|------ |---|
