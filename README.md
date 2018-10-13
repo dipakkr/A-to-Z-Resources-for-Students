@@ -217,12 +217,6 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
-
-
-  
-
-=============================================================================================
-
 # 2. Hackathons and Events
 
 ## 2.1 Top Global Hackathons
