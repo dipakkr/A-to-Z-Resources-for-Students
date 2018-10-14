@@ -19,7 +19,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
      - [Backend Development ](#15-backend-development-computer)
      - [Frontend Web Development](#16-frontend-web-development-computer)
      - [Data Structure](#17-data-structures-chart_with_upwards_trend)
-     - [Alexa](#18-alexa-tutorials)
+     - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
 
@@ -33,7 +33,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
-     - [Student Benfits and Packs](#student-benefits-and-packs-v)
+     - [Student Benefits and Packs](#student-benefits-and-packs-v)
      - [Student Fellowship Programs](#student-fellowship-programs-v)
      - [Scholarships](#scholarships-runner)
 
@@ -85,7 +85,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed Information on Machine Learning and Deep Learning**](ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -338,7 +338,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 
-## Student Benfits and Packs :v:
+## Student Benefits and Packs :v:
 1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
