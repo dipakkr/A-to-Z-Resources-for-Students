@@ -127,7 +127,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
-## 1.6 Frontend Web Development::jack_o_lantern::
+## 1.6 Frontend Web Development:jack_o_lantern:
 - **HTML and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
 
