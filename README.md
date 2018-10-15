@@ -2,9 +2,9 @@
 
 > ## Feel free to show your love :heart: by putting a star :star: 
 
-### Are you college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out
+### Are you college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend ?? Then, you should definitely check this out
 
-When I was in college, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
 
 ![Image](res/xx.gif)
 
@@ -56,7 +56,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 > [**Browse this link for detailed information on Python**](Python.md)
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-- [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute begineers**
+- [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
 -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Google Python class](https://developers.google.com/edu/python/)
@@ -71,10 +71,10 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
-    - [ML with Python - Youtube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
 
--  **Best Github Repositories to follow**
+-  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
@@ -93,8 +93,8 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
 
--  **Best Github Repositories to follow**
-    - [Top -200 Github Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
+-  **Best GitHub Repositories to follow**
+    - [Top -200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
     - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
     - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
     - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
@@ -102,7 +102,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
 
 
-## 1.4 Android Development :iphone:
+## 1.4 Android Development :iPhone:
 
 -  [For Beginners](Android.md)
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
@@ -115,7 +115,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 ## 1.5 Backend Development :computer:
 
 -  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for begineers*
+    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
 
@@ -124,12 +124,12 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     
-    - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Begineers*
+    - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Beginners*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
-    - [Turorial Point](https://www.tutorialspoint.com/php/)
-    - [Php with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
+    - [Tutorial Point](https://www.tutorialspoint.com/php/)
+    - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
 ## 1.6 Frontend Web Development :computer:
@@ -149,7 +149,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
-     - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
+     - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
 - **Frontend DevTools**
@@ -170,7 +170,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 ## 1.7 Data Structures :chart_with_upwards_trend:
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and DataStructure in Different Programming Languages**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
-- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contets**
+- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
@@ -212,12 +212,12 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 ## 2.1 :rainbow: Top Global Hackathons
 
-|Id |Name | Place| Travel Reimbursment |Application Start | Application End |
+|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
 |--|------ |---|---| ------ | ----|
 |1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
 |2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
 |3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
-|4 | [Micrsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
+|4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
 |4 | [PenApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
 |5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
@@ -261,7 +261,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 |4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
 |5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
 |6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
-|7 | [RedBull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
+|7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
 |8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
 |9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
 |10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
@@ -292,8 +292,8 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 > **Check out these events for your region**
 
-1. Google Developer Day - Organised by GDG
-2. Google IO extended - Organised by GDG
+1. Google Developer Day - Organized by GDG
+2. Google IO extended - Organized by GDG
 3. Google Solve for India
 3. Paytm Build for India Workshops [ Delhi, Banglore ]
 4. NVIDIA Developer Connect [ Global ]
@@ -344,8 +344,8 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 
 ## Student Benefits and Packs :v:
-1. [Github Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
-2. [Visual Studio Essentials - Access to Microsoft Premimum Services ](https://visualstudio.microsoft.com/dev-essentials/)
+1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
+2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
@@ -385,7 +385,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 > **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
-|Id |Name | Organisation| Stipend/Incentives |Timeline | Deadline |
+|Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
@@ -402,7 +402,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 # 5. Startup Programs And Incubators :mag_right:
 
-|Id |Name | Organisation|
+|Id |Name | Organization|
 |-|--|---- |
 |1| [Amity Innovation Incubator](http://www.amity.edu/) | Amity University |
 |2| [Atal Incubation Centre](http://www.aim.gov.in/) | Government |
@@ -455,7 +455,7 @@ When I was in college, I missed a lot of opportunties like hackathons, conferenc
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
+Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
