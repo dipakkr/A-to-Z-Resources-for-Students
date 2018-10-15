@@ -24,6 +24,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
+     - [R Language](#111-r-language)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -205,6 +206,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
+ 
+ ## 1.11 R Language
+- [RStudio}(https://www.rstudio.com/online-learning/) 
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R) 
+- [R-Bloggers](https://www.r-bloggers.com/
 
 =============================================================================================
 
