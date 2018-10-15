@@ -24,7 +24,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
-     - [Git and Github](#111-git-and-github)
+     - [Git and Github](#111-git-and-github-octocat)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -207,7 +207,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  
- ## 1.11 Git and Github:octocat:
+ ## 1.11 Git and Github :octocat:
  - 
 
 =============================================================================================
