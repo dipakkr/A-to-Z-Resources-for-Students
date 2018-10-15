@@ -39,8 +39,8 @@
 
 + [Android Hive](https://www.androidhive.info/)
 + [JakeWharton's Blog](https://jakewharton.com/blog/)
-+ [Offical Android Developer on Medium](https://medium.com/androiddevelopers)
-+ [Android Devleopers Blog](https://android-developers.googleblog.com/)
++ [Official Android Developer on Medium](https://medium.com/androiddevelopers)
++ [Android Developers Blog](https://android-developers.googleblog.com/)
 
 ## 6. References
 

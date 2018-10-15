@@ -3,7 +3,7 @@
 Every Expert was once a beginner, so if you are facing difficulties or don't know how to make pull request. Don't worry, we are here to help you.
 
 ### Prerequisites
-1. **You should have an account on github**.
+1. **You should have an account on GitHub**.
 2. **You should have [git](https://git-scm.com/) installed on your computer**.
 
 ### Step 1 :
@@ -35,9 +35,9 @@ git push origin my-branch
 ```
 
 ### Step 6 :
-Now, go to your forked repository on Github and Click make New Pull request.
+Now, go to your forked repository on GitHub and Click make New Pull request.
 
 ### Step 7 : 
-Congratulations !!! You have successfully made your first contribution on github.
+Congratulations !!! You have successfully made your first contribution on GitHub.
 
 Feel free to reach out in case you are facing any difficulties.
