@@ -1,6 +1,6 @@
 # A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Feel free to show your love :heart: by putting a star :star: 
+> ## Feel free to show your love :heart: by putting a star :star:
 
 ### Are you college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend ?? Then, you should definitely check this out
 
@@ -124,7 +124,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-    
+
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Beginners*
 
 - **PHP**
@@ -132,6 +132,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
+
+- **Ruby**
+    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+    - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 
 ## 1.6 Frontend Web Development :computer:
 
@@ -206,9 +210,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
- 
+
  ## 1.11 Git and Github :octocat:
- - 
+ -
 
 =============================================================================================
 
@@ -418,7 +422,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 =============================================================================================
 
-# 6. Internship Portals :smile: 
+# 6. Internship Portals :smile:
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
@@ -429,7 +433,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     ### Tips for Internship :
      - For summer internship, start looking atleast 3-4 months in advance.
-     
+
 =============================================================================================
 
 # 7. Developer Clubs and Meetups
@@ -516,7 +520,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
-     
+
 # 11. Additional Links :hamster:
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
