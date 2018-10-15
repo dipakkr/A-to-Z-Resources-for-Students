@@ -2,6 +2,8 @@
 
 > ## Feel free to show your love :heart: by putting a star :star: 
 
+### Are you college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out
+
 When I was in college, I missed a lot of opportunties like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
 
 ![Image](res/xx.gif)
