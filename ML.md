@@ -44,5 +44,17 @@
 ---
 
 # 1.  **Machine Learning**
+## 1.1 Where to Start in ML?
+1) Python 
+
+   - [Basics of Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+   - [More in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+   - [Python for ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
+ 2) Maths for ML
+ 
+
+ 3) Intro to ML
+ 
+ - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 ## COMING SOON
