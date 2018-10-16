@@ -25,6 +25,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
+     - [R Language](#112-r-language)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -119,6 +120,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
+    - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
@@ -143,10 +146,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
+    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+
+- **JavaScript**
+    - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -156,6 +165,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+
+- **Vue.js**
+    - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
+    - [Scrimba](https://scrimba.com/g/glearnvue)
+
+- **Web Accessibility**
+    - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -181,6 +197,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
 - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
+- [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
 - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
 
@@ -212,7 +229,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
  ## 1.11 Git and Github :octocat:
- -
+ - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+## 1.12 R Language
+- [RStudio}(https://www.rstudio.com/online-learning/) 
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R) 
+- [R-Bloggers](https://www.r-bloggers.com/
 
 =============================================================================================
 
@@ -257,6 +279,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | October(Idea Submission) | Nov End | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
+|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -391,7 +414,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 =============================================================================================
 # 4. Open Source Programs :octocat:
 
-> **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **For more Detailed Information about the GSOC Organisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -432,7 +455,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 7. [LetsIntern](https://www.letsintern.com)
 
     ### Tips for Internship :
-     - For summer internship, start looking atleast 3-4 months in advance.
+     - For summer internship, start looking at least 3-4 months in advance.
 
 =============================================================================================
 
@@ -452,7 +475,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Banglore ]**
+- Paytm Build for India **[ Only in Delhi and Bangalore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
