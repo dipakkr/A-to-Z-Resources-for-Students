@@ -119,6 +119,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
+    - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
@@ -126,6 +128,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Beginners*
+
+    - [Express and NodeJS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
