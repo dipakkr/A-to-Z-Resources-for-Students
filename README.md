@@ -129,8 +129,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Beginners*
 
-    - [Express and NodeJS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
@@ -147,10 +145,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
+    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+
+- **JavaScript**
+    - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -160,6 +164,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+
+- **Vue.js**
+    - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
+    - [Scrimba](https://scrimba.com/g/glearnvue)
+
+- **Web Accessibility**
+    - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 - **Frontend DevTools**
      ###### Package managers
