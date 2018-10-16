@@ -121,6 +121,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
+    - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
@@ -145,10 +147,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
+    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+
+- **JavaScript**
+    - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -158,6 +166,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+
+- **Vue.js**
+    - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
+    - [Scrimba](https://scrimba.com/g/glearnvue)
+
+- **Web Accessibility**
+    - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -403,6 +418,7 @@ Different Programming Languages**
 
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
+
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
@@ -442,6 +458,7 @@ Different Programming Languages**
 7. [LetsIntern](https://www.letsintern.com)
 
     ### Tips for Internship:
+
      - For summer internship, start looking at least 3-4 months in advance.
 
 =============================================================================================
