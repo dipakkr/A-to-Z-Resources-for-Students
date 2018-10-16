@@ -1,4 +1,4 @@
-#Recursos de A à Z para estudantes:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Recursos de A à Z para estudantes:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## Sintam-se livres para apresentar suas paixões :heart: Adicionando uma estrela :star:
 
