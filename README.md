@@ -257,6 +257,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | October(Idea Submission) | Nov End | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
+|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
