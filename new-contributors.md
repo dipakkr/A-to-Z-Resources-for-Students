@@ -1,6 +1,6 @@
 # Please Add your Name and Introduction Here : 
 
-> Add your details at the Bottom of list. 
+> **Add your details at the Bottom of list**. 
 
 ## Deepak Kumar 
 - Full stack and Machine Learning developer from New Delhi, India.
