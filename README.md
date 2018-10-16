@@ -414,7 +414,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 =============================================================================================
 # 4. Open Source Programs :octocat:
 
-> **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **For more Detailed Information about the GSOC Organisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -455,7 +455,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 7. [LetsIntern](https://www.letsintern.com)
 
     ### Tips for Internship :
-     - For summer internship, start looking atleast 3-4 months in advance.
+     - For summer internship, start looking at least 3-4 months in advance.
 
 =============================================================================================
 
@@ -475,7 +475,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Banglore ]**
+- Paytm Build for India **[ Only in Delhi and Bangalore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
