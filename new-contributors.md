@@ -1,14 +1,14 @@
-# Please Add your Name and Introduction Here : 
+# Please Add your Name and Introduction Here :
 
-> **Add your details at the Bottom of list**. 
+> **Add your details at the Bottom of list**.
 
-## Deepak Kumar 
+## Deepak Kumar
 - Full stack and Machine Learning developer from New Delhi, India.
-- Like to solve real world problems with code. 
-- Works on but not limited to Node.Js, Python, Android Development. 
+- Like to solve real world problems with code.
+- Works on but not limited to Node.Js, Python, Android Development.
 
-- You can Find me on : 
-	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
+- You can Find me on :
+	- [LinkedIn](https://www.linkedin.com/in/dipakkr)
 	- [GitHub](https://github.com/dipakkr)
 
 ## 1. Archit Kaushik (architkshk)
@@ -65,6 +65,11 @@
 - Full stack and Android Developer from Bangalore, India
 
 - You can find me on:
-	- [My website](https://karan-rajpal.com) 
-	- [LinkedIn](https://linkedin.com/in/karan-rajpal) 
+	- [My website](https://karan-rajpal.com)
+	- [LinkedIn](https://linkedin.com/in/karan-rajpal)
 	- [GitHub](https://github.com/karanrajpal14)
+
+## 12. Gezaldo (ccalamos)
+
+	- You can find me on:
+		- [GitHub](https://github.com/gezaldo)
