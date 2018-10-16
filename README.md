@@ -2,13 +2,14 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-### Are you college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend ?? Then, you should definitely check this out
+### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should 
+definitely check this out
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
 
 ![Image](res/xx.gif)
 
-*Image credits : Google*
+*Image credits: Google*
 
 ## Table of Contents :clipboard:
 
@@ -189,7 +190,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and DataStructure in Different Programming Languages**
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
+Different Programming Languages**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
@@ -377,17 +379,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
-3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
+3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 
 ## Student Fellowship Programs :v:
-1. [University Innovation Fellowship - Standford University]()
+1. [University Innovation Fellowship - Stanford University]()
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
 3. [Urban Leaders Fellowship]()
-4. [Facebook fellowship Programme - **Only For PHD Scholars**]()
+4. [Facebook fellowship Program - **Only For PHD Scholars**]()
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship]()
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
@@ -414,7 +416,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 =============================================================================================
 # 4. Open Source Programs :octocat:
 
-> **For more Detailed Information about the GSOC Organisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+
 
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -431,7 +434,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 =============================================================================================
 
-# 5. Startup Programs And Incubators :mag_right:
+# 5. Startup Programs and Incubators :mag_right:
 
 |Id |Name | Organization|
 |-|--|---- |
@@ -441,7 +444,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |4| [Startup Village](https://www.sv.co/) | SV.CO |
 |5| [T HUB ](https://t-hub.co/) | - |
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
-|7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malasiya |
+|7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
 =============================================================================================
 
@@ -454,7 +457,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 
-    ### Tips for Internship :
+    ### Tips for Internship:
+
      - For summer internship, start looking at least 3-4 months in advance.
 
 =============================================================================================
@@ -475,7 +479,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Bangalore ]**
+- Paytm Build for India **[ Only in Delhi and Bangalore]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
@@ -497,7 +501,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 |
 |8 | [React Europe]() | France | - | May | - |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | Aug16 | Aug20 |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 |
 |11| [Grace Hopper Conference and Fellowship]((https://ghcindia.anitab.org)) - *ONLY FOR GIRLS*| USA | YES | Nov14 | Nov16 |
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
