@@ -6,7 +6,7 @@
 
 Quando estava na Faculdade, Eu perdi muitas oportunidades como hackathons, conferências, estágios e muitas oportunidades e eventos globais, no entanto não tinha informações. Aqui, Está sendo adicionado alguns materiais para estudantes que vocês podem consulta-los.
 
-![Image](res/xx.gif)
+![Image](/res/xx.gif)
 
 *Image credits : Google*
 
