@@ -25,20 +25,20 @@
      - [Research Paper](#2.3-research-paper)
      - [Top Github Repositories](#2.4-top-github-repositories)
     
-2. [DataSets](#2-datasets)
+3. [DataSets](#2-datasets)
 
-5. [Data Science Conference]()
+4. [Data Science Conference](#4-data-science-confs)
 
-4. [Celebrities in ML and AI world]()
+5. [Celebrities in ML and AI world](#5-celebrities-in-ml)
 
-6. [Tips for ML & AI enthusiasts]()
+6. [Tips for ML & AI enthusiasts](#6-ml-ai-tips)
 
-7. [Pandas](#pandas)
+7. [Pandas](#7-pandas)
      - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
      - [Pandas Tutorial | Kaggle](https://www.kaggle.com/junaaaaloo/pandas-tutorial)
      - [https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
-8. [Online Mathematical Resources](#maths-online-resources)
+8. [Online Mathematical Resources](#8-maths-online-resources)
      - [Create staright line by slope and y-intercept](https://www.desmos.com/calculator/5kn5x8f7zk)
 
 ---
@@ -46,3 +46,7 @@
 # 1.  **Machine Learning**
 
 ## COMING SOON
+
+# 5. **Celebrities in ML and AI world**
+- [Siraj Raval](https://github.com/llSourcell)
+- [sentdex](https://github.com/Sentdex)
