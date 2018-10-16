@@ -213,7 +213,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
  ## 1.11 Git and Github :octocat:
- -
+ - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/) 
