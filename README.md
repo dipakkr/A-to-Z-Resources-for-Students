@@ -76,6 +76,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
+    - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
