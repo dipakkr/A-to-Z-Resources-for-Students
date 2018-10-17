@@ -1,66 +1,66 @@
 # Recursos de A à Z para estudantes:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Sintam-se livres para apresentar suas paixões :heart: Adicionando uma estrela :star:
+> ## Sinta-se à vontade para demonstrar seu apoio :heart: adicionando uma estrela :star:
 
-### Vocês são estudantes ou trabalham profissionalmente buscando por recursos de estudos para aprender uma nova linguagem ou conhecer novas pessoas em comunidade ou buscando uma conferencia global, hackathons e competições ao aguardo?? Além disso, vocês devem checar
+### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou conhecer novas pessoas na sua comunidade? Ou está buscando por conferencias internacionais, hackathons e competições para participar?? Então você realmente deve conferir isto!
 
-Quando estava na Faculdade, Eu perdi muitas oportunidades como hackathons, conferências, estágios e muitas oportunidades e eventos globais, no entanto não tinha informações. Aqui, Está sendo adicionado alguns materiais para estudantes que vocês podem consulta-los.
+Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informação. Eu não quero que você perca tudo isso por falta de conhecimento. Aqui, eu estou adicionado alguns materiais para estudantes, se você está na universidade ou faculdade, você deveria consultar esse material.
 
 ![Image](/res/xx.gif)
 
 *Image credits : Google*
 
-## Table of Contents :clipboard:
+## Sumário :clipboard:
 
-1.  [Coding Resources - How to learn xyz ](#1-coding-resources-pencil)
+1.  [Material de apoio - Como aprender xyz ](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
      - [Machine Learning](#12-machine-learning-robot)
      - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
-     - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structure](#17-data-structures-chart_with_upwards_trend)
-     - [Alexa Tutorials](#18-alexa-tutorials)
-     - [C Language](#19-c-language)
-     - [C++ Language](#110-c-language)
+     - [Desenvolvimento Android](#14-android-development-iphone)
+     - [Desenvolvimento - Backend](#15-backend-development-computer)
+     - [Desenvolvimento - Frontend Web](#16-frontend-web-development-computer)
+     - [Estrutura de Dados](#17-data-structures-chart_with_upwards_trend)
+     - [Tutoriais - Alexa](#18-alexa-tutorials)
+     - [Linguagem C](#19-c-language)
+     - [Linguagem C++](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
-     - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
-     - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
-     - [Hiring Challenges](#26-hiring-challenges-heart)
+2.  [ Hackathons and Eventos ](#2-hackathons-and-events)
+     - [Top Hackathons Internacionais](#21-rainbow-top-global-hackathons)
+     - [Competitições](#22-competitions-bomb)
+     - [Portal de busca de Hackathons](#23--hackathon-search-portals-dart)
+     - [Eventos](#24-events-heart_eyes)
+     - [Startup Summits and Competitições](#25-startup-summits-competitions-and-bootcamps-neckbeard)
+     - [Desafios de contratação](#26-hiring-challenges-heart)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs-fire)
-     - [Campus Ambassador Programs](#campus-ambassador-programs-v)
-     - [Student Benefits and Packs](#student-benefits-and-packs-v)
-     - [Student Fellowship Programs](#student-fellowship-programs-v)
-     - [Scholarships](#scholarships-runner)
+3.  [ Benefícios e programas para estudantes ](#3-student-benefits-and-programs-fire)
+     - [Programas: Campus Ambassador](#campus-ambassador-programs-v)
+     - [Benefícios para estudantes](#student-benefits-and-packs-v)
+     - [Programas de bolsa estudantil](#student-fellowship-programs-v)
+     - [Bolsas estudantis](#scholarships-runner)
 
-4.  [ Open Source Programs ](#4-open-source-programs-octocat)
-5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [ Internship Portals ](#6-internship-portals-smile)
-7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences-bookmark_tabs)
-9.  [Top People to Follow](#9-top-people-to-follow)
-10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
+4.  [ Programas de código aberto ](#4-open-source-programs-octocat)
+5.  [ Programas para startup e incubadoras](#5-startup-programs-and-incubators-mag_right)
+6.  [ Portal de estágios ](#6-internship-portals-smile)
+7.  [ Clubes de desenvolvedores e Meetups](#7-developer-clubs-and-meetups)
+8.  [ Conferência para estudantes ](#8-conferences-bookmark_tabs)
+9.  [Principais pessoas a serem seguidas](#9-top-people-to-follow)
+10. [Principais sites a serem seguidos](#10-top-websites-to-follow)
+11. [Links Adicionais](#11-additional-links-hamster)
 
 =============================================================================================
-# 1. Coding Resources :pencil:
+# 1. Material de Apoio :pencil:
 
 ## 1.1 Python :snake:
 
-> [**Browse this link for detailed information on Python**](Python.md)
+> [**Consulte este link para obter informações detalhadas sobre Python**](Python.md)
 
-- [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-- [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
--  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
--  [Google Python class](https://developers.google.com/edu/python/)
+- [Aprenda Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+- [Aula - Progate Python ](https://progate.com/languages/python) - **Good for absolute beginners**
+-  [Vídeo Tutorial para iniciantes - Youtube](http://bit.ly/2NkrsKh)
+-  [Introdução à Python - Udacity - Curso grátis](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+-  [Aula - Google Python](https://developers.google.com/edu/python/)
 
 ## 1.2 Machine Learning :robot:
 
