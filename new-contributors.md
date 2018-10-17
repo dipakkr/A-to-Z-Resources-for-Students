@@ -65,13 +65,11 @@
 
 - You can find me on:
 	- [GitHub](https://github.com/milaaraujo)
-
 	
 ## 13. LShun (LShun)
 
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
-
 	
 ## 14. Ron Guest (ronguest)
 
@@ -83,13 +81,11 @@
 
 - You can find me on:
 	- [Github](https://github.com/Naba7)
-	
-  
+	  
 ## 16. Sachin Rungta (sac6120)
 
 - You can find me on:
 	- [GitHub](https://github.com/sac6120)
-
 
 ## 17. Subhra Paladhi
 - You can find me on:
@@ -116,3 +112,8 @@ You can find me on:
 - You can Find me on : 
 	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
 	- [GitHub](https://github.com/dipakkr)
+	
+## 21. Harsh Mittal (harsh1201)
+
+- You can find me on:
+	- [GitHub](https://github.com/harsh1201)
