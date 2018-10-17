@@ -68,3 +68,8 @@
 	- [My website](https://karan-rajpal.com) 
 	- [LinkedIn](https://linkedin.com/in/karan-rajpal) 
 	- [GitHub](https://github.com/karanrajpal14)
+
+## 12. Angga Lanuma (lanuma)
+- You can find me on:
+    - [My Website](https://lanuma.web.id/)
+    - [LinkedIn](https://www.linkedin.com/in/lanuma/)
