@@ -1,69 +1,66 @@
-# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Recursos de A à Z para estudantes:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Feel free to show your love :heart: by putting a star :star:
+> ## Sinta-se à vontade para demonstrar seu apoio :heart: adicionando uma estrela :star:
 
-### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should 
-definitely check this out
+### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou conhecer novas pessoas na sua comunidade? Ou está buscando por conferencias internacionais, hackathons e competições para participar?? Então você realmente deve conferir isto!
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
+Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informação. Eu não quero que você perca tudo isso por falta de conhecimento. Aqui, eu estou adicionado alguns materiais para estudantes, se você está na universidade ou faculdade, você deveria consultar esse material.
 
-![Image](res/xx.gif)
+![Image](/res/xx.gif)
 
-*Image credits: Google*
+*Image credits : Google*
 
-## Table of Contents :clipboard:
+## Sumário :clipboard:
 
-1.  [Coding Resources - How to learn xyz ](#1-coding-resources-pencil)
+1.  [Material de apoio - Como aprender xyz ](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
      - [Machine Learning](#12-machine-learning-robot)
      - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
-     - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structure](#17-data-structures-chart_with_upwards_trend)
-     - [Alexa Tutorials](#18-alexa-tutorials)
-     - [C Language](#19-c-language)
-     - [C++ Language](#110-c-language)
+     - [Desenvolvimento Android](#14-android-development-iphone)
+     - [Desenvolvimento - Backend](#15-backend-development-computer)
+     - [Desenvolvimento - Frontend Web](#16-frontend-web-development-computer)
+     - [Estrutura de Dados](#17-data-structures-chart_with_upwards_trend)
+     - [Tutoriais - Alexa](#18-alexa-tutorials)
+     - [Linguagem C](#19-c-language)
+     - [Linguagem C++](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
-     - [R Language](#112-r-language)
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
-     - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
-     - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
-     - [Hiring Challenges](#26-hiring-challenges-heart)
+2.  [ Hackathons and Eventos ](#2-hackathons-and-events)
+     - [Top Hackathons Internacionais](#21-rainbow-top-global-hackathons)
+     - [Competitições](#22-competitions-bomb)
+     - [Portal de busca de Hackathons](#23--hackathon-search-portals-dart)
+     - [Eventos](#24-events-heart_eyes)
+     - [Startup Summits and Competitições](#25-startup-summits-competitions-and-bootcamps-neckbeard)
+     - [Desafios de contratação](#26-hiring-challenges-heart)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs-fire)
-     - [Campus Ambassador Programs](#campus-ambassador-programs-v)
-     - [Student Benefits and Packs](#student-benefits-and-packs-v)
-     - [Student Fellowship Programs](#student-fellowship-programs-v)
-     - [Scholarships](#scholarships-runner)
+3.  [ Benefícios e programas para estudantes ](#3-student-benefits-and-programs-fire)
+     - [Programas: Campus Ambassador](#campus-ambassador-programs-v)
+     - [Benefícios para estudantes](#student-benefits-and-packs-v)
+     - [Programas de bolsa estudantil](#student-fellowship-programs-v)
+     - [Bolsas estudantis](#scholarships-runner)
 
-4.  [ Open Source Programs ](#4-open-source-programs-octocat)
-5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [ Internship Portals ](#6-internship-portals-smile)
-7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences-bookmark_tabs)
-9.  [Top People to Follow](#9-top-people-to-follow)
-10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
+4.  [ Programas de código aberto ](#4-open-source-programs-octocat)
+5.  [ Programas para startup e incubadoras](#5-startup-programs-and-incubators-mag_right)
+6.  [ Portal de estágios ](#6-internship-portals-smile)
+7.  [ Clubes de desenvolvedores e Meetups](#7-developer-clubs-and-meetups)
+8.  [ Conferência para estudantes ](#8-conferences-bookmark_tabs)
+9.  [Principais pessoas a serem seguidas](#9-top-people-to-follow)
+10. [Principais sites a serem seguidos](#10-top-websites-to-follow)
+11. [Links Adicionais](#11-additional-links-hamster)
 
 =============================================================================================
-# 1. Coding Resources :pencil:
+# 1. Material de Apoio :pencil:
 
 ## 1.1 Python :snake:
 
-> [**Browse this link for detailed information on Python**](Python.md)
+> [**Consulte este link para obter informações detalhadas sobre Python**](Python.md)
 
-- [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-- [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
--  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
--  [Google Python class](https://developers.google.com/edu/python/)
-- [Learn Python from Basic](https://www.tutorialspoint.com/python/)
+- [Aprenda Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
+- [Aula - Progate Python ](https://progate.com/languages/python) - **Good for absolute beginners**
+-  [Vídeo Tutorial para iniciantes - Youtube](http://bit.ly/2NkrsKh)
+-  [Introdução à Python - Udacity - Curso grátis](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+-  [Aula - Google Python](https://developers.google.com/edu/python/)
 
 ## 1.2 Machine Learning :robot:
 
@@ -77,7 +74,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
-    - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -123,8 +119,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
-    - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
@@ -149,16 +143,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
-    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
-    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
-
-- **JavaScript**
-    - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -168,13 +156,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
-
-- **Vue.js**
-    - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
-    - [Scrimba](https://scrimba.com/g/glearnvue)
-
-- **Web Accessibility**
-    - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -192,8 +173,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
-Different Programming Languages**
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and DataStructure in Different Programming Languages**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
@@ -201,7 +181,6 @@ Different Programming Languages**
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
 - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview Preparation Kit**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based Interviews**
-- [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
 - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
 
@@ -233,12 +212,7 @@ Different Programming Languages**
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
  ## 1.11 Git and Github :octocat:
- - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
-
-## 1.12 R Language
-- [RStudio}(https://www.rstudio.com/online-learning/) 
-- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R) 
-- [R-Bloggers](https://www.r-bloggers.com/
+ -
 
 =============================================================================================
 
@@ -283,7 +257,6 @@ Different Programming Languages**
 |32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | October(Idea Submission) | Nov End | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
-|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -381,17 +354,17 @@ Different Programming Languages**
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
-3. [JetBrains Students pack](https://www.jetbrains.com/student/)
+3. [Jetbrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 
 ## Student Fellowship Programs :v:
-1. [University Innovation Fellowship - Stanford University]()
+1. [University Innovation Fellowship - Standford University]()
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
 3. [Urban Leaders Fellowship]()
-4. [Facebook fellowship Program - **Only For PHD Scholars**]()
+4. [Facebook fellowship Programme - **Only For PHD Scholars**]()
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship]()
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
@@ -418,8 +391,7 @@ Different Programming Languages**
 =============================================================================================
 # 4. Open Source Programs :octocat:
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
-
+> **For more Detailed Information about the GSOC Orgranisation** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
 |-|--|---- |---|---| ------ |
@@ -436,7 +408,7 @@ Different Programming Languages**
 
 =============================================================================================
 
-# 5. Startup Programs and Incubators :mag_right:
+# 5. Startup Programs And Incubators :mag_right:
 
 |Id |Name | Organization|
 |-|--|---- |
@@ -446,7 +418,7 @@ Different Programming Languages**
 |4| [Startup Village](https://www.sv.co/) | SV.CO |
 |5| [T HUB ](https://t-hub.co/) | - |
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
-|7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
+|7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malasiya |
 
 =============================================================================================
 
@@ -459,9 +431,8 @@ Different Programming Languages**
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 
-    ### Tips for Internship:
-
-     - For summer internship, start looking at least 3-4 months in advance.
+    ### Tips for Internship :
+     - For summer internship, start looking atleast 3-4 months in advance.
 
 =============================================================================================
 
@@ -481,7 +452,7 @@ Different Programming Languages**
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Bangalore]**
+- Paytm Build for India **[ Only in Delhi and Banglore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
@@ -503,7 +474,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 |
 |8 | [React Europe]() | France | - | May | - |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malasiya | Yes | Aug16 | Aug20 |
 |11| [Grace Hopper Conference and Fellowship]((https://ghcindia.anitab.org)) - *ONLY FOR GIRLS*| USA | YES | Nov14 | Nov16 |
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |

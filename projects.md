@@ -2,6 +2,8 @@
 
 ## 1. Machine Learning
   - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
+  - [Data Science - Pizza de Dados](http://pizzadedados.com/)
+  - [Data Science - Serenata de Amor](https://serenata.ai/)
 
 ## 2. Blockchain
 

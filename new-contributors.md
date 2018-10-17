@@ -1,6 +1,6 @@
 # Please Add your Name and Introduction Here : 
 
-> Add your details at the Bottom of list. 
+> **Add your details at the Bottom of list**. 
 
 ## Deepak Kumar 
 - Full stack and Machine Learning developer from New Delhi, India.
@@ -68,8 +68,18 @@
 	- [My website](https://karan-rajpal.com) 
 	- [LinkedIn](https://linkedin.com/in/karan-rajpal) 
 	- [GitHub](https://github.com/karanrajpal14)
+	
+## 12. Camila Araujo (milaaraujo)
 
-## 12. Angga Lanuma (lanuma)
+- You can find me on:
+	- [GitHub](https://github.com/milaaraujo)
+	
+## 13. LShun (LShun)
+
+- You can find me on:
+	- [GitHub](https://github.com/LShun)
+
+## 14. Angga Lanuma (lanuma)
 - You can find me on:
     - [My Website](https://lanuma.web.id/)
     - [LinkedIn](https://www.linkedin.com/in/lanuma/)
