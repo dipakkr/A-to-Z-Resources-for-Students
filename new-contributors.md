@@ -79,7 +79,14 @@
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
 
-## 14. Subhra Paladhi
+	
+## 14. Sachin Rungta (sac6120)
+
+- You can find me on:
+	- [GitHub](https://github.com/sac6120)
+
+
+## 15. Subhra Paladhi
 - You can find me on:
 	-[GitHub](https://github.com/maverick1223)
 	-[LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
