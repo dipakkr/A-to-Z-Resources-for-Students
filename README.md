@@ -414,8 +414,7 @@ Different Programming Languages**
 
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 
-4. [Coding Bootcamp Scholarships - Course Report]
-(https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
 =============================================================================================
 # 4. Open Source Programs :octocat:
