@@ -81,5 +81,5 @@
 
 ## 14. Subhra Paladhi
 - You can find me on:
-	-[GitHub] (https://github.com/maverick1223)
-	-[LinkedIn] (https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
+	-[GitHub](https://github.com/maverick1223)
+	-[LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
