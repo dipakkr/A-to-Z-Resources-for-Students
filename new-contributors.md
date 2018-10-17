@@ -2,14 +2,6 @@
 
 > **Add your details at the Bottom of list**. 
 
-## Deepak Kumar 
-- Full stack and Machine Learning developer from New Delhi, India.
-- Like to solve real world problems with code. 
-- Works on but not limited to Node.Js, Python, Android Development. 
-
-- You can Find me on : 
-	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
-	- [GitHub](https://github.com/dipakkr)
 
 ## 1. Archit Kaushik (architkshk)
 
@@ -73,13 +65,47 @@
 
 - You can find me on:
 	- [GitHub](https://github.com/milaaraujo)
+
 	
 ## 13. LShun (LShun)
 
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
 
-## 14. Noel (vodkanoya)
+	
+## 14. Ron Guest (ronguest)
+
+- You can find me on:
+	- [GitHub](https://github.com/ronguest)
+
+## 15. Nabanita Dash (Naba7)
+- Pythonista,ML especially NLP enthusiast,Interested and learning DL,Hacking into Open Source		
+
+- You can find me on:
+	- [Github](https://github.com/Naba7)
+	
+  
+## 16. Sachin Rungta (sac6120)
+
+- You can find me on:
+	- [GitHub](https://github.com/sac6120)
+
+
+## 17. Subhra Paladhi
+- You can find me on:
+	-[GitHub](https://github.com/maverick1223)
+	-[LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
+
+## 18. Noel (vodkanoya)
 
 - You can find me on:
 	- [GitHubt](https://github.com/vodkanoya)
+
+## 19. Deepak Kumar 
+- Full stack and Machine Learning developer from New Delhi, India.
+- Like to solve real world problems with code. 
+- Works on but not limited to Node.Js, Python, Android Development. 
+
+- You can Find me on : 
+	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
+	- [GitHub](https://github.com/dipakkr)
