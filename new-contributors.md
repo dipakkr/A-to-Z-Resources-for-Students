@@ -78,3 +78,8 @@
 
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
+	
+## 14. Sachin Rungta (sac6120)
+
+- You can find me on:
+	- [GitHub](https://github.com/sac6120)
