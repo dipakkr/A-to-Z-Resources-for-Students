@@ -71,8 +71,8 @@
 
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
-	
 
+	
 ## 14. Ron Guest (ronguest)
 
 - You can find me on:
@@ -96,7 +96,12 @@
 	-[GitHub](https://github.com/maverick1223)
 	-[LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
 
-## 18. Deepak Kumar 
+## 18. Noel (vodkanoya)
+
+- You can find me on:
+	- [GitHubt](https://github.com/vodkanoya)
+
+## 19. Deepak Kumar 
 - Full stack and Machine Learning developer from New Delhi, India.
 - Like to solve real world problems with code. 
 - Works on but not limited to Node.Js, Python, Android Development. 
