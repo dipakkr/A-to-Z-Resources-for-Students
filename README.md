@@ -460,6 +460,7 @@ Different Programming Languages**
 5. *Contact HRs on LinkedIn*
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
+8. [Intern Supply](https://intern.supply/)
 
     ### Tips for Internship:
 
