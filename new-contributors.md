@@ -68,3 +68,8 @@
 	- [My website](https://karan-rajpal.com) 
 	- [LinkedIn](https://linkedin.com/in/karan-rajpal) 
 	- [GitHub](https://github.com/karanrajpal14)
+	
+## 12. Camila Araujo (milaaraujo)
+
+- You can find me on:
+	- [GitHub](https://github.com/milaaraujo)
