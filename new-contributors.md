@@ -82,8 +82,20 @@
 	
 
 ## 14. Nabanita Dash (Naba7)
+- Pythonista,ML especially NLP enthusiast,Interested and learning DL,Hacking into Open Source		
 
 - You can find me on:
 	- [Github](https://github.com/Naba7)
 	
---- Pythonista,ML especially NLP enthusiast,Interested and learning DL,Hacking into Open Source		
+
+	
+## 14. Sachin Rungta (sac6120)
+
+- You can find me on:
+	- [GitHub](https://github.com/sac6120)
+
+
+## 15. Subhra Paladhi
+- You can find me on:
+	-[GitHub](https://github.com/maverick1223)
+	-[LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
