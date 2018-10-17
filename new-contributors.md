@@ -73,11 +73,20 @@
 
 - You can find me on:
 	- [GitHub](https://github.com/milaaraujo)
+
 	
 ## 13. LShun (LShun)
 
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
+	
+
+## 14. Nabanita Dash (Naba7)
+- Pythonista,ML especially NLP enthusiast,Interested and learning DL,Hacking into Open Source		
+
+- You can find me on:
+	- [Github](https://github.com/Naba7)
+	
 
 	
 ## 14. Sachin Rungta (sac6120)
