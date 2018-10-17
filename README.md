@@ -309,6 +309,7 @@ Different Programming Languages**
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|21| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 
 
 ##  2.3  Hackathon Search Portals :dart:
