@@ -1,6 +1,6 @@
 # Recursos de A à Z para estudantes:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Sinta-se à vontade demonstrar seu apoio :heart: adicionando uma estrela :star:
+> ## Sinta-se à vontade para demonstrar seu apoio :heart: adicionando uma estrela :star:
 
 ### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou conhecer novas pessoas na sua comunidade? Ou está buscando por conferencias internacionais, hackathons e competições para participar?? Então você realmente deve conferir isto!
 
