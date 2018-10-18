@@ -1,6 +1,6 @@
-# Please Add your Name and Introduction Here : 
+## Here is List of awesome people who contributed to this repository 
 
-> **Add your details at the Bottom of list**. 
+### It's time to network :india: :us: :cn: 
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------:|:---------:|:--------------|:------------|
