@@ -201,9 +201,11 @@ You can find me on:
 - Building story apps and games focused on protecting endangered languages in my own time
 - Interested in Machine Learning and Game Development as tools
 
--You can find me on:
+- You can find me on:
 	- [GitHub](https://github.com/ArielBurningLadyStudios)
 	- [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/)
 	
-	
-
+## Suyasha
+- New York City
+- You can find me on:
+	- [GitHub](https://github.com/suyasha0)
