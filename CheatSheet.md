@@ -15,11 +15,14 @@ do          if          static      while
 
 ### 2 ALLOWED CHARACTER SET
 
+```
 Alphabets - A, B, ….., Y, Z a, b, ……, y, z
 Digits - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 Special symbols - ~ ‘ ! @ # % ^ & * ( ) _ - + = | \ { } [ ] : ; " ' < > , . ? /
+```
 
 ### 3 DATA TYPES and PLACEHOLDERS
+
 some common datatypes are:
 int - integer
 char - character
@@ -61,9 +64,10 @@ double - long float
 \? - Question mark
 \0 - Null
 
-#5 PRECEDENCE ORDER
+### 5 PRECEDENCE ORDER
+
 | DESCRIPTION	          |         OPERATORS	                              | ASSOCIATIVITY	  |
-| ------------------------|:-------------------------------------------------:| -----------------:|
+| :----------------------:|:-------------------------------------------------:| -----------------:|
 | Function Expression	  |           ()	                              |   Left to Right   |
 | Array Expression	  |              []	                              |   Left to Right   |
 | Structure Operator	  |            ->	                              |   Left to Right   |
@@ -98,7 +102,10 @@ double - long float
 | Assignment	          |   =, *=, /=, %=, +=, -=, &=, ^=, |=, <<=, >>=     |   Right to Left   |
 | Comma	                  |           ,	                                      |   Right to Left   |
 
-#6 IF-ELSE STATEMENT
+
+### 6 IF-ELSE STATEMENT
+
+```
 if(flag) {
    // put some statements here to execute if flag is true (flag != 0)
 } 
@@ -108,7 +115,11 @@ if(flag) {
    // put some statements here to execute if flag is false (flag == 0)
 }
 
-#7 SWITCH-CASE STATEMENT
+````
+
+### 7 SWITCH-CASE STATEMENT
+
+```
 switch(flag) {
     case 0:  // statements
    	break;
@@ -118,8 +129,11 @@ switch(flag) {
   	break;
     default:  // statements
 }
+```
 
-#8 WHILE LOOP
+### 8 WHILE LOOP
+
+```
 //for single statement  
 while(expression) 
     statement;
@@ -129,8 +143,11 @@ while(expression)
 { 
     block of statement 
 } 
+```
 
-#9 FOR LOOP
+### 9 FOR LOOP
+
+```
 for ( initialization; test condition; run every time command )
 
 eg:
@@ -138,14 +155,18 @@ int i;
 for (i =0;i<3;i++):
     printf("%d",&i);
 will give 012 as output
+```
+### 10 DO-WHILE STATEMENT
 
-#10 DO-WHILE STATEMENT
+```
 do
 {
     statements;
 }while (expression);
 
-#11 BREAK CONTINUE STATEMENT
+```
+### 11 BREAK CONTINUE STATEMENT
+
 break statement is used to terminate the current loop the moves to the next line of the code.
 continue statement skips the current loop index and moves to the next iteration.
 
