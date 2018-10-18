@@ -195,3 +195,10 @@ You can find me on:
 	- [LinkedIn](https://www.linkedin.com/in/rajeshm93/) 
 	- [GitHub](https://github.com/rajesh1993)
 
+##  Makenzie Wells
+- Healthcare Technology Customer Success leader
+- Scripting on the side and having some killer fun!
+
+- You can Find me on : 
+	- [LinkedIn](https://www.linkedin.com/in/makenzie-wells/) 
+	- [GitHub](https://github.com/attackthemak29)
