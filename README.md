@@ -2,10 +2,9 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should
-definitely check this out
+### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. I don't want you to miss these due to lack of information. Here I have collated lists of resources for students. If you are in college, or a college graduate, you should definitely check it out.
 
 ![Image](res/xx.gif)
 
@@ -376,6 +375,7 @@ Different Programming Languages**
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
+11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
