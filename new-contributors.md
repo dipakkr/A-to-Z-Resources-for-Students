@@ -3,8 +3,8 @@
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: 
 
 ```
-- Please consider adding your national flag above. 
-- In the table, add your detail at the bottom. 
+- **Please consider adding your national flag above**. 
+- **In the table, add your detail at the bottom.** 
 ```
 
 | S.no | Name | Country | Introduction | Contact |
