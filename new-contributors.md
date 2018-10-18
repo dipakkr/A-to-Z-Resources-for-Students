@@ -116,3 +116,8 @@ You can find me on:
 - You can Find me on : 
 	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
 	- [GitHub](https://github.com/dipakkr)
+
+## 21. Vinícius Alencar (vncsalencar)
+- Brazilian Computer Science student.
+- You can find me on:
+	- [GitHub](https://github.com/vncsalencar)

@@ -4,7 +4,7 @@
 
 ### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou gostaria de conhecer novas pessoas em alguma comunidade? Está procurando conferências internacionais, hackathons e competições para participar?? Então você realmente deve conferir isto!
 
-Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que você perca tudo isso por falta de conhecimento. Aqui, eu estou adicionado alguns materiais para estudantes. Se você está na universidade ou faculdade, você deveria consultar esse material.
+Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que você perca tudo isso por falta de conhecimento. Aqui, eu estou adicionando alguns materiais para estudantes. Se você está na universidade ou faculdade, você deveria consultar esse material.
 
 ![Image](/res/xx.gif)
 
