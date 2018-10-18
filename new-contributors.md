@@ -205,5 +205,11 @@ You can find me on:
 	- [GitHub](https://github.com/ArielBurningLadyStudios)
 	- [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/)
 	
-	
+## Jayesh Patel
+- Undergraduate currently in final year from Durg, Chhattisgarh, India
+- Full Stack Web Developer with MEN Stack
+- Interested in pursuing mscs graduate degree in Purdue 2020
 
+- You can find me on:
+	- [GitHub](https://github.com/codeghoul)
+	- [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/)
