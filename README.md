@@ -63,7 +63,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Google Python class](https://developers.google.com/edu/python/)
-- [Learn Python from Basic](https://www.tutorialspoint.com/python/)
 
 ## 1.2 Machine Learning :robot:
 
