@@ -31,16 +31,15 @@
 | 25 | Jiazheng Shen  | | | [GitHub](https://github.com/jiazheng0609) |
 | 26. | Bhavy Singh | | | [GitHub](https://github.com/bhavybarca) |
 | 27. | James Bedwell |  | Studying Web Development. | [GitHub](https://github.com/jamesrbedwell) - [LinkedIn](https://www.linkedin.com/in/jamesbedwell) |
-| 28. | Harshit Modi | India | Current grad student at UTA, texas -  Web developer  | [GitHub](https://github.com/Harshit-modi) - [LinkedIn](https://www.linkedin.com/in/harshit-modi/) |
-| 29. | Vivek Raj | India | Working on python, django. | [GitHub](https://github.com/vivekrj0) - [Twitter](http://twitter.com/vivekrj0)|
-| 30. | Deepak Kumar :octocat: | India | Full stack and Machine Learning developer.  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
-| 31. | Ashok KS | | Data Science student at Monash University, Melbourne - Interested in Machine Learning and Data Enginering. 8 years of experience as a Data Analyst. | [GitHub](https://github.com/ksashok) - [LinkedIn](https://www.linkedin.com/in/ksashok/) |
-| 32. | Rajesh Mohan |  New York | Computer Science Graduate Student at Stony Brook University  Love Python for Data Science and ML and learning React and React Native to build interfaces. | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
+| 28. | Harshit Modi | India |  UTA, Texas - Web Developer  | [GitHub](https://github.com/Harshit-modi) - [LinkedIn](https://www.linkedin.com/in/harshit-modi/) |
+| 29. | Vivek Raj | India | Python, Django. | [GitHub](https://github.com/vivekrj0) - [Twitter](http://twitter.com/vivekrj0)|
+| 30. | Deepak Kumar :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
+| 31. | Ashok KS | | Monash University, Melbourne -  8 years of exp. as Data Analyst. | [GitHub](https://github.com/ksashok) - [LinkedIn](https://www.linkedin.com/in/ksashok/) |
+| 32. | Rajesh Mohan |  New York | CS Grad at Stony Brook University- Python - Data Science - Learning React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
 | 33. | Ariel Teague | | Backend Software Engineer in an Angular/Java shop as a dayjob in Northwest Arkansas. Building story apps and games focused on protecting endangered languages in my own time. Interested in Machine Learning and Game Development as tools. | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
-| 34. | Jayesh Patel | India | Undergraduate currently in final year. Full Stack Web Developer with MEN Stack. Interested in pursuing mscs graduate degree in Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
+| 34. | Jayesh Patel | India | Final Year UnderGrad, MEAN Developer - Interested in pursuing mscs graduate degree in Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
 | 35. | Suyasha | New York City | | [GitHub](https://github.com/suyasha0)|
 | 36. | Thomas Smith | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
 |37. | Ken Davis | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
-
 
 
