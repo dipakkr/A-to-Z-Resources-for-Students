@@ -113,7 +113,24 @@ You can find me on:
 - You can find me on:
         - [GitHubt](https://github.com/ZuckerWatte)
 
-## 21. Deepak Kumar 
+
+## 21. Vinícius Alencar (vncsalencar)
+- Brazilian Computer Science student.
+- You can find me on:
+	- [GitHub](https://github.com/vncsalencar)
+
+## 22. Jiazheng Shen (jiazheng0609)
+- You can find me on:
+	- [GitHub](https://github.com/jiazheng0609)
+
+## 23. James Bedwell
+- Studying Web Development
+- You can find me on:
+	- [GitHub](https://github.com/jamesrbedwell)
+	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+
+## 24. Deepak Kumar :octocat:
+
 - Full stack and Machine Learning developer from New Delhi, India.
 - Like to solve real world problems with code. 
 - Works on but not limited to Node.Js, Python, Android Development. 
@@ -122,18 +139,6 @@ You can find me on:
 	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
 	- [GitHub](https://github.com/dipakkr)
   
-
-## 22. Vinícius Alencar (vncsalencar)
-- Brazilian Computer Science student.
-- You can find me on:
-	- [GitHub](https://github.com/vncsalencar)
-
-## 23. James Bedwell
-- Studying Web Development
-- You can find me on:
-	- [GitHub](https://github.com/jamesrbedwell)
-	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
-
 ## 24. Harshit Modi
 - Current grad student at UTA, texas
 - Having 2 years of experience in web development
