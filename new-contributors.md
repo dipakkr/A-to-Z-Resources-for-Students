@@ -2,14 +2,6 @@
 
 > **Add your details at the Bottom of list**. 
 
-## Deepak Kumar 
-- Full stack and Machine Learning developer from New Delhi, India.
-- Like to solve real world problems with code. 
-- Works on but not limited to Node.Js, Python, Android Development. 
-
-- You can Find me on : 
-	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
-	- [GitHub](https://github.com/dipakkr)
 
 ## 1. Archit Kaushik (architkshk)
 
@@ -74,6 +66,76 @@
 - You can find me on:
 	- [GitHub](https://github.com/milaaraujo)
 
-## 13. Jiazheng Shen (jiazheng0609)
+	
+## 13. LShun (LShun)
+
+- You can find me on:
+	- [GitHub](https://github.com/LShun)
+
+	
+## 14. Ron Guest (ronguest)
+
+- You can find me on:
+	- [GitHub](https://github.com/ronguest)
+
+## 15. Nabanita Dash (Naba7)
+- Pythonista,ML especially NLP enthusiast,Interested and learning DL,Hacking into Open Source		
+
+- You can find me on:
+	- [Github](https://github.com/Naba7)
+	
+  
+## 16. Sachin Rungta (sac6120)
+
+- You can find me on:
+	- [GitHub](https://github.com/sac6120)
+
+
+## 17. Subhra Paladhi
+- You can find me on:
+	-[GitHub](https://github.com/maverick1223)
+	-[LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167)
+
+## 18. Noel (vodkanoya)
+
+- You can find me on:
+	- [GitHubt](https://github.com/vodkanoya)
+  
+## 19. Mahmut Alban
+
+You can find me on:
+	- [My website](https://albanmahmut.github.io/Portfolio/CV/index.html) 
+	- [LinkedIn](https://www.linkedin.com/in/mahmutalban/?locale=en_US) 
+	- [GitHub](https://github.com/albanmahmut)
+  
+## 20. Mona Fenzl
+
+- You can find me on:
+        - [GitHubt](https://github.com/ZuckerWatte)
+
+
+## 21. Vinícius Alencar (vncsalencar)
+- Brazilian Computer Science student.
+- You can find me on:
+	- [GitHub](https://github.com/vncsalencar)
+
+## 22. Jiazheng Shen (jiazheng0609)
 - You can find me on:
 	- [GitHub](https://github.com/jiazheng0609)
+
+## 23. James Bedwell
+- Studying Web Development
+- You can find me on:
+	- [GitHub](https://github.com/jamesrbedwell)
+	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+
+## 24. Deepak Kumar :octocat:
+
+- Full stack and Machine Learning developer from New Delhi, India.
+- Like to solve real world problems with code. 
+- Works on but not limited to Node.Js, Python, Android Development. 
+
+- You can Find me on : 
+	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
+	- [GitHub](https://github.com/dipakkr)
+  
