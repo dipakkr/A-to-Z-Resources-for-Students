@@ -133,3 +133,9 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/jamesrbedwell)
 	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+## 24. Vivek Raj
+- Working on python, django.
+- From Kharagpur, India.
+- You can find me on:
+	- [GitHub](https://github.com/vivekrj0)
+	- [Twitter](http://twitter.com/vivekrj0)
