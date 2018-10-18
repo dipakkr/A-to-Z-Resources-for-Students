@@ -57,29 +57,29 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 > [**Consulte este link para obter informações detalhadas sobre Python**](Python.md)
 
 - [Aprenda Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-- [Aula - Progate Python ](https://progate.com/languages/python) - **Good for absolute beginners**
+- [Aula - Progate Python ](https://progate.com/languages/python) - **Bom para quem nunca programou**
 -  [Vídeo Tutorial para iniciantes - Youtube](http://bit.ly/2NkrsKh)
 -  [Introdução à Python - Udacity - Curso grátis](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Aula - Google Python](https://developers.google.com/edu/python/)
 
 ## 1.2 Machine Learning :robot:
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Consulte este link para obter informações detalhadas sobre Machine Learning and Deep Learning**](ML.md)
 
--  **Best Online Courses**
+-  **Melhores Cursos Online**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
+    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **GRÁTIS**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAGO**
 
--  **Best GitHub Repositories to follow**
+-  **Melhores repositórios para seguir no Github**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
--  **Research Papers**
+-  **Artigos de Pesquisa**
     - [Arxiv](https://arxiv.org/)
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
@@ -88,13 +88,13 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Consulte este link para obter informações detalhadas sobre Machine Learning and Deep Learning**](ML.md)
 
--  **Best Online Courses**
+-  **Melhores Cursos Online**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
 
--  **Best GitHub Repositories to follow**
+-  **Melhores repositórios para seguir no Github**
     - [Top -200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
     - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
     - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -116,16 +116,16 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 ## 1.5 Backend Development :computer:
 
 -  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
+    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Melhor para Iniciantes*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
 
 -  **Node.JS**
-    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
+    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAGO**
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Beginners*
+    - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bom para Iniciantes*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
@@ -153,7 +153,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
+     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAGO**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
@@ -220,48 +220,48 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 ## 2.1 :rainbow: Top Global Hackathons
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
+|Id |Nome | Local| Reembolso de Custos de Viagem |Começo das Inscrições | Final das Inscrições |
 |--|------ |---|---| ------ | ----|
-|1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
-|2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
-|3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
-|4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
-|4 | [PenApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
-|5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
+|1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| Índia| Sim| Abril |Confira no site |
+|2 | [HacktheNorth](http://pennapps.com/)| Canadá| Sim|Meados de Setembro | Final de Julho |
+|3 | [HackMIT](https://hackmit.org/)   | EUA | Sim|Meados de Setembro | Final de Julho |
+|4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Sim | - | - |
+|4 | [PenApps](http://pennapps.com/)|EUA   | Sim| Meados de Setembro | Final de Julho |
+|5 | [UltraHack](https://ultrahack.org/)|Regional e Global | Sim| - |  - |
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
-|7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - |
-|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
-|10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
-|11 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
-|12 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - |
-|13 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - |
-|14 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - |
-|15 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - |
-|16 | [QHacks](http://qhacks.io/) | USA | - | - |  - |
+|7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | EUA | Top Teams | - |  - |
+|8 | [HackZurich](http://www.hackzurich.com/) | Zurique, Suíça | Sim | - | - |
+|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | Nova Iorque e Londres|Sim | - | - |
+|10 | [HackDuke](http://www.hackduke.com/) | EUA | - | - | - |
+|11 | [HackNY](http://hackny.org/hackathon/) | EUA | Sim | - | - |
+|12 | [HackPrinceton](https://www.hackprinceton.com/)|EUA | - | - |  - |
+|13 | [nwHacks](https://www.nwhacks.io/)| Canadá | - | - |  - |
+|14 | [MHacks](http://www.mhacks.org/) |EUA | - |  - | - |
+|15 | [HackDavis](http://hackdavis.io/)|EUA | - |  - |   - |
+|16 | [QHacks](http://qhacks.io/) | EUA | - | - |  - |
 |17 | [Hackinit](https://hackinit.org/) | China | - | - |  - |
-|18 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
-|19 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
-|20 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
-|21 | [Y Combinator Hacks]() | USA | - | - | - |
-|22 | [TreeHacks]() | USA | - | - | - |
-|23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
+|18 | [HackUCI](https://www.hackuci.com/) | EUA | - | - |  - |
+|19 | [Conuhacks](http://www.conuhacks.io/) | Canadá | - | - |  - |
+|20 | [McHacks](http://mchacks.io/) | EUA| - | - |  - |
+|21 | [Y Combinator Hacks]() | EUA | - | - | - |
+|22 | [TreeHacks]() | EUA | - | - | - |
+|23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | Coreia do Sul | Sim | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
-|25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
-|26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
-|27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
-|28 | [HackDTU](http://hackdtu.tech/) | Onsite(India) | No | - | - |
-|29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
-|30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
-|31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
-|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | October(Idea Submission) | Nov End | - |
-|33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
-|34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
+|25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Polônia) | Sim | Meados de Outubro |- |
+|26 | [InOut](https://hackinout.co/) | Onsite(Índia) | Sim | Outubro | - |
+|27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (Índia) | Não | Agosto-Setembro | - |
+|28 | [HackDTU](http://hackdtu.tech/) | Onsite(Índia) | Não | - | - |
+|29 | [HashHacks](http://hashhacks.tech/) | Onsite(Índia) | Não | Meados de Outubro | - |
+|30 | [Hack Western](https://hackwestern.com/) | Onsite(Universidade de Western) | Sim (cada caso analisado individualmente) | Final de Novembro | Meados de Outubro |
+|31 | [YHack](https://www.yhack.org/) | Onsite(Universidade de Yale) | Sim | Final de Novembro | - |
+|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Universidade de Reva) | Outubro(Envio da Ideia) | Final de Novembro | - |
+|33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (Índia) | - | Setembro-Outubro | - |
+|34 | [HackISU](https://hackisu.org/)| EUA | Não | Outubro | - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
 
-|ID| Name  | Location |
+|ID| Nome  | Localização |
 |--|------ |----------|
 |1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
 |2 | [ACM - ICPC]() | Online & On-Site |
@@ -286,22 +286,22 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 
 ##  2.3  Hackathon Search Portals :dart:
-|s.no| Name  | Location | Category |
+|s.no| Nome  | Localização | Categoria |
 |---| ------ |---| --- |
-|1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
-|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
-|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
-|4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
-|5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL |
-|6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
-|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
+|1| [HackSociety](https://hacksociety.tech/attend/)| Índia | Todos |
+|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | Todos |
+|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | Todos |
+|4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | Todos |
+|5|[TechGIG - Search Online Competitons]()| Online & On-Site |Todos |
+|6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Ciência de Dados (Data Science) | |
+|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | Todos |
 
 ## 2.4 Events :heart_eyes:
 
-> **Check out these events for your region**
+> **Confira edições destes eventos na sua região**
 
-1. Google Developer Day - Organized by GDG
-2. Google IO extended - Organized by GDG
+1. Google Developer Day - Organizado por GDG
+2. Google IO extended - Organizado por GDG
 3. Google Solve for India
 3. Paytm Build for India Workshops [ Delhi, Banglore ]
 4. NVIDIA Developer Connect [ Global ]
@@ -314,17 +314,17 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
 
-|ID| Name  | Location |
+|ID| Nome  | Localização |
 |--|------ |----------|
-|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
-|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
-|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
-|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
+|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, Índia |
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & EUA |
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, Califórnia |
+|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | Nova Iorque |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
+|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | Roma, Itália |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Nova Deli, India|
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | EUA |
 
 ## 2.6 Hiring Challenges :heart:
 
