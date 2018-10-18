@@ -139,3 +139,10 @@ You can find me on:
 	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
 	- [GitHub](https://github.com/dipakkr)
   
+## 24. Harshit Modi
+- Current grad student at UTA, texas
+- Having 2 years of experience in web development
+- From India
+- You can find me on:
+	- [GitHub](https://github.com/Harshit-modi)
+	- [LinkedIn](https://www.linkedin.com/in/harshit-modi/)
