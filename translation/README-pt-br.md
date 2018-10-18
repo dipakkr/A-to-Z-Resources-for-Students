@@ -257,6 +257,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | Outubro (Submissão da ideia) | fim de Nov | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | Setembro-Outubro | - |
 |34 | [HackISU](https://hackisu.org/)| USA | Não | Outubro | - |
+
 ----------------------------------------------------------
 
 ##  2.2 Competições :bomb:
@@ -316,15 +317,15 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 |ID| Nome  | Local |
 |--|------ |----------|
-|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
-|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
-|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
-|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
+|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, Índia |
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & EUA |
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, Califórnia |
+|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | Nova Iorque |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
+|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | Roma, Itália |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Nova Deli, India|
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | EUA |
 
 ## 2.6 Desafios de contratação :heart:
 
