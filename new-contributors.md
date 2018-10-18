@@ -127,3 +127,9 @@ You can find me on:
 - Brazilian Computer Science student.
 - You can find me on:
 	- [GitHub](https://github.com/vncsalencar)
+
+##23. Samuel Akintunde
+- Full stack designer and developer.
+-You can find me on:
+	-[Github](https://github.com/samakintunde37)
+	-[Website](https://samakintunde.design)
