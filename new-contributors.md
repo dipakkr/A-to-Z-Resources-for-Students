@@ -151,3 +151,29 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/Harshit-modi)
 	- [LinkedIn](https://www.linkedin.com/in/harshit-modi/)
+## James Bedwell
+- Studying Web Development
+- You can find me on:
+	- [GitHub](https://github.com/jamesrbedwell)
+	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+## Vivek Raj
+- Working on python, django.
+- From Kharagpur, India.
+- You can find me on:
+	- [GitHub](https://github.com/vivekrj0)
+	- [Twitter](http://twitter.com/vivekrj0)
+
+## Bhavy Singh
+
+- You can find me on:
+	- [GitHub](https://github.com/bhavybarca)
+
+
+## Ashok KS
+- Data Science student at Monash University, Melbourne
+- Interested in Machine Learning and Data Enginering
+- 8 years of experience as a Data Analyst
+
+- You can find me on:
+	- [GitHub](https://github.com/ksashok)
+	- [LinkedIn](https://www.linkedin.com/in/ksashok/)

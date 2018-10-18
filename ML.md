@@ -16,6 +16,7 @@
      - [Top Github Repositories](#1.4-top-github-repositories)
      - [Linear Regression from scratch](https://www.cs.toronto.edu/~frossard/post/linear_regression/)
      - [Logistic Regression from scratch](https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac)
+     - [Stanford Statistical Learning Course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 
 
 2.  [Deep Learning](#2-hackathons-and-events)
