@@ -170,7 +170,7 @@ do
 break statement is used to terminate the current loop the moves to the next line of the code.
 continue statement skips the current loop index and moves to the next iteration.
 
-# GOTO
+###12 GOTO
 syntax of goto is as follows:
 goto label;
 ..
@@ -202,7 +202,7 @@ value of a: 17
 value of a: 18
 value of a: 19
 
-#12 ARRAYS
+###13 ARRAYS
 1)Declaraction: 
 typeof_array array_name[size];
 eg:
@@ -214,7 +214,7 @@ int k=arr[2]; //k stores the element at index 2 of the array
 for(i =0;i<3;i++){
   scanf("%d", &arr[i]); // takes the values in the array arr by the user
 }
-#13 STRINGS
+###14 STRINGS
 1)Declaraction: 
 char string_name[size];
 scanf("%s",string_nam); 
