@@ -6,7 +6,9 @@
 Instructions :
 
 - Please consider adding your national flag above.
+
 - In the table, add your detail at the bottom.
+
 - In Case, you don't want to disclose your contact information. 
   No Problem, This place is just created to know people who are contributing to this repository. 
 
