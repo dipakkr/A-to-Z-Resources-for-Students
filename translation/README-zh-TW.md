@@ -2,11 +2,12 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should definitely check this out.
+### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should 
+definitely check this out
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. I don't want you to miss these due to lack of information. Here I have collated lists of resources for students. If you are in college, or a college graduate, you should definitely check it out.
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
 
-![Image](res/xx.gif)
+![Image](/res/xx.gif)
 
 *Image credits: Google*
 
@@ -86,10 +87,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
-
--  **Test ML Models on Datasets**
-    - [Kaggle](https://www.kaggle.com/)
-    - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
 
 
 ## 1.3 Deep Learning
@@ -194,7 +191,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
 Different Programming Languages**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
@@ -238,8 +235,8 @@ Different Programming Languages**
  - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
 
 ## 1.12 R Language
-- [RStudio}(https://www.rstudio.com/online-learning/)
-- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
+- [RStudio}(https://www.rstudio.com/online-learning/) 
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R) 
 - [R-Bloggers](https://www.r-bloggers.com/
 
 =============================================================================================
@@ -354,7 +351,6 @@ Different Programming Languages**
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 |9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
 
 ## 2.6 Hiring Challenges :heart:
 
@@ -380,7 +376,6 @@ Different Programming Languages**
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
-11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
@@ -418,8 +413,6 @@ Different Programming Languages**
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
-
-4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
 =============================================================================================
 # 4. Open Source Programs :octocat:
@@ -464,7 +457,6 @@ Different Programming Languages**
 5. *Contact HRs on LinkedIn*
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
-8. [Intern Supply](https://intern.supply/)
 
     ### Tips for Internship:
 
@@ -566,4 +558,3 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
-8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
