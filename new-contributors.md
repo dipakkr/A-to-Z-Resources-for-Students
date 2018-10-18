@@ -5,9 +5,11 @@
 ```
 Instructions :
 
-- Please consider adding your national flag above.
+- Please consider adding your national flag above,if it is not there.
 
 - In the table, add your detail at the bottom.
+
+- Don't Change the Format of table or modify someone else content.
 
 - In Case, you don't want to disclose your contact information. 
   No Problem, This place is just created to know people who are contributing to this repository. 
