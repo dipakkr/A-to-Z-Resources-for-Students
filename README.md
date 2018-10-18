@@ -387,6 +387,7 @@ Different Programming Languages**
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+12. [ Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
@@ -395,6 +396,7 @@ Different Programming Languages**
 4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
+7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University]()
