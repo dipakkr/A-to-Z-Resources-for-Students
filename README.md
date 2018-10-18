@@ -8,9 +8,9 @@
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. I don't want you to miss these due to lack of information. Here I have collated lists of resources for students. If you are in college, or a college graduate, you should definitely check it out.
 
-![Image](res/xx.gif)
+![Image](res/frontimg.jpg)
 
-*Image credits: Google*
+*Photo by Gerd Altmann from Pexels*
 
 ## Table of Contents :clipboard:
 
