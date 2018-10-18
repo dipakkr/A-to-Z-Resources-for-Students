@@ -2,6 +2,8 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
+> ## [Check Out the List of Contributors :heart::heart:](new-contributors.md) - **Add your details here** 
+
 ### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. I don't want you to miss these due to lack of information. Here I have collated lists of resources for students. If you are in college, or a college graduate, you should definitely check it out.
@@ -49,6 +51,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
+12. [Contributors](new-contributors.md)
 
 =============================================================================================
 # 1. Coding Resources :pencil:
@@ -161,6 +164,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [Javascript30 | Wes Bos](https://javascript30.com/)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -170,6 +174,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
+     - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
 
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
