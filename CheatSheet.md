@@ -16,19 +16,22 @@ do          if          static      while
 ### 2 ALLOWED CHARACTER SET
 
 ```
-Alphabets - A, B, ….., Y, Z a, b, ……, y, z
+Alphabets - A, B, â€¦.., Y, Z a, b, â€¦â€¦, y, z
 Digits - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-Special symbols - ~ ‘ ! @ # % ^ & * ( ) _ - + = | \ { } [ ] : ; " ' < > , . ? /
+Special symbols - ~ â€˜ ! @ # % ^ & * ( ) _ - + = | \ { } [ ] : ; " ' < > , . ? /
 ```
 
 ### 3 DATA TYPES and PLACEHOLDERS
 
-some common datatypes are:
+**Some common datatypes are:**
+
+```
 int - integer
 char - character
 long - long integer
 float - float number
 double - long float
+```
 
 > use scanf to take input from the user
 > scanf("Format string",&variable,&variable,...); 
@@ -74,7 +77,7 @@ double - long float
 | Structure Operator	  |            .                                      |	  Left to Right   |
 | Unary minus	          |            -                                      |	  Right to Left   |
 | Increment/Decrement	  |          ++, --	                              |   Right to Left   |
-| One’s compliment	  |              ~                                    |	  Right to Left   |
+| Oneâ€™s compliment	  |              ~                                    |	  Right to Left   |
 | Negation	          |              !                                    |	  Right to Left   |
 | Address of              |        	&                                     |	  Right to Left   |
 | Value of address	  |             `*`	                              |   Right to Left   |
@@ -167,8 +170,8 @@ do
 ```
 ### 11 BREAK CONTINUE STATEMENT
 
-break statement is used to terminate the current loop the moves to the next line of the code.
-continue statement skips the current loop index and moves to the next iteration.
+- break statement is used to terminate the current loop the moves to the next line of the code.
+- continue statement skips the current loop index and moves to the next iteration.
 
 # GOTO
 syntax of goto is as follows:
@@ -202,10 +205,12 @@ value of a: 17
 value of a: 18
 value of a: 19
 
-#12 ARRAYS
-1)Declaraction: 
+### 12 ARRAYS
+
+1. Declaraction: 
 typeof_array array_name[size];
-eg:
+```
+Eg:
 int arr[10]; // makes an integer array of size 10
 int num[6] = { 2, 4, 12, 5, 45, 5 } ; 
 2)Accessing Elements:
@@ -214,17 +219,27 @@ int k=arr[2]; //k stores the element at index 2 of the array
 for(i =0;i<3;i++){
   scanf("%d", &arr[i]); // takes the values in the array arr by the user
 }
-#13 STRINGS
+```
+
+
+### 13 STRINGS
+
 1)Declaraction: 
+
+```
 char string_name[size];
 scanf("%s",string_nam); 
-a string has '\0' as the last element which tells the end of string
-it is accessed in the same way as an array
-a string is in many ways similar to array
+```
 
-2) some basic built-in fucntions of strings
-just include string.h at the top of your code
+- A string has '\0' as the last element which tells the end of string
+- It is accessed in the same way as an array
+- A string is in many ways similar to array
 
+2. Some basic built-in fucntions of strings
+
+> Just include string.h at the top of your code
+
+```
 strlen - Finds length of a string
 strlwr - Converts a string to lowercase
 strupr - Converts a string to uppercase
@@ -248,4 +263,22 @@ strstr - Finds first occurrence of a given string in another string
 strset - Sets all characters ofstring to a given character
 strnset - Sets first n characters ofa string to a given character
 strrev - Reverses string
+```
+
+### 13 STRUCTURE 
+	
+- A structure is a user defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type. 
+
+>‘struct’ keyword is used to create a structure. Following is an example.
+
+```
+struct addrress 
+{ 
+   char name[50]; 
+   char street[100]; 
+   char city[50]; 
+   char state[20]; 
+   int pin; 
+};
+```
 
