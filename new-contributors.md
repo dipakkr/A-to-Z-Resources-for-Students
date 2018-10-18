@@ -56,4 +56,9 @@ Instructions :
 | 35. | Olatz C. Pérez | Spain | Computer Science Engineering - Working in VR Simulations and amateur videogames| [GitHub](https://github.com/Darkatom) - [LinkedIn](https://www.linkedin.com/in/olatz-casta%C3%B1o-p%C3%A9rez-39034011a/) |
 
 
-###  Thanks, You did a great Job. Please Consider giving :star: if you :love: the efforts of the above people. 
+
+
+
+---
+
+###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts. 
