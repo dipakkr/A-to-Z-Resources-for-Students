@@ -2,6 +2,10 @@
 
 ### It's time to network :india: :us: :cn: 
 
+- Please consider adding your national flag above. 
+- In the table, add your detail at the bottom. 
+
+
 | S.no | Name | Country | Introduction | Contact |
 |------|:------:|:---------:|:--------------|:------------|
 | 1. | **Neelesh Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
