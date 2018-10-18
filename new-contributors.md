@@ -15,7 +15,7 @@ Instructions :
 ```
 
 | S.no | Name | Country | Introduction | Contact |
-|------|:------:|:---------:|:--------------|:------------|
+|------|:------|:---------:|:--------------|:------------|
 | 1. | **Neelesh Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
 | 2. | **Archit Kaushik**  |-| | [GitHub](https://github.com/architkshk) |
 | 3. | Pratyusha Thumiki | India | | [GitHub](https://github.com/PratyushaThumiki) |
