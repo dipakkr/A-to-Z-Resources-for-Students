@@ -147,7 +147,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.6 Frontend Web Development :computer:
 
-- **HTML and CSS3**
+- **HTML5 and CSS3**
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
