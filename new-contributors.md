@@ -2,6 +2,10 @@
 
 > **Add your details at the Bottom of list**. 
 
+## Neelesh Gupta
+
+- You can find me on:
+	- [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)
 
 ## Archit Kaushik (architkshk)
 
