@@ -429,7 +429,8 @@ Different Programming Languages**
 
 =============================================================================================
 # 4. Open Source Programs :octocat:
-
+[Open Source Book](https://producingoss.com/)
+[Open Source Book Series](https://opensource.com/resources/ebooks)
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 
