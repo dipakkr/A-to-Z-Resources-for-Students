@@ -133,3 +133,11 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/jamesrbedwell)
 	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+
+## 24. Harshit Modi
+- Current grad student at UTA, texas
+- Having 2 years of experience in web development
+- From India
+- You can find me on:
+	- [GitHub](https://github.com/Harshit-modi)
+	- [LinkedIn](https://www.linkedin.com/in/harshit-modi/)
