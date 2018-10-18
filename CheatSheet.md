@@ -1,6 +1,9 @@
-the following is the cheatsheet for the prrogramming language C
+# CheatSheet 
 
-#1 KEYWORDS (these words are reserved for the language and cannot be used as any variable name by the user)
+## C Programming 
+
+### 1 KEYWORDS (these words are reserved for the language and cannot be used as any variable name by the user)
+
 auto        double      int         struct 
 break       else        long        switch 
 case        enum        register    typedef 
@@ -10,13 +13,13 @@ continue    for         signed      void
 default     goto        sizeof      volatile 
 do          if          static      while
 
-#2 ALLOWED CHARACTER SET
+### 2 ALLOWED CHARACTER SET
 
 Alphabets - A, B, ….., Y, Z a, b, ……, y, z
 Digits - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 Special symbols - ~ ‘ ! @ # % ^ & * ( ) _ - + = | \ { } [ ] : ; " ' < > , . ? /
 
-#3 DATA TYPES and PLACEHOLDERS
+### 3 DATA TYPES and PLACEHOLDERS
 some common datatypes are:
 int - integer
 char - character
@@ -24,25 +27,27 @@ long - long integer
 float - float number
 double - long float
 
-use scanf to take input from the user
-scanf("Format string",&variable,&variable,...); 
+> use scanf to take input from the user
+> scanf("Format string",&variable,&variable,...); 
 
-Placeholders        Format
-%c                  Character
-%d                  Signed decimal integer
-%i                  Signed decimal integer
-%e                  Scientific notation[e]
-%E                  Scientific notation[E]
-%f                  Decimal floating point
-%o                  unsigned octal
-%s                  String of character
-%u                  unsigned decimal integer
-%x                  unsigned Hexadecimal (lower)
-%X                  unsigned Hexadecimal (upper)
-%p                  dispaly a pointer
-%%                  print a %
+| Placeholders  |       Format |
+|:--------------:|:------------ | 
+| %c         |         Character |
+| %d           |        Signed decimal integer | 
+| %i          |         Signed decimal integer| 
+| %e          |         Scientific notation[e]| 
+| %E            |       Scientific notation[E]| 
+| %f              |     Decimal floating point| 
+| %o                |   unsigned octal| 
+| %s              |     String of character| 
+| %u               |    unsigned decimal integer| 
+| %x                |   unsigned Hexadecimal (lower)| 
+| %X                 |  unsigned Hexadecimal (upper)| 
+| %p                  | dispaly a pointer| 
+| %%                  | print a %| 
 
-#4 ESCAPE SEQUENCES
+###  ESCAPE SEQUENCES
+
 \a - Bell
 \n - New line
 \r - Carriage return
