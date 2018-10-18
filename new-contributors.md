@@ -3,14 +3,18 @@
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: 
 
 ```
-- **Please consider adding your national flag above**. 
-- **In the table, add your detail at the bottom.** 
+Instructions :
+
+- Please consider adding your national flag above.
+- In the table, add your detail at the bottom.
+- In Case, you don't want to disclose your contact information. No Problem, This place is just created to know people who are contributing to this repository. 
+
 ```
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------:|:---------:|:--------------|:------------|
 | 1. | **Neelesh Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
-| 2. | **Archit Kaushik**   |-| | [GitHub](https://github.com/architkshk) |
+| 2. | **Archit Kaushik**  |-| | [GitHub](https://github.com/architkshk) |
 | 3. | Pratyusha Thumiki | India | | [GitHub](https://github.com/PratyushaThumiki) |
 | 4. | Manuel Coppotelli  |-| | [GitHub](https://github.com/manuelcoppotelli) |
 | 5. | Nathan Glover  |-| | [GitHub](https://github.com/t04glovern) |
