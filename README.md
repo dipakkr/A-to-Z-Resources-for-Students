@@ -164,6 +164,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [Javascript30 | Wes Bos](https://javascript30.com/)
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -173,6 +174,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
+     - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
 
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
