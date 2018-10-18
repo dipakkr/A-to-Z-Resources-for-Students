@@ -35,11 +35,6 @@
 | 29. | Vivek Raj | India | Python, Django. | [GitHub](https://github.com/vivekrj0) - [Twitter](http://twitter.com/vivekrj0)|
 | 30. | Deepak Kumar :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
 | 31. | Ashok KS |Melbourne| Monash University, Melbourne -  8 years of exp. as Data Analyst. | [GitHub](https://github.com/ksashok) - [LinkedIn](https://www.linkedin.com/in/ksashok/) |
-| 32. | Rajesh Mohan |  New York | CS Grad at Stony Brook University- Python - Data Science - Learning React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
-| 33. | Ariel Teague |-| Backend Software Engineer in an Angular/Java shop as a dayjob in Northwest Arkansas. Building story apps and games focused on protecting endangered languages in my own time. Interested in Machine Learning and Game Development as tools. | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
-| 34. | Jayesh Patel | India | Final Year UnderGrad, MEAN Developer - Interested in pursuing mscs graduate degree in Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
 | 35. | Suyasha | New York | | [GitHub](https://github.com/suyasha0) |
 | 36. | Thomas Smith | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
 |37. | Ken Davis | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
-
-
