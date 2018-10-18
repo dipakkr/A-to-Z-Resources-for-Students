@@ -40,7 +40,7 @@
 | 34. | Jayesh Patel | India | Undergraduate currently in final year. Full Stack Web Developer with MEN Stack. Interested in pursuing mscs graduate degree in Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
 | 35. | Suyasha | New York City | | [GitHub](https://github.com/suyasha0)|
 | 36. | Thomas Smith | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
-|37| | Ken Davis | | Web Development and Technical Writer | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
+|37. | Ken Davis | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
 
 
 
