@@ -128,11 +128,38 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/jiazheng0609)
 
+## Bhavy Singh
+
+- You can find me on:
+	- [GitHub](https://github.com/bhavybarca)
+
 ## James Bedwell
 - Studying Web Development
 - You can find me on:
 	- [GitHub](https://github.com/jamesrbedwell)
 	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+
+
+## Harshit Modi
+- Current grad student at UTA, texas
+- Having 2 years of experience in web development
+- From India
+- You can find me on:
+	- [GitHub](https://github.com/Harshit-modi)
+	- [LinkedIn](https://www.linkedin.com/in/harshit-modi/)
+
+## James Bedwell
+- Studying Web Development
+- You can find me on:
+	- [GitHub](https://github.com/jamesrbedwell)
+	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
+
+## Vivek Raj
+- Working on python, django.
+- From Kharagpur, India.
+- You can find me on:
+	- [GitHub](https://github.com/vivekrj0)
+	- [Twitter](http://twitter.com/vivekrj0)
 
 ##  Deepak Kumar :octocat:
 
@@ -143,31 +170,7 @@ You can find me on:
 - You can Find me on : 
 	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
 	- [GitHub](https://github.com/dipakkr)
-
-## Harshit Modi
-- Current grad student at UTA, texas
-- Having 2 years of experience in web development
-- From India
-- You can find me on:
-	- [GitHub](https://github.com/Harshit-modi)
-	- [LinkedIn](https://www.linkedin.com/in/harshit-modi/)
-## James Bedwell
-- Studying Web Development
-- You can find me on:
-	- [GitHub](https://github.com/jamesrbedwell)
-	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
-## Vivek Raj
-- Working on python, django.
-- From Kharagpur, India.
-- You can find me on:
-	- [GitHub](https://github.com/vivekrj0)
-	- [Twitter](http://twitter.com/vivekrj0)
-
-## Bhavy Singh
-
-- You can find me on:
-	- [GitHub](https://github.com/bhavybarca)
-
+  
 
 ## Ashok KS
 - Data Science student at Monash University, Melbourne
@@ -177,3 +180,14 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/ksashok)
 	- [LinkedIn](https://www.linkedin.com/in/ksashok/)
+  
+  
+##  Rajesh Mohan
+- Computer Science Graduate Student at Stony Brook University, New York.
+- Want to build web-apps to solve large-scale problems.
+- Love Python for Data Science and ML and learning React and React Native to build interfaces. 
+
+- You can Find me on : 
+	- [LinkedIn](https://www.linkedin.com/in/rajeshm93/) 
+	- [GitHub](https://github.com/rajesh1993)
+
