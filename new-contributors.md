@@ -72,6 +72,10 @@
 - You can find me on:
 	- [GitHub](https://github.com/LShun)
 
+##  Angga Lanuma (lanuma)
+- You can find me on:
+    - [My Website](https://lanuma.web.id/)
+    - [LinkedIn](https://www.linkedin.com/in/lanuma/)
 	
 ##  Ron Guest (ronguest)
 
