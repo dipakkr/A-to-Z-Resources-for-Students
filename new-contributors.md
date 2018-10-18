@@ -24,7 +24,7 @@
 | Sachin Rungta (sac6120) | [GitHub](https://github.com/sac6120) |
 | Subhra Paladhi | [GitHub](https://github.com/maverick1223) [LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167) |
 | Noel (vodkanoya) | [GitHubt](https://github.com/vodkanoya) |
-| Mahmut Alban | My website](https://albanmahmut.github.io/Portfolio/CV/index.html) [LinkedIn](https://www.linkedin.com/in/mahmutalban/?locale=en_US) [GitHub](https://github.com/albanmahmut) |
+| Mahmut Alban | [My website](https://albanmahmut.github.io/Portfolio/CV/index.html) [LinkedIn](https://www.linkedin.com/in/mahmutalban/?locale=en_US) [GitHub](https://github.com/albanmahmut) |
 | Mona Fenzl | [GitHubt](https://github.com/ZuckerWatte) |
 | Vinícius Alencar (vncsalencar) | Brazilian Computer Science student. [GitHub](https://github.com/vncsalencar) |
 | Pedro Leão | [GitHub](https://github.com/phenriqueleao) |
