@@ -57,40 +57,41 @@ Placeholders        Format
 \0 - Null
 
 #5 PRECEDENCE ORDER
-DESCRIPTION	                   OPERATORS	                              ASSOCIATIVITY
-Function Expression	              ()	                                  Left to Right
-Array Expression	                []	                                  Left to Right
-Structure Operator	              ->	                                  Left to Right
-Structure Operator	              .                                 	  Left to Right
-Unary minus	                      -                                 	  Right to Left
-Increment/Decrement	            ++, --	                                Right to Left
-One’s compliment	                ~                                 	  Right to Left
-Negation	                        !                                 	  Right to Left
-Address of                      	&                                  	  Right to Left
-Value of address	               `*`	                                  Right to Left
-Type cast	                      (type)	                                Right to Left
-Size in bytes	                  sizeof	                                Right to Left
-Multiplication	                  `*`	                                  Left to Right
-Division	                         /	                                  Left to Right
-Modulus	                           %	                                  Left to Right
-Addition	                         +	                                  Left to Right
-Subtraction	                       -	                                  Left to Right
-Left shift	                       <<		                                Left to Right
-Right shift                      	 >>	                                  Left to Right
-Less than	                         <	                                  Left to Right
-Less than or equal to	             <=	                                  Left to Right
-Greater than	                     >                                  	Left to Right
-Greater than or equal to	         >=                                  	Left to Right
-Equal to	                         ==                                  	Left to Right
-Not equal to	                     !=                                  	Left to Right
-Bitwise AND	                       &                                  	Left to Right
-Bitwise exclusive OR	             ^                                  	Left to Right
-Bitwise inclusive OR	             |                                  	Left to Right
-Logical AND	                       &&                                 	Left to Right
-Logical OR	                       ||	                                  Left to Right
-Conditional	                       ?:	                                  Right to Left
-Assignment	          =, *=, /=, %=, +=, -=, &=, ^=, |=, <<=, >>=	      Right to Left
-Comma	                              ,	                                  Right to Left
+| DESCRIPTION	          |         OPERATORS	                              | ASSOCIATIVITY	  |
+| ------------------------|:-------------------------------------------------:| -----------------:|
+| Function Expression	  |           ()	                              |   Left to Right   |
+| Array Expression	  |              []	                              |   Left to Right   |
+| Structure Operator	  |            ->	                              |   Left to Right   |
+| Structure Operator	  |            .                                      |	  Left to Right   |
+| Unary minus	          |            -                                      |	  Right to Left   |
+| Increment/Decrement	  |          ++, --	                              |   Right to Left   |
+| One’s compliment	  |              ~                                    |	  Right to Left   |
+| Negation	          |              !                                    |	  Right to Left   |
+| Address of              |        	&                                     |	  Right to Left   |
+| Value of address	  |             `*`	                              |   Right to Left   |
+| Type cast	          |            (type)	                              |   Right to Left   |
+| Size in bytes	          |        sizeof	                              |   Right to Left   |
+| Multiplication	  |                `*`	                              |   Left to Right   |
+| Division	          |               /	                              |   Left to Right   |
+| Modulus	          |                 %	                              |   Left to Right   |
+| Addition	          |               +	                              |   Left to Right   |
+| Subtraction	          |             -	                              |   Left to Right   |
+| Left shift	          |             <<		                      |   Left to Right   |
+| Right shift             |         	 >>	                              |   Left to Right   |
+| Less than	          |               <	                              |   Left to Right   |
+| Less than or equal to	  |           <=	                              |   Left to Right   |
+| Greater than	          |           >                                       |   Left to Right   |
+| Greater than or equal to|	         >=                                   |	  Left to Right   |
+| Equal to	          |              ==                                   |	  Left to Right   |
+| Not equal to	          |           !=                                      |   Left to Right   |
+| Bitwise AND	          |             &                                     |   Left to Right   |
+| Bitwise exclusive OR	  |           ^                                       |   Left to Right   |
+| Bitwise inclusive OR	  |             |                                     |   Left to Right   |
+| Logical AND	          |             &&                                    |   Left to Right   |
+| Logical OR	          |             ||	                              |   Left to Right   |
+| Conditional	          |             ?:	                              |   Right to Left   |
+| Assignment	          |   =, *=, /=, %=, +=, -=, &=, ^=, |=, <<=, >>=     |   Right to Left   |
+| Comma	                  |           ,	                                      |   Right to Left   |
 
 #6 IF-ELSE STATEMENT
 if(flag) {
