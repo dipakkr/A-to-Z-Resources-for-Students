@@ -376,6 +376,7 @@ Different Programming Languages**
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
+11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
