@@ -1,10 +1,11 @@
 ## Here is List of awesome people who contributed to this repository 
 
-### It's time to network :india: :us: :cn: 
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: 
 
+```
 - Please consider adding your national flag above. 
 - In the table, add your detail at the bottom. 
-
+```
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------:|:---------:|:--------------|:------------|
@@ -27,7 +28,7 @@
 | 17. | Nabanita Dash  |-| Pythonista - ML- NLP - AI | [Github](https://github.com/Naba7) |
 | 18. | Sachin Rungta  |-| | [GitHub](https://github.com/sac6120) |
 | 19. | Subhra Paladhi |-| | [GitHub](https://github.com/maverick1223) - [LinkedIn](https://in.linkedin.com/in/subhra-paladhi-1b42a5167) |
-| 20. | Noel  |-| | [GitHubt](https://github.com/vodkanoya) |
+| 20. | Noel  |-| | [GitHub](https://github.com/vodkanoya) |
 | 21. | Mahmut Alban |-| | [My website](https://albanmahmut.github.io/Portfolio/CV/index.html) - [LinkedIn](https://www.linkedin.com/in/mahmutalban/?locale=en_US) - [GitHub](https://github.com/albanmahmut) |
 | 22. | Mona Fenzl |-| | [GitHub](https://github.com/ZuckerWatte) |
 | 23. | Vinícius Alencar (vncsalencar) | Brazil | CS Student | [GitHub](https://github.com/vncsalencar) |
