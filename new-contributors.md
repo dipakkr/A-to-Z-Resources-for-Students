@@ -116,3 +116,12 @@ You can find me on:
 - You can Find me on : 
 	- [LinkedIn](https://www.linkedin.com/in/dipakkr) 
 	- [GitHub](https://github.com/dipakkr)
+
+## 21. Rajesh Mohan
+- Computer Science Graduate Student at Stony Brook University, New York.
+- Want to build web-apps to solve large-scale problems.
+- Love Python for Data Science and ML and learning React and React Native to build interfaces. 
+
+- You can Find me on : 
+	- [LinkedIn](https://www.linkedin.com/in/rajeshm93/) 
+	- [GitHub](https://github.com/rajesh1993)
