@@ -223,3 +223,9 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/suyasha0)
  
+## Ken Davis  (kdavis-ssi)
+- Web Development and Technical Writer
+- You can find me on:
+	- [GitHub](https://github.com/kdavis-ssi)
+	- [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/)
+	- [Twitter](http://twitter.com/kdavis158)
