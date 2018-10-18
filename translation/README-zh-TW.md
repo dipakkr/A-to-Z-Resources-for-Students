@@ -7,7 +7,7 @@ definitely check this out
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. But, I don't want you to miss these due to lack of information. Here, I have added few resources for students, if you are in college or graduate, you should definitely check it out.
 
-![Image](res/xx.gif)
+![Image](/res/xx.gif)
 
 *Image credits: Google*
 
