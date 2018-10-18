@@ -127,3 +127,9 @@ You can find me on:
 - Brazilian Computer Science student.
 - You can find me on:
 	- [GitHub](https://github.com/vncsalencar)
+
+## 23. James Bedwell
+- Studying Web Development
+- You can find me on:
+	- [GitHub](https://github.com/jamesrbedwell)
+	- [LinkedIn](https://www.linkedin.com/in/jamesbedwell)
