@@ -41,6 +41,6 @@
 | 35. | Suyasha | New York City | | [GitHub](https://github.com/suyasha0)|
 | 36. | Thomas Smith | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
 |37. | Ken Davis | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
-
+| 38. | Murat Kurnaz | Turkey | | [GitHub}(https://github.com/KtrauM)|
 
 
