@@ -2,10 +2,10 @@
 
 > **Add your details at the Bottom of list**. 
 
-| S.no | Name | Country | Introduction | Contact Me |
-|------|------|---------|--------------|------------|
-| 1. | Neelesh Gupta | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
-| 2. | Archit Kaushik  |-| | [GitHub](https://github.com/architkshk) |
+| S.no | Name | Country | Introduction | Contact |
+|------|:------:|:---------:|:--------------|:------------|
+| 1. | **Neelesh Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
+| 2. | **Archit Kaushik**   |-| | [GitHub](https://github.com/architkshk) |
 | 3. | Pratyusha Thumiki | India | | [GitHub](https://github.com/PratyushaThumiki) |
 | 4. | Manuel Coppotelli  |-| | [GitHub](https://github.com/manuelcoppotelli) |
 | 5. | Nathan Glover  |-| | [GitHub](https://github.com/t04glovern) |
@@ -38,3 +38,6 @@
 | 35. | Suyasha | New York | | [GitHub](https://github.com/suyasha0) |
 | 36. | Thomas Smith | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
 |37. | Ken Davis | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
+| 33. | Ariel Teague | Arkansas, USA| Backend Software Engineer - ML - Game Devlopment | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
+| 32. | Rajesh Mohan |  New York | Stony Brook University - Python - Data Science -  React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
+| 34. | Jayesh Patel | India | Final Year Undergrad, MEAN Developer - Interested in pursuing MS at Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
