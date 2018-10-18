@@ -2,7 +2,7 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-> ## [Check Out the List of Contributors](new-contributors.md) - **Add your details here** 
+> ## [Check Out the List of Contributors :heart::heart:](new-contributors.md) - **Add your details here** 
 
 ### Are you a college student or working professional looking for resources to learn a new language or meet new people in community or looking for global conferences, hackathons and competitions to attend? Then, you should definitely check this out.
 
