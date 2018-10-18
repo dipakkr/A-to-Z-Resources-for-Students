@@ -162,3 +162,8 @@ You can find me on:
 - You can find me on:
 	- [GitHub](https://github.com/vivekrj0)
 	- [Twitter](http://twitter.com/vivekrj0)
+## Bhavy Singh
+
+- You can find me on:
+	- [GitHub](https://github.com/bhavybarca)
+
