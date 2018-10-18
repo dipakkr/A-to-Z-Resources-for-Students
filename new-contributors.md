@@ -194,4 +194,16 @@ You can find me on:
 - You can Find me on : 
 	- [LinkedIn](https://www.linkedin.com/in/rajeshm93/) 
 	- [GitHub](https://github.com/rajesh1993)
+	
+	
+## Ariel Teague
+- Backend Software Engineer in an Angular/Java shop as a dayjob in Northwest Arkansas
+- Building story apps and games focused on protecting endangered languages in my own time
+- Interested in Machine Learning and Game Development as tools
+
+-You can find me on:
+	- [GitHub](https://github.com/ArielBurningLadyStudios)
+	- [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/)
+	
+	
 
