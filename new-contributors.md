@@ -229,3 +229,10 @@ You can find me on:
 	- [GitHub](https://github.com/kdavis-ssi)
 	- [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/)
 	- [Twitter](http://twitter.com/kdavis158)
+
+## Cassiano Fontes (cassianofnts)
+- Software Tester in São Paulo, Brazil
+- You can find me on:
+	- [GitHub](https://github.com/cassianofnts)
+	- [Twitter](http://twitter.com/yungcardinals)
+	
