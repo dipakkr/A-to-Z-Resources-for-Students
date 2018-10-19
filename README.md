@@ -549,6 +549,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
       - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
+      - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
@@ -567,4 +568,4 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
-9. [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/) - Contains many links about data, machine learning, and R - *Links*
+
