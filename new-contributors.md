@@ -59,6 +59,7 @@ Instructions :
 | 36. | Jonathan Wagoner | USA | UI Developer | [GitHub](https://github.com/ITSjwags) - [LinkedIn](https://linkedin.com/in/jonathanwagoner/) |
 | 37. | Cassiano Fontes | São Paulo, Brazil |  Software Tester | [GitHub](https://github.com/cassianofnts) - [Twitter](http://twitter.com/yungcardinals) | 
 | 38. | Estefany Calderón Parra | Jalisco, México |  Software Engineer | [GitHub](https://github.com/estefycp) - [Twitter](http://twitter.com/estefycp) | 
+| 39 | Jendaipou Palmei  |India| Student| [GitHub](https://github.com/Daipu) |
 
 
 ---
