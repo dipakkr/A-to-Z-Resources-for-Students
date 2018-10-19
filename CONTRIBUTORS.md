@@ -1,6 +1,6 @@
 ## Here is List of awesome people who contributed to this repository 
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: 
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan:
 
 ```
 Instructions :
@@ -62,6 +62,8 @@ Instructions :
 | 39. | **Estefany Calderón Parra** | Jalisco, México |  Software Engineer | [GitHub](https://github.com/estefycp) - [Twitter](http://twitter.com/estefycp) | 
 | 40 | **Jendaipou Palmei**  |India| Student| [GitHub](https://github.com/Daipu) |
 | 41 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
+| 42 | **Jonathan Chang** | Taiwan |  | [GitHub](https://github.com/cccntu) |
+
 
 ---
 
