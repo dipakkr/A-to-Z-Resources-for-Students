@@ -100,6 +100,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.3 Deep Learning
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Top 200 deep learning Github repositories sorted by the number of stars**](res/deeplearning.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
