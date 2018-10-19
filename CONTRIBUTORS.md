@@ -67,6 +67,8 @@ Instructions :
 | 44 | **Jakub Kusiowski** |Poland| Frontend Developper - IT student | [GitHub](https://github.com/KusioDev) - [LinkedIn](https://www.linkedin.com/in/jakub-kusiowski-746a13169/) |
 | 45 | **Ece Mac** | Turkey | Ex-lawyer, Intern Frontend Developer | [GitHub](https://github.com/ecemac) - [LinkedIn](https://www.linkedin.com/in/ece-mac-183123101/) |
 | 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
+| 47 | **Nguyen Cong Khang** | Vietnam | College Student | [GitHub]
+(https://github.com/khang72) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts. 
