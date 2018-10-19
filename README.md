@@ -132,6 +132,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.5 Backend Development :computer:
 
+- [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
+
 -  **Django - Python**
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
@@ -159,6 +161,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development :computer:
 
 - **HTML5 and CSS3**
+    - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
@@ -173,6 +176,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
+    - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - 
 
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -250,6 +255,8 @@ different programming languages**
 
  ## 1.11 Git and Github :octocat:
  - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+ - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/)
@@ -307,7 +314,7 @@ different programming languages**
 |ID| Name  | Location |
 |--|------ |----------|
 |1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC]() | Online & On-Site |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2019) | Online & On-Site |
 |3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
 |4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
 |5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
@@ -410,9 +417,10 @@ different programming languages**
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
 
 ## Student Fellowship Programs :v:
-1. [University Innovation Fellowship - Stanford University]()
+1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
 3. [Urban Leaders Fellowship]()
@@ -434,7 +442,7 @@ different programming languages**
 19. [HackNY Fellows Program](https://apply.hackny.org/)
 
 ## Scholarships :runner:
-1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
+1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
 
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 
