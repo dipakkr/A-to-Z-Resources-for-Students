@@ -89,7 +89,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
-
+    - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
+    - [Openreview](https://openreview.net/)
+ 
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
