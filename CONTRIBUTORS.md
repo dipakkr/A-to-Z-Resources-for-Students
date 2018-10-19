@@ -76,7 +76,7 @@ Instructions :
 | 49 | **Dan Edgren** | Connecticut, USA | Cybersecurity & Beginning Developer | [GitHub](https://github.com/dedgren) |
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
-| 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
+| 52 | **Denise Gillette** | USA | | [GitHub](https://github.com/gilletted) |
 | 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) | 
 | 54. | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
 | 55. | **Vera Sticker** | USA | Teacher and Data Analysis Student | [GitHub](https://github.com/verascity) |
