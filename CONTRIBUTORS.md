@@ -67,7 +67,8 @@ Instructions :
 | 44 | **Jakub Kusiowski** |Poland| Frontend Developper - IT student | [GitHub](https://github.com/KusioDev) - [LinkedIn](https://www.linkedin.com/in/jakub-kusiowski-746a13169/) |
 | 45 | **Ece Mac** | Turkey | Ex-lawyer, Intern Frontend Developer | [GitHub](https://github.com/ecemac) - [LinkedIn](https://www.linkedin.com/in/ece-mac-183123101/) |
 | 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
-| 47 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
+| 47 | **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
+| 48 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
 
 ---
 

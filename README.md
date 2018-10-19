@@ -65,6 +65,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Google Python class](https://developers.google.com/edu/python/)
+-  [Python For Everybody](https://www.coursera.org/specializations/python)
 
 ## 1.2 Machine Learning :robot:
 
@@ -79,10 +80,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **PAID**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+     - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
@@ -91,10 +94,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
     - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
+    - [Research Papers with code](https://github.com/zziz/pwc)
  
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
+    - [Data.Gov](https://www.data.gov/)
 
 
 ## 1.3 Deep Learning
@@ -112,6 +117,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
+    - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
 ## 1.4 Android Development :iPhone:
@@ -388,12 +394,13 @@ different programming languages**
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
 5. [Progate Student Ambassador](http://progate.com/)
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
-7. [GeeksforGeeks Campus Ambassador]()
+7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
 8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 12. [ Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+13. [Codechef Campus Ambassador](https://www.codechef.com/)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
