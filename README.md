@@ -520,7 +520,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |8 | [React Europe]() | France | - | May | - |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 |
-|11| [Grace Hopper Conference and Fellowship]((https://ghcindia.anitab.org)) - *ONLY FOR GIRLS*| USA | YES | Nov14 | Nov16 |
+|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | YES | Nov14 | Nov16 |
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
 |14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
