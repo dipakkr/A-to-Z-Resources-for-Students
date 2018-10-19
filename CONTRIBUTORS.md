@@ -63,6 +63,7 @@ Instructions :
 | 40 | **Jendaipou Palmei**  |India| Student| [GitHub](https://github.com/Daipu) |
 | 41 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 | 42 | **Jonathan Chang** | Taiwan |  | [GitHub](https://github.com/cccntu) |
+| 43 | **Dipti Nayan**  |India| Frontend Developer - Google India Scholar | [GitHub](https://github.com/diptinayan) - [LinkedIn](https://www.linkedin.com/in/dipti-nayan-9746b1115/) |
 
 ---
 
