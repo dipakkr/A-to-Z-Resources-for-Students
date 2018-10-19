@@ -72,6 +72,7 @@ Instructions :
 | 49 | **Dan Edgren** | Connecticut, USA | Cybersecurity & Beginning Developer | [GitHub](https://github.com/dedgren) |
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
 | 51 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
+| 52 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef)
 
 ---
 
