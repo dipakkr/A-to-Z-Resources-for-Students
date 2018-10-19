@@ -487,7 +487,6 @@ Different Programming Languages**
 
 > **Check **Meetup.com** for more events in your locality**
 
-- Coursera F2F Office Hours at PyCon India - **TRENDING**
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
