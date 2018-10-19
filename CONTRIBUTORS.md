@@ -69,6 +69,7 @@ Instructions :
 | 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
 | 47 | **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
 | 48 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
+| 49 | **Dan Edgren** | Connecticut, USA | Cybersecurity & Beginning Developer | [GitHub](https://github.com/dedgren) |
 
 ---
 
