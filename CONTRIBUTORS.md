@@ -72,6 +72,9 @@ Instructions :
 | 49 | **Dan Edgren** | Connecticut, USA | Cybersecurity & Beginning Developer | [GitHub](https://github.com/dedgren) |
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
+| 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
+| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef)
+
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
