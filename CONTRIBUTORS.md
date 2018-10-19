@@ -1,6 +1,6 @@
 ## Here is List of awesome people who contributed to this repository 
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland:
 
 ```
 Instructions :
@@ -64,6 +64,7 @@ Instructions :
 | 41 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 | 42 | **Jonathan Chang** | Taiwan |  | [GitHub](https://github.com/cccntu) |
 | 43 | **Dipti Nayan**  |India| Frontend Developer - Google India Scholar | [GitHub](https://github.com/diptinayan) - [LinkedIn](https://www.linkedin.com/in/dipti-nayan-9746b1115/) |
+| 44 | **Jakub Kusiowski** |Poland| Frontend Developper - IT student | [GitHub](https://github.com/KusioDev) - [LinkedIn](https://www.linkedin.com/in/jakub-kusiowski-746a13169/) |
 
 ---
 
