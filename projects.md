@@ -4,7 +4,19 @@
   - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
   - [Data Science - Pizza de Dados](http://pizzadedados.com/)
   - [Data Science - Serenata de Amor](https://serenata.ai/)
+   
+   2. Beginner Level: Practice Projects 
 
+	- [Iris Data](https://archive.ics.uci.edu/ml/datasets/Iris)
+	- [Loan Prediction Data](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)
+	- [Bigmart Sales Data](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
+	- [Boston Housing Data](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html)
+	- [Time Series Analysis Data](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/)
+	- [Wine Quality Data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+	- [Turkiye Student Evaluation Data](https://archive.ics.uci.edu/ml/datasets/Wine+Qualityhttps://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation)
+	- [Heights and Weights Data](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights)
+
+ 
 ## 2. Blockchain
 
 ## 3. Internet Of Things
