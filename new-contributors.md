@@ -61,7 +61,7 @@ Instructions :
 | 38. | Md. Asifur Rahman Pial  |-| | [GitHub](https://github.com/asifurrahmanpial) | 
 | 39. | Estefany Calderón Parra | Jalisco, México |  Software Engineer | [GitHub](https://github.com/estefycp) - [Twitter](http://twitter.com/estefycp) | 
 | 40 | Jendaipou Palmei  |India| Student| [GitHub](https://github.com/Daipu) |
-| 41 | Akhand Mishra  |India| Student| [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
+| 41 | Akhand Mishra  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 
 ---
 
