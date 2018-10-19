@@ -1,4 +1,4 @@
-﻿## Here is List of awesome people who contributed to this repository 
+﻿## Here is List of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia:
 
@@ -11,8 +11,8 @@ Instructions :
 
 - Don't Change the Format of table or modify someone else content.
 
-- In Case, you don't want to disclose your contact information. 
-  No Problem, This place is just created to know people who are contributing to this repository. 
+- In Case, you don't want to disclose your contact information.
+  No Problem, This place is just created to know people who are contributing to this repository.
 
 ```
 
@@ -51,29 +51,30 @@ Instructions :
 | 31. | **Ashok KS** |Melbourne| Monash University, Melbourne -  8 years of exp. as Data Analyst. | [GitHub](https://github.com/ksashok) - [LinkedIn](https://www.linkedin.com/in/ksashok/) |
 | 35. | **Suyasha** | New York | | [GitHub](https://github.com/suyasha0) |
 | 36. | **Thomas Smith** | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
-| 37. | **Ken Davis** | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)| 
+| 37. | **Ken Davis** | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)|
 | 33. | **Ariel Teague** | Arkansas, USA| Backend Software Engineer - ML - Game Devlopment | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
 | 32. | **Rajesh Mohan** |  New York | Stony Brook University - Python - Data Science -  React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
 | 34. | **Jayesh Patel** | India | Final Year Undergrad, MEAN Developer - Interested in pursuing MS at Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
 | 35. | **Olatz C. Pérez** | Spain | Computer Science Engineering - Working in VR Simulations and amateur videogames| [GitHub](https://github.com/Darkatom) - [LinkedIn](https://www.linkedin.com/in/olatz-casta%C3%B1o-p%C3%A9rez-39034011a/) |
 | 36. | **Jonathan Wagoner** | USA | UI Developer | [GitHub](https://github.com/ITSjwags) - [LinkedIn](https://linkedin.com/in/jonathanwagoner/) |
-| 37. | **Cassiano Fontes** | São Paulo, Brazil |  Software Tester | [GitHub](https://github.com/cassianofnts) - [Twitter](http://twitter.com/yungcardinals) | 
-| 38. | **Md. Asifur Rahman Pial**  |-| | [GitHub](https://github.com/asifurrahmanpial) | 
-| 39. | **Estefany Calderón Parra** | Jalisco, México |  Software Engineer | [GitHub](https://github.com/estefycp) - [Twitter](http://twitter.com/estefycp) | 
+| 37. | **Cassiano Fontes** | São Paulo, Brazil |  Software Tester | [GitHub](https://github.com/cassianofnts) - [Twitter](http://twitter.com/yungcardinals) |
+| 38. | **Md. Asifur Rahman Pial**  |-| | [GitHub](https://github.com/asifurrahmanpial) |
+| 39. | **Estefany Calderón Parra** | Jalisco, México |  Software Engineer | [GitHub](https://github.com/estefycp) - [Twitter](http://twitter.com/estefycp) |
 | 40 | **Jendaipou Palmei**  |India| Student| [GitHub](https://github.com/Daipu) |
 | 41 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 | 42 | **Jonathan Chang** | Taiwan |  | [GitHub](https://github.com/cccntu) |
 | 43 | **Dipti Nayan**  |India| Frontend Developer - Google India Scholar | [GitHub](https://github.com/diptinayan) - [LinkedIn](https://www.linkedin.com/in/dipti-nayan-9746b1115/) |
-| 44 | **Jakub Kusiowski** |Poland| Frontend Developper - IT student | [GitHub](https://github.com/KusioDev) - [LinkedIn](https://www.linkedin.com/in/jakub-kusiowski-746a13169/) |
+| 44 | **Jakub Kusiowski** |Poland| Frontend Developer - IT student | [GitHub](https://github.com/KusioDev) - [LinkedIn](https://www.linkedin.com/in/jakub-kusiowski-746a13169/) |
 | 45 | **Ece Mac** | Turkey | Ex-lawyer, Intern Frontend Developer | [GitHub](https://github.com/ecemac) - [LinkedIn](https://www.linkedin.com/in/ece-mac-183123101/) |
 | 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
 | 47 | **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
 | 48 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
 | 49 | **Dan Edgren** | Connecticut, USA | Cybersecurity & Beginning Developer | [GitHub](https://github.com/dedgren) |
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
-| 51 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
-| 52 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef)
+| 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
+| 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
+| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef)
 
 ---
 
-###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts. 
+###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
