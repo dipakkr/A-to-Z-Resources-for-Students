@@ -65,6 +65,15 @@
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
 
+# 2.  **Deep Learning**
+## 2.1 Where to Start in DL?
+1) Online Courses
+
+   - [Start@Fast.ai](http://course.fast.ai/start.html)
+   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+   
+2)
+
 ## COMING SOON
 
 # 5. **Celebrities in ML and AI world**
