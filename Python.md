@@ -53,6 +53,7 @@
 + <a href = "https://www.geeksforgeeks.org/python-convert-html-pdf/">Convert PDF to HTML | Python </a>
 + <a href = "https://www.geeksforgeeks.org/python-schedule-library/">Python Schedule Library </a>
 + <a href = "https://www.geeksforgeeks.org/calendar-functions-in-python-set-1-calendar-month-isleap/">Python Calendar Library</a>
++ <a href = "https://www.djangoproject.com/">Learn Django to make backend accessible | Python </a>
 
 ## 7. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
