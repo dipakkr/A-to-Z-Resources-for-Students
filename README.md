@@ -179,6 +179,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - 
 
+- **Angular**
+    - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
+    - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
+    - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
+    - [Made With Angular](https://www.madewithangular.com/) - **Gallery of inspiring websites using Angular/AngularJS**
+
 - **React.js**
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
@@ -225,6 +231,8 @@ different programming languages**
 - [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
 - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
+- [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
+- [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)

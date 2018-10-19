@@ -1,4 +1,5 @@
-﻿## Here is List of awesome people who contributed to this repository
+
+## Here is List of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia:
 
@@ -76,7 +77,9 @@ Instructions :
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 | 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
-| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef)
+| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) | 
+| 54. | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
+
 
 ---
 
