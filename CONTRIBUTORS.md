@@ -79,7 +79,7 @@ Instructions :
 | 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
 | 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) | 
 | 54. | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
-
+| 55. | **Vera Sticker** | USA | Teacher and Data Analysis Student | [GitHub](https://github.com/verascity) |
 
 ---
 
