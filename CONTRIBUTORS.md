@@ -70,8 +70,8 @@ Instructions :
 | 47 | **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
 | 48 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
 | 49 | **Dan Edgren** | Connecticut, USA | Cybersecurity & Beginning Developer | [GitHub](https://github.com/dedgren) |
-| 50 | ** Asrst ** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
-| 51 | ** Guido Sanchez ** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
+| 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
+| 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
