@@ -58,7 +58,7 @@ Instructions :
 | 35. | Olatz C. Pérez | Spain | Computer Science Engineering - Working in VR Simulations and amateur videogames| [GitHub](https://github.com/Darkatom) - [LinkedIn](https://www.linkedin.com/in/olatz-casta%C3%B1o-p%C3%A9rez-39034011a/) |
 | 36. | Jonathan Wagoner | USA | UI Developer | [GitHub](https://github.com/ITSjwags) - [LinkedIn](https://linkedin.com/in/jonathanwagoner/) |
 | 37. | Cassiano Fontes | São Paulo, Brazil |  Software Tester | [GitHub](https://github.com/cassianofnts) - [Twitter](http://twitter.com/yungcardinals) | 
-| 38. | Dan E. | Connecticut, USA | Cyber Security Analyst, Beginning developer | [GitHub](https://github.com/dedgren) |
+| 38. | Dan Edgren | Connecticut, USA |  Cyber Security / Beginning Developer | [GitHub](https://github.com/dedgren) |
 | 39. | **Jendaipou Palmei**  |India| Student| [GitHub](https://github.com/Daipu) |
 
 ---
