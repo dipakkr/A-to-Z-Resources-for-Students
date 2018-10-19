@@ -66,7 +66,7 @@ Instructions :
 | 43 | **Dipti Nayan**  |India| Frontend Developer - Google India Scholar | [GitHub](https://github.com/diptinayan) - [LinkedIn](https://www.linkedin.com/in/dipti-nayan-9746b1115/) |
 | 44 | **Jakub Kusiowski** |Poland| Frontend Developper - IT student | [GitHub](https://github.com/KusioDev) - [LinkedIn](https://www.linkedin.com/in/jakub-kusiowski-746a13169/) |
 | 45 | **Ece Mac** | Turkey | Ex-lawyer, Intern Frontend Developer | [GitHub](https://github.com/ecemac) - [LinkedIn](https://www.linkedin.com/in/ece-mac-183123101/) |
-
+| 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts. 
