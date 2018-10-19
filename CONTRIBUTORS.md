@@ -68,7 +68,8 @@ Instructions :
 | 45 | **Ece Mac** | Turkey | Ex-lawyer, Intern Frontend Developer | [GitHub](https://github.com/ecemac) - [LinkedIn](https://www.linkedin.com/in/ece-mac-183123101/) |
 | 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
 | 47 | **Nguyen Cong Khang** | Vietnam | College Student | [GitHub](https://github.com/khang72) |
-| 48 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
+| 48| **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
+| 49 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
 
 ---
 
