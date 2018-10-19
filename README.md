@@ -112,7 +112,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
 
 
-## 1.4 Android Development :iPhone:
+## 1.4 Android Development :iphone:
 
 -  [For Beginners](Android.md)
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
