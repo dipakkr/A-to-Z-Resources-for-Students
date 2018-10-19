@@ -350,7 +350,6 @@ different programming languages**
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
-
 |ID| Name  | Location |
 |--|------ |----------|
 |1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
@@ -358,11 +357,16 @@ different programming languages**
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
+|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 |9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
 |10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
+|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
+|12 | [HackerYou](https://hackeryou.com/) | Toronto |
+|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
+|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
+|15 | [RED Academy](https://redacademy.com) | Canada |
 
 ## 2.6 Hiring Challenges :heart:
 
@@ -433,8 +437,7 @@ different programming languages**
 
 =============================================================================================
 # 4. Open Source Programs :octocat:
-[Open Source Book](https://producingoss.com/)
-[Open Source Book Series](https://opensource.com/resources/ebooks)//links for books
+
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 
