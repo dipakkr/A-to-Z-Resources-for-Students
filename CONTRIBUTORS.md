@@ -92,7 +92,7 @@ Instructions :
 | 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) | 
 | 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
 | 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray)|
-
+| 68 | **Brian Archibald** | USA | JavaScript Developeer | [GitHub] (https://github.com/BrianArchibald)
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
