@@ -1,12 +1,12 @@
-# A alla Z le Risorse per Gli studenti:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Sentitevi liberi di mostrare il vostro amore :heart: mettendo una stella :star:
+> ## Feel free to show your love :heart: by putting a star :star:
 
-> ## [Consulta la Lista di Collaboratori :heart::heart:](CONTRIBUTORS.md) - **Aggiungi i tuoi dati qui**
+> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
-### Sei uno studente di college o di lavoro professionale alla ricerca di risorse per imparare una nuova lingua? Stai cercando di incontrare nuove persone nella vostra comunità o di una ricerca globale per conferenze, hackathons e concorsi a cui partecipare? Se è così, si dovrebbe verificare questo.
+### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-Quando ero al college, ho perso un sacco di opportunità per il hackathons, convegni, stage e molti eventi globali a causa della mancanza di consapevolezza. Non voglio emergenti devs a soffrire come me. Dunque, io e mazzo di altri sviluppatori da tutto, abbiamo raccolto un elenco di risorse per gli studenti. Se siete in un college o un laureato o solo partendo come un dev, si dovrebbe check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
