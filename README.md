@@ -2,7 +2,7 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here** 
+> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
 ### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -95,7 +95,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
     - [Research Papers with code](https://github.com/zziz/pwc)
- 
+
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
@@ -177,7 +177,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
-    - 
+    -
 
 - **Angular**
     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
@@ -256,6 +256,10 @@ different programming languages**
  - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
+ - [W3Schools](https://www.w3schools.in/c-tutorial/)
+ - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
+ - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+
 
 ## 1.10 C++ Language
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
@@ -610,4 +614,3 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
-
