@@ -81,8 +81,8 @@ Instructions :
 | 54 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
 | 55 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) | 
 | 56 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) | 
-
-
+| 57| **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
+| 58 | **Davina Leong** | Singapore | Full-stack LAMP developer | [GitHub](https://github.com/DavinaLeong) - [LinkedIn](https://www.linkedin.com/in/davina-leong-s9115675g/)
 
 ---
 
