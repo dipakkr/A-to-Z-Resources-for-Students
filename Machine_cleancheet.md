@@ -64,50 +64,30 @@
 * [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](http://r4ds.had.co.nz/) - Wickham and Grolemund. Great as introduction on how to use R.
 * [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
 ## Resources
-- [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
-- [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
-- [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
-- [ ] [Programming Community Curated Resources for learning Machine Learning](https://hackr.io/tutorials/learn-machine-learning-ml)
-- [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
-- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
-- [ ] [Machine Learning for Humans🤖👶](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
-- [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
-- [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
-- [ ] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
-- [ ] [How to Learn Machine Learning: The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
-- [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
-- [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
-- [ ] [An Honest Guide to Machine Learning](https://medium.com/axiomzenteam/an-honest-guide-to-machine-learning-2f6d7a6df60e#.ib12a1yw5)
-- [ ] Enough Machine Learning to Make Hacker News Readable Again
-    - [Video](https://www.youtube.com/watch?v=O7IezJT9uSI)
-    - [Slide](https://speakerdeck.com/pycon2014/enough-machine-learning-to-make-hacker-news-readable-again-by-ned-jackson-lovely)
-- [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
-- [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
-- [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
-- [ ] [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
-- [ ] [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
-- Machine Learning courses in Universities
-    - [ ] [Stanford](http://ai.stanford.edu/courses/)
-    - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
-    - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-    - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
-- Flipboard Topics
-    - [Machine learning](https://flipboard.com/topic/machinelearning)
-    - [Deep learning](https://flipboard.com/topic/deeplearning)
-    - [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
-- Medium Topics
-    - [Machine learning](https://medium.com/tag/machine-learning/latest)
-    - [Deep learning](https://medium.com/tag/deep-learning)
-    - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
-- Monthly top 10 articles
-    - [Machine Learning](https://medium.mybridge.co/search?q=%22Machine%20Learning%22)
-    - [Algorithms](https://medium.mybridge.co/search?q=Algorithms)
-- [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
-- [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
+- [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
 
+- [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
+
+- [How do I learn Machine Learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
+
+- [FAQs about Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
+
+- [Does Balancing Classes Improve Classifier Performance?](http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/)
+
+- [What is Deviance?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
+
+- [When to choose which machine learning classifier?](http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier)
+
+- [What are the advantages of different classification algorithms?](https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms)
+
+- [ROC and AUC Explained](http://www.dataschool.io/roc-curves-and-auc-explained/) ([related video](https://youtu.be/OAl6eAyP-yo))
+
+- [An introduction to ROC analysis](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf)
+- [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
+
+- [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
+
+- [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
