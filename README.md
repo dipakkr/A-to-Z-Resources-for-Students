@@ -28,6 +28,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C++ Language](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
+     - [Haskell] (#113-haskell)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -284,7 +285,10 @@ different programming languages**
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
-- [R-Bloggers](https://www.r-bloggers.com/
+- [R-Bloggers](https://www.r-bloggers.com/)
+
+## 1.13 Haskell
+ - [Happy Learn Haskell Tutorial] (http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
 
