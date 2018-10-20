@@ -219,6 +219,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
+
 - **Online Platforms**
     - [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
     - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
@@ -231,6 +232,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
     - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
     - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
+    - [CS50 on HarvardX] (https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
+
 - **Books** 
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.** 
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
@@ -238,6 +241,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
+
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
@@ -350,6 +354,7 @@ different programming languages**
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | 
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -596,6 +601,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
