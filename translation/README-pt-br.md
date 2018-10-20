@@ -15,8 +15,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 1.  [Material de apoio - Como aprender xyz](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
-     - [Machine Learning](#12-machine-learning-robot)
-     - [Deep Learning](#13-deep-learning)
+     - *[Machine Learning]*(#12-machine-learning-robot)
+     - *[Deep Learning]*(#13-deep-learning)
      - [Desenvolvimento Android](#14-desenvolvimento-android-iphone)
      - [Desenvolvimento - Backend](#15-desenvolvimento---backend-computer)
      - [Desenvolvimento - Frontend Web](#16-desenvolvimento---frontend-web-computer)
@@ -67,17 +67,17 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 > [**Consulte este link para obter informações detalhadas sobre Machine Learning e Deep Learning**](ML.md)
 
 -  **Melhores Cursos Online**
-    - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
+    - [*CSE-229 - Stanford University*]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [Aprendizagem por Reforço - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **Gratuito**
-    - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [*Move 37*](https://www.theschool.ai/courses/move-37-course/) - **Gratuito**
+    - [*ML with Python* - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAGO**
 
 -  **Melhores Repositório no GitHub a serem seguidos**
      - [Caminho autodidata para a Ciência de Dados](https://github.com/ossu/data-science)
-     - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+     - [*Python Machine Learning (2nd Ed.) Code Repository*](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 -  **Artigos Científicos**
     - [Arxiv](https://arxiv.org/)
@@ -106,36 +106,36 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 ## 1.4 Desenvolvimento Android :iPhone:
 
 -  [Para iniciantes](Android.md)
--  [Udacity - Cursos gratuitos & Nanodegree](https://udacity.com)
--  [PluralSight - Android Developer Track](http://pluralsight.com/) [GRATUITO por 60 dias]
--  [Caminho para se tornar um Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
--  [Android - examplos](https://github.com/nisrulz/android-examples)
--  [Flutter - Examplos ](https://github.com/nisrulz/flutter-examples)
+-  [*Udacity - Cursos gratuitos & Nanodegree*](https://udacity.com)
+-  [*PluralSight - Android Developer Track*](http://pluralsight.com/) [GRATUITO por 60 dias]
+-  [Caminho para se tornar um *Associate Android Developer*](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+-  [Android - Exemplos](https://github.com/nisrulz/android-examples)
+-  [Flutter - Exemplos ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
 
 ## 1.5 Desenvolvimento - Backend :computer:
 
 -  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Mehor para iniciantes*
+    - [*Try Django* | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Mehor para iniciantes*
     - [Django Docs](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
 
 -  **Node.JS**
-    - [Curso completo de Node.js | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAGO**
+    - [Curso completo de *Node.js* | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAGO**
 
-    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+    - [*Express web framework* (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Vídeo Tutoriais-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bom para iniciantes*
+    - [Vídeo Tutoriais - Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bom para iniciantes*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
-    - [Tutorial Point](https://www.tutorialspoint.com/php/)
+    - [*Tutorial Point*](https://www.tutorialspoint.com/php/)
     - [PHP e Database tutorial](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guia para PHP e conexões SQL com formulário HTML](https://github.com/shauryauppal/PHP-Database-connection)
 
 - **Ruby**
-    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-    - [Aprenda Ruby - The Hard Way](https://learnrubythehardway.org/book/)
+    - [*Ruby on Rails* Tutorial](https://www.railstutorial.org/book)
+    - [Aprenda Ruby - *The Hard Way*](https://learnrubythehardway.org/book/)
 
 ## 1.6 Desenvolvimento - Frontend Web :computer:
 
@@ -512,22 +512,22 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 
 1.   **Ciência de Dados**
       - [Cursos de Ciência de Dados: Tutoriais de R & Python Analysis | DataCamp](http://www.datacamp.com/courses)
-      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
-      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
+      - *[CSE-109 - Harvard University]*(http://cs109.github.io/2015/)
+      - *[CSE231N - Computer Vision Stanford University]*(http://cs231n.stanford.edu/)
 
 2.   **Novas Startups e Histórias**
-      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
-      -  [YourStory](https://yourstory.com/)
-      -  [Entrepreneur.com](https://www.entrepreneur.com/)
-      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
-      -  [ProductHunt](https://producthunt.com)
+      -  *[YCombinator’s Hacker News]*(https://news.ycombinator.com/)
+      -  *[YourStory]*(https://yourstory.com/)
+      -  *[Entrepreneur.com]*(https://www.entrepreneur.com/)
+      -  *[TechCrunch - Tech and Startup News]*(https://techcrunch.com/)
+      -  *[ProductHunt]*(https://producthunt.com)
 
 # 11. Links Adicionais :hamster:
 
-1. [Top 10 incubadoras de Startup na India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
+1. [Top 10 incubadoras de *Startup* na Índia](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [As primeiras 20 horas -- Como aprender tudo](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Aprendizado*
-3. [Você é introvertido? Assista - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Auto-conhecimento*
+3. [Você é introvertido? Assista -- *Power of Introverts*](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Auto-conhecimento*
 4. [30 bolsas internacionais oferecidas pelas melhores universidades do mundo](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Bolsas*
 5. [30 livros famosos que você vai se arrepender de não ler!](https://bornrealist.com/famous-books/) - *Leitura*
-6. [Idéias de inicialização por Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
-7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Aprendizado*
+6. [Idéias de inicialização por __*Y Combinator*__](https://www.ycombinator.com/rfs/) - *Startup*
+7. [*Epicodus Coding Bootcamp Full Curriculum*](https://www.learnhowtoprogram.com/tracks) - *Aprendizado*
