@@ -1,7 +1,4 @@
-# Top-down learning path: Machine Learning for Software Engineers
-
-
-
+# Machine Learning CleanSheet
 
 ---
 
