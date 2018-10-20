@@ -589,6 +589,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
 |36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
 |37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
+|38| [Midwest JS](http://www.midwestjs.com/#/main) | USA | - | Aug 8 - 10  | - |
 =============================================================================================
 
 # 9. Top People to Follow
