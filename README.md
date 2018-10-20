@@ -551,7 +551,7 @@ different programming languages**
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
@@ -579,17 +579,19 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 |
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
-|28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
-|29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
-|30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
-|31| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - |
-|32| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - |
-|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - |
-|34| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - |
-|35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
-|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
-|37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
-|38| [Midwest JS](http://www.midwestjs.com/#/main) | USA | - | Aug 8 - 10  | - |
+|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|28| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
+|29| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
+|30| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26 | |
+|31| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16 | |
+|32| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | |
+|33| [JS Kongress](https://js-kongress.com/)| Munich  | - | March 11 - 12 | - |
+|34| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
+|35| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | - | Jun 11 - 14 | |
+|36| [dotJS](https://www.dotjs.io/)| France | - | Nov 9 | - |
+|37| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
+|38| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
+
 =============================================================================================
 
 # 9. Top People to Follow
