@@ -591,6 +591,8 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 |6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
+|7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
+|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
 
 =============================================================================================
 
