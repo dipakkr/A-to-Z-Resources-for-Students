@@ -2,7 +2,7 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here** 
+> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
 ### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -22,7 +22,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development-iphone)
      - [Backend Development ](#15-backend-development-computer)
      - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structure](#17-data-structures-chart_with_upwards_trend)
+     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -95,7 +95,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
     - [Research Papers with code](https://github.com/zziz/pwc)
- 
+
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
@@ -177,15 +177,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
-    - 
 
-- **Angular**
-    - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
+- **JavaScript Frameworks**    
+     ###### Angular
+     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
     - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
     - [Made With Angular](https://www.madewithangular.com/) - **Gallery of inspiring websites using Angular/AngularJS**
 
-- **React.js**
+     ###### React.js
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
@@ -196,7 +196,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
 
-- **Vue.js**
+     ###### Vue.js
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
 
@@ -219,20 +219,29 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
+
+- **Online Platforms**
+    - [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
+    - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
+    - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must do coding questions for product based companies**
+    - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with programming - programming fundamentals**
+    - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview preparation kit**
+    - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based interviews**
+    - [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
+    - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
+    - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
+    - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
+    - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
+    - [CS50 on HarvardX] (https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
+
+- **Books** 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.** 
+    - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
+    - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
+- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
-- [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
-- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must do coding questions for product based companies**
-- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with programming - programming fundamentals**
-- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview preparation kit**
-- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based interviews**
-- [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
-- [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
-- [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
-- [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
-- [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
+
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
@@ -251,6 +260,10 @@ different programming languages**
  - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
+ - [W3Schools](https://www.w3schools.in/c-tutorial/)
+ - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
+ - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+
 
 ## 1.10 C++ Language
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
@@ -341,6 +354,7 @@ different programming languages**
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | 
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -572,10 +586,11 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |Id | Name | Category|
 |--|------ |---|
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
+|2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
-|4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
-|5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+|5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
 
 =============================================================================================
 
@@ -586,6 +601,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
@@ -604,4 +620,3 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
-

@@ -69,7 +69,7 @@ Instructions :
 | 45 | **Ece Mac** | Turkey | Ex-lawyer, Intern Frontend Developer | [GitHub](https://github.com/ecemac) - [LinkedIn](https://www.linkedin.com/in/ece-mac-183123101/) |
 | 46 | **Povilas Baranovas** | Lithuania | Ex molecular biologist, Junior Frontend Developer | [GitHub](https://github.com/povilasbaranovas) - [LinkedIn](https://www.linkedin.com/in/povilas-baranovas/) |
 | 47 | **Nguyen Cong Khang** | Vietnam | College Student | [GitHub](https://github.com/khang72) |
-| 48| **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
+| 48 | **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
 | 49 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
 | 47 | **Chinmay Rane** | India | Android Developer and Machine Learning Apasionado | [Github](https://github.com/Chinmayrane16) - [LinkedIn](https://www.linkedin.com/in/fuzzywizard/)
 | 48 | **Kei Tangkilisan** | Indonesia |  | [GitHub](https://github.com/KeiVanIndo) |
@@ -79,7 +79,22 @@ Instructions :
 | 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
 | 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |
 | 54. | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) |
-| 55 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray)|
+| 52 | **Denise Gillette** | USA | | [GitHub](https://github.com/gilletted) |
+| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |   
+| 54 | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) | 
+| 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
+| 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) | 
+| 57 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) | 
+| 58 | **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
+| 59 | **Davina Leong** | Singapore | Full-stack LAMP developer | [GitHub](https://github.com/DavinaLeong) - [LinkedIn](https://www.linkedin.com/in/davina-leong-s9115675g/)
+| 60 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
+| 61 | **Subhendu Sethi** | India | Engineer at Amazon | [LinkedIn](https://www.linkedin.com/in/subhendusethi/) - [Github](https://github.com/subhendusethi) |
+| 62 | **Vera Sticker** | USA | Teacher and Data Analysis Student | [GitHub](https://github.com/verascity) |
+| 63 | **Juwana Zerman** | | USA | | [GitHub](https://github.com/JZerman2018) - [LinkedIn](https://www.linkedin.com/in/juwana-zerman/) |
+| 64 | **Tato Alves** | Portugal |  SysAdmin  | [GitHub](https://github.com/TatoAlves/) | 
+| 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) | 
+| 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
+| 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray)|
 
 ---
 
