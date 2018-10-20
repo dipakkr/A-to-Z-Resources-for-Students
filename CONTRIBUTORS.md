@@ -100,6 +100,7 @@ Instructions :
 | 73 | **Rakesh Kumar**  | India | Web Developer | [GitHub] (https://github.com/rakesh258) - [LinkedIn](https://www.linkedin.com/in/rakesh258/)|
 | 74 | **Pedro Veríssimo**  | Brasil | Beginner Developer | [GitHub] (https://github.com/pbv2)|
 | 75 | **Ren Cummings**  | USA | Software Engineer | [GitHub] (https://github.com/nrenc027)|
+| 76 | **Edward Yang**  | USA | CS Student | [GitHub] (https://github.com/efyang)|
 
 ---
 
