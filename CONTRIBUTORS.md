@@ -93,7 +93,9 @@ Instructions :
 | 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
 | 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray)|
 | 68 | **Avi Patil**  | USA | Software Developer | [GitHub] (https://github.com/avithecoder)|
-| 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn(https://linkedin.com/in/msguery)
+| 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn(https://linkedin.com/in/msguery)|
+| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
+
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
