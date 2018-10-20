@@ -177,7 +177,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
-    -
 
 - **Angular**
     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
