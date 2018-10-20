@@ -90,7 +90,8 @@ Instructions :
 | 63 | **Juwana Zerman** | | USA | | [GitHub](https://github.com/JZerman2018) - [LinkedIn](https://www.linkedin.com/in/juwana-zerman/) |
 | 64 | **Tato Alves** | Portugal |  SysAdmin  | [GitHub](https://github.com/TatoAlves/) | 
 | 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) | 
-| 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) | 
+| 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
+| 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray)|
 
 ---
 
