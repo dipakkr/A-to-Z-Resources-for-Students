@@ -579,7 +579,8 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 |
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
-|28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|28| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 |
 
 =============================================================================================
 
