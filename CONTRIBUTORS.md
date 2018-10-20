@@ -95,6 +95,8 @@ Instructions :
 | 68 | **Avi Patil**  | USA | Software Developer | [GitHub] (https://github.com/avithecoder)|
 | 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn(https://linkedin.com/in/msguery)|
 | 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
+| 71 | **Brian Archibald** | USA | JavaScript Developeer | [GitHub] (https://github.com/BrianArchibald)|
+| 72 | **Grant Garrett** | USA | Full-Stack Dev / Indie Game Dev | [GitHub] (https://github.com/CNIAngel) - [LinkedIn] (https://www.linkedin.com/in/grant-garrett-9057694b/)|
 
 ---
 
