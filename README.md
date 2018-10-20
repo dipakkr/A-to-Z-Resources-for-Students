@@ -22,7 +22,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development-iphone)
      - [Backend Development ](#15-backend-development-computer)
      - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structure](#17-data-structures-chart_with_upwards_trend)
+     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -219,20 +219,25 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
+- **Online Platforms**
+    - [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
+    - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
+    - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must do coding questions for product based companies**
+    - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with programming - programming fundamentals**
+    - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview preparation kit**
+    - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based interviews**
+    - [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
+    - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
+    - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
+    - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
+    - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
+- **Books** 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.** 
+    - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
+    - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
+- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
-- [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
-- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must do coding questions for product based companies**
-- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with programming - programming fundamentals**
-- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Interview preparation kit**
-- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Best platform to get prepared for Data Structures based interviews**
-- [LeetCode](https://www.leetcode.com) -  **Platform to prepare for technical interviews with real interview questions**
-- [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
-- [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
-- [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
-- [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
@@ -572,10 +577,11 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |Id | Name | Category|
 |--|------ |---|
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
+|2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
-|4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
-|5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+|5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
 
 =============================================================================================
 
