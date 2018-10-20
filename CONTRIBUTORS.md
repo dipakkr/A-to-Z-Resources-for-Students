@@ -78,11 +78,14 @@ Instructions :
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 | 52 | **Denise Gillette** | USA | | [GitHub] (https://github.com/gilletted) |
 | 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) | 
-| 54 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
-| 55 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) | 
-| 56 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) | 
-| 57| **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
-| 58 | **Davina Leong** | Singapore | Full-stack LAMP developer | [GitHub](https://github.com/DavinaLeong) - [LinkedIn](https://www.linkedin.com/in/davina-leong-s9115675g/)
+| 54. | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) | 
+| 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
+| 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) | 
+| 57 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) | 
+| 58| **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
+| 59 | **Davina Leong** | Singapore | Full-stack LAMP developer | [GitHub](https://github.com/DavinaLeong) - [LinkedIn](https://www.linkedin.com/in/davina-leong-s9115675g/)
+| 60. | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
+
 
 ---
 
