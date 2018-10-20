@@ -591,7 +591,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 |6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
-
+|7 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
 =============================================================================================
 
 # 10. Top Websites to Follow
