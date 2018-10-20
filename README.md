@@ -581,6 +581,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
 |28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
+
 =============================================================================================
 
 # 9. Top People to Follow
