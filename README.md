@@ -597,6 +597,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
 |8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
 |9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
+|10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
 
 =============================================================================================
 
