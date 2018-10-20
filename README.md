@@ -596,6 +596,8 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
 |8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
 |9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
+|10|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|11|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
 
 =============================================================================================
 
