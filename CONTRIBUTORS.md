@@ -91,8 +91,10 @@ Instructions :
 | 64 | **Tato Alves** | Portugal |  SysAdmin  | [GitHub](https://github.com/TatoAlves/) | 
 | 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) | 
 | 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
-| 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray) |
-| 68 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
+| 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub] (https://github.com/jtwray)|
+| 68 | **Avi Patil**  | USA | Software Developer | [GitHub] (https://github.com/avithecoder)|
+| 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn(https://linkedin.com/in/msguery)|
+| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
 
 ---
 
