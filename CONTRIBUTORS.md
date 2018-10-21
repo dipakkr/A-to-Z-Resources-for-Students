@@ -128,6 +128,7 @@ Instructions :
 | 94 | **Nico Belobrajdic**  | Germany | student | [GitHub] (https://github.com/nicobelob)|
 | 1. | **Ashish  Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
 | 95 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
+| 96 | **Ashish Yadav**  | India | Android Developer | [LinkedIn](https://www.linkedin.com/in/ay3524/) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
