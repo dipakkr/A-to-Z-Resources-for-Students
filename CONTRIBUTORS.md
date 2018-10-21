@@ -1,7 +1,7 @@
 
 ## Here is List of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: 
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany:
 
 ```
 Instructions :
@@ -85,18 +85,18 @@ Instructions :
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 | 52 | **Denise Gillette** | USA | | [GitHub](https://github.com/gilletted) |
 | 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |   
-| 54 | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) | 
-| 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
-| 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) | 
-| 57 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) | 
+| 54 | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) |
+| 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) |
+| 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) |
+| 57 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) |
 | 58 | **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
 | 59 | **Davina Leong** | Singapore | Full-stack LAMP developer | [GitHub](https://github.com/DavinaLeong) - [LinkedIn](https://www.linkedin.com/in/davina-leong-s9115675g/)
-| 60 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
+| 60 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) |
 | 61 | **Subhendu Sethi** | India | Engineer at Amazon | [LinkedIn](https://www.linkedin.com/in/subhendusethi/) - [Github](https://github.com/subhendusethi) |
 | 62 | **Vera Sticker** | USA | Teacher and Data Analysis Student | [GitHub](https://github.com/verascity) |
 | 63 | **Juwana Zerman** | | USA | | [GitHub](https://github.com/JZerman2018) - [LinkedIn](https://www.linkedin.com/in/juwana-zerman/) |
-| 64 | **Tato Alves** | Portugal |  SysAdmin  | [GitHub](https://github.com/TatoAlves/) | 
-| 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) | 
+| 64 | **Tato Alves** | Portugal |  SysAdmin  | [GitHub](https://github.com/TatoAlves/) |
+| 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) |
 | 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
 | 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub](https://github.com/jtwray)|
 | 68 | **Avi Patil**  | USA | Software Developer | [GitHub](https://github.com/avithecoder)|
@@ -124,6 +124,8 @@ Instructions :
 | 90 | **Huy Hoang Phi** |  Viet Nam |iOS Developer | [LinkedIn](https://www.linkedin.com/in/huyhoangphi/) |
 | 91 | **Balesabu Godugu** |  India | Full Stack developer | [LinkedIn](https://www.linkedin.com/in/balesabu-godugu-779a3819/) |
 | 92 | **Anna Karpińska** |  Poland |Frontend Developer & Graphic Designer | [GitHub](https://github.com/P1X3L0V4) - [LinkedIn](https://www.linkedin.com/in/p1x3l0v4/) - [Twitter](https://twitter.com/P1X3L0V4) - [Web](http://p1x3l.studio/) |
+| 68 | **Nico Belobrajdic**  | Germany | student | [GitHub] (https://github.com/nicobelob)|
+
 
 ---
 
