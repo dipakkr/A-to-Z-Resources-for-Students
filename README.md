@@ -147,7 +147,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
+    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAID**  *Intermediate level*
+
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good for beginners*
+
+    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recommended for everyone*
+
+    - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Book Advanced level*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
@@ -162,6 +168,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development :computer:
 
 - **HTML5 and CSS3**
+    - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
     - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -176,8 +183,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recommended*
+    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recommended for everyone*
+    - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
+    - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
+    - [Theodinproject](https://www.theodinproject.com/)
+    -
 
 - **JavaScript Frameworks**    
      ###### Angular
@@ -188,6 +202,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      ###### React.js
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+     - [Video Youtube Tutorials - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+     - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactive*
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
@@ -197,7 +213,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
 
-     ###### Vue.js
+
+- **Redux.js**
+     - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+     - [Redux docs](https://redux.js.org/introduction) *Recomended for everyone*
+     - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+     - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+     - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
+     - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
+- **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
 
