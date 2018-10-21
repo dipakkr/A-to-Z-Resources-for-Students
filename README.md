@@ -1,12 +1,12 @@
 # A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Feel free to show your love :heart: by putting a star :star:
+> ## Feel free to show your love :heart: by giving a star :star:
 
 > ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
 ### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. I don't want you to miss out due to a lack of information. Here I have collated lists of resources for students. If you are in college, or a college graduate, you should definitely check it out.
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -28,6 +28,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C++ Language](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
+     - [Haskell] (#113-haskell)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -146,7 +147,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
+    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAID**  *Intermediate level*
+
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good for beginners*
+
+    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recommended for everyone*
+
+    - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Book Advanced level*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
@@ -161,6 +168,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development :computer:
 
 - **HTML5 and CSS3**
+    - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
     - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -175,8 +183,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recommended*
+    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recommended for everyone*
+    - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
+    - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
+    - [Theodinproject](https://www.theodinproject.com/)
+    -
 
 - **JavaScript Frameworks**    
      ###### Angular
@@ -187,6 +202,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      ###### React.js
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+     - [Video Youtube Tutorials - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+     - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactive*
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
@@ -196,7 +213,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
 
-     ###### Vue.js
+
+- **Redux.js**
+     - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+     - [Redux docs](https://redux.js.org/introduction) *Recomended for everyone*
+     - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+     - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+     - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
+     - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
+- **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
 
@@ -233,14 +259,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
     - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
     - [CS50 on HarvardX] (https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
+    - [Codility] (https://app.codility.com/programmers/) - **Develop your coding skills with lessons ot take part in challenges**
 
-- **Books** 
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.** 
+- **Books**
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
+- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship**
+- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
 
 
 ## 1.8 Alexa Tutorials
@@ -282,7 +311,10 @@ different programming languages**
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
-- [R-Bloggers](https://www.r-bloggers.com/
+- [R-Bloggers](https://www.r-bloggers.com/)
+
+## 1.13 Haskell
+ - [Happy Learn Haskell Tutorial] (http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
 
@@ -354,7 +386,7 @@ different programming languages**
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
-|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | 
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -549,7 +581,7 @@ different programming languages**
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
@@ -577,7 +609,24 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 |
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
+|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
+|30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
+|31| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - |
+|32| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - |
+|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - |
+|34| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - |
+|35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
+|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
+|37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
+|38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
+|39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 |
+|40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
+|42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
+|43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - |
+|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - |
 
 =============================================================================================
 
@@ -591,6 +640,21 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 |6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
+|7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
+|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
+|9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
+|10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
+|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
+|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
+|14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
+|15|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|16|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
+|17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
+|18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
+|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
+|20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
+|21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
 
 =============================================================================================
 
