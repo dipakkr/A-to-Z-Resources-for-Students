@@ -309,12 +309,12 @@ different programming languages**
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
 ## 1.12 R Language
-- [RStudio}(https://www.rstudio.com/online-learning/)
+- [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
 
 ## 1.13 Haskell
- - [Happy Learn Haskell Tutorial] (http://www.happylearnhaskelltutorial.com/)
+ - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
 
