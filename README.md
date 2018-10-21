@@ -2,11 +2,11 @@
 
 > ## Feel free to show your love :heart: by putting a star :star:
 
-> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here** 
+> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
 ### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to a lack of awareness. I don't want you to miss out due to a lack of information. Here I have collated lists of resources for students. If you are in college, or a college graduate, you should definitely check it out.
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -95,7 +95,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
     - [Research Papers with code](https://github.com/zziz/pwc)
- 
+
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
@@ -192,13 +192,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Theodinproject](https://www.theodinproject.com/)
     -
 
-- **Angular**
-    - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
+- **JavaScript Frameworks**    
+     ###### Angular
+     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
     - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
     - [Made With Angular](https://www.madewithangular.com/) - **Gallery of inspiring websites using Angular/AngularJS**
 
-- **React.js**
+     ###### React.js
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [Video Youtube Tutorials - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
      - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactive*
@@ -210,6 +211,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
+
 
 - **Redux.js**
      - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
@@ -242,6 +244,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
+
 - **Online Platforms**
     - [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
     - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
@@ -254,13 +257,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
     - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
     - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
-- **Books** 
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.** 
+    - [CS50 on HarvardX] (https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
+
+- **Books**
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
+- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship**
+- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
+
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
@@ -279,6 +287,10 @@ different programming languages**
  - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
+ - [W3Schools](https://www.w3schools.in/c-tutorial/)
+ - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
+ - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+
 
 ## 1.10 C++ Language
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
@@ -369,6 +381,7 @@ different programming languages**
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -592,7 +605,15 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
 |28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
-
+|29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
+|30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
+|31| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - |
+|32| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - |
+|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - |
+|34| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - |
+|35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
+|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
+|37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
 =============================================================================================
 
 # 9. Top People to Follow
@@ -605,6 +626,12 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 |6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
+|7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
+|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
+|9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
+|10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
+|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
+|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
 
 =============================================================================================
 
@@ -615,6 +642,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
@@ -633,4 +661,3 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
-

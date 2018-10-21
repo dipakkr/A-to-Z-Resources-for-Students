@@ -78,15 +78,28 @@ Instructions :
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 | 52 | **Denise Gillette** | USA | | [GitHub](https://github.com/gilletted) |
 | 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |   
-| 54. | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) | 
+| 54 | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) | 
 | 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
 | 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) | 
 | 57 | **Amit Sharma** | India | Linux DevOps Engineer | [LinkedIn](https://www.linkedin.com/in/amitsharma928) | 
-| 58| **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
+| 58 | **Manish Ghumnani** | India |  Software Engineer | [GitHub](https://github.com/Manish-Ghumnani) |
 | 59 | **Davina Leong** | Singapore | Full-stack LAMP developer | [GitHub](https://github.com/DavinaLeong) - [LinkedIn](https://www.linkedin.com/in/davina-leong-s9115675g/)
 | 60 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) | 
 | 61 | **Subhendu Sethi** | India | Engineer at Amazon | [LinkedIn](https://www.linkedin.com/in/subhendusethi/) - [Github](https://github.com/subhendusethi) |
-| 62 | **Chandan Singh** | India | Software Engineer -MERN| [LinkedIn](https://www.linkedin.com/in/chandan-singh-228a1478/) |
+| 62 | **Vera Sticker** | USA | Teacher and Data Analysis Student | [GitHub](https://github.com/verascity) |
+| 63 | **Juwana Zerman** | | USA | | [GitHub](https://github.com/JZerman2018) - [LinkedIn](https://www.linkedin.com/in/juwana-zerman/) |
+| 64 | **Tato Alves** | Portugal |  SysAdmin  | [GitHub](https://github.com/TatoAlves/) | 
+| 65 | **Avinash Raj** | INDIA |  Backend Developer  | [GitHub](https://github.com/avinashraj23/) - [LinkedIn](https://www.linkedin.com/in/avinashraj23/) | 
+| 66 | **Ben Fillipucci** | USA |  Asp.net Dev  | [GitHub](https://github.com/BenCoden/) |
+| 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub](https://github.com/jtwray)|
+| 68 | **Avi Patil**  | USA | Software Developer | [GitHub](https://github.com/avithecoder)|
+| 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn](https://linkedin.com/in/msguery)|
+| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
+| 71 | **Brian Archibald** | USA | JavaScript Developeer | [GitHub](https://github.com/BrianArchibald) |
+| 72 | **Grant Garrett** | USA | Full-Stack Dev / Indie Game Dev | [GitHub](https://github.com/CNIAngel) - [LinkedIn](https://www.linkedin.com/in/grant-garrett-9057694b/) |
+| 73 | **Rakesh Kumar**  | India | Web Developer | [GitHub](https://github.com/rakesh258) - [LinkedIn](https://www.linkedin.com/in/rakesh258/)|
+| 76 | **Bhagyesh Patel**  | India | IT Engineer | [GitHub](https://github.com/bhagyesh11698) - [LinkedIn](https://www.linkedin.com/in/bhagyesh-patel-643975125/)|
+| 77 | **Chandan Singh** | India | Software Engineer -MERN| [LinkedIn](https://www.linkedin.com/in/chandan-singh-228a1478/) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
