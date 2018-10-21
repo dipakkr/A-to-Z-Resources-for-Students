@@ -211,7 +211,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
 
--**Redux.js**
+- **Redux.js**
      - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
      - [Redux docs](https://redux.js.org/introduction) *Recomended for everyone*
      - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
