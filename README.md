@@ -221,7 +221,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
      - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
-
+- **Swift** 
+     -[iOS 12 & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/ios-12-app-development-bootcamp/) --(**Udemy       Paid**) 
+     
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
