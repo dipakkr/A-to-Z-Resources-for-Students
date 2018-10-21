@@ -551,7 +551,7 @@ different programming languages**
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
@@ -593,6 +593,8 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
 |39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 |
 |40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
+|42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
 
 =============================================================================================
 
