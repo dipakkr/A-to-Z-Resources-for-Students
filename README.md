@@ -579,6 +579,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 |
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
+|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
 |30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
@@ -590,6 +591,8 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
 |37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
 |38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
+|39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 |
+|40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 
 =============================================================================================
 
