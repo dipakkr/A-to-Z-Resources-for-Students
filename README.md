@@ -589,6 +589,8 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
 |36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
 |37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
+|38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
+
 =============================================================================================
 
 # 9. Top People to Follow
@@ -605,6 +607,9 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
 |9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
 |10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
+|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
+|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 
 =============================================================================================
 
