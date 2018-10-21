@@ -130,6 +130,7 @@ Instructions :
 | 96 | **Shashank Gupta** |India| Data Scientist | [GitHub](https://github.com/AkkiShashank) - [LinkedIn](https://www.linkedin.com/in/shashank-gupta-93927411a/) |
 | 97 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
 | 98 | **Max Belushkin**  | Ukraine | Software Engineer | [GitHub](https://github.com/belushkin) |
+| 99 | **Vinay Sagar Sharma** | India | Student | [GitHub](https://github.com/vinay72) | - [LinkedIn](https://www.linkedin.com/in/vinay-sagar-sharma-629b33151/)
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
