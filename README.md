@@ -360,6 +360,7 @@ different programming languages**
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
+|36 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
