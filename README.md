@@ -66,7 +66,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Google Python class](https://developers.google.com/edu/python/)
 -  [Python For Everybody](https://www.coursera.org/specializations/python)
-- [Interactive Python] (http://interactivepython.org/runestone/default/user/login?_next=/runestone/default/index)
 
 ## 1.2 Machine Learning :robot:
 
