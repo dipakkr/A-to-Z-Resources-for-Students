@@ -8,7 +8,7 @@ Instructions :
 
 - Please consider adding your national flag above,if it is not there.
 
-- In the table, add your detail at the bottom.
+- Add your detail at the bottom of Second Table (Contributors.md)
 
 - Don't Change the Format of table or modify someone else content.
 
@@ -16,6 +16,16 @@ Instructions :
   No Problem, This place is just created to know people who are contributing to this repository.
 
 ```
+### 1. Collaboraters
+
+| S.no | Name | Country | Introduction | Contact |
+|------|:------|:---------|:--------------|:------------|
+| 1. | **Deepak Kumar** :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
+| 2 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
+
+----
+
+### 2. Collaboraters
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------|:---------|:--------------|:------------|
@@ -50,8 +60,8 @@ Instructions :
 | 29. | **Vivek Raj** | India | Python, Django. | [GitHub](https://github.com/vivekrj0) - [Twitter](http://twitter.com/vivekrj0)|
 | 30. | **Deepak Kumar** :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
 | 31. | **Ashok KS** |Melbourne| Monash University, Melbourne -  8 years of exp. as Data Analyst. | [GitHub](https://github.com/ksashok) - [LinkedIn](https://www.linkedin.com/in/ksashok/) |
-| 35. | **Suyasha** | New York | | [GitHub](https://github.com/suyasha0) |
-| 36. | **Thomas Smith** | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
+| 32. | **Suyasha** | New York | | [GitHub](https://github.com/suyasha0) |
+| 3. | **Thomas Smith** | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
 | 37. | **Ken Davis** | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)|
 | 33. | **Ariel Teague** | Arkansas, USA| Backend Software Engineer - ML - Game Devlopment | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
 | 32. | **Rajesh Mohan** |  New York | Stony Brook University - Python - Data Science -  React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
@@ -98,12 +108,12 @@ Instructions :
 | 71 | **Brian Archibald** | USA | JavaScript Developeer | [GitHub](https://github.com/BrianArchibald) |
 | 72 | **Grant Garrett** | USA | Full-Stack Dev / Indie Game Dev | [GitHub](https://github.com/CNIAngel) - [LinkedIn](https://www.linkedin.com/in/grant-garrett-9057694b/)|
 | 73 | **Rakesh Kumar**  | India | Web Developer | [GitHub](https://github.com/rakesh258) - [LinkedIn](https://www.linkedin.com/in/rakesh258/)|
-| 74 | **Pedro Veríssimo**  | Brasil | Beginner Developer | [GitHub](https://github.com/pbv2)|
 | 75 | **Ren Cummings**  | USA | Software Engineer | [GitHub](https://github.com/nrenc027)|
 | 76 | **David Li**  | USA | College Student | [GitHub](https://github.com/davidiswhat) |
 | 77 | **Bhagyesh Patel**  | India | IT Engineer | [GitHub](https://github.com/bhagyesh11698) - [LinkedIn](https://www.linkedin.com/in/bhagyesh-patel-643975125/)|
 | 78 | **Om Prakash Paliwal**  | India | DevOps Engineer | [GitHub](https://github.com/BalajiTechs) - [LinkedIn](https://www.linkedin.com/in/omprakash-paliwal)|
 | 79 | **Nikita**  | India | College Student | [GitHub](https://github.com/j07nikita) - [LinkedIn](https://www.linkedin.com/in/nikita-rungta-141a81149/)|
+
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
