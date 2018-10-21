@@ -595,6 +595,8 @@ different programming languages**
 |40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
 |42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
+|43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - |
+|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - |
 
 =============================================================================================
 
