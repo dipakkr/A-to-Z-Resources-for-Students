@@ -95,7 +95,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
     - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
-    - [Research Papers with code](https://github.com/zziz/pwc)
+    - [Research Papers with code](https://paperswithcode.com/)
 
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
