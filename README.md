@@ -234,6 +234,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
     - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
     - [CS50 on HarvardX] (https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
+    - [Codility] (https://app.codility.com/programmers/) - **Develop your coding skills with lessons ot take part in challenges**
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.**
