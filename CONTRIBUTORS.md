@@ -25,7 +25,7 @@ Instructions :
 
 ----
 
-### 2. Collaboraters
+### 2. Contributors
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------|:---------|:--------------|:------------|
