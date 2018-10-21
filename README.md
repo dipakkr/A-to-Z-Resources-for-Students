@@ -304,7 +304,7 @@ different programming languages**
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
  ## 1.11 Git and Github :octocat:
- - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
