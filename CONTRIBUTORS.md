@@ -123,7 +123,7 @@ Instructions :
 | 89 | **Gavin McDonald** | Ireland | Student | [GitHub](https://github.com/Gavmcdonald) |
 | 90 | **Huy Hoang Phi** |  Viet Nam |iOS Developer | [LinkedIn](https://www.linkedin.com/in/huyhoangphi/) |
 | 91 | **Balesabu Godugu** |  India | Full Stack developer | [LinkedIn](https://www.linkedin.com/in/balesabu-godugu-779a3819/) |
-
+| 92 | **Benoit Masson-Bedeau** |  France | Software developer | [GitHub](https://github.com/benichka) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
