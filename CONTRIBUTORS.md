@@ -126,6 +126,7 @@ Instructions :
 | 92 | **Benoit Masson-Bedeau** |  France | Software developer | [GitHub](https://github.com/benichka) |
 | 93 | **Anna Karpińska** |  Poland |Frontend Developer & Graphic Designer | [GitHub](https://github.com/P1X3L0V4) - [LinkedIn](https://www.linkedin.com/in/p1x3l0v4/) - [Twitter](https://twitter.com/P1X3L0V4) - [Web](http://p1x3l.studio/) |
 | 94 | **Nico Belobrajdic**  | Germany | student | [GitHub] (https://github.com/nicobelob)|
+| 95 | **Dennis Dmello**  | India | student | [GitHub](https://github.com/dendemello) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
