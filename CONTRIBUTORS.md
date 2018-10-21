@@ -101,7 +101,7 @@ Instructions :
 | 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub](https://github.com/jtwray)|
 | 68 | **Avi Patil**  | USA | Software Developer | [GitHub](https://github.com/avithecoder)|
 | 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn](https://linkedin.com/in/msguery)|
-| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
+| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) |
 | 71 | **Brian Archibald** | USA | JavaScript Developeer | [GitHub](https://github.com/BrianArchibald) |
 | 72 | **Grant Garrett** | USA | Full-Stack Dev / Indie Game Dev | [GitHub](https://github.com/CNIAngel) - [LinkedIn](https://www.linkedin.com/in/grant-garrett-9057694b/)|
 | 73 | **Rakesh Kumar**  | India | Web Developer | [GitHub](https://github.com/rakesh258) - [LinkedIn](https://www.linkedin.com/in/rakesh258/)|
@@ -129,6 +129,7 @@ Instructions :
 | 95 | **Ashish  Gupta** | India  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
 | 96 | **Shashank Gupta** |India| Data Scientist | [GitHub](https://github.com/AkkiShashank) - [LinkedIn](https://www.linkedin.com/in/shashank-gupta-93927411a/) |
 | 97 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
+| 98 | **Joshua Ogwang** | Uganda | Student | [GitHub](https://github.com/joshuaOgwang) | 
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
