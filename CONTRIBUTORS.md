@@ -129,7 +129,7 @@ Instructions :
 | 95 | **Ashish  Gupta** | India  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
 | 96 | **Shashank Gupta** |India| Data Scientist | [GitHub](https://github.com/AkkiShashank) - [LinkedIn](https://www.linkedin.com/in/shashank-gupta-93927411a/) |
 | 97 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
-| 98 | **Joshua Ogwang** | Uganda | Student | [GitHub](https://github.com/joshuaOgwang) | 
+| 98 | **Joshua Ogwang** | Uganda | Student | [GitHub](https://github.com/joshuaOgwang) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
