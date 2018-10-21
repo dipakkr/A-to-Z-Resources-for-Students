@@ -118,6 +118,7 @@ Instructions :
 | 82 | **Abhishek Chahar** | India | College Student | [GitHub](https://github.com/Devil1729) |
 | 83 | **Gabriel Caballero**  | France | Student | [GitHub](https://github.com/gabrielcaballero) |
 | 84 | **Edward Yang**  | USA | CS Student | [GitHub](https://github.com/efyang)|
+| 85 | **Kavan Pancholi**  | India | Software Engineer | [GitHub] (https://github.com/kavanpancholi)|
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
