@@ -609,6 +609,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
 |11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 
 =============================================================================================
 
