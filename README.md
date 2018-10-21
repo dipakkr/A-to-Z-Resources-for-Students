@@ -551,7 +551,7 @@ different programming languages**
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
@@ -579,6 +579,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 |
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
+|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
 |30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
@@ -589,8 +590,13 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
 |36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
 |37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
-|38| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - |
-|39| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Asia | - | Dec 4 - 7 | - |
+|38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
+|39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 |
+|40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
+|42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
+|43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - |
+|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - |
 
 =============================================================================================
 
@@ -610,6 +616,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
 |11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 
 =============================================================================================
 
