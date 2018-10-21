@@ -113,8 +113,9 @@ Instructions :
 | 77 | **Bhagyesh Patel**  | India | IT Engineer | [GitHub](https://github.com/bhagyesh11698) - [LinkedIn](https://www.linkedin.com/in/bhagyesh-patel-643975125/)|
 | 78 | **Om Prakash Paliwal**  | India | DevOps Engineer | [GitHub](https://github.com/BalajiTechs) - [LinkedIn](https://www.linkedin.com/in/omprakash-paliwal)|
 | 79 | **Nikita**  | India | College Student | [GitHub](https://github.com/j07nikita) - [LinkedIn](https://www.linkedin.com/in/nikita-rungta-141a81149/)|
-| 80 | **Abhishek Chahar** | India | College Student | [GitHub](https://github.com/Devil1729) |
-
+| 80 | **Krutagn Patel**  | India | IT Engineer | [GitHub](https://github.com/Krutagn) |
+| 81 | **Vignesh B.S** | India | Student | [GitHub](https://github.com/vignesh1999) |
+| 82 | **Abhishek Chahar** | India | College Student | [GitHub](https://github.com/Devil1729) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.

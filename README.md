@@ -28,6 +28,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C++ Language](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
+     - [Haskell] (#113-haskell)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -284,7 +285,10 @@ different programming languages**
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
-- [R-Bloggers](https://www.r-bloggers.com/
+- [R-Bloggers](https://www.r-bloggers.com/)
+
+## 1.13 Haskell
+ - [Happy Learn Haskell Tutorial] (http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
 
@@ -595,6 +599,8 @@ different programming languages**
 |40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 |41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
 |42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
+|43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - |
+|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - |
 
 =============================================================================================
 
@@ -615,6 +621,7 @@ different programming languages**
 |11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
+|14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
 
 =============================================================================================
 
