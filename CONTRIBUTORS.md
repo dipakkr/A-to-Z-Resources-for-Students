@@ -117,6 +117,7 @@ Instructions :
 | 81 | **Vignesh B.S** | India | Student | [GitHub](https://github.com/vignesh1999) |
 | 82 | **Abhishek Chahar** | India | College Student | [GitHub](https://github.com/Devil1729) |
 | 83 | **Gabriel Caballero**  | France | Student | [GitHub](https://github.com/gabrielcaballero) |
+| 84 | **Edward Yang**  | USA | CS Student | [GitHub](https://github.com/efyang)|
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
