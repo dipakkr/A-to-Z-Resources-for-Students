@@ -623,6 +623,8 @@ different programming languages**
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 |14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
+|15|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|16|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
 
 =============================================================================================
 
