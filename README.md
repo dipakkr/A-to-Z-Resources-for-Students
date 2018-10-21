@@ -582,7 +582,7 @@ different programming languages**
 > ### **Tech, Entrepreneurship Events and Conferences**
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
-|--|------ |---|---| ------ | ----| -----| 
+|--|------ |---|---|:------ |:----|:-----| 
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |-|
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |-|
 |3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | - |
