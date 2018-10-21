@@ -102,6 +102,7 @@ Instructions :
 | 75 | **Ren Cummings**  | USA | Software Engineer | [GitHub] (https://github.com/nrenc027)|
 | 76 | **David Li**  | USA | College Student | [GitHub] (https://github.com/davidiswhat) |
 | 77 | **Bhagyesh Patel**  | India | IT Engineer | [GitHub](https://github.com/bhagyesh11698) - [LinkedIn](https://www.linkedin.com/in/bhagyesh-patel-643975125/)|
+| 78 | **Om Prakash Paliwal**  | India | DevOps Engineer | [GitHub](https://github.com/BalajiTechs) - [LinkedIn](https://www.linkedin.com/in/omprakash-paliwal)|
 
 ---
 
