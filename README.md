@@ -589,6 +589,9 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
 |36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
 |37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
+|38| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Aug | - |
+|39| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | GLOBAL | - | Dec | - |
+
 =============================================================================================
 
 # 9. Top People to Follow
