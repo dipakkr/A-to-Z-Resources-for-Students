@@ -170,10 +170,15 @@ do
 ```
 ### 11 BREAK CONTINUE STATEMENT
 
+```
 - break statement is used to terminate the current loop the moves to the next line of the code.
 - continue statement skips the current loop index and moves to the next iteration.
 
+```
+
 ###12 GOTO
+
+```
 syntax of goto is as follows:
 goto label;
 ..
@@ -204,10 +209,10 @@ value of a: 16
 value of a: 17
 value of a: 18
 value of a: 19
+```
 
 
-
-### 12 ARRAYS
+### 13 ARRAYS
 
 1. Declaraction: 
 
@@ -223,7 +228,8 @@ for(i =0;i<3;i++){
   scanf("%d", &arr[i]); // takes the values in the array arr by the user
 }
 
-### 13 STRINGS
+```
+### 14 STRINGS
 
 1)Declaraction: 
 
@@ -266,7 +272,7 @@ strnset - Sets first n characters ofa string to a given character
 strrev - Reverses string
 ```
 
-### 13 STRUCTURE 
+### 15 STRUCTURE 
 	
 - A structure is a user defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type. 
 
@@ -282,7 +288,7 @@ struct addrress
    int pin; 
 };
 ```
-### 14 HEADERS
+### 16 HEADERS
 ## IO
 ```c
 #include <stdio.h>
