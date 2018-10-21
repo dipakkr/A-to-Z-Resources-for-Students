@@ -123,6 +123,7 @@ Instructions :
 | 89 | **Gavin McDonald** | Ireland | Student | [GitHub](https://github.com/Gavmcdonald) |
 | 90 | **Huy Hoang Phi** |  Viet Nam |iOS Developer | [LinkedIn](https://www.linkedin.com/in/huyhoangphi/) |
 | 91 | **Balesabu Godugu** |  India | Full Stack developer | [LinkedIn](https://www.linkedin.com/in/balesabu-godugu-779a3819/) |
+| 92 | **Anna Karpińska** |  Poland |Frontend Developer & Graphic Designer | [GitHub](https://github.com/P1X3L0V4) - [LinkedIn](https://www.linkedin.com/in/p1x3l0v4/) - [Twitter](https://twitter.com/P1X3L0V4) - [Web](http://p1x3l.studio/) |
 
 ---
 
