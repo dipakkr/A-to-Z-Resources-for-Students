@@ -580,17 +580,21 @@ different programming languages**
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
-|28| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
-|29| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
-|30| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26 | |
-|31| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16 | |
-|32| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | |
-|33| [JS Kongress](https://js-kongress.com/)| Munich  | - | March 11 - 12 | - |
-|34| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
-|35| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | - | Jun 11 - 14 | |
-|36| [dotJS](https://www.dotjs.io/)| France | - | Nov 9 | - |
-|37| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
-|38| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
+|28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 |
+|30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 |
+|31| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - |
+|32| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - |
+|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - |
+|34| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - |
+|35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - |
+|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - |
+|37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
+|38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
+|39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 |
+|40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
+|41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - |
+|42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - |
 
 =============================================================================================
 
@@ -608,6 +612,9 @@ different programming languages**
 |8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
 |9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
 |10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
+|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
+|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 
 =============================================================================================
 

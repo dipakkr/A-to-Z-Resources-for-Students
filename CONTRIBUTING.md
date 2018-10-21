@@ -1,6 +1,6 @@
 # Guidelines for Contribution  
 
-### This Repository Contains resources for college grads and proffesional around the world to get involved in opportunties around you apart from academics. 
+### This Repository Contains resources for college grads and professionals around the world to get involved in opportunties around you apart from academics. 
 
 1. Checkout [README.md](README.md) for list of resources.
 
