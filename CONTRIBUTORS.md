@@ -103,7 +103,7 @@ Instructions :
 | 76 | **David Li**  | USA | College Student | [GitHub] (https://github.com/davidiswhat) |
 | 77 | **Bhagyesh Patel**  | India | IT Engineer | [GitHub](https://github.com/bhagyesh11698) - [LinkedIn](https://www.linkedin.com/in/bhagyesh-patel-643975125/)|
 | 78 | **Om Prakash Paliwal**  | India | DevOps Engineer | [GitHub](https://github.com/BalajiTechs) - [LinkedIn](https://www.linkedin.com/in/omprakash-paliwal)|
-
+| 79 | **Nikita**  | India | College Student | [GitHub](https://github.com/j07nikita) - [LinkedIn](https://www.linkedin.com/in/nikita-rungta-141a81149/)|
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
