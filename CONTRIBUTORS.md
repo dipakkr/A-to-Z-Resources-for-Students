@@ -1,7 +1,7 @@
 
 ## Here is List of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng:
 
 ```
 Instructions :
@@ -127,6 +127,7 @@ Instructions :
 | 93 | **Anna Karpińska** |  Poland |Frontend Developer & Graphic Designer | [GitHub](https://github.com/P1X3L0V4) - [LinkedIn](https://www.linkedin.com/in/p1x3l0v4/) - [Twitter](https://twitter.com/P1X3L0V4) - [Web](http://p1x3l.studio/) |
 | 94 | **Nico Belobrajdic**  | Germany | student | [GitHub] (https://github.com/nicobelob)|
 | 1. | **Ashish  Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
+| 95 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
