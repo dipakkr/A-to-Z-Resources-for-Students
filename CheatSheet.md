@@ -282,4 +282,18 @@ struct addrress
    int pin; 
 };
 ```
+### 14 HEADERS
+## IO
+```c
+#include <stdio.h>
+```
+
+## More Ints
+```c
+#include <stdint.h>
+```
+
+## Custom
+```c
+#include "file.h"
 
