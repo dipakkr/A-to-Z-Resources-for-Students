@@ -650,6 +650,10 @@ different programming languages**
 |14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
 |15|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
 |16|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
+|17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
+|18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
+|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
+|20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 
 =============================================================================================
 
