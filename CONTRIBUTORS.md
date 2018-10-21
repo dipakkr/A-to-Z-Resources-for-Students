@@ -61,10 +61,7 @@ Instructions :
 | 30. | **Deepak Kumar** :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
 | 31. | **Ashok KS** |Melbourne| Monash University, Melbourne -  8 years of exp. as Data Analyst. | [GitHub](https://github.com/ksashok) - [LinkedIn](https://www.linkedin.com/in/ksashok/) |
 | 32. | **Suyasha** | New York | | [GitHub](https://github.com/suyasha0) |
-| 3. | **Thomas Smith** | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
-| 37. | **Ken Davis** | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)|
 | 33. | **Ariel Teague** | Arkansas, USA| Backend Software Engineer - ML - Game Devlopment | [GitHub](https://github.com/ArielBurningLadyStudios) - [LinkedIn](https://www.linkedin.com/in/ariel-teague-39b87b113/) |
-| 32. | **Rajesh Mohan** |  New York | Stony Brook University - Python - Data Science -  React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
 | 34. | **Jayesh Patel** | India | Final Year Undergrad, MEAN Developer - Interested in pursuing MS at Purdue 2020| [GitHub](https://github.com/codeghoul) - [LinkedIn](https://www.linkedin.com/in/jayeshpatel16/) |
 | 35. | **Olatz C. Pérez** | Spain | Computer Science Engineering - Working in VR Simulations and amateur videogames| [GitHub](https://github.com/Darkatom) - [LinkedIn](https://www.linkedin.com/in/olatz-casta%C3%B1o-p%C3%A9rez-39034011a/) |
 | 36. | **Jonathan Wagoner** | USA | UI Developer | [GitHub](https://github.com/ITSjwags) - [LinkedIn](https://linkedin.com/in/jonathanwagoner/) |
@@ -118,7 +115,10 @@ Instructions :
 | 82 | **Abhishek Chahar** | India | College Student | [GitHub](https://github.com/Devil1729) |
 | 83 | **Gabriel Caballero**  | France | Student | [GitHub](https://github.com/gabrielcaballero) |
 | 84 | **Edward Yang**  | USA | CS Student | [GitHub](https://github.com/efyang)|
-| 85 | **Kavan Pancholi**  | India | Software Engineer | [GitHub] (https://github.com/kavanpancholi)|
+| 85 | **Kavan Pancholi**  | India | Software Engineer | [GitHub](https://github.com/kavanpancholi)|
+| 86 | **Thomas Smith** | Ireland | Salesforce Developer | [GitHub](https://github.com/ThomasSmithIRE) - [LinkedIn](https://www.linkedin.com/in/engineertsmith/) |
+| 87 | **Ken Davis** | - | Web Development | [GitHub](https://github.com/kdavis-ssi) - [LinkedIn](https://www.linkedin.com/in/ken-davis-9a6a8051/) -[Twitter](http://twitter.com/kdavis158)|
+| 88 | **Rajesh Mohan** |  New York | Stony Brook University - Python - Data Science -  React and React Native | [LinkedIn](https://www.linkedin.com/in/rajeshm93/) - [GitHub](https://github.com/rajesh1993) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
