@@ -1,7 +1,7 @@
 
 ## Here is List of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands:
 
 ```
 Instructions :
@@ -84,7 +84,7 @@ Instructions :
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 | 52 | **Denise Gillette** | USA | | [GitHub](https://github.com/gilletted) |
-| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |   
+| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |
 | 54 | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) |
 | 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) |
 | 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) |
@@ -101,7 +101,7 @@ Instructions :
 | 67 | **Tucker Wray**  | USA | Python Django Developer | [GitHub](https://github.com/jtwray)|
 | 68 | **Avi Patil**  | USA | Software Developer | [GitHub](https://github.com/avithecoder)|
 | 69 | **Marjy Guery** | USA | Web Developer | [LinkedIn](https://linkedin.com/in/msguery)|
-| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) | 
+| 70 | **Frank Carlone** | USA | Learning to code | [GitHub](https://github.com/fcarlone) - [LinkedIn](https://www.linkedin.com/in/frank-carlone-iii-4b531011/) |
 | 71 | **Brian Archibald** | USA | JavaScript Developeer | [GitHub](https://github.com/BrianArchibald) |
 | 72 | **Grant Garrett** | USA | Full-Stack Dev / Indie Game Dev | [GitHub](https://github.com/CNIAngel) - [LinkedIn](https://www.linkedin.com/in/grant-garrett-9057694b/)|
 | 73 | **Rakesh Kumar**  | India | Web Developer | [GitHub](https://github.com/rakesh258) - [LinkedIn](https://www.linkedin.com/in/rakesh258/)|
@@ -128,6 +128,13 @@ Instructions :
 | 94 | **Nico Belobrajdic**  | Germany | student | [GitHub] (https://github.com/nicobelob)|
 | 95 | **Ashish  Gupta** | -  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
 | 96 | **Vilashi Siriwardhana** | -  | | [GitHub] (https://github.com/vilashirangani)|
+| 97 | **Shashank Gupta** |India| Data Scientist | [GitHub](https://github.com/AkkiShashank) - [LinkedIn](https://www.linkedin.com/in/shashank-gupta-93927411a/) |
+| 98 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
+| 99 | **Max Belushkin**  | Ukraine | Software Engineer | [GitHub](https://github.com/belushkin) |
+| 100 | **meltz**  | Singapore | Web Developer | [GitHub](https://github.com/meltz) |
+| 101 | **Karthick Manoharan** | India | Full stack developer | [GitHub](https://github.com/karthick-manoharan)
+| 102 | **Simone Puhl**  | The Netherlands | Front-end Developer in training | [GitHub](https://github.com/BrewingJavaS) |
+
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
