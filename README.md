@@ -302,6 +302,9 @@ different programming languages**
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
+ - [Fluent CPP](https://www.fluentcpp.com/)
+ - [Google](https://developers.google.com/edu/c++/)
+ - [EDX](https://www.edx.org/course/introduction-c-plus-plus-1)
 
  ## 1.11 Git and Github :octocat:
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
