@@ -29,7 +29,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
-     - [API documentation for most programming languages (works offline)](#114-api-documentation)
+     - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -316,10 +316,6 @@ different programming languages**
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
- 
-## 1.14 API documentation for most programming languages (works offline)
-
-- [DevDocs](https://devdocs.io/)
 
 =============================================================================================
 
