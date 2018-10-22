@@ -25,6 +25,7 @@
 
 ## 5. Full Stack Web Development
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
+ * [Advanced React Course](https://advancedreact.com/)
 
 ## 6. Backend Development
 
