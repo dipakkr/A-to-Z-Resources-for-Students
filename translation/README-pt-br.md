@@ -211,8 +211,14 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Aprenda C ++](http://www.cplusplus.com/doc/tutorial/)
 
- ## 1.11 Git and Github :octocat:
- -
+ ## 1.11 Git e Github :octocat:
+- [Tutoriais Git](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Como usar Git e Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+- [Controle de Versão com Git](https://in.udacity.com/course/version-control-with-git--ud123)
+
+## 1.12 Linguagem R
+
+-
 
 =============================================================================================
 
