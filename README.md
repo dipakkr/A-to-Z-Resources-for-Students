@@ -29,6 +29,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
+     - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -87,6 +88,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+     - [Coding Train] (https://github.com/CodingTrain)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
@@ -192,7 +194,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/)
-    -
+    - [freeCodeCamp](https://www.freecodecamp.org/)
 
 - **JavaScript Frameworks**    
      ###### Angular
@@ -657,6 +659,8 @@ different programming languages**
 |19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
+|22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
+|23 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 
 =============================================================================================
 
