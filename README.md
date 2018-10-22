@@ -657,6 +657,7 @@ different programming languages**
 |19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
+|22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
 
 =============================================================================================
 
