@@ -302,4 +302,33 @@ struct addrress
 ## Custom
 ```c
 #include "file.h"
-
+```
+### 17 I/O (#include <stdio.h>)
+```
+Default input comes from “stdin”; output goes to “stdout”; errors to “stderr”.
+Standard input and output routines are declared in stdio.h: #include <stdio.h>
+ Function Description
+ fopen(name, “r”) opens file name for read, returns FILE *f; “w” allows write
+ fclose(f) closes file f
+ getchar() read 1 char from stdin or pushback; is EOF (int -1) if none
+ ungetch(c) pushback char c into stdin for re-reading; don’t change c
+ putchar(c) write 1 char, c, to stdout
+ fgetc(f) same as getchar(), but reads from file f
+ ungetc(c,f) same as ungetchar() but onto file f
+ fputc(c,f) same as putchar(c), but onto file f
+ fgets(s,n, f) read string of n-1 chars to a s from f or til eof or \n
+ fputs(s,f) writes string s to f: e.g. fputs(“Hello world\n”, stdout);
+ scanf(p,...) reads ... args using format p (below); put &w/non-pointers
+ printf(p, ...) write ... args using format p (below); pass args as is
+ fprintf(f,p,...) same, but print to file f
+ fscanf(f,p,...) same, but read from file f
+ sscanf(s,p,...) same, but read from string s
+ sprintf(s,p,...) same, as printf, but to string s
+ feof(f) return true iff at end of file f
+ Formats use format characters preceded by escape %; other chars written as is>
+ char meaning! ! ! ! char meaning
+ %c character! ! ! \n newline (control-j)
+ %d decimal integer! ! ! \t tab (control-i)
+ %s string! ! ! ! \\ slash
+ %g general floating point! ! %% perent
+```
