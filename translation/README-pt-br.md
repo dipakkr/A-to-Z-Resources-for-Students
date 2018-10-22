@@ -402,8 +402,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| Sim |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prêmios | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prémios | - | - |
+|9| [Season of KDE](https://season.kde.org) | KDE | Prémios | - | - |
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Sim | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | Não | - | - |
 
@@ -428,12 +428,12 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
 4. [LinkedIn](https://linkedin.com)
-5. *Entre em contato com o RH no LinkedIn*
+5. *Entre em contato com os RH no LinkedIn*
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 
     ### Dicas para estágio :
-     - Para o estágio de verão, comece pelo menos 3-4 meses de antecedência.
+     - Para o estágio de verão, faça a sua inscrição com pelo menos 3-4 meses de antecedência.
 
 =============================================================================================
 
@@ -443,7 +443,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 > **Confira **Meetup.com** para mais eventos próximos de você**
 
-- Coursera F2F Office Hours at PyCon India - **TRENDING**
+- Coursera F2F Office Hours at PyCon India - **POPULAR**
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
@@ -453,7 +453,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Banglore ]**
+- Paytm Build for India **[ Apenas em Delhi e Bangalore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
@@ -480,7 +480,7 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
 |14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
-|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Março to Out(pode variar) | 3 dias |
+|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Março a Outubro (pode variar) | 3 dias |
 |16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Parcial | Ago3 | Ago5 |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | SIM | Jan6 | Jan11 |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | SIM | Verão | - |
