@@ -417,6 +417,7 @@ different programming languages**
 7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+10. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
