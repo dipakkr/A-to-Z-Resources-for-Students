@@ -659,6 +659,7 @@ different programming languages**
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
 |22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
+|23 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 
 =============================================================================================
 
