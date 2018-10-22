@@ -133,6 +133,7 @@ Instructions :
 | 99 | **meltz**  | Singapore | Web Developer | [GitHub](https://github.com/meltz) |
 | 100 | **Karthick Manoharan** | India | Full stack developer | [GitHub](https://github.com/karthick-manoharan)
 | 101 | **Simone Puhl**  | The Netherlands | Front-end Developer in training | [GitHub](https://github.com/BrewingJavaS) |
+| 102 | **Tammy Davis**  | USA | Student | [GitHub](https://github.com/tshade2011) |
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
