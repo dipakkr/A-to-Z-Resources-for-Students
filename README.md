@@ -88,6 +88,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+     - [Coding Train] (https://github.com/CodingTrain)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
