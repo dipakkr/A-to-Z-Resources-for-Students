@@ -211,12 +211,22 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Aprenda C ++](http://www.cplusplus.com/doc/tutorial/)
 
- ## 1.11 Git and Github :octocat:
- -
+ ## 1.11 Git e Github :octocat:
+ - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [Como usar git e github (Inglês)](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+ - [Controle de versão com git (Inglês)](https://in.udacity.com/course/version-control-with-git--ud123)
+
+## 1.12 Linguagem R
+- [RStudio](https://www.rstudio.com/online-learning/)
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
+- [R-Bloggers](https://www.r-bloggers.com/)
+
+## 1.13 Haskell
+ - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
 
-# 2. Hackathons and Eventos
+# 2. Hackathons e Eventos
 
 ## 2.1 :rainbow: Top Hackathons Internacionais
 
@@ -257,6 +267,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | Outubro (Submissão da ideia) | fim de Nov | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | Setembro-Outubro | - |
 |34 | [HackISU](https://hackisu.org/)| USA | Não | Outubro | - |
+|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | 26 de Outubro| - |
 
 ----------------------------------------------------------
 
@@ -284,9 +295,10 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 
 
-##  2.3  Portal de busca de Hackathons :dart:
+##  2.3  Portais de busca de Hackathons :dart:
 |s.no| Nome  | Local | Categoria |
 |---| ------ |---| --- |
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA|  ALL |
@@ -311,6 +323,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+10. BrazilJS [Agosto, Rio Grande do Sul, Brasil](https://braziljs.org/conf/)
 
 ## 2.5 Startup Summits, Competitições e Bootcamps :neckbeard:
 
