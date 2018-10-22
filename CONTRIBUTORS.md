@@ -134,6 +134,7 @@ Instructions :
 | 100 | **Karthick Manoharan** | India | Full stack developer | [GitHub](https://github.com/karthick-manoharan)
 | 101 | **Simone Puhl**  | The Netherlands | Front-end Developer in training | [GitHub](https://github.com/BrewingJavaS) |
 | 102 | **Tammy Davis**  | USA | Student | [GitHub](https://github.com/tshade2011) |
+| 103 | **Harsh Trivedi** | India | Student | [GitHub](https://harsh98trivedi.github.io)
 ---
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
