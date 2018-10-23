@@ -97,7 +97,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
-    - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
+    - [Arxiv Sanity - Search best papers](http://www.arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
     - [Research Papers with code](https://github.com/zziz/pwc)
     - [Papers with code](https://paperswithcode.com/)
@@ -408,6 +408,9 @@ different programming languages**
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
+|22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
+|23| [Russian AI Cup](http://russianaicup.ru/) | - |
+
 
 
 ##  2.3  Hackathon Search Portals :dart:

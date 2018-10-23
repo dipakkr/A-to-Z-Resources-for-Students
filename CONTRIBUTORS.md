@@ -153,5 +153,7 @@ Instructions :
 | 120 | **Crews**  | - | PHP developer | [GitHub](https://github.com/crewsycrews) |
 | 121 | **Dennis Dmello**  | India | student | [GitHub](https://github.com/dendemello) |
 | 122 | **Furkan Sayım**  | Turkey | SecOPS Engineer | [GitHub](https://github.com/xShuden) |
+| 123 | **Charles Fleurquin**  | France | Trainee Developer | [GitHub](https://github.com/CharlesFleurquin) |
+| 124 | **Atem**  | Germany | student | [GitHub](https://github.com/Cr0nic) |
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
