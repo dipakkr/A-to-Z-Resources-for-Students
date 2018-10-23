@@ -135,7 +135,7 @@ Instructions :
 | 101 | **Simone Puhl**  | The Netherlands | Front-end Developer in training | [GitHub](https://github.com/BrewingJavaS) |
 | 102 | **Tammy Davis**  | USA | Student | [GitHub](https://github.com/tshade2011) |
 | 103 | **Ianka Karúzia**  | Brazil | Web/Mobile Developer | [GitHub](https://github.com/iankakaruzia/) |
-| 104 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub](https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/) |
+| 104 | **Miteshree Sheth** | USA | Full stack develope, Improving my developer skills | [GitHub](https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/) |
 | 105 | **Grace Witter** | UK | Web Designer/Developer | [GitHub](https://github.com/gracewitter) |
 | 107 | **Abhijeet Srivastava**| India | Full stack developer | [Github](https://github.com/abhijeet181995)
 | 108 | **Edward Matyja** | - |New developer looking to improve skills in both front and back end fields | [GitHub](https://github.com/edwardallanpoe) |
