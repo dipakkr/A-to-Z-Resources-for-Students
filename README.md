@@ -88,6 +88,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+     - [Coding Train] (https://github.com/CodingTrain)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
@@ -178,6 +179,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
     - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
+    - [The Odin Project](https://www.theodinproject.com/)
+    - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
 
 - **Bootstrap4**
 
@@ -192,11 +196,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recommended for everyone*
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
-    - [Theodinproject](https://www.theodinproject.com/)
-    -
+    - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
+    - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+    - [HTML Dog](http://www.htmldog.com/guides/javascript/)
+    - [Javascript Tutorial for Beginner Complete Course 2018](https://www.youtube.com/watch?v=PwsigsH4oXw)
+
 
 - **JavaScript Frameworks**    
-     ###### Angular
+    ###### Angular
      - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
     - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
@@ -223,13 +230,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
      - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+     - [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
 
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
+    - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
 
 - **Web Accessibility**
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+    - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+    - [Full-Stack Web Accessibility Guidelines - A Video Tutorial on Web Accessibility for Impaired Users](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -283,7 +294,7 @@ different programming languages**
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
- - [Tutorial Point](https://www.tutorialspoint.com/cprogramming/)
+ - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
  - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
  - [Promamiz](https://www.programiz.com/c-programming)
@@ -297,7 +308,7 @@ different programming languages**
 
 
 ## 1.10 C++ Language
- - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
+ - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
  - [Promamiz](https://www.programiz.com/cpp-programming)
@@ -362,6 +373,9 @@ different programming languages**
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
+|36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
+|37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
+
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -416,6 +430,7 @@ different programming languages**
 7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+10. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
@@ -524,6 +539,7 @@ different programming languages**
 |9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
+|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 
 =============================================================================================
 
@@ -585,22 +601,22 @@ different programming languages**
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
 |--|------ |---|---|:------ |:----|:-----| 
-|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |-|
-|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |-|
-|3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | - |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | - |
+|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 | Python |
+|2 | [ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 | AI |
+|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | Business |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | Business |
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | - |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | - |
-|8 | [React Europe]() | France | - | May | - | - |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 | - |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
+|8 | [React Europe]() | France | - | May 21 - 24 | - | JS |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 | - |
 |11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | YES | Nov14 | Nov16 | - |
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 | - |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
 |14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | - |
-|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | March to Oct(varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug3 | Aug5 | - |
+|15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | March to Oct(varies every year) | 3 days | - |
+|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug3 | Aug5 | Business |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | YES | Jan6 | Jan11 | - |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | YES | Summer | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - | - |
@@ -612,23 +628,22 @@ different programming languages**
 |25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 | - |
-|30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 | - |
-|31| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - | - |
-|32| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - | - |
-|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - | - |
-|34| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - | - |
-|35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - | - |
-|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - | - |
-|37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - | - |
-|38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - | - |
-|39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 | - |
-|40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - | - |
-|42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | - |
-|43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - | - |
-|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|28| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 | - |
+|29| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 | Web |
+|30| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - | JS |
+|31| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - | JS |
+|32| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - | - |
+|33| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - | JS |
+|34| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - | JS |
+|35| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - | - |
+|36| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - | JS |
+|37| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - | Web |
+|38| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 | - |
+|39| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
+|40| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - | JS |
+|41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
+|42| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - | - |
+|43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
 =============================================================================================
 
@@ -658,6 +673,7 @@ different programming languages**
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
 |22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
+|23 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 
 =============================================================================================
 
