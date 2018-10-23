@@ -578,6 +578,7 @@ different programming languages**
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Forloop Africa](https://forloop.africa)
 
 =============================================================================================
 # 8. Conferences :bookmark_tabs:
