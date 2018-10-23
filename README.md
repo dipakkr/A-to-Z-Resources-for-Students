@@ -408,6 +408,9 @@ different programming languages**
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
+|22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
+|23| [Russian AI Cup](http://russianaicup.ru/) | - |
+
 
 
 ##  2.3  Hackathon Search Portals :dart:
