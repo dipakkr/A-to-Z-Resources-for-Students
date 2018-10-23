@@ -325,7 +325,7 @@ different programming languages**
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
-
+ - [Learning Git Better](http://swcarpentry.github.io/git-novice/)
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
@@ -408,7 +408,9 @@ different programming languages**
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
-
+|22| [Hackerrank Competitions](https://www.hackerrank.com/contests) | Online |
+|23| [Codeforces Competitions](http://codeforces.com/contests) | Online |
+|24| [HackerEarth Competitons](https://www.hackerearth.com/challenges/competitive/) | Online |
 
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
