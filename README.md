@@ -30,6 +30,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
+     - [C# Language](#114-c#-language)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -333,6 +334,11 @@ different programming languages**
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+
+## 1.14 C# Language
+- [LearnCS](https://www.learncs.org)
+- [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
+- [SoloLearn](https://www.sololearn.com/Course/CSharp/)
 
 =============================================================================================
 
