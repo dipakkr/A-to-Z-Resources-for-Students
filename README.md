@@ -179,10 +179,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
     - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
+    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
-
+    
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)

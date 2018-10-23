@@ -145,7 +145,7 @@ Instructions :
 | 112 | **Kelvin Omereshone**  | Nigeria | Full Stack developer | [GitHub](https://github.com/DominusKelvin) | [Twitter](https://twitter.com/Dominus_Kelvin) | [Medium](https://medium.com/@dominuskelvin) | [LinkedIn](https://www.linkedin.com/in/kelvinomereshone/) |
 | 113 | **Connie Lei**  | New York | Student | [GitHub](https://github.com/connielei) |
 | 114 |  **Myla Deceree Sabordo**  | Philippines | Student | [Github](https://github.com/mimi2495) |
-
+| 115 | **Kelvin Omereshone**  | Nigeria | Full Stack developer | [GitHub](https://github.com/DominusKelvin) | [Twitter](https://twitter.com/Dominus_Kelvin) | [Medium](https://medium.com/@dominuskelvin) | [LinkedIn](https://www.linkedin.com/in/kelvinomereshone/) |
 ----
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
