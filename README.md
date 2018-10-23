@@ -676,9 +676,12 @@ different programming languages**
 |18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
 |19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
-|21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
-|22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
-|23 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
+|21 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
+|22 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
+|23 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
+|24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
+|25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
+
 
 =============================================================================================
 
