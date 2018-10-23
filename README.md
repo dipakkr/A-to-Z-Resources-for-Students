@@ -681,7 +681,7 @@ different programming languages**
 |23 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
 |24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
-
+|26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 
 =============================================================================================
 
