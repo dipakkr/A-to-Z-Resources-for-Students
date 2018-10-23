@@ -15,8 +15,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 1.  [Material de apoio - Como aprender xyz](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
-     - *[Machine Learning]*(#12-machine-learning-robot)
-     - *[Deep Learning]*(#13-deep-learning)
+     - [*Machine Learning*](#12-machine-learning-robot)
+     - [*Deep Learning*](#13-deep-learning)
      - [Desenvolvimento Android](#14-desenvolvimento-android-iphone)
      - [Desenvolvimento - Backend](#15-desenvolvimento---backend-computer)
      - [Desenvolvimento - Frontend Web](#16-desenvolvimento---frontend-web-computer)
@@ -525,15 +525,15 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 
 1.   **Ciência de Dados**
       - [Cursos de Ciência de Dados: Tutoriais de R & Python Analysis | DataCamp](http://www.datacamp.com/courses)
-      - *[CSE-109 - Harvard University]*(http://cs109.github.io/2015/)
-      - *[CSE231N - Computer Vision Stanford University]*(http://cs231n.stanford.edu/)
+      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
+      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
 
 2.   **Novas Startups e Histórias**
-      -  *[YCombinator’s Hacker News]*(https://news.ycombinator.com/)
-      -  *[YourStory]*(https://yourstory.com/)
-      -  *[Entrepreneur.com]*(https://www.entrepreneur.com/)
-      -  *[TechCrunch - Tech and Startup News]*(https://techcrunch.com/)
-      -  *[ProductHunt]*(https://producthunt.com)
+      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
+      -  [YourStory](https://yourstory.com/)
+      -  [Entrepreneur.com](https://www.entrepreneur.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [ProductHunt](https://producthunt.com)
 
 # 11. Links Adicionais :hamster:
 
