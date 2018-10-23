@@ -125,7 +125,7 @@ Instructions :
 | 91 | **Balesabu Godugu** |  India | Full Stack developer | [LinkedIn](https://www.linkedin.com/in/balesabu-godugu-779a3819/) |
 | 92 | **Benoit Masson-Bedeau** |  France | Software developer | [GitHub](https://github.com/benichka) |
 | 93 | **Anna Karpińska** |  Poland |Frontend Developer & Graphic Designer | [GitHub](https://github.com/P1X3L0V4) - [LinkedIn](https://www.linkedin.com/in/p1x3l0v4/) - [Twitter](https://twitter.com/P1X3L0V4) - [Web](http://p1x3l.studio/) |
-| 94 | **Nico Belobrajdic**  | Germany | student | [GitHub] (https://github.com/nicobelob)|
+| 94 | **Nico Belobrajdic**  | Germany | student | [GitHub](https://github.com/nicobelob)|
 | 95 | **Ashish  Gupta** | India  | | [LinkedIn](https://www.linkedin.com/in/neelesh-gupta-55793b13a)|
 | 96 | **Shashank Gupta** |India| Data Scientist | [GitHub](https://github.com/AkkiShashank) - [LinkedIn](https://www.linkedin.com/in/shashank-gupta-93927411a/) |
 | 97 | **Afolabi Dare**  | Nigeria | Java Student | [GitHub](https://github.com/Darepapi) |
@@ -135,14 +135,14 @@ Instructions :
 | 101 | **Simone Puhl**  | The Netherlands | Front-end Developer in training | [GitHub](https://github.com/BrewingJavaS) |
 | 102 | **Tammy Davis**  | USA | Student | [GitHub](https://github.com/tshade2011) |
 | 103 | **Ianka Karúzia**  | Brazil | Web/Mobile Developer | [GitHub](https://github.com/iankakaruzia/) |
-| 104 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub] (https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/) |
-| 105 | **Grace Witter ** | UK | Web Designer/Developer | [GitHub](https://github.com/gracewitter) |
-| 106 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub] (https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/)
+| 104 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub](https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/) |
+| 105 | **Grace Witter** | UK | Web Designer/Developer | [GitHub](https://github.com/gracewitter) |
 | 107 | **Abhijeet Srivastava**| India | Full stack developer | [Github](https://github.com/abhijeet181995)
-| 108 | **Edward Matyja** | New developer looking to improve skills in both front and back end fields | [GitHub](https://github.com/edwardallanpoe) |
+| 108 | **Edward Matyja** | - |New developer looking to improve skills in both front and back end fields | [GitHub](https://github.com/edwardallanpoe) |
 | 109 | **Matt Murphy**  | USA | Designer/Front-End Developer | [GitHub](https://github.com/MattMurphyDev) |
 | 110 | **Harsh Trivedi** | India | Student | [GitHub](https://harsh98trivedi.github.io) |
 | 111 | **Myla Deceree Sabordo**  | Philippines | Student | [Github](https://github.com/mimi2495) |
+
 ----
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
