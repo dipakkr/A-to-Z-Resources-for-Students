@@ -1,7 +1,7 @@
 
 ## Here is List of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines:
 
 ```
 Instructions :
@@ -134,6 +134,15 @@ Instructions :
 | 100 | **Karthick Manoharan** | India | Full stack developer | [GitHub](https://github.com/karthick-manoharan)
 | 101 | **Simone Puhl**  | The Netherlands | Front-end Developer in training | [GitHub](https://github.com/BrewingJavaS) |
 | 102 | **Tammy Davis**  | USA | Student | [GitHub](https://github.com/tshade2011) |
----
+| 103 | **Ianka Karúzia**  | Brazil | Web/Mobile Developer | [GitHub](https://github.com/iankakaruzia/) |
+| 104 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub] (https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/) |
+| 105 | **Grace Witter ** | UK | Web Designer/Developer | [GitHub](https://github.com/gracewitter) |
+| 106 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub] (https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/)
+| 107 | **Abhijeet Srivastava**| India | Full stack developer | [Github](https://github.com/abhijeet181995)
+| 108 | **Edward Matyja** | New developer looking to improve skills in both front and back end fields | [GitHub](https://github.com/edwardallanpoe) |
+| 109 | **Matt Murphy**  | USA | Designer/Front-End Developer | [GitHub](https://github.com/MattMurphyDev) |
+| 110 | **Harsh Trivedi** | India | Student | [GitHub](https://harsh98trivedi.github.io) |
+| 111 | **Myla Deceree Sabordo**  | Philippines | Student | [Github](https://github.com/mimi2495) |
+----
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
