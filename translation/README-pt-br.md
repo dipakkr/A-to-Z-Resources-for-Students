@@ -293,9 +293,10 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
  - [Aprenda C ++](http://www.cplusplus.com/doc/tutorial/)
 
  ## 1.11 Git e Github :octocat:
- - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
- - [Como usar git e github (Inglês)](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
- - [Controle de versão com git (Inglês)](https://in.udacity.com/course/version-control-with-git--ud123)
+- [Tutoriais Git](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Como usar Git e Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+- [Controle de Versão com Git](https://in.udacity.com/course/version-control-with-git--ud123)
+
 
 ## 1.12 Linguagem R
 - [RStudio](https://www.rstudio.com/online-learning/)
@@ -606,15 +607,15 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 
 1.   **Ciência de Dados**
       - [Cursos de Ciência de Dados: Tutoriais de R & Python Analysis | DataCamp](http://www.datacamp.com/courses)
-      - *[CSE-109 - Harvard University]*(http://cs109.github.io/2015/)
-      - *[CSE231N - Computer Vision Stanford University]*(http://cs231n.stanford.edu/)
+      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
+      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
 
 2.   **Novas Startups e Histórias**
-      -  *[YCombinator’s Hacker News]*(https://news.ycombinator.com/)
-      -  *[YourStory]*(https://yourstory.com/)
-      -  *[Entrepreneur.com]*(https://www.entrepreneur.com/)
-      -  *[TechCrunch - Tech and Startup News]*(https://techcrunch.com/)
-      -  *[ProductHunt]*(https://producthunt.com)
+      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
+      -  [YourStory](https://yourstory.com/)
+      -  [Entrepreneur.com](https://www.entrepreneur.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [ProductHunt](https://producthunt.com)
 
 # 11. Links Adicionais :hamster:
 
