@@ -141,5 +141,6 @@ Instructions :
 | 107 | **Abhijeet Srivastava**| India | Full stack developer | [Github](https://github.com/abhijeet181995)
 | 108 | **Edward Matyja** | New developer looking to improve skills in both front and back end fields | [GitHub](https://github.com/edwardallanpoe) |
 | 109 | **Matt Murphy**  | USA | Designer/Front-End Developer | [GitHub](https://github.com/MattMurphyDev) |
+| 110 | **Harsh Trivedi** | India | Student | [GitHub](https://harsh98trivedi.github.io)
 ----
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
