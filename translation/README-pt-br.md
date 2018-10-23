@@ -177,7 +177,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - [CodeChef](https://www.codechef.com/) - **CodeChef Site de programação competitiva**
 - [Codeforces](https://codeforces.com/) - **Ótimo site para se preparar para maratonas de programação**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Fortemente recomendado para aprender fundamentos de Estruturas de Dados e Ciência da Computação**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Problemas (Coding Questions) que devem ser resolvidos para companhiasbaseadas em produtos**
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Problemas (Coding Questions) que devem ser resolvidos para companhias baseadas em produtos**
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk para começar com Fundamentos de programação de programação**
 - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Kit de preparação para entrevista**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Melhor plataforma para se preparar para entrevistas baseadas em estruturas de dados**
