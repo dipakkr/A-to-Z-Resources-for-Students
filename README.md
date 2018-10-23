@@ -284,7 +284,7 @@ different programming languages**
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
- - [Tutorial Point](https://www.tutorialspoint.com/cprogramming/)
+ - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
  - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
  - [Promamiz](https://www.programiz.com/c-programming)
