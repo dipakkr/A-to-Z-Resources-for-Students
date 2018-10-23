@@ -363,6 +363,7 @@ different programming languages**
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
+|36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -585,8 +586,8 @@ different programming languages**
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
-|--|------ |---|---|:------ |:----|:-----| 
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
+|--|------ |---|---|:------ |:----|:-----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |-|
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |-|
 |3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | - |

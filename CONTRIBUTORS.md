@@ -138,6 +138,7 @@ Instructions :
 ---
 
 | 103 | **Ianka Karúzia**  | Brazil | Web/Mobile Developer | [GitHub](https://github.com/iankakaruzia/) |
-| 104 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub] (https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/)
+| 104 | **Miteshree Sheth** | USA | Full stack developer | Improving my developer skills | [GitHub] (https://github.com/miteshree) - [LinkedIn](https://www.linkedin.com/in/miteshree-sheth-b3664525/) |
+| 105 | **Edward Matyja** | New developer looking to improve skills in both front and back end fields | [GitHub](https://github.com/edwardallanpoe) |
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
