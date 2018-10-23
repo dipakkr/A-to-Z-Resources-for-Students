@@ -179,6 +179,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
     - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [The Odin Project](https://www.theodinproject.com/)
+    - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
 
 - **Bootstrap4**
 
@@ -193,8 +195,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recommended for everyone*
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
-    - [Theodinproject](https://www.theodinproject.com/)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
+    - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
+    - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+    - [HTML Dog](http://www.htmldog.com/guides/javascript/)
+    - [Javascript Tutorial for Beginner Complete Course 2018](https://www.youtube.com/watch?v=PwsigsH4oXw)
+
 
 - **JavaScript Frameworks**    
      ###### Angular
@@ -224,6 +229,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
      - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+     - [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
 
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
@@ -231,6 +237,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **Web Accessibility**
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+    - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+    - [Full-Stack Web Accessibility Guidelines - A Video Tutorial on Web Accessibility for Impaired Users](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
 
 - **Frontend DevTools**
      ###### Package managers
