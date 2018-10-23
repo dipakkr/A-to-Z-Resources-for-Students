@@ -308,13 +308,15 @@ different programming languages**
 
 
 ## 1.10 C++ Language
- - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
  - [Promamiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
+ - [Fluent CPP](https://www.fluentcpp.com/)
+ - [Google](https://developers.google.com/edu/c++/)
+ - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
 
  ## 1.11 Git and Github :octocat:
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
