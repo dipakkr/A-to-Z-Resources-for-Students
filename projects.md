@@ -21,6 +21,9 @@
 
 ## 3. Internet Of Things
 
+###### Arduino
+  - [Arduino Education](https://www.arduino.cc/en/Main/Education)
+
 ## 4. Big Data
 
 ## 5. Full Stack Web Development
@@ -41,6 +44,9 @@
 ###### React  
   - [Weather app](https://github.com/pixelsinprogress/weather-app-2)
   - [Realtime chat backed by Firebase API](https://github.com/sar-gupta/space)
+  
+###### Beginner's Coding: Functional Programming in Coffee Script (for younger students) 
+  - [Play Code Monkey](https://www.playcodemonkey.com)
 
 ## 8. Mobile App Development
   - [Popular Movies - Udacity](https://github.com/dipakkr/Popular-Movies)
