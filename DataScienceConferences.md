@@ -1,7 +1,7 @@
 # Data Science Conferences in 2018 and 2019
 
 | Conference | Description and Topics Covered | Location | Date |
-| --- | --- | --- | --- |
+|:--- |:--- |:--- |:--- |
 | [Open Data Science Conference](https://www.odsc.com) | This conference covers topics such as: machine learning, neural networks, social networks, graph analysis, text analysis, natural language processing, data visualization, Big data tools and Hadoop-based frameworks. | London, UK | 19-20 Sep 2018 | 
 | [Open Data Science Conference](https://www.odsc.com)  | As above | San Francisco, USA | 31 Oct - 3 Nov 2018 | 
 | [Open Data Science Conference](https://www.odsc.com)  | As above | Boston, USA | 30 Apr - 3 May 2019| 	
