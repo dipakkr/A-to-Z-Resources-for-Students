@@ -2,41 +2,44 @@
 
 > ## Sinta-se à vontade para demonstrar seu apoio :heart: adicionando uma estrela :star:
 
-### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou gostaria de conhecer novas pessoas em alguma comunidade? Está procurando conferências internacionais, hackathons e competições para participar?? Então você realmente deve conferir isto!
+### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou gostaria de conhecer novas pessoas em alguma comunidade? Está procurando conferências internacionais, hackathons e competições para participar? Então você realmente deve conferir isto!
 
-Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que você perca tudo isso por falta de conhecimento. Aqui, eu estou adicionando alguns materiais para estudantes. Se você está na universidade ou faculdade, você deveria consultar esse material.
+Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que outros desenvolvedores iniciantes sofram do mesmo mal. Por isso, eu e vários outros desenvolvedores de toda parte estamos curando uma lista de recursos para estudantes. Se você está na universidade, dá uma olhada nesse material!
 
 ![Image](/res/xx.gif)
 
 *Image credits : Google*
 
-## Sumário :clipboard:
+## Índice :clipboard:
 
-1.  [Material de apoio - Como aprender xyz](#1-coding-resources-pencil)
+1.  [Material de Programação - Como aprender xyz](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
-     - [*Machine Learning*](#12-machine-learning-robot)
-     - [*Deep Learning*](#13-deep-learning)
+     - [Machine Learning](#12-machine-learning-robot)
+     - [Deep Learning](#13-deep-learning)
      - [Desenvolvimento Android](#14-desenvolvimento-android-iphone)
-     - [Desenvolvimento - Backend](#15-desenvolvimento---backend-computer)
-     - [Desenvolvimento - Frontend Web](#16-desenvolvimento---frontend-web-computer)
+     - [Desenvolvimento Backend](#15-desenvolvimento---backend-computer)
+     - [Desenvolvimento Frontend Web](#16-desenvolvimento---frontend-web-computer)
      - [Estrutura de Dados](#17-estrutura-de-dados-chart_with_upwards_trend)
      - [Tutoriais - Alexa](#18-tutoriais---alexa)
      - [Linguagem C](#19-linguagem-c)
      - [Linguagem C++](#110-linguagem-c)
      - [Git and Github](#111-git-and-github-octocat)
+     - [Linguagem R](#112-r-language)
+     - [Haskell](#113-haskell)
+     - [DevDocs - Documentação da API da maioria das linguagens de programação (funciona offline)](https://devdocs.io)
 
 2.  [Hackathons and Eventos](#2-hackathons-and-eventos)
      - [Top Hackathons Internacionais](#21-rainbow-top-hackathons-internacionais)
      - [Competitições](#22-competições-bomb)
      - [Portal de busca de Hackathons](#23--portal-de-busca-de-hackathons-dart)
      - [Eventos](#24-eventos-heart_eyes)
-     - [Startup Summits and Competitições](#25-startup-summits-competitições-e-bootcamps-neckbeard)
+     - [Cúpula de Startups e Competitições](#25-startup-summits-competitições-e-bootcamps-neckbeard)
      - [Desafios de contratação](#26-desafios-de-contratação-heart)
 
 3.  [Benefícios e programas para estudantes](#3-benefícios-e-programas-para-estudantes-fire)
-     - [Programas: Campus Ambassador](#programas-campus-ambassador-v)
-     - [Benefícios para estudantes](#benefícios-para-estudantes-v)
+     - [Programas: Embaixador do Campus](#programas-campus-ambassador-v)
+     - [Benefícios e pacotes para estudantes](#benefícios-para-estudantes-v)
      - [Programas de bolsa estudantil](#programas-de-bolsa-estudantil-v)
      - [Bolsas estudantis](#bolsas-estudantis-runner)
 
@@ -48,6 +51,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 9.  [Principais pessoas a serem seguidas](#9-principais-pessoas-a-serem-seguidas)
 10. [Principais sites a serem seguidos](#10-principais-sites-a-serem-seguidos)
 11. [Links Adicionais](#11-links-adicionais-hamster)
+12. [Contribuidores](CONTRIBUTORS.md)
 
 =============================================================================================
 # 1. Material de Apoio :pencil:
@@ -57,105 +61,182 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 > [**Consulte este link para obter informações detalhadas sobre Python**](Python.md)
 
 - [Aprenda Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-- [Aula - Progate Python ](https://progate.com/languages/python) - **Bom para iniciantes**
-- [Vídeo Tutorial para iniciantes - Youtube](http://bit.ly/2NkrsKh)
-- [Introdução à Python - Udacity - Curso grátis](https://in.udacity.com/course/introduction-to-python--ud1110-india)
-- [Aula - Google Python](https://developers.google.com/edu/python/)
+- [Aulas de Python da Progate](https://progate.com/languages/python) - **Bom para iniciantes**
+-  [Vídeo Tutorial para iniciantes - Youtube](http://bit.ly/2NkrsKh)
+-  [Introdução à Python - Udacity - Curso grátis](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+-  [Aula de Python da Google ](https://developers.google.com/edu/python/)
+-  [Python para todos](https://www.coursera.org/specializations/python)
 
 ## 1.2 Machine Learning :robot:
 
 > [**Consulte este link para obter informações detalhadas sobre Machine Learning e Deep Learning**](ML.md)
 
 -  **Melhores Cursos Online**
-    - [*CSE-229 - Stanford University*]( http://cs229.stanford.edu/)
+    - [*CSE-229 - Universidade Stanford*]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
-    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
+    - [Nanodegree em Machine Learning da ](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [Aprendizagem por Reforço - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
     - [*Move 37*](https://www.theschool.ai/courses/move-37-course/) - **Gratuito**
-    - [*ML with Python* - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAGO**
+    - [*ML com Python* - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [Ciência de Dados - Bootcamp de Machine Learning](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **PAGO**
+    - [Curso rápido em Machine Learning da Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
+    - [Especialização em Ciência de Dados aplicada em Python](https://www.coursera.org/specializations/data-science-python)
 
 -  **Melhores Repositório no GitHub a serem seguidos**
      - [Caminho autodidata para a Ciência de Dados](https://github.com/ossu/data-science)
-     - [*Python Machine Learning (2nd Ed.) Code Repository*](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+     - [Repositório de Código do livro Python Machine Learning (2.a edição.)*](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+     - [Tutoriais de Machine Learning](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+     - [Coding Train](https://github.com/CodingTrain)
 
 -  **Artigos Científicos**
     - [Arxiv](https://arxiv.org/)
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
+    - [Arxiv Sanity - Busque os melhores artigos](arxiv-sanity.com)
+    - [Openreview](https://openreview.net/)
+    - [Artigos científicos com código](https://github.com/zziz/pwc)
+    - [Artigos com código](https://paperswithcode.com/)
 
+-  **Teste modelos de ML em Datasets**
+    - [Kaggle](https://www.kaggle.com/)
+    - [Repositório UCI ML](https://archive.ics.uci.edu/ml/datasets.html)
+    - [Data.Gov](https://www.data.gov/)
 
 ## 1.3 Deep Learning
 
 > [**Consulte este link para obter informações detalhadas sobre Machine Learning and Deep Learning**](ML.md)
 
 -  **Melhores Cursos Online**
-    - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
+    - [Especialização em Deep Learning - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
 
 -  **Melhores Repositório no GitHub a serem seguidos**
     - [Top -200 repositórios no GitHub sobre Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
-    - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
+    - [DensePose - Pesquisa do Facebook](https://github.com/facebookresearch/DensePose)
     - [Manual de Ciência de Dados](https://github.com/jakevdp/PythonDataScienceHandbook)
-    - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+    - [Template de projeto Tensorflow](https://github.com/MrGemy95/Tensorflow-Project-Template)
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Biblioteca de redimensionamento de imagens com reconhecimento de conteúdo](https://github.com/esimov/caire)
+    - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
 ## 1.4 Desenvolvimento Android :iPhone:
 
 -  [Para iniciantes](Android.md)
--  [*Udacity - Cursos gratuitos & Nanodegree*](https://udacity.com)
--  [*PluralSight - Android Developer Track*](http://pluralsight.com/) [GRATUITO por 60 dias]
--  [Caminho para se tornar um *Associate Android Developer*](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+-  [Udacity - Cursos gratuitos & Nanodegree](https://udacity.com)
+-  [PluralSight - Android Developer Track](http://pluralsight.com/) [GRATUITO por 60 dias]
+-  [Caminho para se tornar um Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android - Exemplos](https://github.com/nisrulz/android-examples)
 -  [Flutter - Exemplos ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
 
-## 1.5 Desenvolvimento - Backend :computer:
+## 1.5 Desenvolvimento Backend :computer:
+
+- [Introdução do backend](https://in.udacity.com/course/intro-to-backend--ud171)
 
 -  **Django - Python**
-    - [*Try Django* | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Mehor para iniciantes*
-    - [Django Docs](https://docs.djangoproject.com/en/2.1/)
+    - [Experimente Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Mehor para iniciantes*
+    - [Documentação Django ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
+    - [Documentação Web MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Bom para iniciantes*
+    - [Blog SimpleIsBetterThanComplex (Simples é melhor que complexo)](https://simpleisbetterthancomplex.com/)
 
 -  **Node.JS**
-    - [Curso completo de *Node.js* | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAGO**
+    - [Curso completo de desenvolvimento Node.js | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAGO**
 
-    - [*Express web framework* (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+    - [Framework Web Express (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+
+    - [Aprenda e entenda NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAGO**  *Intermediate level*
 
     - [Vídeo Tutoriais - Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bom para iniciantes*
 
+    - [Documentação Node.js](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recomendado a todos*
+
+    - [Design Patterns em Node.js por Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Livro nível avançado*
+
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
-    - [*Tutorial Point*](https://www.tutorialspoint.com/php/)
-    - [PHP e Database tutorial](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
+    - [Tutorial Point](https://www.tutorialspoint.com/php/)
+    - [Tutorial de PHP com Banco de dados](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guia para PHP e conexões SQL com formulário HTML](https://github.com/shauryauppal/PHP-Database-connection)
 
 - **Ruby**
-    - [*Ruby on Rails* Tutorial](https://www.railstutorial.org/book)
-    - [Aprenda Ruby - *The Hard Way*](https://learnrubythehardway.org/book/)
+    - [Tutorial de Ruby on Rails](https://www.railstutorial.org/book)
+    - [Learn Ruby The Hard Way ("Aprenda Ruby Do Jeito Mais Difícil")](https://learnrubythehardway.org/book/)
 
-## 1.6 Desenvolvimento - Frontend Web :computer:
+## 1.6 Desenvolvimento Frontend Web :computer:
 
-- **HTML and CSS3**
+- **HTML5 and CSS3**
+    - [HTML5 and CSS3 w3schools.com](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [Introdução a HTML e CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
+    - [Interneting is Hard ("Internetar é difícil")](https://internetingishard.com/html-and-css/)
+    - [Documentação Web de HTML da MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [Documentação Web de CSS da MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+    - [O Projeto Odin](https://www.theodinproject.com/)
+    - [Tutoriais da HTML Dog](http://www.htmldog.com/guides/)
 
 - **Bootstrap4**
 
     - [Bootstrap4 curso e projetos](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
-- **React.js**
-     - [Vídeo Tutoriais - Iniciantes até intermediário](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-     - [FreeCodeCamp - Artigos](https://medium.freecodecamp.org/search?q=react)
-     - [Alguns projetos de React Dev](https://daveceddia.com/react-practice-projects/)
-     - [Repositório famosos no GitHub](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [Cursos pagos que valem a pena | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
-     - [Documentação original](https://reactjs.org/docs/hello-world.html)
-     - [O caminho para o React | Livro](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+- **JavaScript**
+    - [Documentação Web de JS da MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+    - [javascript info](https://javascript.info/)
+    - [Javascript30 | Wes Bos](https://javascript30.com/)
+    - [Introdução a JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
+    - [JavaScript: The Good Parts ("As Partes Boas") por Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recomendado*
+    - [Série de livros: You Don’t Know JS ("Você não sabe JS")](https://github.com/getify/You-Dont-Know-JS) *recomendado a todos*
+    - [Eloquent JavaScript Online ("Javascript Eloquente")](https://eloquentjavascript.net/)
+    - [Design Patterns em JavaScript](https://in.udacity.com/course/javascript-design-patterns--ud989)
+    - [Theodinproject ("O Projeto Odin")](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
+    - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+    - [HTML Dog](http://www.htmldog.com/guides/javascript/)
+    - [Tutorial Javascript para Iniciantes - Curso Completo 2018](https://www.youtube.com/watch?v=PwsigsH4oXw)
+
+
+- **Frameworks JavaScript**    
+     ###### Angular
+     - [Angular 7 - The Complete Guide ("O Guia Completo") por Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
+    - [O Curso Completo de Angular: de Iniciante a Avançado por Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy - pago)**
+    - [Angular Expo](https://angularexpo.com/) - **Linda mostra de sites, aplicações e experimentos usando**
+    - [Made With Angular ("Feito em Angular")](https://www.madewithangular.com/) - **Galeria de sites inspiradores usando Angular/AngularJS**
+
+     ###### React.js
+     - [Video Tutoriais - Iniciante a Avançado](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+     - [Video Tutorials no YouTube - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+     - [Tutorial ReactJS da codecademy](https://www.codecademy.com/learn/react-101) *Interativo*
+     - [Artigos FreeCodeCamp](https://medium.freecodecamp.org/search?q=react)
+     - [Alguns Projetos para todo desenvolvedor React](https://daveceddia.com/react-practice-projects/)
+     - [Repositórios GitHub Famosos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+     - [PAGO, mas vale a pena| UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAGO**
+     - [Documentação Original](https://reactjs.org/docs/hello-world.html)
+     - [O Campinho para Reacto | Livro](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [React para Iniciantes | Wes Bos](https://reactforbeginners.com/) -- **PAGO**
+     - [React Avançado | Wes Bos](https://advancedreact.com/) -- **PAGO**
+
+
+- **Redux.js**
+     - [Video Tutoriais - Iniciante](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+     - [Documentação Redux](https://redux.js.org/introduction) *Recomendado a todos*
+     - [Começando com Redux](https://egghead.io/courses/getting-started-with-redux)
+     - [Construindo Aplicações em React com Redux Idiomático](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+     - [Tutorial React com Redux](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
+     - [Tutorial Full-Stack de Redux](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+     - [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
+
+- **Vue.js**
+    - [Vue School](https://vueschool.io/courses) -- **Grátis + Pago**
+    - [Scrimba](https://scrimba.com/g/glearnvue)
+
+- **Acessibilidade na Web**
+    - [Documentação Web de Acessibilidade da MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+    - [Tutoriais em Acessibilidade Web](https://www.w3.org/WAI/tutorials/)
+    - [Guia de Acessibilidade na Web Full-Stack Web - Um video-tutorial sobre Acessibilidade na Web para Usuários com Deficiência](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
+
 
 - **Ferramentas de desenvolvimento para Frontend**
      ###### Gerenciadores de pacotes
@@ -166,7 +247,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
      ###### Bundlers
      - [Webpack - Bundler mais utilizado](https://webpack.js.org/guides/getting-started/)
      - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
-     - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
+     - [Parcel - Previsto como o substituto do webpack](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
      - [Browserify - O primeiro bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
