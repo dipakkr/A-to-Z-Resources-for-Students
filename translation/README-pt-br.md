@@ -15,8 +15,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 1.  [Material de apoio - Como aprender xyz](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
-     - *[Machine Learning]*(#12-machine-learning-robot)
-     - *[Deep Learning]*(#13-deep-learning)
+     - [*Machine Learning*](#12-machine-learning-robot)
+     - [*Deep Learning*](#13-deep-learning)
      - [Desenvolvimento Android](#14-desenvolvimento-android-iphone)
      - [Desenvolvimento - Backend](#15-desenvolvimento---backend-computer)
      - [Desenvolvimento - Frontend Web](#16-desenvolvimento---frontend-web-computer)
@@ -177,7 +177,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - [CodeChef](https://www.codechef.com/) - **CodeChef Site de programação competitiva**
 - [Codeforces](https://codeforces.com/) - **Ótimo site para se preparar para maratonas de programação**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Fortemente recomendado para aprender fundamentos de Estruturas de Dados e Ciência da Computação**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Problemas (Coding Questions) que devem ser resolvidos para companhiasbaseadas em produtos**
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Problemas (Coding Questions) que devem ser resolvidos para companhias baseadas em produtos**
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk para começar com Fundamentos de programação de programação**
 - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Kit de preparação para entrevista**
 - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Melhor plataforma para se preparar para entrevistas baseadas em estruturas de dados**
@@ -211,12 +211,23 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Aprenda C ++](http://www.cplusplus.com/doc/tutorial/)
 
- ## 1.11 Git and Github :octocat:
- -
+ ## 1.11 Git e Github :octocat:
+- [Tutoriais Git](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [Como usar Git e Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+- [Controle de Versão com Git](https://in.udacity.com/course/version-control-with-git--ud123)
+
+
+## 1.12 Linguagem R
+- [RStudio](https://www.rstudio.com/online-learning/)
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
+- [R-Bloggers](https://www.r-bloggers.com/)
+
+## 1.13 Haskell
+ - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
 
-# 2. Hackathons and Eventos
+# 2. Hackathons e Eventos
 
 ## 2.1 :rainbow: Top Hackathons Internacionais
 
@@ -257,6 +268,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | Outubro (Submissão da ideia) | fim de Nov | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | Setembro-Outubro | - |
 |34 | [HackISU](https://hackisu.org/)| USA | Não | Outubro | - |
+|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | 26 de Outubro| - |
 
 ----------------------------------------------------------
 
@@ -284,9 +296,10 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
 |19| [Google Code Jam](https://code.google.com/codejam) | Online |
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 
 
-##  2.3  Portal de busca de Hackathons :dart:
+##  2.3  Portais de busca de Hackathons :dart:
 |s.no| Nome  | Local | Categoria |
 |---| ------ |---| --- |
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA|  ALL |
@@ -311,6 +324,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+10. BrazilJS [Agosto, Rio Grande do Sul, Brasil](https://braziljs.org/conf/)
 
 ## 2.5 Startup Summits, Competitições e Bootcamps :neckbeard:
 
@@ -402,8 +416,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| Sim |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prêmios | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prémios | - | - |
+|9| [Season of KDE](https://season.kde.org) | KDE | Prémios | - | - |
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Sim | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | Não | - | - |
 
@@ -428,12 +442,12 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
 4. [LinkedIn](https://linkedin.com)
-5. *Entre em contato com o RH no LinkedIn*
+5. *Entre em contato com os RH no LinkedIn*
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 
     ### Dicas para estágio :
-     - Para o estágio de verão, comece pelo menos 3-4 meses de antecedência.
+     - Para o estágio de verão, faça a sua inscrição com pelo menos 3-4 meses de antecedência.
 
 =============================================================================================
 
@@ -443,7 +457,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 > **Confira **Meetup.com** para mais eventos próximos de você**
 
-- Coursera F2F Office Hours at PyCon India - **TRENDING**
+- Coursera F2F Office Hours at PyCon India - **POPULAR**
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
@@ -453,7 +467,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Banglore ]**
+- Paytm Build for India **[ Apenas em Delhi e Bangalore ]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
@@ -480,7 +494,7 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 |12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - |
 |14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - |
-|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Março to Out(pode variar) | 3 dias |
+|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Março a Outubro (pode variar) | 3 dias |
 |16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Parcial | Ago3 | Ago5 |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | SIM | Jan6 | Jan11 |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | SIM | Verão | - |
@@ -512,15 +526,15 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 
 1.   **Ciência de Dados**
       - [Cursos de Ciência de Dados: Tutoriais de R & Python Analysis | DataCamp](http://www.datacamp.com/courses)
-      - *[CSE-109 - Harvard University]*(http://cs109.github.io/2015/)
-      - *[CSE231N - Computer Vision Stanford University]*(http://cs231n.stanford.edu/)
+      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
+      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
 
 2.   **Novas Startups e Histórias**
-      -  *[YCombinator’s Hacker News]*(https://news.ycombinator.com/)
-      -  *[YourStory]*(https://yourstory.com/)
-      -  *[Entrepreneur.com]*(https://www.entrepreneur.com/)
-      -  *[TechCrunch - Tech and Startup News]*(https://techcrunch.com/)
-      -  *[ProductHunt]*(https://producthunt.com)
+      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
+      -  [YourStory](https://yourstory.com/)
+      -  [Entrepreneur.com](https://www.entrepreneur.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [ProductHunt](https://producthunt.com)
 
 # 11. Links Adicionais :hamster:
 
