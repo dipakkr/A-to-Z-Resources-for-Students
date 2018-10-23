@@ -176,6 +176,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
     - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
+    - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
