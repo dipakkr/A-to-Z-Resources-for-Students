@@ -21,22 +21,24 @@ Get the version of Git:
 Create an alias (shortcut) for `git status`:
 `git config --global alias.st status`
 
+for a more inofrmation on your first time setup of the git to set it's executable part. Check this to find a more detalied guide on git setup.
+<a href="https://github.com/bouvet-openlab/p2pcommunication/wiki/Set-git-executable-path">Git setup</a>
 
 Help
 -----------
 
 Help:
-`git help`
+<a href="https://git-scm.com/docs/git-help">git help</a>
 
 
 General
 -----------
 
 Initialize Git:
-`git init`
+<a href="https://git-scm.com/docs/git-init"> git init</a>
 
 Get everything ready to commit:
-`git add .`
+<a href="https://git-scm.com/docs/git-commit">git add</a>
 
 Get custom file ready to commit:
 `git add index.html`
