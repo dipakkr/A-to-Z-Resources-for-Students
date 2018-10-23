@@ -194,7 +194,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     -
 
 - **JavaScript Frameworks**    
-     ###### Angular
+    ###### Angular
      - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
     - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
@@ -225,6 +225,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
+    - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
 
 - **Web Accessibility**
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
