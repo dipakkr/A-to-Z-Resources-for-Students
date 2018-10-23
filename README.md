@@ -298,7 +298,7 @@ different programming languages**
 
 
 ## 1.10 C++ Language
- - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
+ - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
  - [Promamiz](https://www.programiz.com/cpp-programming)
