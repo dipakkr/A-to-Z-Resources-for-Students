@@ -64,12 +64,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
--  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
--  [Google Python class](https://developers.google.com/edu/python/)
--  [Python For Everybody](https://www.coursera.org/specializations/python)
--  [Write Better Python Functions](https://jeffknupp.com/)
--  [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+- [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+- [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+- [Google Python class](https://developers.google.com/edu/python/)
+- [Python For Everybody](https://www.coursera.org/specializations/python)
+- [Write Better Python Functions](https://jeffknupp.com/)
+- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - **Great for learning automation and learning the basics of Python**
 
 ## 1.2 Machine Learning :robot:
 
