@@ -121,6 +121,8 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
 
+    - [The Modern GraphQL Bootcamp (Advanced Node.js) | UDEMY](https://www.udemy.com/graphql-bootcamp/) -- **PAID**
+
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Begineers*
@@ -148,6 +150,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/) -- **PAID**
 
 - **Frontend DevTools**
      ###### Package managers
