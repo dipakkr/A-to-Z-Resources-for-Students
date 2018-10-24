@@ -160,7 +160,7 @@ Instructions :
 | 127 | **Alvin Quijano** | Canada | Software Engineering Student | [GitHub](https://github.com/acqno) | 
 | 128 | **Shaan** | Pakistan | Software Engineering Student | [GitHub](https://github.com/shaanmuhammad786) | 
 | 129 | **Kaiz Merchant** | India | Full Stack Developer | [GitHub](https://github.com/kaiz123) |
-
+| 128 | **Nirosha Jayasundara** | Sri Lanka | SE undergraduate | [GitHub](https://github.com/niroshajayasundara) |
 ----
 
 ###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
