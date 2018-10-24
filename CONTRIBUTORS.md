@@ -1,7 +1,7 @@
 
 ## Here is List of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia:
 
 ```
 Instructions :
@@ -160,8 +160,9 @@ Instructions :
 | 127 | **Alvin Quijano** | Canada | Software Engineering Student | [GitHub](https://github.com/acqno) |
 | 128 | **Shaan** | Pakistan | Software Engineering Student | [GitHub](https://github.com/shaanmuhammad786) |
 | 129 | **Kaiz Merchant** | India | Full Stack Developer | [GitHub](https://github.com/kaiz123) |
-| 130 | **Edno Fedulo** | Brazil | iOS Developer | [GitHub](https://github.com/ednofedulo) |
-| 131 | **Aashish Kumar** | India | CSE Student @ IIT Mandi | [GitHub](https://github.com/aashish-ak) |
+| 130 | **Marko Markovic** | Serbia | Java Developer | [GitHub](https://github.com/mare980) |
+| 131 | **Edno Fedulo** | Brazil | iOS Developer | [GitHub](https://github.com/ednofedulo) |
+| 132 | **Aashish Kumar** | India | CSE Student @ IIT Mandi | [GitHub](https://github.com/aashish-ak) |
 
 ----
 
