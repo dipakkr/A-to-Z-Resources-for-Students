@@ -37,6 +37,10 @@
 ###### Django
   - [API Services with token authentication (JWT)](https://github.com/kasulani/drf_tutorial)
   - [E-Commerce](https://github.com/snipcart/snipcart-wagtail-integration)
+  
+###### Spring
+  - [JWT Authentication](https://github.com/andreybleme/jwt-me)
+  - [Slackbot Portscanner](https://github.com/andreybleme/portscanner-slackapp)
 
 ###### Flask - Python Microframework
   - [Article Inventory Tutorial from Scratch](https://bit.ly/py_flask)
