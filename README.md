@@ -327,6 +327,7 @@ different programming languages**
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
+ - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
