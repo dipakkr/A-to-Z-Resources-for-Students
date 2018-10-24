@@ -10,7 +10,7 @@ Als ich noch zur Schule ging, habe ich viele Gelegenheiten verpasst, weil ich ni
 Ich möchte nicht, dass werdende Entwickler das Gleiche widerfährt.
 Deswegen habe ich mit einigen anderen Entwicklern aus der ganzen Welt eine Liste mit Lernmaterial zusammengestellt. Wenn du dich gerade im Lernprozess befindest oder vor Kurzem angefangen hast, schau es dir gerne mal an!
 
-![Image](res/xx.gif)
+![Image](../res/xx.gif)
 
 *Bildquelle: Google*
 
