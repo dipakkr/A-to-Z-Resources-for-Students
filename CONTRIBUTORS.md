@@ -168,6 +168,7 @@ Instructions :
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
 | 137 | **Kaustubh Prabhu**  | India | CSE Student: Applying for Masters | [GitHub](https://github.com/Kaustubhprabhu98)|[Linkedin](https://www.linkedin.com/in/kaustubh-prabhu/)|
 | 138 | **George McCarron** | UK | Computer Science Student | [GitHub](https://github.com/george1410) - [LinkedIn](https://www.linkedin.com/in/mccarrong)|
+| 139 | **Blessing Pariola** | Nigeria | Backend Developer | [GitHub](https://github.com/pariola) |
 
 ---
 
