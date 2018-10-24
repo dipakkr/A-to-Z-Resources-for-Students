@@ -166,8 +166,8 @@ Instructions :
 | 134 | **Carlo Carlo Lizano**  | Uruguay | Cuban Software Developer | [GitHub](https://github.com/clizano)|[Linkedin](https://www.linkedin.com/in/carlo-carlo-lizano-2613a9a3/)|
 | 135 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
-| 137 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
-
+| 137 | **Kaustubh Prabhu**  | India | CSE Student: Applying for Masters | [GitHub](https://github.com/Kaustubhprabhu98)|[Linkedin](https://www.linkedin.com/in/kaustubh-prabhu/)|
+| 138 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.

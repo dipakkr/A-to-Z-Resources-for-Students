@@ -64,7 +64,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
-- [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+- [Video Tutorial for absolute beginners - YouTube](http://bit.ly/2NkrsKh)
 - [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 - [Google Python class](https://developers.google.com/edu/python/)
 - [Python For Everybody](https://www.coursera.org/specializations/python)
@@ -143,7 +143,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
 
 -  **Django - Python**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
+    - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
@@ -220,7 +220,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      ###### React.js
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-     - [Video Youtube Tutorials - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+     - [Video YouTube Tutorials - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
      - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactive*
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
@@ -234,7 +234,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **Redux.js**
      - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
-     - [Redux docs](https://redux.js.org/introduction) *Recomended for everyone*
+     - [Redux docs](https://redux.js.org/introduction) *Recommended for everyone*
      - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
      - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
@@ -299,7 +299,7 @@ different programming languages**
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
- - [Youtube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
+ - [YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
  - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
@@ -307,7 +307,7 @@ different programming languages**
  - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
  - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
- - [Promamiz](https://www.programiz.com/c-programming)
+ - [Programiz](https://www.programiz.com/c-programming)
  - [Fresh2Refresh](https://fresh2refresh.com/c-programming/)
  - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
@@ -320,7 +320,7 @@ different programming languages**
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
- - [Promamiz](https://www.programiz.com/cpp-programming)
+ - [Programiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
@@ -357,7 +357,7 @@ different programming languages**
 |4 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
 |5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
-|7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
+|7 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
 |8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - |
 |9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
 |10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
@@ -428,7 +428,7 @@ different programming languages**
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
 |3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
 |4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
-|5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL |
+|5|[TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
