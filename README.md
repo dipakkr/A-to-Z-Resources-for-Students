@@ -185,7 +185,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
-    
+
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
@@ -326,6 +326,7 @@ different programming languages**
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
+ - [Pro Git Book](https://git-scm.com/book/en/v2)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
@@ -609,8 +610,8 @@ different programming languages**
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
-|--|------ |---|---|:------ |:----|:-----| 
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
+|--|------ |---|---|:------ |:----|:-----|
 |1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 | Python |
 |2 | [ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 | AI |
 |3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | Business |
