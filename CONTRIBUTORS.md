@@ -158,6 +158,7 @@ Instructions :
 | 125 | **Sujay**  | India | student | [GitHub](https://github.com/slasher17) |
 | 126 | **ElenaMLopez**  | Spain | Developer | [GitHub](https://github.com/ElenaMLopez) |
 | 127 | **Alvin Quijano** | Canada | Software Engineering Student | [GitHub](https://github.com/acqno) | 
+ 127 | **Shomeel Ahmed** | Pakistan | Software Engineering | [GitHub](github.com/ShomeelAhmed) | 
 
 ----
 
