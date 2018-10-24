@@ -6,7 +6,7 @@
 
 ### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and a bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -136,6 +136,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
+-  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 
 ## 1.5 Backend Development :computer:
 

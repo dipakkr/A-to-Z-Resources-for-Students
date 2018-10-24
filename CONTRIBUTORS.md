@@ -163,6 +163,7 @@ Instructions :
 | 130 | **Marko Markovic** | Serbia | Java Developer | [GitHub](https://github.com/mare980) |
 | 131 | **Edno Fedulo** | Brazil | iOS Developer | [GitHub](https://github.com/ednofedulo) |
 | 132 | **Aashish Kumar** | India | CSE Student @ IIT Mandi | [GitHub](https://github.com/aashish-ak) |
+| 133 | **Maaruf Dauda** | Nigeria | Mobile Developer | [GitHub](https://github.com/emkayDauda) |
 
 ----
 
