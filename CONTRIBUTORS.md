@@ -1,5 +1,5 @@
 
-## Here is List of awesome people who contributed to this repository
+## Here is a list of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia:
 
@@ -8,7 +8,7 @@ Instructions :
 
 - Please consider adding your national flag above, if it is not there.
 
-- Add your detail at the bottom of Second Table (CONTRIBUTORS.md)
+- Add your detail at the bottom of the second table (CONTRIBUTORS.md).
 
 - Don't change the format of the table or modify someone else's content.
 
@@ -22,7 +22,7 @@ Instructions :
 | 1. | **Deepak Kumar** :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
 | 2 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 
-----
+---
 
 ### 2. Contributors
 
