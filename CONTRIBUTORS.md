@@ -10,12 +10,12 @@ Instructions :
 
 - Add your detail at the bottom of the second table (CONTRIBUTORS.md).
 
-- Don't change the format of the table or modify someone else's content.
+- Don't change the format of the table or modify someone else content.
 
 - In case you don't want to disclose your contact information, no problem, this list is just created to get to know people who are contributing to this repository.
 ```
 
-### 1. Collaboraters
+### 1. Collaborators
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------|:---------|:--------------|:------------|
@@ -166,6 +166,7 @@ Instructions :
 | 134 | **Carlo Carlo Lizano**  | Uruguay | Cuban Software Developer | [GitHub](https://github.com/clizano)|[Linkedin](https://www.linkedin.com/in/carlo-carlo-lizano-2613a9a3/)|
 | 135 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
+| 137 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
 
 ---
 
