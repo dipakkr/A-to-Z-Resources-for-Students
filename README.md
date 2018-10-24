@@ -26,9 +26,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
-     - [Git and Github](#111-git-and-github-octocat)
-     - [R Language](#112-r-language)
-     - [Haskell](#113-haskell)
+     - [Rust Language](#111-rust-language)
+     - [Git and Github](#112-git-and-github-octocat)
+     - [R Language](#113-r-language)
+     - [Haskell](#114-haskell)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
@@ -328,18 +329,21 @@ different programming languages**
  - [Google](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
 
- ## 1.11 Git and Github :octocat:
+## 1.11 Rust Language
+ - [The Rust Book](https://doc.rust-lang.org/book/second-edition/index.html)
+
+ ## 1.12 Git and Github :octocat:
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
  - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
-## 1.12 R Language
+## 1.13 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
 
-## 1.13 Haskell
+## 1.14 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
 =============================================================================================
