@@ -30,6 +30,7 @@
 ## 5. Full Stack Web Development
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
  * [Advanced React Course](https://advancedreact.com/)
+ * [MEAN Stack | Online portal of IIT Professors' details](https://github.com/aashish-ak/search_guru)
 
 ## 6. Backend Development
 
