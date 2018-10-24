@@ -15,6 +15,7 @@
 	- [Wine Quality Data](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 	- [Turkiye Student Evaluation Data](https://archive.ics.uci.edu/ml/datasets/Wine+Qualityhttps://archive.ics.uci.edu/ml/datasets/Turkiye+Student+Evaluation)
 	- [Heights and Weights Data](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights)
+	
 
  
 ## 2. Blockchain
@@ -37,6 +38,8 @@
   - [E-Commerce](https://github.com/snipcart/snipcart-wagtail-integration)
 
 ## 7. Frontend Development
+####### Web Development
+- [Google Developers Training](https://developers.google.com/training/web/) Has a bunch of free courses to help up and coming developers deepen their knowledge of code. 
 
 ###### JavaScript	
   -  [Javascript 30](https://javascript30.com/) Provides a list of front end development projects along with their sourcecode.
