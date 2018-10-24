@@ -352,7 +352,7 @@ different programming languages**
 |5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
 |7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - |
+|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - |
 |9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
 |10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
 |11 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
