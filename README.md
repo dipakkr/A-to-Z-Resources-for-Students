@@ -142,6 +142,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 
+- **MongoDB**
+    -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+
 ## 1.6 Frontend Web Development :computer:
 
 - **HTML and CSS3**
