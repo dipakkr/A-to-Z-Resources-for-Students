@@ -1,21 +1,20 @@
 
-## Here is List of awesome people who contributed to this repository
+## Here is a list of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay :cuba
 
 ```
 Instructions :
 
-- Please consider adding your national flag above,if it is not there.
+- Please consider adding your national flag above, if it is not there.
 
-- Add your detail at the bottom of Second Table (Contributors.md)
+- Add your detail at the bottom of the second table (CONTRIBUTORS.md).
 
-- Don't Change the Format of table or modify someone else content.
+- Don't change the format of the table or modify someone else's content.
 
-- In Case, you don't want to disclose your contact information.
-  No Problem, This place is just created to know people who are contributing to this repository.
-
+- In case you don't want to disclose your contact information, no problem, this list is just created to get to know people who are contributing to this repository.
 ```
+
 ### 1. Collaboraters
 
 | S.no | Name | Country | Introduction | Contact |
@@ -23,7 +22,7 @@ Instructions :
 | 1. | **Deepak Kumar** :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
 | 2 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 
-----
+---
 
 ### 2. Contributors
 
@@ -168,7 +167,6 @@ Instructions :
 | 135 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
 
+---
 
-----
-
-###  Thanks, You did a great Job. Please Consider giving :star: if you :heart::yellow_heart: our efforts.
+###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
