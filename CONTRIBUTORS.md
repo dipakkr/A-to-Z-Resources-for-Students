@@ -159,6 +159,7 @@ Instructions :
 | 126 | **ElenaMLopez**  | Spain | Developer | [GitHub](https://github.com/ElenaMLopez) |
 | 127 | **Alvin Quijano** | Canada | Software Engineering Student | [GitHub](https://github.com/acqno) | 
 | 128 | **Shaan** | Pakistan | Software Engineering Student | [GitHub](https://github.com/shaanmuhammad786) | 
+| 129 | **Kaiz Merchant** | India | Full Stack Developer | [GitHub](https://github.com/kaiz123) |
 
 ----
 
