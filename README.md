@@ -607,7 +607,7 @@ different programming languages**
 - Microsoft Student Technical Community
 - Paytm Build for India **[ Only in Delhi and Bangalore]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
-- Toastmaster International
+- [Toastmaster International](https://www.toastmasters.org)
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
