@@ -23,6 +23,16 @@
 ### g.Institute for Artificial Intelligence (c++,python)
 
 ### h.Metasploit (ruby,python,c)
+
+# Youtube Playlist for How to Crack Gsoc
+
+### https://www.youtube.com/watch?v=vSSIObOqgwE&list=PL9oUnF4b_qbXrxhlgDxo5VX5DVj08HuDE
+
+### https://www.youtube.com/watch?v=7JBnwZCTzK8&list=PL9oUnF4b_qbV5Gluo3QZpdFr1h5RoUopD
+
+### https://www.youtube.com/watch?v=djS2i2O2An4
+
+### https://www.youtube.com/watch?v=w5IUDkrSVyM&list=PLlfvt_v74Qzf71KJwfTwAI1gRPbv7fq7a
 # COMING SOON
 
 - TODO
