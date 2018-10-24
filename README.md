@@ -6,7 +6,7 @@
 
 ### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and a bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -55,7 +55,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
-=============================================================================================
+=========================================================================================
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -64,12 +64,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
--  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
--  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
--  [Google Python class](https://developers.google.com/edu/python/)
--  [Python For Everybody](https://www.coursera.org/specializations/python)
--  [Write Better Python Functions](https://jeffknupp.com/)
--  [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+- [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
+- [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
+- [Google Python class](https://developers.google.com/edu/python/)
+- [Python For Everybody](https://www.coursera.org/specializations/python)
+- [Write Better Python Functions](https://jeffknupp.com/)
+- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - **Great for learning automation and learning the basics of Python**
 
 ## 1.2 Machine Learning :robot:
 
@@ -90,7 +91,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-     - [Coding Train] (https://github.com/CodingTrain)
+     - [Coding Train](https://github.com/CodingTrain)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
@@ -135,6 +136,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
+-  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 
 ## 1.5 Backend Development :computer:
 
@@ -146,6 +148,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
+    - [Tango With Django Book](https://www.tangowithdjango.com/book/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
@@ -172,6 +175,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.6 Frontend Web Development :computer:
 
+- [Frontend Masters](https://frontendmasters.com/) -- **PAID**
+
 - **HTML5 and CSS3**
     - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
     - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
@@ -182,10 +187,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
     - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/
+    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
-    
+
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
@@ -245,6 +250,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
     - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
     - [Full-Stack Web Accessibility Guidelines - A Video Tutorial on Web Accessibility for Impaired Users](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
+    - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -326,6 +332,7 @@ different programming languages**
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
+ - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
@@ -351,7 +358,7 @@ different programming languages**
 |5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
 |7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - |
+|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - |
 |9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
 |10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
 |11 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
@@ -520,6 +527,7 @@ different programming languages**
 17. [Young Leaders For Active Citizenship](http://ylacindia.com)
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
+20. [Coding it Forward - Civic Digital Fellowship](https://www.codingitforward.com/)
 
 ## Scholarships :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
@@ -602,14 +610,15 @@ different programming languages**
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
+- [Forloop Africa](https://forloop.africa)
 
 =============================================================================================
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
-|--|------ |---|---|:------ |:----|:-----| 
+|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
+|--|------ |---|---|:------ |:----|:-----|
 |1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 | Python |
 |2 | [ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 | AI |
 |3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | Business |
