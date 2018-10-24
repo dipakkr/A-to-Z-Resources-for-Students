@@ -78,14 +78,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
-    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
-    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
+    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning) **PAID FOR CERTIFICATION AND ALL CONTENTS**
+    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) **PAID NANODEGREE**
+    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600) **PAID NANODEGREE**
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **PAID**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
-    - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+    - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) **PAID FOR CERTIFICATION AND ALL CONTENTS**
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -114,7 +114,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
+    - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) **PAID**
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
 
 -  **Best GitHub Repositories to follow**
@@ -201,7 +201,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
-    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recommended*
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recommended* **LINK TO AMAZON**
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recommended for everyone*
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
@@ -281,7 +281,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
     - [Codewars](https://www.codewars.com/) - **Interesting ranking system with beautiful UI for competitive programming and interview prep.**
     - [CodinGame](https://www.codingame.com/) - **Competitive programming with game like challenges**
-    - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
+    - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online** **PAID FOR CERTIFICATION**
     - [Codility](https://app.codility.com/programmers/) - **Develop your coding skills with lessons ot take part in challenges**
 
 - **Books**
@@ -291,8 +291,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
 different programming languages**
-- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship**
-- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
+- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK TO AMAZON**
+- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition** **LINK TO AMAZON**
 
 
 ## 1.8 Alexa Tutorials
@@ -300,7 +300,7 @@ different programming languages**
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
  - [YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
- - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
+ - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) **10 DAY FREE TRIAL**
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
