@@ -173,7 +173,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.6 Frontend Web Development :computer:
 
-- [Frontend Masters] (https://frontendmasters.com) -- **PAID**
+- [Frontend Masters](https://frontendmasters.com/) -- **PAID**
 
 - **HTML5 and CSS3**
     - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
