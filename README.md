@@ -1,4 +1,4 @@
-# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+﻿# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## Feel free to show your love :heart: by giving a star :star:
 
@@ -29,6 +29,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
+     - [MongoDB](#114-mongodb)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
@@ -341,6 +342,10 @@ different programming languages**
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+
+## 1.14 MongoDB
+ - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
+ - [MongoDB University](https://university.mongodb.com/)
 
 =============================================================================================
 
