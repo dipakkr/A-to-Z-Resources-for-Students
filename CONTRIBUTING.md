@@ -9,3 +9,9 @@
 3. Please don't remove any resources or content from README.md
 
 4. Make sure to add your resources in correct section as mentioned in Table of Content. 
+
+
+Name:  Sreelakshmi T D
+Place:  Kerala,India
+GitHub:  SreelakshmiTD
+LinkedIn:  Sreelakshmi T D
