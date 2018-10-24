@@ -55,6 +55,7 @@
 + <a href = "https://www.geeksforgeeks.org/calendar-functions-in-python-set-1-calendar-month-isleap/">Python Calendar Library</a>
 + <a href = "https://www.djangoproject.com/">Learn Django to make backend accessible | Python </a>
 + <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
++ <a href = "https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html">Web Application Programming using Flask</a>
 
 ## 7. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
@@ -62,3 +63,4 @@
 + <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
 + <a href ="https://github.com/aashish-ak/CNN-from-Scratch">Digit Recogniser using CNN and Flask</a>
 + <a href ="https://github.com/aashish-ak/article_inventory">Article Inventory</a>
++ <a href ="http://flask.pocoo.org/docs/1.0/tutorial/">Making a Blog Using Flask and SQLite</a>
