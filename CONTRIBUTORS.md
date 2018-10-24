@@ -166,6 +166,7 @@ Instructions :
 | 133 | **Maaruf Dauda** | Nigeria | Mobile Developer | [GitHub](https://github.com/emkayDauda) |
 | 134 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
 | 135 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
+| 136 | **Edgar Gonzalez**  | Mexico/MX | Software engineer | [GitHub](https://github.com/Edgarzerocoo) |
 
 ----
 
