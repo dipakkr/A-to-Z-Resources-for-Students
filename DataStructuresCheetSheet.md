@@ -1,6 +1,6 @@
 ## Data Structures Cheet Sheet
 **Best way to learn any data structure is to read about it first, understand it and then dive into solving problems using that data structure!**
-- [Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/) - **Segment Tree is used in cases where there are multiple range queries on array and modifications of elements of the same array.** 
+- [Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/) - **Segment Tree is used in cases where there are multiple range queries on array and modifications of elements of the same array.**
 	**Goto problems:**
 	- [GSS1- SPOJ](https://www.spoj.com/problems/GSS1/) - **EASY**
 	- [GSS3- SPOJ](https://www.spoj.com/problems/GSS3/) - **EASY**
