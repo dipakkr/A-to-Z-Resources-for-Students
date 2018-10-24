@@ -9,7 +9,7 @@
 ## Table of Contents
 
 1.  [Machine Learning](#1-machine-learning)
-     
+
      - [Where to Start in ML ?  ](#1.1-where-to-start-in-ml)
      - [Online Courses](#1.2-online-courses)
      - [Research Paper](#1.3-research-paper)
@@ -25,7 +25,7 @@
      - [Online Courses](#2.2-online-courses)
      - [Research Paper](#2.3-research-paper)
      - [Top Github Repositories](#2.4-top-github-repositories)
-    
+
 3. [DataSets](#2-datasets)
 
 4. [Data Science Conference](#4-data-science-confs)
@@ -46,22 +46,22 @@
 
 # 1.  **Machine Learning**
 ## 1.1 Where to Start in ML?
-1) Python 
+1) Python
 
    - [Basics of Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
    - [More in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
    - [Python for ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
- 
+
  2) Maths for ML
  - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
  - [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
  - [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
  - [Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
- 
- 
+
+
 
  3) Intro to ML
- 
+
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
 
@@ -71,8 +71,11 @@
 
    - [Start@Fast.ai](http://course.fast.ai/start.html)
    - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-   
+
 2)
+
+# 3. **DataSets**
+  - [MNIST Dataset for Digit Recogniser](http://yann.lecun.com/exdb/mnist/)
 
 ## COMING SOON
 
