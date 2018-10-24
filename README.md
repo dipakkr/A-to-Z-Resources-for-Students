@@ -439,7 +439,7 @@ different programming languages**
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
 3. Google Solve for India
-3. Paytm Build for India Workshops [ Delhi, Banglore ]
+3. Paytm Build for India Workshops [ Delhi, Bangalore ]
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
 6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
