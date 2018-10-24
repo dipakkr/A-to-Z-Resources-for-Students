@@ -30,6 +30,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
+     - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+     - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
