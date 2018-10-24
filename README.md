@@ -527,6 +527,7 @@ different programming languages**
 17. [Young Leaders For Active Citizenship](http://ylacindia.com)
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
+20. [Coding it Forward - Civic Digital Fellowship](https://www.codingitforward.com/)
 
 ## Scholarships :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
