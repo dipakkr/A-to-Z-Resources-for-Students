@@ -55,7 +55,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
-=========================================================================================
+---
+
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -265,7 +266,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 
@@ -342,7 +343,7 @@ different programming languages**
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
-=============================================================================================
+---
 
 # 2. Hackathons and Events
 
@@ -389,7 +390,7 @@ different programming languages**
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
 
-----------------------------------------------------------
+---
 
 ##  2.2 Competitions :bomb:
 
@@ -477,7 +478,7 @@ different programming languages**
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. Student Benefits and Programs :fire:
 
@@ -538,7 +539,8 @@ different programming languages**
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+---
+
 # 4. Open Source Programs :octocat:
 
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
@@ -558,7 +560,7 @@ different programming languages**
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 |12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 
-=============================================================================================
+---
 
 # 5. Startup Programs and Incubators :mag_right:
 
@@ -572,7 +574,7 @@ different programming languages**
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. Internship Portals :smile:
 1. [Angel List](https://angel.co)
@@ -588,7 +590,7 @@ different programming languages**
 
      - For summer internship, start looking at least 3-4 months in advance.
 
-=============================================================================================
+---
 
 # 7. Developer Clubs and Meetups
 
@@ -612,7 +614,8 @@ different programming languages**
 - MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
 
-=============================================================================================
+---
+
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
@@ -663,7 +666,7 @@ different programming languages**
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
-=============================================================================================
+---
 
 # 9. Top People to Follow
 
@@ -696,7 +699,7 @@ different programming languages**
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 
-=============================================================================================
+---
 
 # 10. Top Websites to Follow
 
