@@ -48,6 +48,6 @@
 ###### Beginner's Coding: Functional Programming in Coffee Script (for younger students) 
   - [Play Code Monkey](https://www.playcodemonkey.com)
 
-## 9. Web App Development
-  - [Popular Movies - Udacity](https://github.com/Shaanmuhammad786)
+## 8. Mobile App Development
+  - [Popular Movies - Udacity](https://github.com/dipakkr/Popular-Movies)
   
