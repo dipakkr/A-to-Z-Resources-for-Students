@@ -146,6 +146,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
+    - [Tango With Django Book](https://www.tangowithdjango.com/book/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
