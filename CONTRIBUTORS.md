@@ -167,6 +167,7 @@ Instructions :
 | 135 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
 | 137 | **Kaustubh Prabhu**  | India | CSE Student: Applying for Masters | [GitHub](https://github.com/Kaustubhprabhu98)|[Linkedin](https://www.linkedin.com/in/kaustubh-prabhu/)|
+| 138 | **Ricardo Dantas**  | Brazil | Python Developer | [GitHub](https://github.com/licensed)|[Linkedin](https://www.linkedin.com/in/licensed/)|
 
 ---
 
