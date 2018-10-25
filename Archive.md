@@ -3,7 +3,7 @@
 > **Add in Proper Section after research**
 
 1. Build.org
-2. Young Entrepreneurs Academy 
+2. Young Entrepreneurs Academy
 3. Future Founders
 4. Global Engagement Summit ( Illinios )
 5. Whatever it takes

@@ -16,3 +16,4 @@
     
 3.  [Tutorials](#3-tutorials)
  - [Node Oauth Implementation](https://www.sohamkamani.com/blog/javascript/2018-06-24-oauth-with-node-js/)
+ - [Twitter Bot Tutorial - Node.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV)
