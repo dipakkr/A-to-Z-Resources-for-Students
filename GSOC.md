@@ -10,19 +10,21 @@
 ## 1. List of Top Orgranisation in GSOC
 ### a. Mozilla
 
-### b.The Apache Software Foundation (java,c,erlang)
+### b. The Apache Software Foundation (Java, C, Erlang)
 
-### c.Django Software Foundation(python,django)
+### c. Django Software Foundation(Python, Django)
 
-### d.FossAsia(java,javascript)
+### d. FossAsia(Java, Javascript)
 
-### e.Git (c,shellscript)
+### e. Git (C, Shellscript)
 
-### f.Gnome (c,python,javascript)
+### f. Gnome (C, Python, Javascript)
 
-### g.Institute for Artificial Intelligence (c++,python)
+### g. Institute for Artificial Intelligence (C++, Python)
 
-### h.Metasploit (ruby,python,c)
+### h. Metasploit (Ruby, Python ,C)
+
+### i. Teammates (Java, Google Cloud Engine)
 # COMING SOON
 
 - TODO
