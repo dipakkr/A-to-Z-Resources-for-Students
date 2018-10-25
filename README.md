@@ -344,6 +344,8 @@ different programming languages**
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
+- [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
+- [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
