@@ -185,6 +185,7 @@ Instructions :
 | 152 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
 | 153 | **Blessing Pariola** | Nigeria | Backend Developer | [GitHub](https://github.com/pariola) |
 | 154 | **Jackie C** | USA | Computer Science Hobbyist | [GitHub](https://github.com/CheezBallzPi) |
+| 155 | **Mirko M** | Slovenia | Computer Science Student | [GitHub](https://github.com/mare80)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
