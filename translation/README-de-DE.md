@@ -55,7 +55,8 @@ Deswegen habe ich mit einigen anderen Entwicklern aus der ganzen Welt eine Liste
 11. [Weiterführende Links](#11-additional-links-hamster)
 12. [Teilnehmer](CONTRIBUTORS.md)
 
-=============================================================================================
+---
+
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -218,7 +219,7 @@ Deswegen habe ich mit einigen anderen Entwicklern aus der ganzen Welt eine Liste
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 
@@ -288,7 +289,7 @@ different programming languages**
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/
 
-=============================================================================================
+---
 
 # 2. Hackathons and Events
 
@@ -332,7 +333,8 @@ different programming languages**
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
-----------------------------------------------------------
+
+---
 
 ##  2.2 Competitions :bomb:
 
@@ -416,7 +418,7 @@ different programming languages**
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. Student Benefits and Programs :fire:
 
@@ -476,7 +478,8 @@ different programming languages**
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+---
+
 # 4. Open Source Programs :octocat:
 
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
@@ -495,7 +498,7 @@ different programming languages**
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 
-=============================================================================================
+---
 
 # 5. Startup Programs and Incubators :mag_right:
 
@@ -509,7 +512,7 @@ different programming languages**
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. Internship Portals :smile:
 1. [Angel List](https://angel.co)
@@ -525,7 +528,7 @@ different programming languages**
 
      - For summer internship, start looking at least 3-4 months in advance.
 
-=============================================================================================
+---
 
 # 7. Developer Clubs and Meetups
 
@@ -548,7 +551,8 @@ different programming languages**
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
-=============================================================================================
+---
+
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
@@ -593,7 +597,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - |
 |38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - |
 
-=============================================================================================
+---
 
 # 9. Top People to Follow
 
@@ -613,7 +617,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 
-=============================================================================================
+---
 
 # 10. Top Websites to Follow
 
