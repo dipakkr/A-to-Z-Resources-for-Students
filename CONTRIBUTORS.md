@@ -1,7 +1,7 @@
 ﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it:
 
 
 ```
@@ -186,6 +186,7 @@ Instructions :
 | 153 | **Blessing Pariola** | Nigeria | Backend Developer | [GitHub](https://github.com/pariola) |
 | 154 | **Jackie C** | USA | Computer Science Hobbyist | [GitHub](https://github.com/CheezBallzPi) |
 | 155 | **Mirko M** | Slovenia | Computer Science Student | [GitHub](https://github.com/mare80)|
+| 156 | **FredBonux** | Italy | Computer Science Student | [GitHub](https://github.com/FredBonux)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
