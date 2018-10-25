@@ -1,7 +1,7 @@
-
+﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay :cuba
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba:
 
 ```
 Instructions :
@@ -163,11 +163,15 @@ Instructions :
 | 131 | **Edno Fedulo** | Brazil | iOS Developer | [GitHub](https://github.com/ednofedulo) |
 | 132 | **Aashish Kumar** | India | CSE Student @ IIT Mandi | [GitHub](https://github.com/aashish-ak) |
 | 133 | **Maaruf Dauda** | Nigeria | Mobile Developer | [GitHub](https://github.com/emkayDauda) |
-| 134 | **Carlo Carlo Lizano**  | Uruguay | Cuban Software Developer | [GitHub](https://github.com/clizano)|[Linkedin](https://www.linkedin.com/in/carlo-carlo-lizano-2613a9a3/)|
-| 135 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
+| 134 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
+| 135 | **Carlo Carlo Lizano**  | Uruguay | Cuban Software Developer | [GitHub](https://github.com/clizano)|[Linkedin](https://www.linkedin.com/in/carlo-carlo-lizano-2613a9a3/)|
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
 | 137 | **Kaustubh Prabhu**  | India | CSE Student: Applying for Masters | [GitHub](https://github.com/Kaustubhprabhu98)|[Linkedin](https://www.linkedin.com/in/kaustubh-prabhu/)|
-
+| 138 | **George McCarron** | UK | Computer Science Student | [GitHub](https://github.com/george1410) - [LinkedIn](https://www.linkedin.com/in/mccarrong)|
+| 139 | **Athul K** | India | Computer Science Student | [GitHub](https://github.com/excorcist) - [LinkedIn](https://www.linkedin.com/)|
+| 140 | **Matt Luby** | USA | Neuroscience Student | [GitHub](https://github.com/lubacious)|
+| 141 | **Gaurav Khandelwal** | India | Computer Science and Engineering Student | [Github](https://github.com/gaurav122197) - [LinkedIn](https://www.linkedin.com/in/gaurav-khandelwal/)
+| 142 | **Ricardo Dantas**  | Brazil | Python Developer | [GitHub](https://github.com/licensed) - [Linkedin](https://www.linkedin.com/in/licensed/)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
