@@ -181,20 +181,21 @@ Instructions :
 | 148 | **Ruthiel Trevisan** | Portugal | ABAP Developer | [GitHub](https://github.com/ruthiel) |
 | 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
 | 150 | **Madhav Bahl**  | India | Web Dev and Tech Blogger | [GitHub](https://github.com/MadhavBahlMD) |
-| 151 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
-| 152 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
-| 153 | **Blessing Pariola** | Nigeria | Backend Developer | [GitHub](https://github.com/pariola) |
-| 154 | **Jackie C** | USA | Computer Science Hobbyist | [GitHub](https://github.com/CheezBallzPi) |
-| 155 | **Mirko M** | Slovenia | Computer Science Student | [GitHub](https://github.com/mare80)|
-| 156 | **FredBonux** | Italy | Computer Science Student | [GitHub](https://github.com/FredBonux)|
-| 157 | **Emily Hem** | Canada | Student | [GitHub](https://github.com/emilyhem)|
-| 158 | **Andrew Ferreira** | Canada | Software Engineering Student | [GitHub](https://github.com/acferreir4) - [LinkedIn](https://www.linkedin.com/in/acferreir4/)|
-| 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub](https://github.com/bendiuguid) |
-| 160 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
-| 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
-| 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
-| 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
-| 144 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
+| 151 | **Shubham Shekhar** | India | Student | [GitHub](https://github.com/Keovkevin) | - [LinkedIn](https://www.linkedin.com/in/shubham-shekhar/)
+| 152 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
+| 153 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
+| 154 | **Blessing Pariola** | Nigeria | Backend Developer | [GitHub](https://github.com/pariola) |
+| 155 | **Jackie C** | USA | Computer Science Hobbyist | [GitHub](https://github.com/CheezBallzPi) |
+| 156 | **Mirko M** | Slovenia | Computer Science Student | [GitHub](https://github.com/mare80)|
+| 157 | **FredBonux** | Italy | Computer Science Student | [GitHub](https://github.com/FredBonux)|
+| 158 | **Emily Hem** | Canada | Student | [GitHub](https://github.com/emilyhem)|
+| 159 | **Andrew Ferreira** | Canada | Software Engineering Student | [GitHub](https://github.com/acferreir4) - [LinkedIn](https://www.linkedin.com/in/acferreir4/)|
+| 160 | **Ben Diuguid**  | USA | Software Engineer | [GitHub](https://github.com/bendiuguid) |
+| 161 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
+| 162 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
+| 163 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
+| 164 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
+| 165 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
 
 ---
 
