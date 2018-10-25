@@ -1,21 +1,20 @@
-# منابع از الف تا ی برای دانش‌آموزان ![عالی](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# 학생을위한 A to Z 자료:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## اگر از این پروژه خوشتان آمده است، یک ستاره مهمان این پروژه کنید
+> ## 자유롭게 너의 사랑을 보여라 :heart: 별표를주는 것으로 :star:
 
-> ## [لیست شرکت کنندکان را بررسی کنید](CONTRIBUTORS.md) - **جزییات را اینجا وارد کنید**
+> ## [참여자 목록 확인 :heart::heart:](CONTRIBUTORS.md) - **여기에 세부 정보를 추가하십시오.**
 
-### آیا شما یک دانش‌آموز و یا حرفه‌ای هستید که برای یاد گیری زبان جدید دنبال منابع می‌گردد؟ آيا دنبال ملاقات با افراد جدیدی در کامیونتی‌ها و یا دنبال کنفرانس‌های جهانی مانند هکاتون‌ها و مسابقات دیگر برای شرکت می‌گردید؟ اگر جواب شما بله است حتما باید این لیست را بررسی کنید.
+### 새로운 언어를 배우기위한 자원을 찾고있는 대학생 또는 직업 전문가입니까? 지역 사회의 새로운 사람들을 만나거나 글로벌 컨퍼런스, 해커턴 및 대회 참가를 원하십니까? 그렇다면 확실히 확인해야합니다.
 
-وقتی من در کالج درس می‌خواندم، به دلیل عدم آگاهی موقعیت‌های زیادی مانند هکاتون‌ها، کنفرانس‌ها، کار آموزی‌ها و رویدادهای جهانی را از دست دادم. نمی‌خواهم سایر توسعه دهندگان هم تجربه من را داشته باشند. به همین دلیل من و چند توسعه دهنده وب از سراسر جهان، لیستی از منابع را برای دانش‌آموزان فراهم کرده‌ایم. اگر شما دانش‌آموز/دانش‌جو هستید یا فارغ‌تحصیل شده‌اید و یا توسعه دهنده تازه کار هستید مطمئنا این لیست به کار شما می‌آید.
-
+대학 시절 해커턴, 컨퍼런스, 인턴십 및 인지도 부족으로 인한 많은 글로벌 이벤트와 같은 많은 기회를 놓쳤습니다. 신흥 개발자가 나처럼 똑같은 고통을 겪지 않기를 바란다. 따라서 나는 다른 곳에서 온 다른 개발자들과 함께 학생들을위한 자원 목록을 수집했습니다. 대학 또는 대학 졸업자이거나 개발 사업자로 시작한 사람이라면 반드시 확인해야합니다!
 
 ![Image](res/xx.gif)
 
-*Image credits: Google*
+*이미지 크레딧 : Google*
 
-## لیست :clipboard:
+## 목차 :clipboard:
 
-1.  [Coding Resources - How to learn xyz ](#1-coding-resources-pencil)
+1.  [코딩 리소스 - xyz 배우는 법 ](#1-coding-resources-pencil)
 
      - [Python](#11-python-snake)
      - [Machine Learning](#12-machine-learning-robot)
@@ -30,8 +29,9 @@
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
+     - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
+2.  [ Hackathons 및 이벤트 ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
      - [Competitions](#22-competitions-bomb)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
@@ -39,13 +39,13 @@
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges-heart)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs-fire)
+3.  [ 학생 혜택 및 프로그램 ](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
      - [Student Benefits and Packs](#student-benefits-and-packs-v)
      - [Student Fellowship Programs](#student-fellowship-programs-v)
      - [Scholarships](#scholarships-runner)
 
-4.  [ Open Source Programs ](#4-open-source-programs-octocat)
+4.  [ 오픈 소스 프로그램 ](#4-open-source-programs-octocat)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
 6.  [ Internship Portals ](#6-internship-portals-smile)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
@@ -55,13 +55,12 @@
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
----
+=============================================================================================
+# 1. 코딩 리소스 :pencil:
 
-# 1. منابع کدینگ:pencil:
+## 1.1 파이썬 :snake:
 
-## 1.1 پایتون :snake:
-
-> [**برای جزییات بیشتر در باره پایتون این لینک را بررسی کنید**](Python.md)
+> [**파이썬에 대한 자세한 정보는이 링크에서 찾아보십시오**](Python.md)
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
@@ -70,27 +69,28 @@
 -  [Google Python class](https://developers.google.com/edu/python/)
 -  [Python For Everybody](https://www.coursera.org/specializations/python)
 
-## 1.2 یادگیری ماشین :robot:
+## 1.2 기계 학습 :robot:
 
-> [**برای جزییات بیشتر در باره یادگیری ماشین این لینک را بررسی کنید**](ML.md)
+> [**기계 학습 및 심층 학습에 대한 자세한 정보는이 링크에서 찾아보십시오**](ML.md)
 
--  **بهترین درس‌های آنلاین**
+-  **최고의 온라인 코스**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **PAID**
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **지급**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
--  **بهترین ریپوزیتوی‌های گیت‌هاب که می‌توانید دنبال کنید**
+-  **따라야 할 최고의 GitHub 저장소**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+     - [Coding Train] (https://github.com/CodingTrain)
 
--  **تحقیقات**
+-  **연구 논문**
     - [Arxiv](https://arxiv.org/)
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
@@ -98,22 +98,23 @@
     - [Arxiv Sanity - Search best papers](arxiv-sanity.com)
     - [Openreview](https://openreview.net/)
     - [Research Papers with code](https://github.com/zziz/pwc)
+    - [Papers with code](https://paperswithcode.com/)
 
--  **Test ML Models on Datasets**
+-  **데이터 세트 테스트의 ML 모델**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
 
 
-## 1.3 یادگیری عمیق
+## 1.3 깊은 학습
 
-> [**برای جزییات بیشتر در باره یادگیری ماشین و یادگیری عمیق این لینک را بررسی کنید**](ML.md)
+> [**기계 학습 및 심층 학습에 대한 자세한 정보는이 링크에서 찾아보십시오**](ML.md)
 
--  **بهترین درس‌های آنلاین**
+-  **최고의 온라인 코스**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
 
--  **بهترین مخازن گیت‌هاب که می‌توانید دنبال کنید**
+-  **따라야 할 최고의 GitHub 저장소**
     - [Top -200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
     - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
     - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -123,7 +124,7 @@
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
-## 1.4 توسعه اندروید:iPhone:
+## 1.4 Android 개발 :iPhone:
 
 -  [For Beginners](Android.md)
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
@@ -133,19 +134,19 @@
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
 
-## 1.5  توسعه بک‌اند:computer:
+## 1.5 백엔드 개발 :computer:
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
 
--  **Django - Python**
+-  **장고 - 파이썬**
     - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
 
--  **Node.JS**
-    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
+-  **Node.js를**
+    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **지급**
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
@@ -163,11 +164,11 @@
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
-- **Ruby**
+- **루비**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 
-## 1.6 توسعه فرانت‌اند :computer:
+## 1.6 프론트 엔드 웹 개발 :computer:
 
 - **HTML5 and CSS3**
     - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
@@ -183,7 +184,7 @@
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
-- **JavaScript**
+- **자바 스크립트**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
@@ -193,9 +194,9 @@
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/)
-    -
+    - [freeCodeCamp](https://www.freecodecamp.org/)
 
-- **JavaScript فریم ورک‌های**    
+- **자바 스크립트 프레임 워크**    
      ###### Angular
      - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
@@ -228,10 +229,10 @@
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
 
-- **Web Accessibility**
+- **웹 접근성**
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-- **Frontend DevTools**
+- **프론트 엔드 DevTools**
      ###### Package managers
      - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
      - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
@@ -244,11 +245,11 @@
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
----
+------
 
-## 1.7 ساختار داده :chart_with_upwards_trend:
+## 1.7 데이터 구조 :chart_with_upwards_trend:
 
-- **پلتفرم‌های آنلاین**
+- **온라인 플랫폼**
     - [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
     - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
     - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must do coding questions for product based companies**
@@ -263,17 +264,18 @@
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **One of the best computer science courses available online**
     - [Codility](https://app.codility.com/programmers/) - **Develop your coding skills with lessons ot take part in challenges**
 
-- **کتاب‌ها**
+- **서적**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **الگوریتم و ساختار داده در زبان‌های برنامه‌نویسی مختلف**
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
+different programming languages**
 - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship**
 - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
 
 
-## 1.8 Alexa Tutorials
+## 1.8 알렉사 자습서
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
@@ -281,7 +283,7 @@
  - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
-## 1.9 C Language
+## 1.9 C 언어
  - [Tutorial Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
  - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
@@ -295,7 +297,7 @@
  - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
 
 
-## 1.10 C++ Language
+## 1.10 C++ 언어
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
@@ -304,12 +306,12 @@
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
- ## 1.11 Git and Github :octocat:
+ ## 1.11 Git 그리고 Github :octocat:
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
-## 1.12 R Language
+## 1.12 R 언어
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
@@ -317,11 +319,11 @@
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
----
+=============================================================================================
 
-# 2. رویدادها و هکاتون‌ها
+# 2. Hackathons 및 이벤트
 
-## 2.1 :rainbow: Top Global Hackathons
+## 2.1 :rainbow: 맨위 글로벌 Hackathons
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End |
 |--|------ |---|---| ------ | ----|
@@ -361,10 +363,9 @@
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
+----------------------------------------------------------
 
----
-
-##  2.2 مسابقات :bomb:
+##  2.2 대회 :bomb:
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -391,7 +392,7 @@
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 
 
-##  2.3  پرتال جستجوی هکاتون‌‌ها:dart:
+##  2.3  Hackathon 포털 검색 :dart:
 |s.no| Name  | Location | Category |
 |---| ------ |---| --- |
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
@@ -402,9 +403,9 @@
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
-## 2.4 رویدادها :heart_eyes:
+## 2.4 이벤트 :heart_eyes:
 
-> **بر اساس منطقه خود رویدادها را پیدا کنید**
+> **해당 지역의 이벤트를 확인하십시오**
 
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
@@ -417,7 +418,7 @@
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
 
-## 2.5 استارت‌آپ‌ها, مسابقات :neckbeard:
+## 2.5 스타트 업 서밋, 경기 및 부트 캠프 :neckbeard:
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -437,7 +438,7 @@
 |14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
 |15 | [RED Academy](https://redacademy.com) | Canada |
 
-## 2.6 Hiring Challenges :heart:
+## 2.6 채용 도전 :heart:
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -446,11 +447,11 @@
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
----
+=============================================================================================
 
-# 3. مزایا و برنامه‌‌های دانشجویی :fire:
+# 3. 학생 혜택 및 프로그램 :fire:
 
-## Campus Ambassador Programs :v:
+## 캠퍼스 대사 프로그램 :v:
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
@@ -465,7 +466,7 @@
 12. [ Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 
-## Student Benefits and Packs :v:
+## 학생 혜택 및 팩 :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
@@ -475,7 +476,7 @@
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
 
-## Student Fellowship Programs :v:
+## 학생 휄로우 십 프로그램 :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
@@ -497,7 +498,7 @@
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
 
-## Scholarships :runner:
+## 장학금 :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
 
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
@@ -506,11 +507,10 @@
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
----
+=============================================================================================
+# 4. 오픈 소스 프로그램 :octocat:
 
-# 4. برنامه‌های متن‌ باز :octocat:
-
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **GSOC 조직에 대한 자세한 정보** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
@@ -525,10 +525,11 @@
 |9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
+|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 
----
+=============================================================================================
 
-# 5. برنامه‌های استارت‌آپ‌ها:mag_right:
+# 5. 시동 프로그램 및 인큐베이터 :mag_right:
 
 |Id |Name | Organization|
 |-|--|---- |
@@ -540,9 +541,9 @@
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
----
+=============================================================================================
 
-# 6. پرتال‌های کارآموزی :smile:
+# 6. 인턴쉽 포털 :smile:
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
@@ -556,13 +557,13 @@
 
      - For summer internship, start looking at least 3-4 months in advance.
 
----
+=============================================================================================
 
-# 7. میت‌آپ‌ها و کلاب‌های توسعه دهندگان
+# 7. 개발자 클럽 및 Meetups
 
-> **به وسیله گوگل این کلاب‌ها را در شهر و منطقه خود جستجو کنید.**
+> **귀하의 도시에있는 Google 및 Facebook에서 이들 클럽을 검색하십시오.**
 
-> **Check **Meetup.com** for more events in your locality**
+> **검사 **Meetup.com** 당신의 지역에서 더 많은 이벤트를 위해**
 
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
@@ -579,11 +580,10 @@
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
----
+=============================================================================================
+# 8. 컨퍼런스 :bookmark_tabs:
 
-# 8. کنفرانس‌ها :bookmark_tabs:
-
-> ### **تکنولوژی, کنفرانس‌ها و رویدادهای کارآفرینی**
+### **기술, 기업가 정신 이벤트 및 컨퍼런스**
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
 |--|------ |---|---|:------ |:----|:-----| 
@@ -632,9 +632,9 @@
 |43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - | - |
 |44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
----
+=============================================================================================
 
-# 9. لیستی از افرادی که بهتر است دنبال کنید
+# 9. 팔로우 할 최고의 사람들
 
 |Id | Name | Category|
 |--|------ |---|
@@ -659,26 +659,28 @@
 |19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
+|22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
+|23 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 
----
+=============================================================================================
 
-# 10. بهترین‌ وب‌سایتهایی که می‌توانید دنبال کنید
+# 10. 따라 가기 웹 사이트
 
-1.   **Data Science**
+1.   **데이터 과학**
       - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
       - [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
-2.   **Startup News and Stories**
+2.   **시작 뉴스 및 사례**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
 
-# 11. لینک‌‌های دیگر :hamster:
+# 11. 추가 링크 :hamster:
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
