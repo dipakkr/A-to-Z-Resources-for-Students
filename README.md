@@ -57,7 +57,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
-=========================================================================================
+---
+
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -268,7 +269,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 
@@ -354,6 +355,7 @@ different programming languages**
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
+---
 =============================================================================================
 
 # 2. Hackathons and Events
@@ -490,7 +492,7 @@ different programming languages**
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. Student Benefits and Programs :fire:
 
@@ -551,7 +553,8 @@ different programming languages**
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+---
+
 # 4. Open Source Programs :octocat:
 
 > **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) <br />
@@ -615,7 +618,7 @@ different programming languages**
 *Indian Students Only<br />
 ** OSS World Challenge has temporarily stopped accepting international applications.
 
-=============================================================================================
+---
 
 # 5. Startup Programs and Incubators :mag_right:
 
@@ -629,7 +632,7 @@ different programming languages**
 |6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. Internship Portals :smile:
 1. [Angel List](https://angel.co)
@@ -645,7 +648,7 @@ different programming languages**
 
      - For summer internship, start looking at least 3-4 months in advance.
 
-=============================================================================================
+---
 
 # 7. Developer Clubs and Meetups
 
@@ -671,7 +674,8 @@ different programming languages**
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 
-=============================================================================================
+---
+
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
@@ -722,7 +726,7 @@ different programming languages**
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
-=============================================================================================
+---
 
 # 9. Top People to Follow
 
@@ -756,7 +760,7 @@ different programming languages**
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
 
-=============================================================================================
+---
 
 # 10. Top Websites to Follow
 
