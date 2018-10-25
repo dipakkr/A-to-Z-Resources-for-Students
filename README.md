@@ -682,6 +682,7 @@ different programming languages**
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
+- [100 Days of Code] (https://www.100daysofcode.com/connect/)
 
 ---
 
@@ -768,6 +769,7 @@ different programming languages**
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
 
 ---
 
