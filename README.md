@@ -74,6 +74,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Write Better Python Functions](https://jeffknupp.com/)
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - **Great for learning automation and learning the basics of Python**
+- [The New Boston Python - Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - **Great python resource for learning python quickly and efficiently**
 
 ## 1.2 Machine Learning :robot:
 
