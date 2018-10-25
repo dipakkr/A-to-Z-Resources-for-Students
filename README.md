@@ -147,6 +147,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
 
 -  **Django - Python**
+    - [Django Weblog](https://www.djangoproject.com/weblog/)
+    - [Django Reddit](https://old.reddit.com/r/django/)
+    - [Django Tricks](https://djangotricks.blogspot.com/)
+    - [Python Django Developer](http://pythondjangodeveloper.blogspot.com/)
+    - [Number One](https://number1.co.za/category/django-2/)
+    - [Django Digest](http://www.djangodigest.com/)
+    - [The Dumbfounds](https://www.youtube.com/channel/UC33uwXXDrI5TxG4IXnjS28g/videos)
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
