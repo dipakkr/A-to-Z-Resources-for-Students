@@ -231,6 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
+     - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) -- **PAID**
 
 
 - **Redux.js**
@@ -241,6 +242,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
      - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
      - [freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
+     - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) -- **PAID**
 
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
