@@ -604,6 +604,7 @@ different programming languages**
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
 | [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
 | [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
+
 *Indian Students Only<br />
 ** OSS World Challenge has temporarily stopped accepting international applications.
 
