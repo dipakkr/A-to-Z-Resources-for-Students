@@ -180,5 +180,7 @@ Instructions :
 | 147 | **Nirosha Jayasundara** | Sri Lanka | SE undergraduate | [GitHub](https://github.com/niroshajayasundara) |
 | 148 | **Ruthiel Trevisan** | Portugal | ABAP Developer | [GitHub](https://github.com/ruthiel) |
 | 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
+| 150 | **Madhav Bahl**  | India | Web Dev and Tech Blogger | [GitHub](https://github.com/MadhavBahlMD) |
+---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.

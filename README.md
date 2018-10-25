@@ -212,6 +212,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
     - [Javascript Tutorial for Beginner Complete Course 2018](https://www.youtube.com/watch?v=PwsigsH4oXw)
+    - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 
 
 - **JavaScript Frameworks**    
