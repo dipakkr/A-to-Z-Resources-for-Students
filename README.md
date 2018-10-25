@@ -529,6 +529,8 @@ different programming languages**
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
+9. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
+10. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -682,6 +684,7 @@ different programming languages**
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
+- [100 Days of Code] (https://www.100daysofcode.com/connect/)
 
 ---
 
@@ -734,6 +737,7 @@ different programming languages**
 |41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
 
 ---
 
@@ -768,6 +772,7 @@ different programming languages**
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
 
 ---
 
