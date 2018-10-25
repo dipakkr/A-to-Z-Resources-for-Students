@@ -393,6 +393,7 @@ different programming languages**
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
+|38 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
 
 ----------------------------------------------------------
 
