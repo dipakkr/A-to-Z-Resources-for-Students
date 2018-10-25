@@ -4,9 +4,9 @@
 
 > ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
-### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
+### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and a bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want other emerging devs to miss out like I did. Hence, a bunch of other devs from all around and I have collected a list of resources for students. If you are in college, are a college graduate or are just starting out as a dev, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -32,7 +32,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [MongoDB](#114-mongodb)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
+2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
      - [Competitions](#22-competitions-bomb)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
@@ -40,17 +40,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges-heart)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs-fire)
+3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
      - [Student Benefits and Packs](#student-benefits-and-packs-v)
      - [Student Fellowship Programs](#student-fellowship-programs-v)
      - [Scholarships](#scholarships-runner)
 
-4.  [ Open Source Programs ](#4-open-source-programs-octocat)
+4.  [Open Source Programs](#4-open-source-programs-octocat)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [ Internship Portals ](#6-internship-portals-smile)
+6.  [Internship Portals](#6-internship-portals-smile)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences-bookmark_tabs)
+8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
@@ -495,11 +495,11 @@ different programming languages**
 5. [Progate Student Ambassador](http://progate.com/)
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
-8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
-9. [ HackerRank Campus Ambassador](https://hackerrank.com)
+8. [HackerEarth Campus Ambassador](https://hackerearth.com)
+9. [HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
-11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
-12. [ Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 
 ## Student Benefits and Packs :v:
@@ -619,7 +619,7 @@ different programming languages**
 |3| [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/) | Google |
 |4| [Startup Village](https://www.sv.co/) | SV.CO |
 |5| [T HUB ](https://t-hub.co/) | - |
-|6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
+|6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
 =============================================================================================
@@ -733,8 +733,8 @@ different programming languages**
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 |14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
-|15|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
-|16|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
+|15 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|16 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
 |17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
 |18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
 |19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
