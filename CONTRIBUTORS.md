@@ -199,6 +199,10 @@ Instructions :
 | 166 | **Phil Mauracher** | USA | Web Dev Student | [GitHub](https://github.com/Gradientus) - [LinkedIn](https://www.linkedin.com/in/phillip-mauracher-1429a41/)
 | 167 | **Oláh Tamás-Lajos** | Romania | Computer Science Student | [GitHub](https://github.com/tomiolah1998) - [LinkedIn](https://www.linkedin.com/in/tomiolah1998/) |
 | 168 | **axux** | USA | Learning to code | [GitHub](https://github.com/axux) |
+<<<<<<< HEAD
+| 169 | **Akani** | Indonesia | Computer Science student | [GitHub](https://github.com/akanijade) |
+| 170 | **Vladimir Solovev** | Russia | Developer | [GitHub](https://github.com/solovyovs) |
+>>>>>>> 68e0fb6e81ec7924bc751912cfdcdd644172d6a4
 
 ---
 
