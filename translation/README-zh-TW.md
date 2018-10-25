@@ -51,7 +51,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
 
-=============================================================================================
+---
+
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -188,7 +189,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
@@ -239,7 +240,7 @@ Different Programming Languages**
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R) 
 - [R-Bloggers](https://www.r-bloggers.com/
 
-=============================================================================================
+---
 
 # 2. Hackathons and Events
 
@@ -283,7 +284,8 @@ Different Programming Languages**
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
-----------------------------------------------------------
+
+---
 
 ##  2.2 Competitions :bomb:
 
@@ -361,7 +363,7 @@ Different Programming Languages**
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. Student Benefits and Programs :fire:
 
@@ -414,7 +416,8 @@ Different Programming Languages**
 
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 
-=============================================================================================
+---
+
 # 4. Open Source Programs :octocat:
 
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
@@ -433,7 +436,7 @@ Different Programming Languages**
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 
-=============================================================================================
+---
 
 # 5. Startup Programs and Incubators :mag_right:
 
@@ -447,7 +450,7 @@ Different Programming Languages**
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. Internship Portals :smile:
 1. [Angel List](https://angel.co)
@@ -462,7 +465,7 @@ Different Programming Languages**
 
      - For summer internship, start looking at least 3-4 months in advance.
 
-=============================================================================================
+---
 
 # 7. Developer Clubs and Meetups
 
@@ -486,7 +489,8 @@ Different Programming Languages**
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
-=============================================================================================
+---
+
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
@@ -521,7 +525,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 |
 |28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec |
 
-=============================================================================================
+---
 
 # 9. Top People to Follow
 
@@ -533,7 +537,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 
-=============================================================================================
+---
 
 # 10. Top Websites to Follow
 
