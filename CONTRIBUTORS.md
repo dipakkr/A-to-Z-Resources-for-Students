@@ -195,7 +195,7 @@ Instructions :
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 | 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
 | 144 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
-
+| 164 | **Phil Mauracher** | USA | Web Dev Student | [GitHub](https://github.com/Gradientus) - [LinkedIn](https://www.linkedin.com/in/phillip-mauracher-1429a41/)
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
