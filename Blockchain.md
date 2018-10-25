@@ -2,6 +2,7 @@
 
 ## Basics
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
++ Siraj Raval youtube cryptocurrencies series on youtube : https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
 
 ## Ethereum and smart contracts
 + Highly recommend this course: https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
@@ -12,3 +13,5 @@
 ## Hyperledger fabric
 + For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
+
+
