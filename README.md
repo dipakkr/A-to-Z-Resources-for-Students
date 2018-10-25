@@ -529,6 +529,7 @@ different programming languages**
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
+9. [Microsoft Imagine](https://imagine.microsoft.com/en-us)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
