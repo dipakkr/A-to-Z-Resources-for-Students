@@ -6,7 +6,7 @@
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want other emerging devs to miss out like I did. Hence, a bunch of other devs from all around and I have collected a list of resources for students. If you are in college, are a college graduate or are just starting out as a dev, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a developer, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
