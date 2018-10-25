@@ -183,6 +183,7 @@ Instructions :
 | 150 | **Madhav Bahl**  | India | Web Dev and Tech Blogger | [GitHub](https://github.com/MadhavBahlMD) |
 | 151 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
 | 152 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
+| 153 | **Blessing Pariola** | Nigeria | Backend Developer | [GitHub](https://github.com/pariola) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
