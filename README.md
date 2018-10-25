@@ -776,6 +776,7 @@ different programming languages**
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
 |28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
+|29 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 
 ---
 
