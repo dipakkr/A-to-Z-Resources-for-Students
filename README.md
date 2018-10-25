@@ -786,6 +786,7 @@ different programming languages**
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+      -  [The Hustle](https://thehustle.co/)
 
 # 11. Additional Links :hamster:
 
