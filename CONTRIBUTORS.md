@@ -182,6 +182,7 @@ Instructions :
 | 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
 | 150 | **Madhav Bahl**  | India | Web Dev and Tech Blogger | [GitHub](https://github.com/MadhavBahlMD) |
 | 151 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
+| 152 | **Bolaram Paul**  |-| | [GitHub](https://github.com/bolaram) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
