@@ -652,6 +652,7 @@ different programming languages**
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 8. [Intern Supply](https://intern.supply/)
+9. [Indeed] (https://www.indeed.ca/)
 
     ### Tips for Internship:
 
@@ -682,6 +683,7 @@ different programming languages**
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
+- [100 Days of Code] (https://www.100daysofcode.com/connect/)
 
 ---
 
