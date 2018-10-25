@@ -55,7 +55,8 @@
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
-=============================================================================================
+---
+
 # 1. منابع کدینگ:pencil:
 
 ## 1.1 پایتون :snake:
@@ -243,7 +244,7 @@
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 ساختار داده :chart_with_upwards_trend:
 
@@ -316,7 +317,7 @@
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
-=============================================================================================
+---
 
 # 2. رویدادها و هکاتون‌ها
 
@@ -360,7 +361,8 @@
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
-----------------------------------------------------------
+
+---
 
 ##  2.2 مسابقات :bomb:
 
@@ -444,7 +446,7 @@
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. مزایا و برنامه‌‌های دانشجویی :fire:
 
@@ -504,7 +506,8 @@
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+---
+
 # 4. برنامه‌های متن‌ باز :octocat:
 
 > **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
@@ -523,7 +526,7 @@
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 
-=============================================================================================
+---
 
 # 5. برنامه‌های استارت‌آپ‌ها:mag_right:
 
@@ -537,7 +540,7 @@
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. پرتال‌های کارآموزی :smile:
 1. [Angel List](https://angel.co)
@@ -553,7 +556,7 @@
 
      - For summer internship, start looking at least 3-4 months in advance.
 
-=============================================================================================
+---
 
 # 7. میت‌آپ‌ها و کلاب‌های توسعه دهندگان
 
@@ -576,7 +579,8 @@
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
-=============================================================================================
+---
+
 # 8. کنفرانس‌ها :bookmark_tabs:
 
 > ### **تکنولوژی, کنفرانس‌ها و رویدادهای کارآفرینی**
@@ -628,7 +632,7 @@
 |43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - | - |
 |44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
-=============================================================================================
+---
 
 # 9. لیستی از افرادی که بهتر است دنبال کنید
 
@@ -656,7 +660,7 @@
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
 
-=============================================================================================
+---
 
 # 10. بهترین‌ وب‌سایتهایی که می‌توانید دنبال کنید
 
