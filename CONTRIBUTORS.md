@@ -175,7 +175,7 @@ Instructions :
 | 142 | **Ricardo Dantas**  | Brazil | Python Developer | [GitHub](https://github.com/licensed) - [Linkedin](https://www.linkedin.com/in/licensed/)|
 | 143 | **Vinay Sagar Sharma** | India | Student | [GitHub](https://github.com/vinay72) | - [LinkedIn](https://www.linkedin.com/in/vinay-sagar-sharma-629b33151/)
 | 144 | **Harsh Aryan** |India | College Student | [Github](https://github.com/aryan-harsh) - [LinkedIn](https://www.linkedin.com/in/harsh-aryan-0614b5157/) |
-| 145 | **Bernard** | Malaysia | Student | [GitHub] (https://github.com/bernisaur) |
+| 145 | **Bernard** | Malaysia | Student | [GitHub](https://github.com/bernisaur) |
 | 146 | **Rohit Kumar** | India | UX Designer + Front-end Developer | [Twitter](https://twitter.com/rohitkrops) | 
 | 147 | **Nirosha Jayasundara** | Sri Lanka | SE undergraduate | [GitHub](https://github.com/niroshajayasundara) |
 | 148 | **Ruthiel Trevisan** | Portugal | ABAP Developer | [GitHub](https://github.com/ruthiel) |
@@ -189,11 +189,13 @@ Instructions :
 | 156 | **FredBonux** | Italy | Computer Science Student | [GitHub](https://github.com/FredBonux)|
 | 157 | **Emily Hem** | Canada | Student | [GitHub](https://github.com/emilyhem)|
 | 158 | **Andrew Ferreira** | Canada | Software Engineering Student | [GitHub](https://github.com/acferreir4) - [LinkedIn](https://www.linkedin.com/in/acferreir4/)|
-| 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub] (https://github.com/bendiuguid) |
+| 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub](https://github.com/bendiuguid) |
 | 160 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
-| 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient)
+| 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
-| 128 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
+| 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
+| 144 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
