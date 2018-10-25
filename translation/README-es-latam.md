@@ -273,7 +273,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 - ** Plataformas Online**
     - [CodeChef](https://www.codechef.com/) - **CodeChef site de programación competitivo**
     - [Codeforces](https://codeforces.com/) - **Gran site para prepararse para concursos de programación**
-    - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Debe hacer preguntas de código para compañías basadas en productos**
+    - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Preguntas obligadas de código para compañías basadas en productos**
     - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk para comenzar con programación - fundamenta del programación**
     - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Kit de preparación de entevistas**
     - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Mejor plataforma para preparase para entrevistas de Data Structures**
