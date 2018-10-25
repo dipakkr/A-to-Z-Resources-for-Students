@@ -192,6 +192,7 @@ Instructions :
 | 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub] (https://github.com/bendiuguid) |
 | 160 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
 | 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient)
+| 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
