@@ -187,6 +187,7 @@ Instructions :
 | 154 | **Jackie C** | USA | Computer Science Hobbyist | [GitHub](https://github.com/CheezBallzPi) |
 | 155 | **Mirko M** | Slovenia | Computer Science Student | [GitHub](https://github.com/mare80)|
 | 156 | **FredBonux** | Italy | Computer Science Student | [GitHub](https://github.com/FredBonux)|
+| 157 | **Emily Hem** | Canada | Student | [GitHub](https://github.com/emilyhem)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
