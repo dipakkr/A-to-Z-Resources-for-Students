@@ -547,7 +547,7 @@ different programming languages**
 =============================================================================================
 # 4. Open Source Programs :octocat:
 
-> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) <br />
 > **For more detailed Information about the GSOC participation** - [Click Here](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
 
 ## SOC-Programs
