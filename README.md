@@ -682,6 +682,7 @@ different programming languages**
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
+- [100 Days of Code] (https://www.100daysofcode.com/connect/)
 
 ---
 
