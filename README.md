@@ -72,6 +72,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Write Better Python Functions](https://jeffknupp.com/)
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - **Great for learning automation and learning the basics of Python**
+- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## 1.2 Machine Learning :robot:
 
@@ -701,6 +703,7 @@ different programming languages**
 |24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
+|27 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
 
 =============================================================================================
 
