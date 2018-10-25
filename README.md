@@ -252,6 +252,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
     - [Full-Stack Web Accessibility Guidelines - A Video Tutorial on Web Accessibility for Impaired Users](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
     - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
+    - [ARIA - Accessibility | MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 
 - **Frontend DevTools**
      ###### Package managers
