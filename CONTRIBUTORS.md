@@ -11,12 +11,12 @@ Instructions :
 
 - Add your detail at the bottom of the second table (CONTRIBUTORS.md).
 
-- Don't change the format of the table or modify someone else's content.
+- Don't change the format of the table or modify someone else content.
 
 - In case you don't want to disclose your contact information, no problem, this list is just created to get to know people who are contributing to this repository.
 ```
 
-### 1. Collaboraters
+### 1. Collaborators
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------|:---------|:--------------|:------------|
@@ -182,6 +182,7 @@ Instructions :
 | 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
 | 150 | **Madhav Bahl**  | India | Web Dev and Tech Blogger | [GitHub](https://github.com/MadhavBahlMD) |
 | 151 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
+| 152 | **Nilesh Laxmi**  | India | React Developer | [GitHub](https://github.com/nileshlaxmi) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
