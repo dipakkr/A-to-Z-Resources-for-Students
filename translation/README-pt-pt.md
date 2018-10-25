@@ -1,10 +1,11 @@
-# Recursos de A à Z para estudantes:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Recursos de A à Z para estudantes:boy:![Awesome]
+(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## Sinta-se à vontade para demonstrar seu apoio :heart: adicionando uma estrela :star:
 
-### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou gostaria de conhecer novas pessoas em alguma comunidade? Está procurando conferências internacionais, hackathons e competições para participar? Então você realmente deve conferir isto!
+### És um estudante ou um profissional em busca de recursos académicos para aprender uma nova linguagem? Ou gostarias de conhecer novas pessoas em alguma comunidade? Estás à procura de conferências internacionais, hackathons e competições para participares? Então deves realmente ver isto!
 
-Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que outros desenvolvedores iniciantes sofram do mesmo mal. Por isso, eu e vários outros desenvolvedores de toda parte estamos curando uma lista de recursos para estudantes. Se você está na universidade, dá uma olhada nesse material!
+Quando eu estava na faculdade perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que outros desenvolvedores iniciantes sofram do mesmo mal. Por isso, eu e vários outros desenvolvedores de toda parte estamos a fazer uma lista de recursos para estudantes. Se estás na universidade, dá uma vista de olhos neste material!
 
 ![Image](/res/xx.gif)
 
@@ -69,7 +70,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 ## 1.2 Machine Learning :robot:
 
-> [**Consulte este link para obter informações detalhadas sobre Machine Learning e Deep Learning**](ML.md)
+> [**Consulta este link para obter informações detalhadas sobre Machine Learning e Deep Learning**](ML.md)
 
 -  **Melhores Cursos Online**
     - [*CSE-229 - Universidade Stanford*]( http://cs229.stanford.edu/)
@@ -105,7 +106,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 ## 1.3 Deep Learning
 
-> [**Consulte este link para obter informações detalhadas sobre Machine Learning and Deep Learning**](ML.md)
+> [**Consulta este link para obter informações detalhadas sobre Machine Learning and Deep Learning**](ML.md)
 
 -  **Melhores Cursos Online**
     - [Especialização em Deep Learning - Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -393,7 +394,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 ## 2.4 Eventos :heart_eyes:
 
-> **Confira esses eventos para sua região**
+> **Confere estes eventos para tua região**
 
 1. Google Developer Day - Organizado por GDG
 2. Google IO extended - Organizado por GDG
@@ -534,9 +535,9 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 # 7. Clubes de desenvolvedores e Meetups
 
-> **Reserve um momento para pesquisar esses clubes no Google e no Facebook em sua cidade.**
+> **Reserva um momento para pesquisar estes clubes no Google e no Facebook na tua cidade.**
 
-> **Confira **Meetup.com** para mais eventos próximos de você**
+> **Confire **Meetup.com** para mais eventos próximos de ti**
 
 - Coursera F2F Office Hours at PyCon India - **POPULAR**
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
