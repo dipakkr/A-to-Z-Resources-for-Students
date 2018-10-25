@@ -194,8 +194,9 @@ Instructions :
 | 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 | 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
-| 144 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
-| 165 | **Oláh Tamás-Lajos** | Romania | Computer Science Student | [GitHub](https://github.com/tomiolah1998) - [LinkedIn](https://www.linkedin.com/in/tomiolah1998/) |
+| 164 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
+| 165 | **Phil Mauracher** | USA | Web Dev Student | [GitHub](https://github.com/Gradientus) - [LinkedIn](https://www.linkedin.com/in/phillip-mauracher-1429a41/)
+| 166 | **Oláh Tamás-Lajos** | Romania | Computer Science Student | [GitHub](https://github.com/tomiolah1998) - [LinkedIn](https://www.linkedin.com/in/tomiolah1998/) |
 
 ---
 
