@@ -30,8 +30,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
+     - [C# Language](#115-c#-language)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
-
+   
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
      - [Competitions](#22-competitions-bomb)
@@ -347,6 +348,10 @@ different programming languages**
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
+## 1.15 C# Language
+- [LearnCS](https://www.learncs.org)
+- [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
+- [SoloLearn](https://www.sololearn.com/Course/CSharp/)
 =============================================================================================
 
 # 2. Hackathons and Events

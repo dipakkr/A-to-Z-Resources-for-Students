@@ -1,7 +1,8 @@
 ﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia:
+
 
 ```
 Instructions :
@@ -174,6 +175,7 @@ Instructions :
 | 142 | **Ricardo Dantas**  | Brazil | Python Developer | [GitHub](https://github.com/licensed) - [Linkedin](https://www.linkedin.com/in/licensed/)|
 | 143 | **Vinay Sagar Sharma** | India | Student | [GitHub](https://github.com/vinay72) | - [LinkedIn](https://www.linkedin.com/in/vinay-sagar-sharma-629b33151/)
 | 144 | **Harsh Aryan** |India | College Student | [Github](https://github.com/aryan-harsh) - [LinkedIn](https://www.linkedin.com/in/harsh-aryan-0614b5157/) |
+| 145 | **Bernard** | Malaysia | Student | [GitHub] (https://github.com/bernisaur) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
