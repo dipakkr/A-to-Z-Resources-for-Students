@@ -1,7 +1,8 @@
 ﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay :cuba
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia:
+
 
 ```
 Instructions :
@@ -163,10 +164,24 @@ Instructions :
 | 131 | **Edno Fedulo** | Brazil | iOS Developer | [GitHub](https://github.com/ednofedulo) |
 | 132 | **Aashish Kumar** | India | CSE Student @ IIT Mandi | [GitHub](https://github.com/aashish-ak) |
 | 133 | **Maaruf Dauda** | Nigeria | Mobile Developer | [GitHub](https://github.com/emkayDauda) |
-| 134 | **Carlo Carlo Lizano**  | Uruguay | Cuban Software Developer | [GitHub](https://github.com/clizano)|[Linkedin](https://www.linkedin.com/in/carlo-carlo-lizano-2613a9a3/)|
-| 135 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
+| 134 | **AleksCreative**  | Poland/UK | Illustrator & Junior Front-end Developer | [GitHub](https://github.com/AleksCreative) |
+| 135 | **Carlo Carlo Lizano**  | Uruguay | Cuban Software Developer | [GitHub](https://github.com/clizano)|[Linkedin](https://www.linkedin.com/in/carlo-carlo-lizano-2613a9a3/)|
 | 136 | **Annika Ollonen**  | Finland | Software engineer | [GitHub](https://github.com/annikaol) |
-| 137 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
+| 137 | **Kaustubh Prabhu**  | India | CSE Student: Applying for Masters | [GitHub](https://github.com/Kaustubhprabhu98)|[Linkedin](https://www.linkedin.com/in/kaustubh-prabhu/)|
+| 138 | **George McCarron** | UK | Computer Science Student | [GitHub](https://github.com/george1410) - [LinkedIn](https://www.linkedin.com/in/mccarrong)|
+| 139 | **Athul K** | India | Computer Science Student | [GitHub](https://github.com/excorcist) - [LinkedIn](https://www.linkedin.com/)|
+| 140 | **Matt Luby** | USA | Neuroscience Student | [GitHub](https://github.com/lubacious)|
+| 141 | **Gaurav Khandelwal** | India | Computer Science and Engineering Student | [Github](https://github.com/gaurav122197) - [LinkedIn](https://www.linkedin.com/in/gaurav-khandelwal/)
+| 142 | **Ricardo Dantas**  | Brazil | Python Developer | [GitHub](https://github.com/licensed) - [Linkedin](https://www.linkedin.com/in/licensed/)|
+| 143 | **Vinay Sagar Sharma** | India | Student | [GitHub](https://github.com/vinay72) | - [LinkedIn](https://www.linkedin.com/in/vinay-sagar-sharma-629b33151/)
+| 144 | **Harsh Aryan** |India | College Student | [Github](https://github.com/aryan-harsh) - [LinkedIn](https://www.linkedin.com/in/harsh-aryan-0614b5157/) |
+| 145 | **Bernard** | Malaysia | Student | [GitHub] (https://github.com/bernisaur) |
+| 146 | **Rohit Kumar** | India | UX Designer + Front-end Developer | [Twitter](https://twitter.com/rohitkrops) | 
+| 147 | **Nirosha Jayasundara** | Sri Lanka | SE undergraduate | [GitHub](https://github.com/niroshajayasundara) |
+| 148 | **Ruthiel Trevisan** | Portugal | ABAP Developer | [GitHub](https://github.com/ruthiel) |
+| 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
+| 150 | **Madhav Bahl**  | India | Web Dev and Tech Blogger | [GitHub](https://github.com/MadhavBahlMD) |
+| 151 | **Harshmeet Singh**  | India |  | ISE Student @CMRIT Bangalore |  [Github](https://github.com/Harshmeets007) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
