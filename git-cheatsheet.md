@@ -1,7 +1,36 @@
-Using Git
-===============
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://www.logolynx.com/images/logolynx/4f/4f5f6684ab7fb6b3f7be735e31803c84.png" alt="git-logo" width="150px"/>
+  </a>
+</p>
 
-Global Settings
+<h1 align="center">Using Git</h1>
+
+Git is a free and open source version control system that helps you track changes to your projects, allowing for a simple and efficient workflow. 
+
+Learn about version control and keeping your projects organized with this Git cheatsheet. 
+
+## Index
+
+1. [Global Settings](#1-global-settings)
+2. [Setup](#2-setup)
+3. [Help](#3-help)
+4. [General](#4-general)
+5. [Reset](#5-reset)
+6. [Update and Delete](#6-update-and-delete)
+7. [Branch](#7-branch)
+8. [Merge](#8-merge)
+9. [Stash](#9-stash)
+10. [Gitignore and Gitkeep](#10-gitignore-and-gitkeep)
+11. [Log](#11-log)
+12. [Compare](#12-compare)
+13. [Releases and Version Tags](#13-releases-and-version-tags)
+14. [Collaborate](#14-collaborate)
+15. [Archive / Troubleshooting / Security](#15-archive)
+
+
+
+### 1. Global Settings
 -----------
 
 - Related Setup: https://gist.github.com/hofmannsven/6814278
@@ -9,7 +38,7 @@ Global Settings
 - Interactive Beginners Tutorial: http://try.github.io/
 - Git Cheatsheet by GitHub: https://services.github.com/on-demand/downloads/github-git-cheat-sheet/
 
-Setup
+### 2. Setup
 -----------
 
 See where Git is located:
@@ -22,14 +51,14 @@ Create an alias (shortcut) for `git status`:
 `git config --global alias.st status`
 
 
-Help
+### 3. Help
 -----------
 
 Help:
 `git help`
 
 
-General
+### 4. General
 -----------
 
 Initialize Git:
@@ -66,7 +95,7 @@ Restore file from a custom commit (in current branch):
 `git checkout 6eb715d -- index.html`
 
 
-Reset
+### 5. Reset
 -----------
 
 Go back to commit:
@@ -83,7 +112,7 @@ Mixed reset (move HEAD and change staging to match repo; does not affect working
 Hard reset (move HEAD and change staging dir and working dir to match repo):
 `git reset --hard 073791e7dd71b90daa853b2c5acc2c925f02dbc6`
 
-Update & Delete
+### 6. Update and Delete
 -----------
 
 Test-Delete untracked files:
@@ -99,7 +128,7 @@ Update most recent commit (also update the commit message):
 `git commit --amend -m "New Message"`
 
 
-Branch
+### 7. Branch
 -----------
 
 Show branches:
@@ -129,7 +158,7 @@ Delete not merged branch:
 `git branch -D branch_to_delete`
 
 
-Merge
+### 8. Merge
 -----------
 
 True merge (fast forward):
@@ -162,7 +191,7 @@ Cancel rebase:
 Squash multiple commits into one:
 `git rebase -i HEAD~3` ([source](https://www.devroom.io/2011/07/05/git-squash-your-latests-commits-into-one/))
 
-Stash
+### 9. Stash
 -----------
 
 Put in stash:
@@ -190,7 +219,7 @@ Delete complete stash:
 `git stash clear`
 
 
-Gitignore & Gitkeep
+### 10. Gitignore and Gitkeep
 -----------
 
 About: https://help.github.com/articles/ignoring-files
@@ -204,7 +233,7 @@ Track empty dir:
 `touch dir/.gitkeep`
 
 
-Log
+### 11. Log
 -----------
 
 Show commits:
@@ -251,7 +280,7 @@ Show history of commits as graph-summary:
 `git log --oneline --graph --all --decorate`
 
 
-Compare
+### 12. Compare
 -----------
 
 Compare modified files:
@@ -293,7 +322,7 @@ Blame:
 `git blame -L10,+1 index.html`
 
 
-Releases & Version Tags
+### 13. Releases and Version Tags
 -----------
 
 Show all released versions:
@@ -312,7 +341,7 @@ Checkout a specific release version:
 `git checkout v1.0.0`
 
 
-Collaborate
+### 14. Collaborate
 -----------
 
 Show remote:
@@ -358,7 +387,7 @@ Push:
 `git push origin master`
 
 Force-Push:
-`git push origin master --force
+`git push origin master --force`
 
 Pull:
 `git pull`
@@ -384,7 +413,7 @@ Delete remote branch (push nothing):
 `git push origin --delete branchname`
 
 
-Archive
+### 15. Archive
 -----------
 Create a zip-archive: `git archive --format zip --output filename.zip master`
 

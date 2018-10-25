@@ -54,8 +54,17 @@
 + <a href = "https://www.geeksforgeeks.org/python-schedule-library/">Python Schedule Library </a>
 + <a href = "https://www.geeksforgeeks.org/calendar-functions-in-python-set-1-calendar-month-isleap/">Python Calendar Library</a>
 + <a href = "https://www.djangoproject.com/">Learn Django to make backend accessible | Python </a>
++ <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
++ <a href = "https://docs.quantifiedcode.com/python-anti-patterns/index.html"> Python Anti-Patterns</a>
 
 ## 7. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
 + <a href ="https://github.com/manojmj92/subtitle-downloader">Subtitle Downloader</a>
 + <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
++ <a href ="https://github.com/aashish-ak/CNN-from-Scratch">Digit Recogniser using CNN and Flask</a>
++ <a href ="https://github.com/aashish-ak/article_inventory">Article Inventory</a>
++ <a href ="https://github.com/mopidy/mopidy">Mopidy is an extensible music server written in Python</a>
++ <a href ="https://github.com/midgetspy/Sick-Beard"> Sick-Beard | Guide to PVR and it downloads and manages all your TV shows</a>
++ <a href ="https://github.com/getpelican/pelican">Pelican | Static site generator which provides support to Markdown and reST syntax.</a>
++ <a href ="https://github.com/rg3/youtube-dl">Youtube-dl | Small command-line program to download videos from YouTube.com and other video sites</a>
+
