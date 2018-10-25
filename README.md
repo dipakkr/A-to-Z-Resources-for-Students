@@ -668,6 +668,8 @@ different programming languages**
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
+- [Women in Tech (Finland)](https://womenintech.fi/)
+- [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 
 =============================================================================================
 # 8. Conferences :bookmark_tabs:
