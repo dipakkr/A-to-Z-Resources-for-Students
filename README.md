@@ -176,6 +176,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 
+- **MongoDB**
+    -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+
 ## 1.6 Frontend Web Development :computer:
 
 - [Frontend Masters](https://frontendmasters.com/) -- **PAID**
@@ -435,7 +438,7 @@ different programming languages**
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 |22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
 |23| [Russian AI Cup](http://russianaicup.ru/) | - |
-
+|24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 
 
 ##  2.3  Hackathon Search Portals :dart:
