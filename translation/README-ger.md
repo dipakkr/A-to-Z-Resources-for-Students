@@ -50,7 +50,8 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 11. [Weiterführende Links](#11-weiterführende-links-hamster)
 12. [Mitwirkende](CONTRIBUTORS.md)
 
-=============================================================================================
+---
+
 # 1. Coding Ressourcen :pencil:
 
 ## 1.1 Python :snake:
@@ -213,7 +214,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
      - [Browserify - Der erste bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Datenstrukturen :chart_with_upwards_trend:
 
@@ -280,7 +281,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/
 
-=============================================================================================
+---
 
 # 2. Hackathons und Events
 
@@ -324,7 +325,8 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (Indien) | - | September-Oktober | - |
 |34 | [HackISU](https://hackisu.org/)| USA | Nein | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| Neu Delhi, Indien | - | 26. OKtober| - |
-----------------------------------------------------------
+
+---
 
 ##  2.2 Wettbewerbe :bomb:
 
@@ -392,7 +394,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3.  Studenten- Vergünstigungen und Programme :fire:
 
@@ -452,7 +454,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+---
 
 # 4. Open Source Programme :octocat:
 
@@ -472,7 +474,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Ja | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | Nein | - | - |
 
-=============================================================================================
+---
 
 # 5. Startup Programme and Brutkästen :mag_right:
 
@@ -486,7 +488,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. Praktika Portale :smile:
 1. [Angel List](https://angel.co)
@@ -502,7 +504,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 
      - Frühzeitig vor Praktikumsbeginn nach Plätzen umsehen
 
-=============================================================================================
+---
 
 # 7. Entwickler Clubs and Meetups
 
@@ -525,7 +527,8 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
-=============================================================================================
+---
+
 # 8. Konferenzen :bookmark_tabs:
 
 Id | Name | Veranstaltungsort| Reisekostenerstattung |Timeline | Deadline |
@@ -558,7 +561,7 @@ Id | Name | Veranstaltungsort| Reisekostenerstattung |Timeline | Deadline |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Ja | Aug31 | Aug31 |
 |28| [Hackference India ](http://hackference.in/) | India | Nein | Nov | Mid Dec |
 
-=============================================================================================
+---
 
 # 9. Personen
 
@@ -571,7 +574,7 @@ Id | Name | Veranstaltungsort| Reisekostenerstattung |Timeline | Deadline |
 |5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack Experte |
 |6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chef KI Wissenschaftler bei Facebook |
 
-=============================================================================================
+---
 
 # 10. Webseiten
 

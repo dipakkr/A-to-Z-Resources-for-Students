@@ -62,3 +62,8 @@
 + <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
 + <a href ="https://github.com/aashish-ak/CNN-from-Scratch">Digit Recogniser using CNN and Flask</a>
 + <a href ="https://github.com/aashish-ak/article_inventory">Article Inventory</a>
++ <a href ="https://github.com/mopidy/mopidy">Mopidy is an extensible music server written in Python</a>
++ <a href ="https://github.com/midgetspy/Sick-Beard"> Sick-Beard | Guide to PVR and it downloads and manages all your TV shows</a>
++ <a href ="https://github.com/getpelican/pelican">Pelican | Static site generator which provides support to Markdown and reST syntax.</a>
++ <a href ="https://github.com/rg3/youtube-dl">Youtube-dl | Small command-line program to download videos from YouTube.com and other video sites</a>
+
