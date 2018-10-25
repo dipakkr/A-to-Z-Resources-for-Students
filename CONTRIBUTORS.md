@@ -170,7 +170,7 @@ Instructions :
 | 138 | **George McCarron** | UK | Computer Science Student | [GitHub](https://github.com/george1410) - [LinkedIn](https://www.linkedin.com/in/mccarrong)|
 | 139 | **Athul K** | India | Computer Science Student | [GitHub](https://github.com/excorcist) - [LinkedIn](https://www.linkedin.com/)|
 | 140 | **Matt Luby** | USA | Neuroscience Student | [GitHub](https://github.com/lubacious)|
-
+| 141 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
