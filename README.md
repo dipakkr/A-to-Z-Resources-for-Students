@@ -4,9 +4,9 @@
 
 > ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
 
-### Are you a college student or working professional looking for resources to learn a new language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
+### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging devs to suffer the same as me. Hence, I and a bunch of other devs from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a dev, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a developer, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -30,9 +30,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
+     - [C# Language](#115-c#-language)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
-
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
+   
+2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
      - [Competitions](#22-competitions-bomb)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
@@ -40,23 +41,24 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges-heart)
 
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs-fire)
+3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
      - [Student Benefits and Packs](#student-benefits-and-packs-v)
      - [Student Fellowship Programs](#student-fellowship-programs-v)
      - [Scholarships](#scholarships-runner)
 
-4.  [ Open Source Programs ](#4-open-source-programs-octocat)
+4.  [Open Source Programs](#4-open-source-programs-octocat)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [ Internship Portals ](#6-internship-portals-smile)
+6.  [Internship Portals](#6-internship-portals-smile)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences-bookmark_tabs)
+8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
-=========================================================================================
+---
+
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -174,6 +176,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 
+- **MongoDB**
+    -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+
 ## 1.6 Frontend Web Development :computer:
 
 - [Frontend Masters](https://frontendmasters.com/) -- **PAID**
@@ -210,6 +215,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
     - [Javascript Tutorial for Beginner Complete Course 2018](https://www.youtube.com/watch?v=PwsigsH4oXw)
+    - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 
 
 - **JavaScript Frameworks**    
@@ -251,6 +257,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
     - [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
     - [Full-Stack Web Accessibility Guidelines - A Video Tutorial on Web Accessibility for Impaired Users](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
+    - [WebAim Web Accessibility Resources and Tools](https://webaim.org/resources/)
     - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
 
 - **Frontend DevTools**
@@ -266,7 +273,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 
@@ -334,11 +341,14 @@ different programming languages**
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
  - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-
+ - [Pro Git Book](https://git-scm.com/book/en/v2)
+ 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
+- [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
+- [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
@@ -347,6 +357,11 @@ different programming languages**
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
+## 1.15 C# Language
+- [LearnCS](https://www.learncs.org)
+- [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
+- [SoloLearn](https://www.sololearn.com/Course/CSharp/)
+---
 =============================================================================================
 
 # 2. Hackathons and Events
@@ -393,7 +408,7 @@ different programming languages**
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
-
+|38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -423,7 +438,7 @@ different programming languages**
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 |22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
 |23| [Russian AI Cup](http://russianaicup.ru/) | - |
-
+|24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -483,7 +498,7 @@ different programming languages**
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. Student Benefits and Programs :fire:
 
@@ -495,11 +510,11 @@ different programming languages**
 5. [Progate Student Ambassador](http://progate.com/)
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
-8. [ HackerEarth Campus Ambassador](https://hackerearth.com)
-9. [ HackerRank Campus Ambassador](https://hackerrank.com)
+8. [HackerEarth Campus Ambassador](https://hackerearth.com)
+9. [HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
-11. [ Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
-12. [ Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 
 ## Student Benefits and Packs :v:
@@ -544,27 +559,72 @@ different programming languages**
 
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+---
+
 # 4. Open Source Programs :octocat:
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) <br />
+> **For more detailed Information about the GSOC participation** - [Click Here](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
+
+## SOC-Programs
 
 
-|Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
-|-|--|---- |---|---| ------ |
-|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
-|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
-|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
-|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
-|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
-|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
-| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
-|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+| Name                                    | Stipend |
+|-----------------------------------------|-------------|
+| [Season of KDE](https://season.kde.org) | No      |
+| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
+| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No |
+| [Outreachy](https://www.gnome.org/outreachy/) | Yes |
+| [RGSOC](http://railsgirlssummerofcode.org/) | Yes |
+| [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
+| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes |
+| [SOCIS](http://sophia.estec.esa.int/socis/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
+| [OpenDaylight summer internship Programme](https://wiki.opendaylight.org/view/Interns) | Yes |
+| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
+| [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*|
+| [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
+| [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
+| [Summer of Haskell](https://summer.haskell.org/) | Yes |
+| [OPNFV- Linux Foundation](https://wiki.opnfv.org/display/DEV/Internship-program) | Yes |
+| [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/blog/2017/11/20/want-hack-mainframe-next-summer-summer-2018-internship-program-now-accepting-applications) | Yes |
+| [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
+| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
+| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |
+| [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
+| [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
+| [DataOne](https://www.dataone.org/internships) | Yes |
+| [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
+| [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
+| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
+| [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
+| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
+| [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |
 
-=============================================================================================
+*Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br />
+** OSoC is only open to Belgian students.
+
+# Open Source Competitions
+
+
+| Name                                    | Awards |
+|-----------------------------------------|-------------|
+| [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners |
+| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|
+| [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners|
+| [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
+| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
+| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
+| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
+| [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
+
+*Indian Students Only<br />
+** OSS World Challenge has temporarily stopped accepting international applications.
+
+---
 
 # 5. Startup Programs and Incubators :mag_right:
 
@@ -575,10 +635,10 @@ different programming languages**
 |3| [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/) | Google |
 |4| [Startup Village](https://www.sv.co/) | SV.CO |
 |5| [T HUB ](https://t-hub.co/) | - |
-|6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
+|6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. Internship Portals :smile:
 1. [Angel List](https://angel.co)
@@ -594,7 +654,7 @@ different programming languages**
 
      - For summer internship, start looking at least 3-4 months in advance.
 
-=============================================================================================
+---
 
 # 7. Developer Clubs and Meetups
 
@@ -617,21 +677,24 @@ different programming languages**
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
+- [Women in Tech (Finland)](https://womenintech.fi/)
+- [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 
-=============================================================================================
+---
+
 # 8. Conferences :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
 |--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  May 1 | May 9 | Python |
-|2 | [ODSC ](https://odsc.com/) |  Global | No |  Aug 30 | Sep 2 | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Feb 18 | Feb 22 | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 18 | Nov 20  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June 24 | June 29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov 9 | Nov 9 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October 4 | October 7 | Python |
+|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 | Python |
+|2 | [ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 | AI |
+|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | Business |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | Business |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
 |8 | [React Europe]() | France | - | May 21 - 24 | - | JS |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 5 | Nov 8 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug 16 | Aug 20 | - |
@@ -669,7 +732,7 @@ different programming languages**
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
-=============================================================================================
+---
 
 # 9. Top People to Follow
 
@@ -689,8 +752,8 @@ different programming languages**
 |12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
 |14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
-|15|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
-|16|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
+|15 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|16 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
 |17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
 |18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
 |19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
@@ -701,8 +764,9 @@ different programming languages**
 |24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
+|27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
 
-=============================================================================================
+---
 
 # 10. Top Websites to Follow
 
