@@ -69,7 +69,7 @@
 + [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects) *[Free]*
 + [C.Net](https://www.amazon.com/b?node=2350149011) *[Free]*
 + [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
-
++ [F-Droid](https://f-droid.org/en/docs/Submitting_to_F-Droid_Quick_Start_Guide/) *[Free]*
 
 ## 8. Misc. Resources
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
