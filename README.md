@@ -178,6 +178,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
+    - [Codecademy](https://www.codecademy.com/learn/learn-ruby) - *Familiarity with Ruby before Rails*
 
 - **MongoDB**
     -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
