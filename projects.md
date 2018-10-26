@@ -30,11 +30,8 @@
 
 ## 5. Full Stack Web Development
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
-<<<<<<< HEAD
  * [Advanced React Course](https://advancedreact.com/)
  * [MEAN Stack | Online portal of IIT Professors' details](https://github.com/aashish-ak/search_guru)
-=======
->>>>>>> origin/dev
 
 ## 6. Backend Development
 
@@ -51,14 +48,9 @@
 
 ## 7. Frontend Development
 
-<<<<<<< HEAD
 ###### JavaScript
   -  [Javascript 30](https://javascript30.com/) Provides a list of front end development projects along with their sourcecode.
   -  [ExpressJS](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
-=======
-###### JavaScript	
-  -  [Javascript 30](https://javascript30.com/) Provides a list of front end development projects along with their sourcecode.
->>>>>>> origin/dev
 
 ###### React  
   - [Weather app](https://github.com/pixelsinprogress/weather-app-2)
@@ -71,8 +63,4 @@
   - [Play Code Monkey](https://www.playcodemonkey.com)
 
 ## 8. Mobile App Development
-<<<<<<< HEAD
   - [Popular Movies - Udacity](https://github.com/dipakkr/Popular-Movies)
-=======
-  - [Popular Movies - Udacity](https://github.com/dipakkr/Popular-Movies)
->>>>>>> origin/dev

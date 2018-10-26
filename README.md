@@ -19,7 +19,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Python](#11-python-snake)
      - [Machine Learning](#12-machine-learning-robot)
      - [Deep Learning](#13-deep-learning)
-<<<<<<< HEAD
      - [Android Development](#14-android-development-iphone)
      - [Backend Development ](#15-backend-development-computer)
      - [Frontend Web Development](#16-frontend-web-development-computer)
@@ -51,30 +50,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4.  [Open Source Programs](#4-open-source-programs-octocat)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
 6.  [Internship Portals](#6-internship-portals-smile)
-=======
-     - [Android Development](#14-android-development)
-     - [Backend Development ](#15-backend-development)
-     - [Frontend Web Development](#16-frontend-web-development)
-
-2.  [ Hackathons and Events ](#2-hackathons-and-events)
-
-     - [Top Global Hackathons](#21-top-global-hackathons)
-     - [Competitions](#22-competitions)
-     - [Hackathon Search Portal](#23-hackathon-search-portals)
-     - [Events](#24-events)
-     - [Startup Summits and Competitions](#25-startup-summits-and-competitions)
-     - [Hiring Challenges](#26-hiring-challenges)
-
-3.  [ Student Benefits and Programs ](#3-student-benefits-and-programs)
-     - [Campus Ambassador Programs](#campus-ambassador-programs)
-     - [Student Benfits and Packs](#student-benefits-and-packs)
-     - [Student Fellowship Programs](#student-fellowship-programs)
-     - [Scholarship](#scholarship)
-
-4.  [ Open Source Programs ](#4-open-source-programs)
-5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators)
-6.  [ Internship Portals ](#6-internship-portals)
->>>>>>> origin/dev
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
@@ -182,8 +157,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
 
-    - [The Modern GraphQL Bootcamp (Advanced Node.js) | UDEMY](https://www.udemy.com/graphql-bootcamp/) -- **PAID**
-
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
     - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAID**  *Intermediate level*
@@ -263,7 +236,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
-<<<<<<< HEAD
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
      - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) -- **PAID**
@@ -290,9 +262,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Full-Stack Web Accessibility Guidelines - A Video Tutorial on Web Accessibility for Impaired Users](https://www.youtube.com/watch?v=aqM6rV5IBlg&t=1s)
     - [WebAim Web Accessibility Resources and Tools](https://webaim.org/resources/)
     - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
-=======
-     - [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/) -- **PAID**
->>>>>>> origin/dev
 
 - **Frontend DevTools**
      ###### Package managers
@@ -830,12 +799,8 @@ different programming languages**
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
 3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
-<<<<<<< HEAD
 4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*
 5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
-=======
-4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships,
->>>>>>> origin/dev
