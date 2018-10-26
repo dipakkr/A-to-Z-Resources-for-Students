@@ -426,6 +426,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
 |38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 |39 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
+|40 | [Megathon](https://megathon.in/) | India | No | Early September | September End
 
 ----------------------------------------------------------
 
