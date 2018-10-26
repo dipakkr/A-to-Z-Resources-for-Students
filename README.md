@@ -170,6 +170,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good for beginners*
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recommended for everyone*
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Book Advanced level*
+    - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
