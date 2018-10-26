@@ -34,5 +34,6 @@
 | [2018 Dataworks Summit](https://dataworkssummit.com) | As above | Barcelona, Spain | 18-21 Mar 2019 |
 | [2018 Dataworks Summit](https://dataworkssummit.com) | As above | Washington DC, USA | 20-28 May 2019 |
 | [NIPS \| 2018](https://nips.cc/) | The 32nd Annual Conference on Neural Information Processing Systems (NIPS) is a multi-track machine learning and computational neuroscience conference that includes invited talks, demonstrations, symposia and oral and poster presentations of refereed papers. | Montreal, Canada | 3-8 Dec 2018 |
+| [Big Data Conference Vilnius](https://www.bigdataconference.lt) | Big Data Conference Vilnius is a three-day conference with technical talks in the fields of Big Data, High Load, Data Science, Machine Learning and AI. | Vilnius, Lithuania | 27-29 November
 
 Happy hunting!
