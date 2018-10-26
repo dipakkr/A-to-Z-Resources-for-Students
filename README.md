@@ -665,7 +665,7 @@ different programming languages**
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 8. [Intern Supply](https://intern.supply/)
-9. [Indeed] (https://www.indeed.ca/)
+9. [Indeed](https://www.indeed.ca/)
 
     ### Tips for Internship:
 
