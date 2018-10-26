@@ -1,8 +1,7 @@
 ﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it:
-
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela:
 
 ```
 Instructions :
@@ -201,6 +200,7 @@ Instructions :
 | 168 | **axux** | USA | Learning to code | [GitHub](https://github.com/axux) |
 | 169 | **Akani** | Indonesia | Computer Science student | [GitHub](https://github.com/akanijade) |
 | 170 | **Aman Agarwal** | India | Student | [GitHub](https://github.com/amanagarwal-sopho) |
+| 171 | **maria jose** | Vzla | self-taught web development student | [GitHub](https://github.com/majse14)|
 
 ---
 
