@@ -1,4 +1,4 @@
-﻿# A to Z Resources for Students :boy: :girl:
+﻿# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## Feel free to show your :heart: by giving a star :star:
 
@@ -148,6 +148,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.4 Android Development
 
 -  [For Beginners](Android.md) :baby:
+-  [Free courses & Nanodegree | Udacity](https://udacity.com) 
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
