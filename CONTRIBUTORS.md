@@ -215,6 +215,7 @@ Instructions :
 | 183 | **Malka Saba**  | Canada | Computer Science Student | [GitHub](https://github.com/malkasaba) |
 | 184 | **Bhavy Khatter** | India | Computer Science Student | [GitHub](https://github.com/bhavy007) |
 | 185 | **Mark Gormley** | Ireland | Computer Science Student | [GitHub](https://github.com/gormleymark) |
+| 186 | **Jaikob Park** | USA | Management Information Systems Undergrad | [GitHub](https://github.com/JaikobPark) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
