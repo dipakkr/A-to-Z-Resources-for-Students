@@ -1,6 +1,6 @@
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Feel free to show your love :heart: by putting a star :star: 
+> ## Feel free to show your love :heart: by putting a star :star:
 
 ### Are you college student or working professional looking for resources to learn new language or meet new people in community or looking for global conferences, hackathons and competitons to attend ?? Then, you should definitely check this out.
 
@@ -26,7 +26,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [Frontend Web Development](#16-frontend-web-development)
      - [Data Structure](#17-data-structures)
      - [Alexa](#18-alexa-tutorials)
-     
+
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
 
@@ -127,7 +127,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-    
+
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good For Begineers*
 
 - **PHP**
@@ -309,7 +309,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA | 
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
 
 ## 2.6 Hiring Challenges
 
@@ -496,6 +496,7 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 |3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
 |4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|5| [Kyle Simpson](https://twitter.com/getify?lang=en) | JavaScript |
 
 
 =============================================================================================
@@ -516,7 +517,7 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
       -  [ProductHunt](https://producthunt.com)
       -  [Medium](https://medium.com/)
       -  [Android Authority](https://www.androidauthority.com/)
-     
+
 
 
 # 11. Additional Links
@@ -526,6 +527,6 @@ Id | Name | Place| Travel Reimbursment |Timeline | Deadline |
 3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
 4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships,
 
- 
+
 
 
