@@ -82,6 +82,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+
 ## 1.2 Machine Learning :robot:
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
@@ -89,7 +90,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning) **PAID FOR CERTIFICATION AND ALL CONTENTS**
-    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) **PAID NANODEGREE**
+    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) **PAID 
+    - [SkitLearn Python](https://www.youtube.com/watch?v=0pP4EwWJgIU&index=5&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+    
+    NANODEGREE**
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600) **PAID NANODEGREE**
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
