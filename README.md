@@ -161,6 +161,7 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Orignal Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [Start Learning React](https://egghead.io/courses/start-learning-react)
 
 - **Frontend DevTools**
      ###### Package managers
