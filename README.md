@@ -165,15 +165,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
-
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-
     - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAID**  *Intermediate level*
-
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good for beginners*
-
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recommended for everyone*
-
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Book Advanced level*
 
 - **PHP**
@@ -199,7 +194,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
-    - [FreeCodeCamp](https://www.freecodecamp.org/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
     - [Codecademy](https://www.codecademy.com/catalog/language/html-css)
     - [Interneting is Hard](https://internetingishard.com/html-and-css/)
     - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -231,7 +226,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **JavaScript Frameworks**    
     ###### Angular
-     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
+    - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
     - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
     - [Made With Angular](https://www.madewithangular.com/) - **Gallery of inspiring websites using Angular/AngularJS**
@@ -312,12 +307,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Another goto book for easy to understand algorithm design and analysis**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in
-different programming languages**
-- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK TO AMAZON**
-- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition** **LINK TO AMAZON**
-
+    - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly recommended to learn DS and Computer Science fundamentals**
+    - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in different programming languages**
+    - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK TO AMAZON**
+    - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition** **LINK TO AMAZON**
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
@@ -339,7 +332,6 @@ different programming languages**
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
  - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
-
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -578,11 +570,8 @@ different programming languages**
 
 ## Scholarships :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
-
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
-
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
-
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
 ---
@@ -701,8 +690,8 @@ different programming languages**
 - [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/) **[ Only in Delhi and Bangalore]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - [Toastmaster International](https://www.toastmasters.org)
-- Swift Users Group
-- [MUG - MongoDB User Group](https://www.meetup.com/en-AU/pro/mongodb/) (Meetups)
+- [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)
+- [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
