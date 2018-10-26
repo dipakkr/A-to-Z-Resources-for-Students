@@ -223,7 +223,7 @@ Instructions :
 | 191 | **Leonardo Dominguez** | Dominican Republic | Electrical Engineer | [GitHub](https://github.com/focux) |
 | 192 | **Andrew Connin** | United States | Freelancer | [GitHub](https://github.com/cercei) |
 | 193 | **Joamar Derije** | Philippines | Computer | [GitHub](https://github.com/joamarderije) |
-
+| 194 | **Umme Ammara** | Pakistan | Computer | [GitHub](https://github.com/UmmeAmmaraa) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
