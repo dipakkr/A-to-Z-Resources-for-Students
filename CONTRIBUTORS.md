@@ -217,7 +217,10 @@ Instructions :
 | 185 | **Mark Gormley** | Ireland | Computer Science Student | [GitHub](https://github.com/gormleymark) |
 | 186 | **Jaikob Park** | USA | Management Information Systems Undergrad | [GitHub](https://github.com/JaikobPark) |
 | 187 | **Abhinav Raj** | India | | [GitHub](https://github.com/abhinavraj0123456789) |
-| 188 | **Andreas Resch** | South Tyrol | | [GitHub](https://github.com/reschandreas) |
+| 188 | **MNikolaidis** | Greece | Biochemistry Student | [Github](https://github.com/marionik23) |
+| 189 | **Shubham Shekhar** | India | Student | [GitHub](https://github.com/Keovkevin) | - [LinkedIn](https://www.linkedin.com/in/shubham-shekhar/)
+| 190 | **Mhae Co** | Canada | Support Analyst | [GitHub](https://github.com/mhaeco) |
+| 191 | **Andreas Resch** | South Tyrol | Computer Science Student | [GitHub](https://github.com/reschandreas) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
