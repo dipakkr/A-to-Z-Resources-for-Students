@@ -79,6 +79,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Think Python 2e - green tea press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Project Euler](https://projecteuler.net/) - **Great for practicing writing python codes**
+- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ## 1.2 Machine Learning :robot:
 
@@ -795,7 +797,7 @@ different programming languages**
 |28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
 |29 |[Daniel Shiffman] (https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
-
+|31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
 ---
 
 # 10. Top Websites to Follow
