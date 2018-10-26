@@ -185,6 +185,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **MongoDB**
     -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    -[Free Courses and Paid Private training](https://university.mongodb.com/)
 
 ## 1.6 Frontend Web Development :computer:
 
