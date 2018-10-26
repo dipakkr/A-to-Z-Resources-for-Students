@@ -200,6 +200,7 @@ Instructions :
 | 167 | **Oláh Tamás-Lajos** | Romania | Computer Science Student | [GitHub](https://github.com/tomiolah1998) - [LinkedIn](https://www.linkedin.com/in/tomiolah1998/) |
 | 168 | **axux** | USA | Learning to code | [GitHub](https://github.com/axux) |
 | 169 | **Akani** | Indonesia | Computer Science student | [GitHub](https://github.com/akanijade) |
+| 170 | **Aman Agarwal** | India | Student | [GitHub](https://github.com/amanagarwal-sopho) |
 
 ---
 
