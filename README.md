@@ -1,4 +1,4 @@
-﻿# A to Z Resources for Students:boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+﻿# A to Z Resources for Students :boy: :girl:
 
 > ## Feel free to show your :heart: by giving a star :star:
 
@@ -70,7 +70,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 1. Coding Resources
 
-## 1.1 Python :snake:
+## 1.1 Python
 
 > [**Browse this link for detailed information on Python**](Python.md)
 
@@ -90,7 +90,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-## 1.2 Machine Learning :robot:
+## 1.2 Machine Learning
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
 
@@ -291,7 +291,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ---
 
-## 1.7 Data Structures :chart_with_upwards_trend:
+## 1.7 Data Structures
 
 - **Online Platforms**
     - [CodeChef](https://www.codechef.com/) - CodeChef competitive programming site
@@ -323,7 +323,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) :heavy_dollar_sign:
  - [Building Alexa Skills from Scratch | YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
- - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign:  (Fre  10-day trial)
+ - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign: (Free 10-day trial)
  - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
@@ -431,7 +431,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ----------------------------------------------------------
 
-##  2.2 Competitions :bomb:
+##  2.2 Competitions :trophy:
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -585,8 +585,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 4. Open Source Programs
 
-> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) <br />
-> **For more detailed Information about the GSOC participation** - [Click Here](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
+> [**Click here for more information about the GSOC Organization**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+
+> [**Click here for more information about the GSOC participation**](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
 
 ## SOC-Programs
 
@@ -603,7 +604,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [SOCIS](http://sophia.estec.esa.int/socis/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
 | [OpenDaylight summer internship Programme](https://wiki.opendaylight.org/view/Interns) | Yes |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
-| [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes*|
+| [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes¹|
 | [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
 | [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
 | [Summer of Haskell](https://summer.haskell.org/) | Yes |
@@ -612,7 +613,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
 | [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
 | [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |
-| [Open Summer of Code](http://2017.summerofcode.be/) | Yes** |
+| [Open Summer of Code](http://2017.summerofcode.be/) | Yes² |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
 | [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
 | [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
@@ -624,8 +625,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
 | [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |
 
-*Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br />
-** OSoC is only open to Belgian students.
+¹ Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br />
+
+² OSoC is only open to Belgian students.
 
 # Open Source Competitions
 
@@ -692,8 +694,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [Women In Tech](https://www.womenintechnology.org/)
 - [Developers Student Club by Google](https://developers.google.com/training/programs/)
 - [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)
-- [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/) **[ Only in Delhi and Bangalore]**
-- Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
+- [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/) - Only in Delhi and Bangalore
+- [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/) - Python Student Community
 - [Toastmaster International](https://www.toastmasters.org)
 - [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)
 - [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)
@@ -813,11 +815,11 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 # 11. Additional Links
 
-1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
-2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
-3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
-4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*
-5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
-6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
-7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
-8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
+1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - Startup
+2. [The first 20 hours - How to learn anything | YouTube](https://www.youtube.com/watch?v=5MgBikgcWnY) - Learning
+3. [Are you Introvert? Watch this - Power of Introverts | YouTube](https://www.youtube.com/watch?v=c0KYU2j0TM4) - Self Introspection
+4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - Scholarships
+5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - Reading
+6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - Startup
+7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - Learning
+8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) Study Abroad
