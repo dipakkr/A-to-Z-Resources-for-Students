@@ -32,7 +32,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [MongoDB](#114-mongodb)
      - [Prolog](#115-prolog)
      - [C# Language](#116-c#-language)
-     - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
+     - [DevDocs](#117-devdocs)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -379,6 +379,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
+
+## 1.17 DevDocs
+
+- [API documentation for most programming languages](https://devdocs.io) - Works offline
+
 ---
 
 
