@@ -53,7 +53,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 11. [Links Adicionais](#11-links-adicionais-hamster)
 12. [Contribuidores](CONTRIBUTORS.md)
 
-=============================================================================================
+---
+
 # 1. Material de Apoio :pencil:
 
 ## 1.1 Python :snake:
@@ -251,7 +252,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
      - [Browserify - O primeiro bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
-------
+---
 
 ## 1.7 Estrutura de Dados :chart_with_upwards_trend:
 - [Algo & DS em diferentes linguagens](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos e estrutura de dados em diferentes linguagens**
@@ -306,7 +307,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
-=============================================================================================
+---
 
 # 2. Hackathons e Eventos
 
@@ -351,7 +352,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |34 | [HackISU](https://hackisu.org/)| USA | Não | Outubro | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | 26 de Outubro| - |
 
-----------------------------------------------------------
+---
 
 ##  2.2 Competições :bomb:
 
@@ -431,7 +432,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+---
 
 # 3. Benefícios e programas para estudantes :fire:
 
@@ -484,7 +485,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 
-=============================================================================================
+---
+
 # 4. Programas de código aberto :octocat:
 
 > **Para mais informações sobre a Organização do GSOC** - [Clique aqui](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
@@ -502,7 +504,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Sim | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | Não | - | - |
 
-=============================================================================================
+---
 
 # 5. Programas para startup e incubadoras :mag_right:
 
@@ -516,7 +518,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malasiya |
 
-=============================================================================================
+---
 
 # 6. Portal de estágios :smile:
 1. [Angel List](https://angel.co)
@@ -530,7 +532,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
     ### Dicas para estágio :
      - Para o estágio de verão, faça a sua inscrição com pelo menos 3-4 meses de antecedência.
 
-=============================================================================================
+---
 
 # 7. Clubes de desenvolvedores e Meetups
 
@@ -554,7 +556,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
-=============================================================================================
+---
+
 # 8. Conferências :bookmark_tabs:
 
 > ### **Tecnologia, Eventos de Empreendedorismo e Conferências**
@@ -589,7 +592,7 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | SIM | Ago31 | Ago31 |
 |28| [Hackference India ](http://hackference.in/) | India | Não | Nov | Meio Dec |
 
-=============================================================================================
+---
 
 # 9. Principais pessoas a serem seguidas
 
@@ -601,7 +604,7 @@ Id | Nome | Lugar| Reembolso de Viagem | Início das Aplicações | Fim das Apli
 |4| [Paul Graham](http://www.paulgraham.com/) | Startup Expert, Fundador da Y-Combinator |
 |5| [Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
 
-=============================================================================================
+---
 
 # 10. Principais sites a serem seguidos
 

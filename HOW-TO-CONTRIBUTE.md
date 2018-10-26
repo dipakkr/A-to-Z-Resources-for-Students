@@ -23,7 +23,7 @@ git checkout -b my-branch
 ```
 
 ### Step 4:
-Go to file "new-contributors.md" and add you name.
+Go to file "CONTRIBUTORS.md" and add you name.
 
 ### Step 5 :
 Commit and push your changes.
