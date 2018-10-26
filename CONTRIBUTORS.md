@@ -201,7 +201,8 @@ Instructions :
 | 169 | **Akani** | Indonesia | Computer Science student | [GitHub](https://github.com/akanijade) |
 | 170 | **Aman Agarwal** | India | Student | [GitHub](https://github.com/amanagarwal-sopho) |
 | 171 | **maria jose** | Vzla | self-taught web development student | [GitHub](https://github.com/majse14)|
-| 169 | **Stefan Grbic** | Serbia | Computer Science Student | [GitHub](https://github.com/grbagrbic)|
+| 172 | **Stefan Grbic** | Serbia | Computer Science Student | [GitHub](https://github.com/grbagrbic)|
+| 173 | **Aditya Singh** | India | Coder | [Github](https://github.com/Aditya7861) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.

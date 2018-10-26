@@ -448,6 +448,7 @@ different programming languages**
 |23| [Russian AI Cup](http://russianaicup.ru/) | - |
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 |25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
+|26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
