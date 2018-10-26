@@ -218,6 +218,7 @@ Instructions :
 | 186 | **Jaikob Park** | USA | Management Information Systems Undergrad | [GitHub](https://github.com/JaikobPark) |
 | 187 | **Abhinav Raj** | India | | [GitHub](https://github.com/abhinavraj0123456789) |
 | 188 | ** MNikolaidis** | Greece | Biochemistry Student | [Github](https://github.com/marionik23) |
+| 189 | **Shubham Shekhar** | India | Student | [GitHub](https://github.com/Keovkevin) | - [LinkedIn](https://www.linkedin.com/in/shubham-shekhar/)
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
