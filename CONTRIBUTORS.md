@@ -1,8 +1,7 @@
 ﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it:
-
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :dk:
 
 ```
 Instructions :
@@ -194,9 +193,28 @@ Instructions :
 | 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 | 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
-| 144 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
-| 14 | **Mark Gormley** | Ireland | Computer Science Student | [GitHub](https://github.com/gormleymark) |
-
+| 164 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
+| 165 | **Joel Ewig** | Germany | Computer Science Studen | [Github](https://github.com/tincher) |
+| 166 | **Phil Mauracher** | USA | Web Dev Student | [GitHub](https://github.com/Gradientus) - [LinkedIn](https://www.linkedin.com/in/phillip-mauracher-1429a41/)
+| 167 | **Oláh Tamás-Lajos** | Romania | Computer Science Student | [GitHub](https://github.com/tomiolah1998) - [LinkedIn](https://www.linkedin.com/in/tomiolah1998/) |
+| 168 | **axux** | USA | Learning to code | [GitHub](https://github.com/axux) |
+| 169 | **Akani** | Indonesia | Computer Science student | [GitHub](https://github.com/akanijade) |
+| 170 | **Aman Agarwal** | India | Student | [GitHub](https://github.com/amanagarwal-sopho) |
+| 171 | **maria jose** | Vzla | self-taught web development student | [GitHub](https://github.com/majse14)|
+| 172 | **Stefan Grbic** | Serbia | Computer Science Student | [GitHub](https://github.com/grbagrbic)|
+| 173 | **Aditya Singh** | India | Coder | [Github](https://github.com/Aditya7861) |
+| 174 | **Anirudh Kanakatte** | India | Student | [GitHub](https://github.com/anirudhkanakatte) |
+| 175 | **Andrew Scott** | England | Student | [GitHub](https://github.com/Vikki111) |
+| 176 | **Padmanabhan Murli** | India | Computer Science student | [GitHub](https://github.com/p-murli) |
+| 177 | **Raja Jamal** | Indonesia | Python / Django Developer | [GitHub](https://github.com/rajajamal) |
+| 178 | **Justin** | USA | Software Enginner | [Github](https://github.com/jsrice7391) |
+| 179 | **Amphy** | USA | Computer Science student | [GitHub](https://github.com/amphy) |
+| 180 | **Utkarsh Dubey** | India | School Student | [Github](https://github.com/utkarshdubey2)
+| 181 | **Prakhar Varshney** | India | CSE Student | [GitHub](https://github.com/prakhar9998) |
+| 182 | **David Christoffersen** | Denmark | Product owner | [GitHub](https://github.com/dattvidc) |
+| 183 | **Malka Saba**  | Canada | Computer Science Student | [GitHub](https://github.com/malkasaba) |
+| 184 | **Bhavy Khatter** | India | Computer Science Student | [GitHub](https://github.com/bhavy007) |
+| 185 | **Mark Gormley** | Ireland | Computer Science Student | [GitHub](https://github.com/gormleymark) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
