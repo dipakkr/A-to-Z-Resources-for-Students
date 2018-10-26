@@ -157,6 +157,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
+    
+-  **Flask - Python**
+     - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - *Beginner / Intermediate**
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAID**
