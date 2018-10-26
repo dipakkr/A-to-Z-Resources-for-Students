@@ -1,4 +1,4 @@
-﻿# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## Feel free to show your love :heart: by giving a star :star:
 
@@ -255,6 +255,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
     - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
+    - [Vuejs 2 The Complete Guide](https://www.udemy.com/vuejs-2-the-complete-guide/) -- **PAID BUT WORTH IT**
+    - [Vue JS Essentials with Vuex and Vue Router](https://www.udemy.com/vue-js-course/) -- **PAID**
 
 - **Web Accessibility**
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
