@@ -226,6 +226,7 @@ Instructions :
 | 194 | **Karandeep Singh** | India | Computer Science Student | [GitHub](https://github.com/karandeepSJ) |
 | 195 | **Mario Vizcaino** | Colombia | Software Enginner | [GitHub](https://github.com/mariovzc) - [LinkedIn](https://www.linkedin.com/in/mariovizcaino/|
 | 196 | **Camilo Ibarra** | Colombia | Electronic and Telecomunications Engineer | [GitHub](https://github.com/camiloibarrayepes) |
+| 197 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
 
 ---
 
