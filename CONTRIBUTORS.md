@@ -1,8 +1,7 @@
 ﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it:
-
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela:
 
 ```
 Instructions :
@@ -199,7 +198,11 @@ Instructions :
 | 166 | **Phil Mauracher** | USA | Web Dev Student | [GitHub](https://github.com/Gradientus) - [LinkedIn](https://www.linkedin.com/in/phillip-mauracher-1429a41/)
 | 167 | **Oláh Tamás-Lajos** | Romania | Computer Science Student | [GitHub](https://github.com/tomiolah1998) - [LinkedIn](https://www.linkedin.com/in/tomiolah1998/) |
 | 168 | **axux** | USA | Learning to code | [GitHub](https://github.com/axux) |
-
+| 169 | **Akani** | Indonesia | Computer Science student | [GitHub](https://github.com/akanijade) |
+| 170 | **Aman Agarwal** | India | Student | [GitHub](https://github.com/amanagarwal-sopho) |
+| 171 | **maria jose** | Vzla | self-taught web development student | [GitHub](https://github.com/majse14)|
+| 172 | **Stefan Grbic** | Serbia | Computer Science Student | [GitHub](https://github.com/grbagrbic)|
+| 173 | **Aditya Singh** | India | Coder | [Github](https://github.com/Aditya7861) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
