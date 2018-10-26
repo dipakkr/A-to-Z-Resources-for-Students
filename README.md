@@ -75,6 +75,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - **Great for learning automation and learning the basics of Python**
 - [The New Boston Python - Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - **Great python resource for learning python quickly and efficiently**
+- [Project Euler](https://projecteuler.net/) - **Great for practicing writing python codes**
 
 ## 1.2 Machine Learning :robot:
 
@@ -442,6 +443,7 @@ different programming languages**
 |22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
 |23| [Russian AI Cup](http://russianaicup.ru/) | - |
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
+|25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -531,6 +533,7 @@ different programming languages**
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
 9. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
 10. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
+11. [Bitbucket Education](https://bitbucket.org/product/education)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -654,6 +657,7 @@ different programming languages**
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 8. [Intern Supply](https://intern.supply/)
+9. [Indeed] (https://www.indeed.ca/)
 
     ### Tips for Internship:
 
@@ -791,6 +795,7 @@ different programming languages**
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+      -  [The Hustle](https://thehustle.co/)
 
 # 11. Additional Links :hamster:
 
