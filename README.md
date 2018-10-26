@@ -30,7 +30,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
-     - [C# Language](#115-c#-language)
+     - [Prolog](#115-prolog)
+     - [C# Language](#116-c#-language)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
    
 2.  [Hackathons and Events](#2-hackathons-and-events)
@@ -361,7 +362,10 @@ different programming languages**
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
-## 1.15 C# Language
+## 1.15 Prolog
+- [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
+
+## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
