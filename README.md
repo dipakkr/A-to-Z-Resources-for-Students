@@ -33,7 +33,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Prolog](#115-prolog)
      - [C# Language](#116-c#-language)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
-   
+
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
      - [Competitions](#22-competitions-bomb)
@@ -347,7 +347,7 @@ different programming languages**
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
  - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
- 
+
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
@@ -676,23 +676,23 @@ different programming languages**
 > **Check **Meetup.com** for more events in your locality**
 
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
-- Mozilla Open Source Community
+- [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Facebook Developer Circle](https://developers.facebook.com/developercircles)
 - [Women Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
-- Developers Student Club by Google
-- Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Bangalore]**
+- [Developers Student Club by Google](https://developers.google.com/training/programs/)
+- [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)
+- [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/) **[ Only in Delhi and Bangalore]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - [Toastmaster International](https://www.toastmasters.org)
 - Swift Users Group
-- MUG - MongoDB User Group (Meetups)
+- [MUG - MongoDB User Group](https://www.meetup.com/en-AU/pro/mongodb/) (Meetups)
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
-- [100 Days of Code] (https://www.100daysofcode.com/connect/)
+- [100 Days of Code](https://www.100daysofcode.com/connect/)
 
 ---
 
