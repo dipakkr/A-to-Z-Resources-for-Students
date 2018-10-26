@@ -11,12 +11,15 @@
 5. Blog
 6. References
 7. Publish
+8. Misc. Resources
+
 
 ## 1. Courses
 
 + [Android Fundamental by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) 
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+
 
 ## 2. Certificate
 
@@ -27,6 +30,8 @@
 
 + [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
 + [Android Programming by Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming/)
++ [Professional Android by Reto Meier, Ian Lake](https://www.wiley.com/en-us/Professional+Android%2C+4th+Edition-p-9781118949528)
+
 
 ## 4. Podcast
 
@@ -39,14 +44,17 @@
 
 + [Android Hive](https://www.androidhive.info/)
 + [JakeWharton's Blog](https://jakewharton.com/blog/)
-+ [Offical Android Developer on Medium](https://medium.com/androiddevelopers)
-+ [Android Devleopers Blog](https://android-developers.googleblog.com/)
++ [Official Android Developer on Medium](https://medium.com/androiddevelopers)
++ [Android Developers Blog](https://android-developers.googleblog.com/)
++ [Android Arsenal](https://android-arsenal.com)
+
 
 ## 6. References
 
 + [Android Developer Page](https://developer.android.com/)
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
+
 
 ## 7. Publish
 + [Google Playstore](https://play.google.com/apps/publish/)  *[Paid]*  [Click here for steps](res/Publish.md)
@@ -63,3 +71,6 @@
 + [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
 
 
+## 8. Misc. Resources
++ [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
++ [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
