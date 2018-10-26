@@ -202,6 +202,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
+    - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
 
 - **Bootstrap4**
 
