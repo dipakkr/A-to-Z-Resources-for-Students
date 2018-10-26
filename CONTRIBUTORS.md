@@ -221,7 +221,9 @@ Instructions :
 | 189 | **Shubham Shekhar** | India | Student | [GitHub](https://github.com/Keovkevin) | - [LinkedIn](https://www.linkedin.com/in/shubham-shekhar/)
 | 190 | **Mhae Co** | Canada | Support Analyst | [GitHub](https://github.com/mhaeco) |
 | 191 | **Leonardo Dominguez** | Dominican Republic | Electrical Engineer | [GitHub](https://github.com/focux) |
-| 192 | **Joamar Derije** | Philippines | Computer | [GitHub](https://github.com/joamarderije) |
+| 192 | **Andrew Connin** | United States | Freelancer | [GitHub](https://github.com/cercei) |
+| 193 | **Joamar Derije** | Philippines | Computer | [GitHub](https://github.com/joamarderije) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
