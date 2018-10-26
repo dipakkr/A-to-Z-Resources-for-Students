@@ -2,6 +2,7 @@
 
 ## Basics
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
++ Blockchain basics: https://www.lynda.com/Data-Science-tutorials/Blockchain-Basics/574704-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ablockchain%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 
 ## Ethereum and smart contracts
 + Highly recommend this course: https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
