@@ -213,6 +213,7 @@ Instructions :
 | 181 | **Prakhar Varshney** | India | CSE Student | [GitHub](https://github.com/prakhar9998) |
 | 182 | **David Christoffersen** | Denmark | Product owner | [GitHub](https://github.com/dattvidc) |
 | 183 | **Malka Saba**  | Canada | Computer Science Student | [GitHub](https://github.com/malkasaba) |
+| 184 | **Bhavy Khatter** | India | Computer Science Student | [GitHub](https://github.com/bhavy007) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
