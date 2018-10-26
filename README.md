@@ -32,6 +32,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [MongoDB](#114-mongodb)
      - [Prolog](#115-prolog)
      - [C# Language](#116-c#-language)
+     - [Rust](#117-rust)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
@@ -372,6 +373,10 @@ different programming languages**
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
+
+## 1.17 Rust
+- [Learn Rust](https://doc.rust-lang.org/book/second-edition/index.html)
+- [Contribute](https://github.com/rust-lang/rust)
 ---
 =============================================================================================
 
