@@ -4,6 +4,7 @@
   - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
 
 ## 2. Blockchain
+- [Interesting Blockchain Projects](https://hackernoon.com/6-interesting-blockchain-projects-8c315364ff7f)
 
 ## 3. Internet Of Things
 
@@ -20,10 +21,10 @@
 
 ## 7. Frontend Development
 
-###### JavaScript	
+###### JavaScript
   -  [Javascript 30](https://javascript30.com/) Provides a list of front end development projects along with their sourcecode.
 
-###### React  
+###### React
   - [Weather app](https://github.com/pixelsinprogress/weather-app-2)
   - [Realtime chat backed by Firebase API](https://github.com/sar-gupta/space)
 
