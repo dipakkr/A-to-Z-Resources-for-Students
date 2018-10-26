@@ -203,6 +203,7 @@ Instructions :
 | 171 | **maria jose** | Vzla | self-taught web development student | [GitHub](https://github.com/majse14)|
 | 172 | **Stefan Grbic** | Serbia | Computer Science Student | [GitHub](https://github.com/grbagrbic)|
 | 173 | **Aditya Singh** | India | Coder | [Github](https://github.com/Aditya7861) |
+| 174 | **Anirudh Kanakatte** | India | Student | [GitHub](https://github.com/anirudhkanakatte) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
