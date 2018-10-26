@@ -115,3 +115,5 @@
 - [Deep Learning News](http://news.startup.ml/)
 
 - [KDnuggets](http://www.kdnuggets.com/)
+
+- [DSC](http://www.datasciencecentral.com)
