@@ -365,6 +365,12 @@ Fetch a custom branch:
 Merge fetched commits:
 `git merge upstream/master`
 
+Merge automatically accepting the changes made to the current branch
+`git pull --strategy recursive -X ours origin master`
+
+Merge automatically accepting the changes made to the current branch
+`git pull --strategy recursive -X theirs origin master`
+
 Remove origin:
 `git remote rm origin`
 
