@@ -175,7 +175,7 @@ Instructions :
 | 143 | **Vinay Sagar Sharma** | India | Student | [GitHub](https://github.com/vinay72) | - [LinkedIn](https://www.linkedin.com/in/vinay-sagar-sharma-629b33151/)
 | 144 | **Harsh Aryan** |India | College Student | [Github](https://github.com/aryan-harsh) - [LinkedIn](https://www.linkedin.com/in/harsh-aryan-0614b5157/) |
 | 145 | **Bernard** | Malaysia | Student | [GitHub](https://github.com/bernisaur) |
-| 146 | **Rohit Kumar** | India | UX Designer + Front-end Developer | [Twitter](https://twitter.com/rohitkrops) | 
+| 146 | **Rohit Kumar** | India | UX Designer + Front-end Developer | [Twitter](https://twitter.com/rohitkrops) |
 | 147 | **Nirosha Jayasundara** | Sri Lanka | SE undergraduate | [GitHub](https://github.com/niroshajayasundara) |
 | 148 | **Ruthiel Trevisan** | Portugal | ABAP Developer | [GitHub](https://github.com/ruthiel) |
 | 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
@@ -226,7 +226,7 @@ Instructions :
 | 194 | **Karandeep Singh** | India | Computer Science Student | [GitHub](https://github.com/karandeepSJ) |
 | 195 | **Mario Vizcaino** | Colombia | Software Enginner | [GitHub](https://github.com/mariovzc) - [LinkedIn](https://www.linkedin.com/in/mariovizcaino/|
 | 196 | **Camilo Ibarra** | Colombia | Electronic and Telecomunications Engineer | [GitHub](https://github.com/camiloibarrayepes) |
-
+| 197 | **Sam Young** | USA | Computer Science | [GitHub](https://github.com/sammysamx20) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
