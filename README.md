@@ -377,6 +377,11 @@ different programming languages**
 ## 1.17 Rust
 - [Learn Rust](https://doc.rust-lang.org/book/second-edition/index.html)
 - [Contribute](https://github.com/rust-lang/rust)
+
+## 1.17 The Go Programming Language
+- [Learn Go](https://golang.org/doc/)
+- [Stay tuned](https://blog.golang.org/)
+- [Packages](https://golang.org/pkg/)
 ---
 =============================================================================================
 
