@@ -2,7 +2,7 @@
 
 > ## Feel free to show your love :heart: by giving a star :star:
 
-> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) - **Add your details here**
+> ## [Check Out the List of Contributors :heart::heart:](CONTRIBUTORS.md) -     **Add your details here**
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -30,9 +30,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
-     - [C# Language](#115-c#-language)
+     - [Prolog](#115-prolog)
+     - [C# Language](#116-c#-language)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
-   
+
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
      - [Competitions](#22-competitions-bomb)
@@ -75,6 +76,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - **Great for learning automation and learning the basics of Python**
 - [The New Boston Python - Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - **Great python resource for learning python quickly and efficiently**
+- [Think Python 2e - green tea press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+- [A Byte of Python](https://python.swaroopch.com/)
+- [Project Euler](https://projecteuler.net/) - **Great for practicing writing python codes**
 
 ## 1.2 Machine Learning :robot:
 
@@ -176,6 +180,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
+    - [Codecademy](https://www.codecademy.com/learn/learn-ruby) - *Familiarity with Ruby before Rails*
 
 - **MongoDB**
     -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
@@ -345,7 +350,7 @@ different programming languages**
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
  - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
- 
+
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
@@ -360,7 +365,10 @@ different programming languages**
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
-## 1.15 C# Language
+## 1.15 Prolog
+- [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
+
+## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
@@ -442,6 +450,8 @@ different programming languages**
 |22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
 |23| [Russian AI Cup](http://russianaicup.ru/) | - |
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
+|25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
+|26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -529,6 +539,9 @@ different programming languages**
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
+9. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
+10. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
+11. [Bitbucket Education](https://bitbucket.org/product/education)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -667,22 +680,23 @@ different programming languages**
 > **Check **Meetup.com** for more events in your locality**
 
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
-- Mozilla Open Source Community
+- [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Facebook Developer Circle](https://developers.facebook.com/developercircles)
 - [Women Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
-- Developers Student Club by Google
-- Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Bangalore]**
+- [Developers Student Club by Google](https://developers.google.com/training/programs/)
+- [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)
+- [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/) **[ Only in Delhi and Bangalore]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - [Toastmaster International](https://www.toastmasters.org)
 - Swift Users Group
-- MUG - MongoDB User Group (Meetups)
+- [MUG - MongoDB User Group](https://www.meetup.com/en-AU/pro/mongodb/) (Meetups)
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
+- [100 Days of Code](https://www.100daysofcode.com/connect/)
 
 ---
 
@@ -735,6 +749,7 @@ different programming languages**
 |41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
 
 ---
 
@@ -769,6 +784,9 @@ different programming languages**
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
+|29 |[Daniel Shiffman] (https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
+|30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 
 ---
 
@@ -787,6 +805,7 @@ different programming languages**
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+      -  [The Hustle](https://thehustle.co/)
 
 # 11. Additional Links :hamster:
 
