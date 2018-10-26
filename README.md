@@ -434,6 +434,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
 |23| [Russian AI Cup](http://russianaicup.ru/) | - |
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
+|25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -521,6 +522,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
+9. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
+10. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
+11. [Bitbucket Education](https://bitbucket.org/product/education)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -641,6 +645,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 8. [Intern Supply](https://intern.supply/)
+9. [Indeed] (https://www.indeed.ca/)
 
     ### Tips for Internship:
 
@@ -671,6 +676,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Forloop Africa](https://forloop.africa)
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
+- [100 Days of Code] (https://www.100daysofcode.com/connect/)
 
 ---
 
@@ -723,6 +729,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
 
 ---
 
@@ -756,7 +763,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 |25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
-|27 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
 
 ---
 
@@ -775,6 +783,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+      -  [The Hustle](https://thehustle.co/)
 
 # 11. Additional Links :hamster:
 
