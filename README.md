@@ -783,6 +783,7 @@ different programming languages**
 |27 |[Mohamed Said] (https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
 |28 |[Quincy Larson] (https://twitter.com/ossia) | Teacher that started free code camp |
 |29 |[Daniel Shiffman] (https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
+|30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 
 ---
 
