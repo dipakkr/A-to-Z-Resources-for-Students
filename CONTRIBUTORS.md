@@ -221,5 +221,8 @@ Instructions :
 | 189 | **Shubham Shekhar** | India | Student | [GitHub](https://github.com/Keovkevin) | - [LinkedIn](https://www.linkedin.com/in/shubham-shekhar/)
 | 190 | **Mhae Co** | Canada | Support Analyst | [GitHub](https://github.com/mhaeco) |
 | 191 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
+| 192 | **Leonardo Dominguez** | Dominican Republic | Electrical Engineer | [GitHub](https://github.com/focux) |
+
+---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
