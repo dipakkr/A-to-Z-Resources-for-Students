@@ -56,7 +56,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
-12. [Contributors](CONTRIBUTORS.md)
+12. [Interview Preparations Books](#12-interview-preparations-books)
+13. [Contributors](CONTRIBUTORS.md)
 
 ---
 
@@ -816,3 +817,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
+
+
+# 12. Interview Preparations Books:
+
+1. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
