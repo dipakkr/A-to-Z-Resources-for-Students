@@ -6,7 +6,7 @@
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a developer, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -89,6 +89,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
+- [Real Python](https://realpython.com)
 
 ## 1.2 Machine Learning
 
@@ -167,7 +169,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) :baby:
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
-    
+
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
 
@@ -179,11 +181,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) :star:
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 
+
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
+    - [PHP: The Right Way](https://phptherightway.com)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -192,6 +196,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    -[Free Courses and Paid Private training](https://university.mongodb.com/)
+
+- **Software architecture**
+    -[Microservices by Chris Richardson](https://microservices.io/index.html)
 
 ## 1.6 Frontend Web Development
 
@@ -210,6 +219,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
+    - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+    - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
+    - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
 
 - **Bootstrap4**
 
@@ -233,7 +245,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 - **JavaScript Frameworks**    
-    - **Angular**
+
+- **Angular**
         - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
         - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
@@ -318,6 +331,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
+
 
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
@@ -416,7 +430,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |19 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
 |20 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
-|22 | [TreeHacks]() | USA | - | - | - |
+|22 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
@@ -434,7 +448,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
 |38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 |39 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
-
+|40 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
+|41 | [Megathon](https://megathon.in/) | India | No | Early September | September End
 ----------------------------------------------------------
 
 ##  2.2 Competitions :trophy:
@@ -516,6 +531,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
 |14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
 |15 | [RED Academy](https://redacademy.com) | Canada |
+|16 | [Flatiron School](https://flatironschool) | Online, USA |
 
 ## 2.6 Hiring Challenges
 
@@ -549,7 +565,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
-4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
+4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
@@ -709,6 +725,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
+- [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
 
 ---
 
@@ -725,7 +742,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
-|8 | [React Europe]() | France | - | May 21 - 24 | - | JS |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21 - 24 | - | JS |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 5 | Nov 8 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug 16 | Aug 20 | - |
 |11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | Yes | Nov 14 | Nov 16 | - |
