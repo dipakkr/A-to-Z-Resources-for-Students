@@ -1,4 +1,3 @@
-﻿
 ## Here is a list of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :dk: :colombia: :belgium:
@@ -240,6 +239,7 @@ Instructions :
 | 208 | **Nitin Pant** | India | Student | [GitHub](https://github.com/pantnitin123) |
 | 209 | **Timmy** | Belgium | | [GitHub](https://github.com/Timmy) |
 | 210 | **Umme Ammara** | Pakistan | Computer | [GitHub](https://github.com/UmmeAmmaraa) |
+| 211 | **Luís Lança** | Brazil | Student | [GitHub](https://github.com/lancaluis) |
 
 ---
 

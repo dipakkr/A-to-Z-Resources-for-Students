@@ -706,6 +706,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
+- [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
 
 ---
 
