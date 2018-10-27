@@ -792,6 +792,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 |31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|32 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
+|33 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
+|34 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
+
 ---
 
 # 10. Top Websites to Follow
@@ -807,7 +811,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
-      -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
 
