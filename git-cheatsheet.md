@@ -429,7 +429,7 @@ Export/write custom log to a file: `git log --author=sven --all > log.txt`
 
 ### 16. Reflog
 ----------
-#### Often useful when needing to recover "lost" commits and branches as it tracks your reference history rather than your commit history.
+#### Often useful when needing to recover "lost" references as it tracks your reference history rather than your commit history.
 
 View all changes to HEAD:
 `git reflog` or:
