@@ -179,6 +179,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
+    - [PHP: The Right Way](https://phptherightway.com)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
