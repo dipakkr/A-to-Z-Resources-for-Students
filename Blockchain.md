@@ -13,5 +13,10 @@
 + For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
 
+## Hyperledger Composer
++ For getting started: https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
++ Get your hands dirty | Explore online playground: https://composer-playground.mybluemix.net/
+
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
++ Blockchain on IBM: https://www.ibm.com/blockchain/getting-started 
