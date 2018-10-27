@@ -247,7 +247,7 @@ Instructions :
 | 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
-
+| 218 | **Lauren Wright** | United States | Web Dev Student | [GitHub](https://github.com/laurenewright) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
