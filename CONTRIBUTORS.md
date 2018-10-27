@@ -236,6 +236,7 @@ Instructions :
 | 204 | **Ricardo D. Ferrer** | Brazil | Web Dev Student | [Github](https://github.com/ricdferrer) |
 | 205 | **Josh Wood** | USA | Software Developer | [GitHub](https://github.com/wood2jp2) - [LinkedIn] (https://www.linkedin.com/in/joshua-wood/)
 | 206 | **Daniel Chapin** | America | Student | [GitHub](https://github.com/kokomoko8) |
+| 207 | **Siddharth Gupta** | India | Full Stack Web Developer | [GitHub](https://github.com/luckywilliams) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
