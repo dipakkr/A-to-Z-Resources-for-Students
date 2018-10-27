@@ -409,7 +409,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |19 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
 |20 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
-|22 | [TreeHacks]() | USA | - | - | - |
+|22 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
@@ -469,7 +469,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
 |3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
 |4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
-|5|[TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
+|5| [TechGIG](https://www.techgig.com/)| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
@@ -718,7 +718,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
-|8 | [React Europe]() | France | - | May 21 - 24 | - | JS |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21 - 24 | - | JS |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 5 | Nov 8 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug 16 | Aug 20 | - |
 |11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | Yes | Nov 14 | Nov 16 | - |
