@@ -147,7 +147,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
-## 1.4 Android Development:
+## 1.4 Android Development
 
 -  [For Beginners](Android.md) :baby:
 -  [Free courses & Nanodegree | Udacity](https://udacity.com) 
