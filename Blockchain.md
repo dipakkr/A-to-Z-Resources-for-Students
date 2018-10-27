@@ -4,6 +4,7 @@
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
 + Simply Explained Playlist by SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
++ Basic Blockchain Essentials course by IBM: https://cognitiveclass.ai/courses/blockchain-course/ 
 
 
 ## Ethereum and smart contracts
