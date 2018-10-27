@@ -20,3 +20,7 @@
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
 + What is Blockchain Technology https://www.coindesk.com/information/what-is-blockchain-technology/
+
+## Beginners Cryptocurrency
++ Blockchain free bootcamp for beginners
+https://www.udemy.com/blockchain-101-beginners-free-course-bootcamp-cryptocurrency/
