@@ -227,7 +227,7 @@ Instructions :
 | 195 | **Mario Vizcaino** | Colombia | Software Enginner | [GitHub](https://github.com/mariovzc) - [LinkedIn](https://www.linkedin.com/in/mariovizcaino/|
 | 196 | **Camilo Ibarra** | Colombia | Electronic and Telecomunications Engineer | [GitHub](https://github.com/camiloibarrayepes) |
 | 197 | **Roger Keith** | United States | Software Developer | [Github](https://github.com/RaevLogic) |
-
+| 198 | **Jacquetta Bommuluri** | United States | Self-taught student | [Github](https://github.com/jacquetta) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
