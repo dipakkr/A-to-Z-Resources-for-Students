@@ -6,7 +6,7 @@
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around, have collected a list of resources for students. If you are in college or a college graduate or just starting out as a developer, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
 ![Image](res/xx.gif)
 
@@ -81,6 +81,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Project Euler](https://projecteuler.net/) - **Great for practicing writing python codes**
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
+- [Real Python](https://realpython.com)
 
 ## 1.2 Machine Learning :robot:
 
@@ -137,7 +139,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
-## 1.4 Android Development :iPhone:
+## 1.4 Android Development:
 
 -  [For Beginners](Android.md)
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
@@ -159,7 +161,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
-    
+
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - *Beginner / Intermediate**
 
@@ -208,6 +210,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
+    - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
 - **Bootstrap4**
 
@@ -308,7 +311,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codility](https://app.codility.com/programmers/) - **Develop your coding skills with lessons ot take part in challenges**
 
 - **Books**
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf)
     - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
@@ -409,7 +412,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |19 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
 |20 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
-|22 | [TreeHacks]() | USA | - | - | - |
+|22 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
@@ -427,7 +430,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
 |38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 |39 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
-
+|40 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -469,7 +472,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
 |3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
 |4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
-|5|[TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
+|5| [TechGIG](https://www.techgig.com/)| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
 
@@ -509,6 +512,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
 |14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
 |15 | [RED Academy](https://redacademy.com) | Canada |
+|16 | [Flatiron School](https://flatironschool) | Online, USA |
 
 ## 2.6 Hiring Challenges :heart:
 
@@ -718,7 +722,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
-|8 | [React Europe]() | France | - | May 21 - 24 | - | JS |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21 - 24 | - | JS |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 5 | Nov 8 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug 16 | Aug 20 | - |
 |11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | Yes | Nov 14 | Nov 16 | - |
