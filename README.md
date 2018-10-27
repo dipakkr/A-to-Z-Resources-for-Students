@@ -16,8 +16,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources-pencil)
 
-     - [Python](#11-python-snake)
-     - [Machine Learning](#12-machine-learning-robot)
+     - [Python](#11-python)
+     - [Machine Learning](#12-machine-learning)
      - [Deep Learning](#13-deep-learning)
      - [Android Development](#14-android-development-iphone)
      - [Backend Development ](#15-backend-development-computer)
