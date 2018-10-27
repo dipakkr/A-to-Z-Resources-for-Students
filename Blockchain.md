@@ -19,7 +19,7 @@
 
 
 
-##For setting up truffle for ethereum-test Blockchain developement
+## For setting up truffle for ethereum-test Blockchain developement
 **Requisites**
 + **npm** 
   before npm install node.js
