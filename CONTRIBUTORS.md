@@ -240,6 +240,7 @@ Instructions :
 | 208 | **Nitin Pant** | India | Student | [GitHub](https://github.com/pantnitin123) |
 | 209 | **Timmy** | Belgium | | [GitHub](https://github.com/Timmy) |
 | 210 | **Umme Ammara** | Pakistan | Computer | [GitHub](https://github.com/UmmeAmmaraa) |
+| 211 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
 
 ---
 
