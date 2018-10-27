@@ -17,6 +17,7 @@
      - [Linear Regression from scratch](https://www.cs.toronto.edu/~frossard/post/linear_regression/)
      - [Logistic Regression from scratch](https://medium.com/@martinpella/logistic-regression-from-scratch-in-python-124c5636b8ac)
      - [Stanford Statistical Learning Course](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
+     - [Machine Learning by Georgia Tech](https://br.udacity.com/course/machine-learning--ud262) - free course 
 
 
 2.  [Deep Learning](#2-hackathons-and-events)
@@ -25,6 +26,7 @@
      - [Online Courses](#2.2-online-courses)
      - [Research Paper](#2.3-research-paper)
      - [Top Github Repositories](#2.4-top-github-repositories)
+     - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
 
 3. [DataSets](#2-datasets)
 
