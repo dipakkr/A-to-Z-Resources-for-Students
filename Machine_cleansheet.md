@@ -13,7 +13,7 @@
 
 ## Machine Learning Algorithms
 * [Deep learning (MLP, CNN, RNN, LSTM)](mla/neuralnet)
-* [Linear regression, logistic regression](mla/linear_models.py)
+* [Linear regression,Multiple regressions,logistic regression](mla/linear_models.py)
 * [Random Forests](mla/ensemble/random_forest.py)
 * [Support vector machine (SVM) with kernels (Linear, Poly, RBF)](mla/svm)
 * [K-Means](mla/kmeans.py)
