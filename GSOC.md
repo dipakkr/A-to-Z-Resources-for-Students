@@ -25,6 +25,18 @@
 ### h. Metasploit (Ruby, Python ,C)
 
 ### i. Teammates (Java, Google Cloud Engine)
-# COMING SOON
+
+
+## 2. Statistics
+
+ * [*History of gsoc*](https://developers.google.com/open-source/gsoc/resources/stats)
+ * [*An archive of Previous iterations of Gsoc* ](https://developers.google.com/open-source/gsoc/past-summers)
+ 
+## 3. Rules
+
+  * [*Gsoc 2018 Program rules*](https://summerofcode.withgoogle.com/rules/)
+  
+  
+## COMING SOON 
 
 - TODO
