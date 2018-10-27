@@ -322,8 +322,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons ot take part in challenges
-    - [Zen of Programming](https://zen-of-programming.com/) - A blog great for beginners and simplified references.
-    
+    - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
+
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
