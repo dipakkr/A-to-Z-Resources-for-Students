@@ -71,11 +71,4 @@
  - [David Ha's Blog](http://otoro.net/ml)
  - [Distill](https://distill.pub)
  
- 5) Online Courses
- - [FastAI](http://fast.ai)
- 
- 6) Youtubers to follow:
- - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
- - [Sendex](https://www.youtube.com/user/sentdex)
-
 ## COMING SOON
