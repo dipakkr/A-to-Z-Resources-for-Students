@@ -365,7 +365,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
- - [Buckys C++ Programming Tutorials](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83]
+ - [Buckys C++ Programming Tutorials](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLAE85DE8440AA6B83)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
