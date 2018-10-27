@@ -159,7 +159,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
-    
+
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - *Beginner / Intermediate**
 
@@ -308,7 +308,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codility](https://app.codility.com/programmers/) - **Develop your coding skills with lessons ot take part in challenges**
 
 - **Books**
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf)
     - **Goto book for competitive programming enthusiasts.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Holy Bible for Design and Analysis of algorithms**
@@ -427,7 +427,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
 |38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 |39 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
-
+|40 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
