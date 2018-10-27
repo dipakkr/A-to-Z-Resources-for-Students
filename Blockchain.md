@@ -15,3 +15,4 @@
 
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
+A tip before watching all the resources : Bitcoin!=Blockchain, that means blockchain is not only bitcoin.
