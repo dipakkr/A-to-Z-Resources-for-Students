@@ -233,7 +233,7 @@ Instructions :
 | 202 | **Michael Anderson** | United States | Student | [Github](https://github.com/rockstar3505) |
 | 203 | **Lavie Ruan** | United States | Full Stack Developer | [Github](https://github.com/lavioli) |
 | 204 | **Ricardo D. Ferrer** | Brazil | Web Dev Student | [Github](https://github.com/ricdferrer) |
-| 205 | **Josh Wood** | USA | Software Developer | [GitHub](https://github.com/wood2jp2) - [LinkedIn] (https://www.linkedin.com/in/joshua-wood/)
+| 205 | **Josh Wood** | USA | Software Developer | [GitHub](https://github.com/wood2jp2) - [LinkedIn](https://www.linkedin.com/in/joshua-wood/)
 | 206 | **Daniel Chapin** | America | Student | [GitHub](https://github.com/kokomoko8) |
 | 207 | **Siddharth Gupta** | India | Full Stack Web Developer | [GitHub](https://github.com/luckywilliams) |
 | 208 | **Nitin Pant** | India | Student | [GitHub](https://github.com/pantnitin123) |
@@ -243,7 +243,9 @@ Instructions :
 | 212 | **Thulakshi** | Sri Lanka | Student | [GitHub](https://github.com/thulakshimadu) |
 | 213 | **Carmelo Ventimiglia** | Italy | Web&App developer | [LinkedIn](https://www.linkedin.com/in/carmelo-ventimiglia/) |
 | 214 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
-| 215 | **William Cook** | United States | Software Engineer | [Github](https://github.com/bcookdev)
+| 215 | **William Cook** | United States | Software Engineer | [Github](https://github.com/bcookdev) |
+| 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
