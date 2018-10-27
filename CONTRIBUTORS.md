@@ -1,7 +1,6 @@
-﻿
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :dk:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :germany: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :dk: :colombia: :belgium:
 
 ```
 Instructions :
@@ -175,7 +174,7 @@ Instructions :
 | 143 | **Vinay Sagar Sharma** | India | Student | [GitHub](https://github.com/vinay72) | - [LinkedIn](https://www.linkedin.com/in/vinay-sagar-sharma-629b33151/)
 | 144 | **Harsh Aryan** |India | College Student | [Github](https://github.com/aryan-harsh) - [LinkedIn](https://www.linkedin.com/in/harsh-aryan-0614b5157/) |
 | 145 | **Bernard** | Malaysia | Student | [GitHub](https://github.com/bernisaur) |
-| 146 | **Rohit Kumar** | India | UX Designer + Front-end Developer | [Twitter](https://twitter.com/rohitkrops) | 
+| 146 | **Rohit Kumar** | India | UX Designer + Front-end Developer | [Twitter](https://twitter.com/rohitkrops) |
 | 147 | **Nirosha Jayasundara** | Sri Lanka | SE undergraduate | [GitHub](https://github.com/niroshajayasundara) |
 | 148 | **Ruthiel Trevisan** | Portugal | ABAP Developer | [GitHub](https://github.com/ruthiel) |
 | 149 | **Mansi Gera** | India | student | [GitHub](https://github.com/mancee) |
@@ -220,7 +219,29 @@ Instructions :
 | 188 | **MNikolaidis** | Greece | Biochemistry Student | [Github](https://github.com/marionik23) |
 | 189 | **Shubham Shekhar** | India | Student | [GitHub](https://github.com/Keovkevin) | - [LinkedIn](https://www.linkedin.com/in/shubham-shekhar/)
 | 190 | **Mhae Co** | Canada | Support Analyst | [GitHub](https://github.com/mhaeco) |
-| 191 | **Thulakshi** | Sri Lanka | Student | [GitHub](https://github.com/thulakshimadu) |
+| 191 | **Leonardo Dominguez** | Dominican Republic | Electrical Engineer | [GitHub](https://github.com/focux) |
+| 192 | **Andrew Connin** | United States | Freelancer | [GitHub](https://github.com/cercei) |
+| 193 | **Joamar Derije** | Philippines | Computer | [GitHub](https://github.com/joamarderije) |
+| 194 | **Karandeep Singh** | India | Computer Science Student | [GitHub](https://github.com/karandeepSJ) |
+| 195 | **Mario Vizcaino** | Colombia | Software Enginner | [GitHub](https://github.com/mariovzc) - [LinkedIn](https://www.linkedin.com/in/mariovizcaino/|
+| 196 | **Camilo Ibarra** | Colombia | Electronic and Telecomunications Engineer | [GitHub](https://github.com/camiloibarrayepes) |
+| 197 | **Roger Keith** | United States | Software Developer | [Github](https://github.com/RaevLogic) |
+| 198 | **Anish Mendiratta** | India | Electronics and Computer Student | [GitHub](https://github.com/Anish110910) |
+| 199 | **Sam Young** | USA | Computer Science | [GitHub](https://github.com/sammysamx20) |
+| 200 | **Ruchi Sharma** | India | Computer Science Student | [GitHub](https://github.com/ruchics) |
+| 201 | **Surayya Yousuf** | India | Software Developer | [Github](https://github.com/surayyayousaf) |
+| 202 | **Michael Anderson** | United States | Student | [Github](https://github.com/rockstar3505) |
+| 203 | **Lavie Ruan** | United States | Full Stack Developer | [Github](https://github.com/lavioli) |
+| 204 | **Ricardo D. Ferrer** | Brazil | Web Dev Student | [Github](https://github.com/ricdferrer) |
+| 205 | **Josh Wood** | USA | Software Developer | [GitHub](https://github.com/wood2jp2) - [LinkedIn] (https://www.linkedin.com/in/joshua-wood/)
+| 206 | **Daniel Chapin** | America | Student | [GitHub](https://github.com/kokomoko8) |
+| 207 | **Siddharth Gupta** | India | Full Stack Web Developer | [GitHub](https://github.com/luckywilliams) |
+| 208 | **Nitin Pant** | India | Student | [GitHub](https://github.com/pantnitin123) |
+| 209 | **Timmy** | Belgium | | [GitHub](https://github.com/Timmy) |
+| 210 | **Umme Ammara** | Pakistan | Computer | [GitHub](https://github.com/UmmeAmmaraa) |
+| 211 | **Luís Lança** | Brazil | Student | [GitHub](https://github.com/lancaluis) |
+| 212 | **Thulakshi** | Sri Lanka | Student | [GitHub](https://github.com/thulakshimadu) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
