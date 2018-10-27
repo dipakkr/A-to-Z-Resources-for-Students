@@ -255,7 +255,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
      - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) -- **PAID**
-
+     - [Drag and Drop in React](https://blog.bitsrc.io/implement-better-drag-and-drop-in-your-react-app-beafc4451599)
 
 - **Redux.js**
      - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
