@@ -257,6 +257,7 @@ Instructions :
 | 225 | **Tania Joseph** | India | Engineering Student-Android Developer | [Github](https://github.com/tannyjoseph)
 | 226 | **Tushant** | Nepal | Fullstack Developer | [Github](https://github.com/Tushant)
 | 227 |  **Christian Johnathan Baquiran**  | Philippines | Student | [Github](https://github.com/CyjKun) |
+| 228 | **Batuhan Taştekin** | Turkey | Engineering Student | [Github](https://github.com/batuhantstkn)
 
 ---
 
