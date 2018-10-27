@@ -726,6 +726,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
 - [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
+- [Girl Develop It](https://www.girldevelopit.com/chapters)
 
 ---
 
