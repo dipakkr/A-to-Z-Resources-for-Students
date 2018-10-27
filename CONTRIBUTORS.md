@@ -245,8 +245,11 @@ Instructions :
 | 214 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
 | 215 | **William Cook** | United States | Software Engineer | [Github](https://github.com/bcookdev) |
 | 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
-| 217 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
-| 218 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+| 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
+| 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
+| 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
+| 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
+| 220 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
 
 ---
 
