@@ -20,7 +20,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Machine Learning](#12-machine-learning-robot)
      - [Deep Learning](#13-deep-learning)
      - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
+     - [Backend Development](#15-backend-development-computer)
      - [Frontend Web Development](#16-frontend-web-development-computer)
      - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
@@ -68,7 +68,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
 - [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
-- [Video Tutorial for absolute beginners - YouTube](http://bit.ly/2NkrsKh)
+- [Video Tutorial for absolute beginners - YouTube](http://bit.ly/2NkrsKh) - *Sentdex Playlist*
 - [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 - [Google Python class](https://developers.google.com/edu/python/)
 - [Python For Everybody](https://www.coursera.org/specializations/python)
@@ -83,6 +83,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
+- [Python 3 Documentation ](https://docs.python.org/3/)
 
 ## 1.2 Machine Learning :robot:
 
@@ -90,23 +91,23 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning) **PAID FOR CERTIFICATION AND ALL CONTENTS**
-    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) **PAID NANODEGREE**
-    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600) **PAID NANODEGREE**
+    - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning) - **PAID FOR CERTIFICATION AND ALL CONTENTS**
+    - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) - **PAID NANODEGREE**
+    - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600) - **PAID NANODEGREE**
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
-    - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+    - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) - *Sentdex Playlist*
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **PAID**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
-    - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) **PAID FOR CERTIFICATION AND ALL CONTENTS**
+    - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) - **PAID FOR CERTIFICATION AND ALL CONTENTS**
 
--  **Best GitHub Repositories to follow**
+-  **Best GitHub Repositories to follow** :bookmark_tabs:
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
      - [Coding Train](https://github.com/CodingTrain)
 
--  **Research Papers**
-    - [Arxiv](https://arxiv.org/)
+-  **Research Papers** :page_with_curl:
+    - [Arxiv](https://arxiv.org/) 
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
@@ -119,6 +120,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
+    
+-  **Books for Machine learning** :books:
 
 
 ## 1.3 Deep Learning
@@ -255,7 +258,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
      - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
      - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) -- **PAID**
-     - [Drag and Drop in React](https://blog.bitsrc.io/implement-better-drag-and-drop-in-your-react-app-beafc4451599)
+
 
 - **Redux.js**
      - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
