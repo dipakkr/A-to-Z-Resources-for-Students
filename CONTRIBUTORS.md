@@ -248,6 +248,7 @@ Instructions :
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
 | 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
+| 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
 
 ---
 
