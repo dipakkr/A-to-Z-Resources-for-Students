@@ -220,6 +220,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+    - [CSS Grid](https://cssgrid.io/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
 
