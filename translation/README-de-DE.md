@@ -1,14 +1,14 @@
 # A to Z Resources for Students:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## Drück deine Liebe :heart: mit einem Stern aus :star:
+> ## Drück' Deine Liebe :heart: mit einem Stern aus :star:
 
-> ## [Schau dir die Liste aller Teilnehmer an :heart::heart:](CONTRIBUTORS.md) - **Hier ist Platz für deine Details**
+> ## [Schau dir die Liste aller Teilnehmer an :heart::heart:](CONTRIBUTORS.md) - **Hier ist Platz für Deine Details**
 
-### Bist du ein Schüler, Student oder Berufstätiger, der Lernmaterial für eine neue Sprache sucht? Willst du neue Leute in deiner Community kennenlernen oder bist auf der Suche nach weltweiten Konferenzen, Hackathons und Wettbewerben? Falls ja, bist du hier genau richtig.
+### Bist Du ein Schüler, Student oder Berufstätiger, der Lernmaterial für eine neue Sprache sucht? Willst Du neue Leute in Deiner Community kennenlernen oder bist auf der Suche nach weltweiten Konferenzen, Hackathons und Wettbewerben? Falls ja, bist Du hier genau richtig.
 
-Als ich noch zur Schule ging, habe ich viele Gelegenheiten verpasst, weil ich nichts davon wusste: Egal ob Hackathons, Konferenzen, Praktika oder weltweite Veranstaltungen.
-Ich möchte nicht, dass werdende Entwickler das Gleiche widerfährt.
-Deswegen habe ich mit einigen anderen Entwicklern aus der ganzen Welt eine Liste mit Lernmaterial zusammengestellt. Wenn du dich gerade im Lernprozess befindest oder vor Kurzem angefangen hast, schau es dir gerne mal an!
+Als ich noch zur Schule ging, habe ich viele Gelegenheiten verpasst, weil ich nicht von ihnen wusste: Egal ob Hackathons, Konferenzen, Praktika oder weltweite Veranstaltungen.
+Ich möchte nicht, dass werdenden Entwicklern das Gleiche widerfährt.
+Deswegen habe ich mit einigen anderen Entwicklern aus der ganzen Welt eine Liste mit Lernmaterial zusammengestellt. Wenn Du Dich gerade im Lernprozess befindest oder vor kurzem angefangen hast, schau' sie Dir gerne mal an!
 
 ![Image](res/xx.gif)
 
