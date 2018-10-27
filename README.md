@@ -511,6 +511,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
 |14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
 |15 | [RED Academy](https://redacademy.com) | Canada |
+|16 | [Flatiron School](https://flatironschool) | Online, USA |
 
 ## 2.6 Hiring Challenges :heart:
 
