@@ -255,6 +255,7 @@ Instructions :
 | 223 | **Steve Worrell** | England | SharePoint Developer | [GitHub](https://github.com/steve-worrell) |
 | 224 | **Jacquetta Bommuluri** | United States | Self-taught student | [Github](https://github.com/jacquetta) |
 | 225 | **Tania Joseph** | India | Engineering Student-Android Developer | [Github](https://github.com/tannyjoseph)
+| 226 | **Kapil Chaudhary** | India | Founder Agrocartt , Blockchain,Hyperledger,Tangle loves Android app development | [Github](https://github.com/kapil706)
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
