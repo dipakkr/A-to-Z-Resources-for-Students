@@ -15,3 +15,26 @@
 
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
+
+
+###For setting up truffle for ethereum-test Blockchain developement
+**Requisites**
++ **npm** 
+  before npm install node.js
+    + ```wget -qO- https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs```
+
+  now install npm 
+  ```
+  brew install node
+  ```
++ **truffle ganache** framework
+  - download .appimage file from [ganache](https://truffleframework.com/ganache) 
+  ```
+  cd ~/Downloads
+  chmod a+x <.appimage filename>
+  ./<.appimage filename>
+  ```
++ Metamask Chrome Extension - to live track transactions on the Ethereum test network
+  [Metamask Website](https://metamask.io/)
++ Sublime text package highlighting for solidity language
