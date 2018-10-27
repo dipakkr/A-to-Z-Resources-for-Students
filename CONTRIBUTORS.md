@@ -247,7 +247,21 @@ Instructions :
 | 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
-| 218 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
+| 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
+| 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
+| 220 | **Lauren Conley** | United States | Learning Full Stack web development | https://github.com/laconley |
+| 221 | **Caleb Xu** | USA | | [GitHub](https://github.com/alebcay) |
+| 222 | **Shafran Naizer** | Srilanka| Undergraduate | [GitHub](https://github.com/shafran123) |
+| 223 | **Steve Worrell** | England | SharePoint Developer | [GitHub](https://github.com/steve-worrell) |
+| 224 | **Jacquetta Bommuluri** | United States | Self-taught student | [Github](https://github.com/jacquetta) |
+| 225 | **Tania Joseph** | India | Engineering Student-Android Developer | [Github](https://github.com/tannyjoseph)
+| 226 | **Tushant** | Nepal | Fullstack Developer | [Github](https://github.com/Tushant)
+| 227 |  **Christian Johnathan Baquiran**  | Philippines | Student | [Github](https://github.com/CyjKun) |
+| 228 | **Batuhan Taştekin** | Turkey | Engineering Student | [Github](https://github.com/batuhantstkn)
+| 229 | **Siltaz** | India | BCA Student- Web Developer | [Github](https://github.com/siltaz)
+| 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
+| 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.

@@ -242,6 +242,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
+    - [30 Seconds of Code](https://30secondsofcode.org/)
 
 
 - **JavaScript Frameworks**    
@@ -726,6 +727,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
 - [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
+- [Girl Develop It](https://www.girldevelopit.com/chapters)
 
 ---
 
