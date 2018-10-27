@@ -87,8 +87,11 @@ When I was in College, I missed a lot of opportunties like hackathons, conferenc
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
     - [Academics Torrent - Search Dataset](http://academictorrents.com/)
-
-
+    
+-   **Books**
+   - [Deep Learning by Ian Goodfellow](https://www.amazon.in/dp/0262035618/?coliid=IMOHWM62AIL6E&colid=2GILLJDZ1BBL0&psc=0&ref_=lv_ov_lig_dp_it)
+   - [Python Machine Learning by Sebastian Raschka](https://www.amazon.in/dp/1787125939/?coliid=I127J4CJM5SB64&colid=2GILLJDZ1BBL0&psc=0&ref_=lv_ov_lig_dp_it)
+   - [Fundamentals of Neural Networks](https://www.amazon.in/dp/8131700534/?coliid=IXDCF2QJK37CU&colid=2GILLJDZ1BBL0&psc=0&ref_=lv_ov_lig_dp_it)
 ## 1.3 Deep Learning
 
 > [**Browse this link for detailed Information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/ML.md)
