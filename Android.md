@@ -38,6 +38,7 @@
 + [Fragmented](https://fragmentedpodcast.com/)
 + [Android Backstage](http://androidbackstage.blogspot.com/)
 + [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
++ [Android Developers Backstage](https://androidbackstage.blogspot.com/)
 
 
 ## 5. Blog
