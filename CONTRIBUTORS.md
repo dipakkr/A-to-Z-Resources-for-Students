@@ -242,6 +242,7 @@ Instructions :
 | 211 | **Luís Lança** | Brazil | Student | [GitHub](https://github.com/lancaluis) |
 | 212 | **Thulakshi** | Sri Lanka | Student | [GitHub](https://github.com/thulakshimadu) |
 | 213 | **Carmelo Ventimiglia** | Italy | Web&App developer | [LinkedIn](https://www.linkedin.com/in/carmelo-ventimiglia/) |
+| 214 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
 
 ---
 
