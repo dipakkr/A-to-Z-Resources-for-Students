@@ -255,7 +255,15 @@ Instructions :
 | 223 | **Steve Worrell** | England | SharePoint Developer | [GitHub](https://github.com/steve-worrell) |
 | 224 | **Jacquetta Bommuluri** | United States | Self-taught student | [Github](https://github.com/jacquetta) |
 | 225 | **Tania Joseph** | India | Engineering Student-Android Developer | [Github](https://github.com/tannyjoseph)
-| 226 | **Kapil Chaudhary** | India | Founder Agrocartt , Blockchain,Hyperledger,Tangle loves Android app development | [Github](https://github.com/kapil706)
+| 226 | **Tushant** | Nepal | Fullstack Developer | [Github](https://github.com/Tushant)
+| 227 |  **Christian Johnathan Baquiran**  | Philippines | Student | [Github](https://github.com/CyjKun) |
+| 228 | **Batuhan Taştekin** | Turkey | Engineering Student | [Github](https://github.com/batuhantstkn)
+| 229 | **Siltaz** | India | BCA Student- Web Developer | [Github](https://github.com/siltaz)
+| 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
+| 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
+| 236 | **Kapil Chaudhary** | India | Founder Agrocartt , Blockchain,Hyperledger,Tangle loves Android app development | [Github](https://github.com/kapil706)|
+
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
