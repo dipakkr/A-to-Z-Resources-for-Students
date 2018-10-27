@@ -234,6 +234,7 @@ Instructions :
 | 202 | **Michael Anderson** | United States | Student | [Github](https://github.com/rockstar3505) |
 | 203 | **Lavie Ruan** | United States | Full Stack Developer | [Github](https://github.com/lavioli) |
 | 204 | **Ricardo D. Ferrer** | Brazil | Web Dev Student | [Github](https://github.com/ricdferrer) |
+| 205 | **Josh Wood** | USA | Software Developer | [GitHub](https://github.com/wood2jp2) - [LinkedIn] (https://www.linkedin.com/in/joshua-wood/)
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
