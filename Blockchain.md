@@ -15,3 +15,4 @@
 
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
++ What is Blockchain Technology https://www.coindesk.com/information/what-is-blockchain-technology/
