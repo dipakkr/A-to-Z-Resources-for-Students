@@ -241,7 +241,9 @@ Instructions :
 | 210 | **Umme Ammara** | Pakistan | Computer | [GitHub](https://github.com/UmmeAmmaraa) |
 | 211 | **Luís Lança** | Brazil | Student | [GitHub](https://github.com/lancaluis) |
 | 212 | **Thulakshi** | Sri Lanka | Student | [GitHub](https://github.com/thulakshimadu) |
-| 213 | **Manoj R** | India | Computer Science Student | [GitHub](https://github.com/manojmay) |
+| 213 | **Carmelo Ventimiglia** | Italy | Web&App developer | [LinkedIn](https://www.linkedin.com/in/carmelo-ventimiglia/) |
+| 214 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
+| 215 | **Manoj R** | India | Computer Science Student | [GitHub](https://github.com/manojmay) |
 
 
 ---
