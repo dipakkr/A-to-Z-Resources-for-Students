@@ -459,6 +459,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 |25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
 |26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
+|27| [Microsoft AI challenge](https://www.ailab.microsoft.com/challenge) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
