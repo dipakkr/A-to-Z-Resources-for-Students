@@ -223,7 +223,7 @@ Instructions :
 | 192 | **Andrew Connin** | United States | Freelancer | [GitHub](https://github.com/cercei) |
 | 193 | **Joamar Derije** | Philippines | Computer | [GitHub](https://github.com/joamarderije) |
 | 194 | **Karandeep Singh** | India | Computer Science Student | [GitHub](https://github.com/karandeepSJ) |
-| 195 | **Mario Vizcaino** | Colombia | Software Enginner | [GitHub](https://github.com/mariovzc) - [LinkedIn](https://www.linkedin.com/in/mariovizcaino/|
+| 195 | **Mario Vizcaino** | Colombia | Software Enginner | [GitHub](https://github.com/mariovzc) - [LinkedIn](https://www.linkedin.com/in/mariovizcaino/) |
 | 196 | **Camilo Ibarra** | Colombia | Electronic and Telecomunications Engineer | [GitHub](https://github.com/camiloibarrayepes) |
 | 197 | **Roger Keith** | United States | Software Developer | [Github](https://github.com/RaevLogic) |
 | 198 | **Anish Mendiratta** | India | Electronics and Computer Student | [GitHub](https://github.com/Anish110910) |
