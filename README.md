@@ -16,31 +16,31 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources-pencil)
 
-     - [Python](#11-python-snake)
-     - [Machine Learning](#12-machine-learning-robot)
+     - [Python](#11-python)
+     - [Machine Learning](#12-machine-learning)
      - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
-     - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
+     - [Android Development](#14-android-development)
+     - [Backend Development ](#15-backend-development)
+     - [Frontend Web Development](#16-frontend-web-development)
+     - [Data Structures](#17-data-structures)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
-     - [Git and Github](#111-git-and-github-octocat)
+     - [Git and Github](#111-git-and-github)
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
      - [Prolog](#115-prolog)
-     - [C# Language](#116-c#-language)
+     - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
+     - [Top Global Hackathons](#21-top-global-hackathons-globe_with_meridians)
+     - [Competitions](#22-competitions-trophy)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
+     - [Events](#24-events-ticket)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
-     - [Hiring Challenges](#26-hiring-challenges-heart)
+     - [Hiring Challenges](#26-hiring-challenges)
 
 3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
@@ -48,14 +48,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Student Fellowship Programs](#student-fellowship-programs-v)
      - [Scholarships](#scholarships-runner)
 
-4.  [Open Source Programs](#4-open-source-programs-octocat)
+4.  [Open Source Programs](#4-open-source-programs)
+     - [SOC-Programs](#soc-programs)
+     - [Open Source Competitions](#open-source-competitions)
+
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
 6.  [Internship Portals](#6-internship-portals-smile)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
+11. [Additional Links](#11-additional-links)
 12. [Contributors](CONTRIBUTORS.md)
 
 ---
@@ -651,7 +654,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ² OSoC is only open to Belgian students.
 
-# Open Source Competitions
+## Open Source Competitions
 
 
 | Name                                    | Awards |
