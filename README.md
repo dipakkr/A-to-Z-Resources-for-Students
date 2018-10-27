@@ -819,6 +819,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 |31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|32 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
+|33 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
 ---
 
 # 10. Top Websites to Follow
