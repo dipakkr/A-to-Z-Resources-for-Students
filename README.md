@@ -193,6 +193,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
+    - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
+    - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
@@ -502,15 +504,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
 3. Google Solve for India
-3. Paytm Build for India Workshops [ Delhi, Bangalore ]
-4. NVIDIA Developer Connect [ Global ]
-5. AWS meetups [ Global ]
-6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
-7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
-8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
-9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
-10. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-11. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
+4. Paytm Build for India Workshops [ Delhi, Bangalore ]
+5. NVIDIA Developer Connect [ Global ]
+6. AWS meetups [ Global ]
+7. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
+8. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
+9. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
+10. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+11. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+12. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
@@ -817,6 +819,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 |31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|32 |[Sandi Metz](https://www.sandimetz.com/) | Ruby Teacher, Author, Consultant|
 ---
 
 # 10. Top Websites to Follow

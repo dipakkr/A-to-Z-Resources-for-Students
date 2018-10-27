@@ -246,7 +246,7 @@ Instructions :
 | 215 | **William Cook** | United States | Software Engineer | [Github](https://github.com/bcookdev) |
 | 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
-
+| 217 | **Linda Lai** | Australia | Full-Stack Developer | [GitHub](https://github.com/linda-lai)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
