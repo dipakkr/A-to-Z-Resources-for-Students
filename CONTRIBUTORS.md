@@ -49,7 +49,7 @@ Instructions :
 | 20. | **Noel**  |-| | [GitHub](https://github.com/vodkanoya) |
 | 21. | **Mahmut Alban** |-| | [My website](https://albanmahmut.github.io/Portfolio/CV/index.html) - [LinkedIn](https://www.linkedin.com/in/mahmutalban/?locale=en_US) - [GitHub](https://github.com/albanmahmut) |
 | 22. | **Mona Fenzl** |-| | [GitHub](https://github.com/ZuckerWatte) |
-| 23. | **Vinícius Alencar** (vncsalencar) | Brazil | CS Student | [GitHub](https://github.com/vncsalencar) |
+| 23. | **Vinícius Alencar**  | Brazil | CS Student | [GitHub](https://github.com/vncsalencar) |
 | 24. | **Pedro Leão** |-| | [GitHub](https://github.com/phenriqueleao) |
 | 25  | **Jiazheng Shen**  |-| | [GitHub](https://github.com/jiazheng0609) |
 | 26. | **Bhavy Singh** |-| | [GitHub](https://github.com/bhavybarca) |
