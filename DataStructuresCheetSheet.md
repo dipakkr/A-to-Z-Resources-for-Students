@@ -4,7 +4,7 @@
 	**Goto problems:**
 	- [GSS1- SPOJ](https://www.spoj.com/problems/GSS1/) - **EASY**
 	- [GSS3- SPOJ](https://www.spoj.com/problems/GSS3/) - **EASY**
-	- [More Easy Problems](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/?sort_by=undefined&p_level=E) - **List of easy segment tree problems. Go for the medium diffculty ones once you are comfortably with easy.**
+	- [More Easy Problems](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/?sort_by=undefined&p_level=E) - **List of easy segment tree problems. Go for the medium difficulty ones once you are comfortable with easy.**
 	- [GSS4- SPOJ](https://www.spoj.com/problems/GSS4/) - **MEDIUM**
 	- [BRCKTS](https://www.spoj.com/problems/BRCKTS/) - **MEDIUM**
 	- [FREQUENT](https://www.spoj.com/problems/FREQUENT/) - **MEDIUM**
