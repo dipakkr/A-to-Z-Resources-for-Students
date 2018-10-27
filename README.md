@@ -781,6 +781,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
+|45| [dotGo](https://www.dotgo.eu/) | Europe | No | March | Varies | Go |
 
 ---
 
