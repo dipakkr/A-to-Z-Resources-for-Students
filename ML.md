@@ -48,13 +48,14 @@
 
 # 1.  **Machine Learning**
 ## 1.1 Where to Start in ML?
-1) Python
+---
+1) ### Python
 
    - [Basics of Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
    - [More in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
    - [Python for ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 
- 2) Maths for ML
+ 2) ### Maths for ML
  - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
  - [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
  - [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
@@ -62,21 +63,22 @@
 
 
 
- 3) Intro to ML
+ 3) ### Intro to ML
 
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
 
 # 2.  **Deep Learning**
+---
 ## 2.1 Where to Start in DL?
-1) Online Courses
+1) ### Online Courses
 
    - [Start@Fast.ai](http://course.fast.ai/start.html)
    - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-2)
 
 # 3. **DataSets**
+---
   - [MNIST Dataset for Digit Recogniser](http://yann.lecun.com/exdb/mnist/)
 
 ## COMING SOON
