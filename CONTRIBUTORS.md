@@ -240,7 +240,7 @@ Instructions :
 | 208 | **Nitin Pant** | India | Student | [GitHub](https://github.com/pantnitin123) |
 | 209 | **Timmy** | Belgium | | [GitHub](https://github.com/Timmy) |
 | 210 | **Umme Ammara** | Pakistan | Computer | [GitHub](https://github.com/UmmeAmmaraa) |
-
+| 212 | **Manoj R** | India | Computer Science Student | [GitHub](https://github.com/manojmay) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
