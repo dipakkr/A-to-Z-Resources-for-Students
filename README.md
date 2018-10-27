@@ -33,6 +33,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Prolog](#115-prolog)
      - [C# Language](#116-c#-language)
      - [DevDocs](#117-devdocs)
+     - [Scala](#118-scala)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -398,6 +399,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.17 DevDocs
 
 - [API documentation for most programming languages](https://devdocs.io) - Works offline
+
+## 1.18 Scala
+- [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
 
 ---
 
