@@ -81,6 +81,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Project Euler](https://projecteuler.net/) - **Great for practicing writing python codes**
 - [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
+- [Real Python](https://realpython.com)
 
 ## 1.2 Machine Learning :robot:
 
