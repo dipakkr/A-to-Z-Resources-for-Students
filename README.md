@@ -547,7 +547,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
-4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
+4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
