@@ -63,23 +63,19 @@
  
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
- 
- Richard Socher's Neural Nets for Natural Language Processing:
-
- http://cs224d.stanford.edu/syllabus.html
- https://www.youtube.com/watch?v=kZteabVD8sU
- https://www.youtube.com/watch?v=xhHOL3TNyJs
- https://www.youtube.com/watch?v=UOGMsFw9V_w
- https://www.youtube.com/watch?v=bjDbNbSbwY4
- https://www.youtube.com/watch?v=k50GPWfjG7I
- https://www.youtube.com/watch?v=l0k-30FNua8
- https://www.youtube.com/watch?v=L8Y2_Cq2X5s
- https://www.youtube.com/watch?v=nwcJuGuG-0s
+ - [ML by sendex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
  
  4) Blogs 
  - [Karpathy's Blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness)
  - [Chris Olah's Blog](http://colah.github.io)
  - [David Ha's Blog](http://otoro.net/ml)
  - [Distill](https://distill.pub)
+ 
+ 5) Online Courses
+ - [FastAI](http://fast.ai)
+ 
+ 6) Youtubers to follow:
+ - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+ - [Sendex](https://www.youtube.com/user/sentdex)
 
 ## COMING SOON
