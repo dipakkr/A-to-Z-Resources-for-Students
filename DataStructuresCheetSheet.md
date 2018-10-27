@@ -17,3 +17,13 @@
 	- [SEGSQRSS](https://www.spoj.com/problems/SEGSQRSS/) - **MEDIUM**
 	- [TorCoder](https://codeforces.com/contest/240/problem/F) - **HARD**
 	- [Comrades- III](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/) - **HARD**
+
+**Videos introducing Linked Lists**
+- [Linked List](https://www.youtube.com/watch?v=_ri3Qm5A4Dk) - **Youtube Video introducing Linked Lists**
+- [Linked List](https://www.youtube.com/watch?v=gwc9SJtquqg) - **Youtube Video on building a basic Linked List in Java**
+
+**Videos introducing Graphs**
+- [Graph](https://www.youtube.com/watch?v=eEQ00TKw1Ww) - **Youtube Video introducing graphs and showcasing how they are used**
+
+**Traversal Algorithms**
+- [Dijkstras Algorithm for Graphs](https://www.youtube.com/watch?v=zXfDYaahsNA) **This video describes how Dijkstra's algorithm finds the shortest path between any two points in a weighted (or unweighted) graph**
