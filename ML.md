@@ -63,5 +63,11 @@
  
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
+ 
+ 4) Blogs 
+ - [Karpathy's Blog](http://karpathy.github.io/2015/05/21/rnn-effectiveness)
+ - [Chris Olah's Blog](http://colah.github.io)
+ - [David Ha's Blog](http://otoro.net/ml)
+ - [Distill](https://distill.pub)
 
 ## COMING SOON
