@@ -256,6 +256,8 @@ Instructions :
 | 224 | **Jacquetta Bommuluri** | United States | Self-taught student | [Github](https://github.com/jacquetta) |
 | 225 | **Tania Joseph** | India | Engineering Student-Android Developer | [Github](https://github.com/tannyjoseph)
 | 226 | **Tushant** | Nepal | Fullstack Developer | [Github](https://github.com/Tushant)
+| 227 |  **Christian Johnathan Baquiran**  | Philippines | Student | [Github](https://github.com/CyjKun) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
