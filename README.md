@@ -431,6 +431,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 |39 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
 |40 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
+|41 | [Megathon](https://megathon.in/) | India | No | Early September | September End
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
