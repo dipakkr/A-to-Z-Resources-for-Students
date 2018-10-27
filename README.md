@@ -211,6 +211,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+    - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
+    - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
 
 - **Bootstrap4**
 
@@ -431,6 +433,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |38 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
 |39 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
 |40 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
+|41 | [Megathon](https://megathon.in/) | India | No | Early September | September End
 ----------------------------------------------------------
 
 ##  2.2 Competitions :bomb:
@@ -546,7 +549,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
-4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
+4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
@@ -706,6 +709,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Women in Tech (Finland)](https://womenintech.fi/)
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
+- [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
 
 ---
 
