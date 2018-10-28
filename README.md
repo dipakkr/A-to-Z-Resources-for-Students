@@ -180,6 +180,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) :baby:
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) :star:
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
+    - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
 
 
 - **PHP**
@@ -222,6 +223,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
+    - [CSS Flexbox course by Wes Bos](https://flexbox.io/) 
 
 - **Bootstrap4**
 
