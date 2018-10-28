@@ -8,7 +8,7 @@
 
 Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackatones, conferencias, pasantías y una cantidad de eventos globales por no estar al tanto. No quiero que a los programadores emergentes les pase lo mismo que a mí. Así que junto con un grupo de programadores de todas partes, hemos recopilado una lista de recursos para estudiantes. Si  estas en la univerSi dad, o recientemente te graduaste, o estas empezando como programador, definitivamente deberías echarle un ojo a esta lista!
 
-![Image](res/xx.gif)
+![Image](**/res/xx.gif)
 
 *Crédito de Imagen: Google*
 
@@ -156,7 +156,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79ZySi hs4) - **PAGO**  *Nivel Intermedio*
+    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79Zysihs4) - **PAGO**  *Nivel Intermedio*
 
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxUylist=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bueno para Principiantes*
 
@@ -436,7 +436,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online y En lugar | Data Science | 
 |7| [Hackathon.com](https://www.hackathon.com/) | Online y En lugar | GLOBAL | Todas |
 
-## 2.4 Eventos :heart_eSi :
+## 2.4 Eventos :heart_esi:
 
 > **Chequea estos eventos en tu región**
 
@@ -602,19 +602,19 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 > **Chequea **Meetup.com** para más eventos en tu área**
 
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
-- Mozilla Open Source Community
+- [Mozilla Open Source Community]
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Facebook Developer Circle](https://developers.facebook.com/developercircles)
 - [Women Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
-- Developers Student Club by Google
-- Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Bangalore]**
-- Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
+- [Developers Student Club by Google]
+- [Microsoft Student Technical Community]
+- [Paytm Build for India **[ Only in Delhi and Bangalore]**
+- [Python Student Community] - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - [Toastmaster International](https://www.toastmasters.org)
-- Swift Users Group
-- MUG - MongoDB User Group (Meetups)
+- [Swift Users Group]
+- [MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
 
 =============================================================================================
