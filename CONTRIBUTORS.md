@@ -267,7 +267,7 @@ Instructions :
 | 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
 | 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
 | 237 | **Trent Andraka** | USA | Student | [Github](https://github.com/trentandraka) - [LinkedIn](https://www.linkedin.com/in/trentandraka/)|
-
+| 238 | **Bolaram Paul**  | Bangladesh | Web Dev and Tech Blogger | [GitHub](https://github.com/bolaram) |
 
 ---
 
