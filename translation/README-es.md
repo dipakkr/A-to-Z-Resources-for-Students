@@ -29,10 +29,10 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 
 2.  [ Hackathons y Eventos ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
-     - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
-     - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
+     - [Competiciones](#22-competitions-bomb)
+     - [Hackathon busqueda Portal](#23--hackathon-search-portals-dart)
+     - [Eventos](#24-events-heart_eyes)
+     - [Startup Summits ay competiciones ](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges-heart)
 
 3.  [ Programas para estudiantes ](#3-student-benefits-and-programs-fire)
@@ -67,7 +67,7 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 
 > [**Navega por este link para aprender mas en detalle sobre Machine Learning and Deep Learning**](ML.md)
 
--  **Mejores Cursos Online**
+-  **Mejores Cursos en linea**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
@@ -77,11 +77,11 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
--  **Best GitHub Repositories to follow**
+-  **Mejores repositorios Github para seguir**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
--  **Research Papers**
+-  **Trabajos de investigacion**
     - [Arxiv](https://arxiv.org/)
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
@@ -90,9 +90,9 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Explre este enlace para obtener informacion mas detallada acerca de Machine Learning y Deep Learning**](ML.md)
 
--  **Los mejores Cursos Onlines**
+-  **Los mejores Cursos en lineas**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning - Fast.AI](http://course.fast.ai/)
 
@@ -107,12 +107,12 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 
 ## 1.4  Desarrollo Android :iPhone:
 
--  [For Beginners](Android.md)
+-  [Para principiantes](Android.md)
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
--  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days]
+-  [PluralSight - Android Developer Track](http://pluralsight.com/) [gratis por 60 dias]
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
--  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
+-  [Android ejemplos ](https://github.com/nisrulz/android-examples)
+-  [Flutter ejemplos ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
 
 ## 1.5 Desarrollo Backend :computer:
@@ -134,12 +134,12 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
-    - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
-    - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
+    - [Tutorial PHP con base datos](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
+    - [Guia para PHP y SQL conexion con HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
 - **Ruby**
-    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-    - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
+    - [Tutorial Ruby on Rails ](https://www.railstutorial.org/book)
+    - [Aprende Ruby de la manera dificil](https://learnrubythehardway.org/book/)
 
 ## 1.6 Desarrollo Frontend :computer:
 
@@ -153,26 +153,26 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 
 - **Bootstrap4**
 
-    - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+    - [Bootstrap4 Curso con proyectoss](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 - **React.js**
-     - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
-     - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
-     - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
-     - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
+     - [Video Tutorials - Principiante a intermedio](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+     - [FreeCodeCamp Articulos](https://medium.freecodecamp.org/search?q=react)
+     - [Algunos proyecto para cada desarrollador React](https://daveceddia.com/react-practice-projects/)
+     - [Famoso GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+     - [Pagado pero lo vale | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
-     - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [El camino a React | Libro](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
 - **Vue.js**
-    - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
+    - [Escula Vue](https://vueschool.io/courses) -- **Free + Paid**
     - [Scrimba](https://scrimba.com/g/glearnvue)
 
 - **Web Accessibility**
-    - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
+    - [Accesiblidad MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -181,16 +181,16 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
      - [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 
      ###### Bundlers
-     - [Webpack - The most used bundler](https://webpack.js.org/guides/getting-started/)
+     - [Webpack - El mas usado bundler](https://webpack.js.org/guides/getting-started/)
      - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
      - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
-     - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
+     - [Browserify - El Primer bundler](https://scotch.io/tutorials/getting-started-with-browserify)
      - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
 ------
 
 ## 1.7 Estructura de datos :chart_with_upwards_trend:
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
+- [Algo & DS en diferentes lenguajes](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
 Different Programming Languages**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
 - [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
@@ -244,7 +244,7 @@ Different Programming Languages**
 
 ## 2.1 :rainbow: Top Global Hackathons
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
+|Id |Nombre | Lugar| Reembolso de viaje |Aplicaciòn Empieza | Aplicaciòn Termina |
 |--|------ |---|---| ------ | ----|
 |1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
 |2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
@@ -271,51 +271,51 @@ Different Programming Languages**
 |22 | [TreeHacks]() | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
 |24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
-|25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
-|26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | October | - |
+|25 | [Mercari Euro Hack](https://challengerocket.com/) | en linea + Onsite (Poland) | Yes | Mid Octubre |- |
+|26 | [InOut](https://hackinout.co/) | Onsite(India) | Yes | Octubre | - |
 |27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
 |28 | [HackDTU](http://hackdtu.tech/) | Onsite(India) | No | - | - |
 |29 | [HashHacks](http://hashhacks.tech/) | Onsite(India) | No | Mid Oct | - |
 |30 | [Hack Western](https://hackwestern.com/) | Onsite(Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
 |31 | [YHack](https://www.yhack.org/) | Onsite(Yale University) | Yes | Nov End | - |
-|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | October(Idea Submission) | Nov End | - |
-|33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
-|34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
-|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
+|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite(Reva University) | Octubre(Idea Submission) | Nov End | - |
+|33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | en linea + Onsite (India) | - | September-Octubre | - |
+|34 | [HackISU](https://hackisu.org/)| USA | No | Octubre | - |
+|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | Octubre 26th| - |
 ----------------------------------------------------------
 
 ##  2.2 Competencias :bomb:
 
-|ID| Name  | Location |
+|ID| Nombre  | Lugar |
 |--|------ |----------|
-|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC]() | Online & On-Site |
-|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
-|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
-|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
-|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
+|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | en linea & Onsite |
+|2 | [ACM - ICPC]() | en linea & On-Site |
+|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | en linea |
+|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | en linea |
+|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | en linea & Onsite |
+|6 | [E-Yantra](http://www.e-yantra.org/) | en linea & Onsite |
 |7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
-|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
-|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
-|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
+|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| en linea & Onsite |
+|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | en linea |
+|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | en linea |
 |11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
+|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |en linea & Onsite |
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
 |15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
-|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
-|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
-|19| [Google Code Jam](https://code.google.com/codejam) | Online |
-|20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
+|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| en linea & Onsite |
+|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | en linea |
+|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | en linea |
+|19| [Google Code Jam](https://code.google.com/codejam) | en linea |
+|20| [Google Hash Code](https://hashcode.withgoogle.com) | en linea |
 
 
 ##  2.3  Hackathon Portales de busqueda :dart:
-|s.no| Name  | Location | Category |
+|s.no| Nombre  | Lugar | Categoria |
 |---| ------ |---| --- |
 |1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
-|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
-|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
+|2| [DevPost](https://devpost.com/hackathons) | en linea & On-site | ALL |
+|3| [HackerEarth](https://hackerearth.com/) | en linea & On-site | ALL |
 |4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
 |5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) |Online & On-Site | Data Science | |
@@ -323,7 +323,7 @@ Different Programming Languages**
 
 ## 2.4 Eventos :heart_eyes:
 
-> **Check out these events for your region**
+> **Revisa estos eventos para tu region**
 
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
@@ -331,41 +331,41 @@ Different Programming Languages**
 3. Paytm Build for India Workshops [ Delhi, Banglore ]
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
-6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
-7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
-8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
-9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+6. Hacktoberfest OpenSource meetups [6th Octubre 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
+7. Hacktoberfest OpenSource meetups [6th Octubre 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
+8. Hacktoberfest OpenSource meetups [10th Octubre 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
+9. Hacktoberfest OpenSource meetups [12th Octubre 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
 
-## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
+## 2.5 Startup Summits, Competiciones and Bootcamps :neckbeard:
 
 
-|ID| Name  | Location |
+|ID| Nombre  | Lugar |
 |--|------ |----------|
 |1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
-|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | en linea & USA |
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
-|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
+|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | en linea |
 |6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | ROME, ITALY |
 |7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 |9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
 
-## 2.6 Hiring Challenges :heart:
+## 2.6 Retos contrataciòn :heart:
 
-|ID| Name  | Location |
+|ID| Nombre  | Lugar |
 |--|------ |----------|
-|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
-|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
-|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
-|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| en linea |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | en linea |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | en linea |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | en linea |
 
 =============================================================================================
 
-# 3. Student Benefits and Programs :fire:
+# 3. Estudiantes beneficios y programas :fire:
 
-## Campus Ambassador Programs :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
+## Campus embajador Programas :v:
+1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **Agosto**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
@@ -376,20 +376,20 @@ Different Programming Languages**
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 
-## Student Benefits and Packs :v:
-1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
-2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
+## Estudiantes benfecios and Packs :v:
+1. [GitHub Student Developer Pack - Recursos gratiutos para estudiantes](https://education.github.com/pack)
+2. [Visual Studio Essentials - Acceso a Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/it/education/awseducate/)
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 
-## Student Fellowship Programs :v:
+## Programs de becas para estudiantes :v:
 1. [University Innovation Fellowship - Stanford University]()
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
 3. [Urban Leaders Fellowship]()
-4. [Facebook fellowship Program - **Only For PHD Scholars**]()
+4. [Facebook fellowship Program - **Solamente para PHD alumnos**]()
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship]()
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
@@ -399,14 +399,14 @@ Different Programming Languages**
 11. [Ramanujan Fellowship - Only for Scientists]()
 12. [Rajiv Gandhi National Fellowship - **For SC/ST candidates pursuing post graduations**]()
 13. [Gandhi Fellowship - UG/PG Students]()
-14. [Ratan Tata Post doctoral Fellowship - **Only For PHD Scholars**]()
-15. [President Abdul Kalam Azad Postgraduate Fellowship - **Graduate Students**]()
+14. [Ratan Tata Post doctoral Fellowship - **Solamente For PHD alumnos**]()
+15. [President Abdul Kalam Azad Postgraduate Fellowship - **Estudiantes de posgrado**]()
 16. [Venkat Pachpakesan Memorial Scholarship](https://wiki.rethinkfoundation.in/Venkat_Panchapakesan_Memorial_Scholarship)
 17. [Young Leaders For Active Citizenship](http://ylacindia.com)
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
 
-## Scholarships :runner:
+## Becas :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
 
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
@@ -414,12 +414,12 @@ Different Programming Languages**
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 
 =============================================================================================
-# 4. Open Source Programs :octocat:
+# 4. Open Source Programas :octocat:
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **Para mas informacion acerca de GSOC Organization** - [Click aqui](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 
-|Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
+|Id |Nombre | Organizacion| Sueldo/Incentivos |Timeline | Fecha Limite |
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
@@ -434,9 +434,9 @@ Different Programming Languages**
 
 =============================================================================================
 
-# 5. Startup Programs and Incubators :mag_right:
+# 5. Startup Programas and Incubators :mag_right:
 
-|Id |Name | Organization|
+|Id |Nombre | Organizacion|
 |-|--|---- |
 |1| [Amity Innovation Incubator](http://www.amity.edu/) | Amity University |
 |2| [Atal Incubation Centre](http://www.aim.gov.in/) | Government |
@@ -448,7 +448,7 @@ Different Programming Languages**
 
 =============================================================================================
 
-# 6. Internship Portals :smile:
+# 6. Internado Portals :smile:
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
@@ -457,19 +457,19 @@ Different Programming Languages**
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 
-    ### Tips for Internship:
+    ### Tips for Internado:
 
-     - For summer internship, start looking at least 3-4 months in advance.
+     - Para un internado de verano, comience a buscar por lo menos 3-4 meses antes. 
 
 =============================================================================================
 
-# 7. Developer Clubs and Meetups
+# 7.  Clubs Desarrolladores y Meetups
 
-> **Take a moment to search for these clubs on Google and Facebook in your city.**
+> **Tome un momento para buscar estos clubes en Google and Facebook en tu ciudad.**
 
-> **Check **Meetup.com** for more events in your locality**
+> **Revisa **Meetup.com** para mas eventos en tu ciudad**
 
-- Coursera F2F Office Hours at PyCon India - **TRENDING**
+- Coursera F2F Office Hours at PyCon India - **Tendencia**
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
@@ -479,18 +479,18 @@ Different Programming Languages**
 - [Women In Tech](https://www.womenintechnology.org/)
 - Developers Student Club by Google
 - Microsoft Student Technical Community
-- Paytm Build for India **[ Only in Delhi and Bangalore]**
+- Paytm Build for India **[ Solamente in Delhi and Bangalore]**
 - Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - Toastmaster International
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
 =============================================================================================
-# 8. Conferences :bookmark_tabs:
+# 8. Conferencias :bookmark_tabs:
 
-> ### **Tech, Entrepreneurship Events and Conferences**
+> ### **Tecnologia, eventos y coferencias de emprendimiento**
 
-Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
+Id | Nombre | Lugar| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
 |1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |
 |2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |
@@ -498,7 +498,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  |
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 |
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Octubre4 | Octubre7 |
 |8 | [React Europe]() | France | - | May | - |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 |
@@ -522,9 +522,9 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 
 =============================================================================================
 
-# 9. Top People to Follow
+# 9. Top Personas para seguir
 
-|Id | Name | Category|
+|Id | Nombre | Categoria |
 |--|------ |---|
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
 |2|[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
@@ -534,9 +534,9 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 
 =============================================================================================
 
-# 10. Top Websites to Follow
+# 10. Top Websites para seguir
 
-1.   **Data Science**
+1.   **Ciencia de los datos**
       - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
@@ -548,12 +548,22 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
 
-# 11. Additional Links :hamster:
+# 11.  Links Adcionales :hamster:
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
+<<<<<<< HEAD
+2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Aprendiendo*
+3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Auto Introspeccion*
+4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Beca*
+5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Lectura*
+6. [Startup Ideas By Y Com
+binator](https://www.ycombinator.com/rfs/) - *Startup*
+7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Aprendiendo*
+=======
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
 3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
 4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*
 5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
-6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
+6. [Startup Ideas By Y Com
+binator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
