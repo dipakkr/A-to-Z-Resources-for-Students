@@ -27,6 +27,7 @@
      - [Research Paper](#2.3-research-paper)
      - [Top Github Repositories](#2.4-top-github-repositories)
      - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
+     - [Colah's Blog on Deep Learning](http://colah.github.io/)
 
 3. [DataSets](#2-datasets)
 
