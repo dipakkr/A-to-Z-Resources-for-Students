@@ -31,7 +31,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
      - [Prolog](#115-prolog)
-     - [C# Language](#116-c#-language)
+     - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
