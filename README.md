@@ -152,7 +152,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.4 Android Development
 
 -  [For Beginners](Android.md) :baby:
--  [Free courses & Nanodegree | Udacity](https://udacity.com) 
+-  [Free courses & Nanodegree | Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
@@ -330,9 +330,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons ot take part in challenges
+    - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
 
 - **Books**
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - Holy Bible for Design and Analysis of algorithms
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
