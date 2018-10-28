@@ -14,7 +14,10 @@
 + Best Handon course by DApp University(Highly Recommended) complete playlist: https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n
 
 ## Hyperledger fabric
-+ For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
++ For getting started: https://hyperledger-fabric.readthedocs.io
++ Fabric samples - Chaincode, SDKs and Network setup | https://github.com/hyperledger/fabric-samples
++ Hyperledger tutorials and articles | https://medium.com/coinmonks/top-hyperledger-tutorials-and-articles-b77cf3e4d1eb
++ Linux foundation free course on Hyperledger Technologies (includes Fabric) | https://training.linuxfoundation.org/training/blockchain-for-business-an-introduction-to-hyperledger-technologies/
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
 
 ## More about Blockchain
