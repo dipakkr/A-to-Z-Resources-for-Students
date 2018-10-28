@@ -265,6 +265,8 @@ Instructions :
 | 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
 | 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
 | 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
+| 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+
 
 ---
 
