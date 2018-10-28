@@ -1,10 +1,10 @@
-# Recursos para Estudiantes de la A a la Z:boy:![Awesome](https://cdn.rawgit.com/Si ndresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Recursos para Estudiantes de la A a la Z:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## No dudes en mostrar tu amor :heart: dándonos una estrella :star:
 
 > ## [Échale un ojo a la Lista de Colaboradores :heart::heart:](CONTRIBUTORS.md) - **Agrega tus detalles aqui**
 
-### Eres estudiante de univerSi dad o un profeSi onal empleado buscando recursos para aprender un lenguaje nuevo? Estas buscando nueva gente para conocer dentro de tu comunidad, o buscando conferencias globales, hackatones, y competencias para aSi stir? Si  es así, definitivamente deberías echarle un ojo a esto. 
+### Eres estudiante de universidad o un profesional empleado buscando recursos para aprender un lenguaje nuevo? Estas buscando nueva gente para conocer dentro de tu comunidad, o buscando conferencias globales, hackatones, y competencias para aSi stir? Si  es así, definitivamente deberías echarle un ojo a esto. 
 
 Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackatones, conferencias, pasantías y una cantidad de eventos globales por no estar al tanto. No quiero que a los programadores emergentes les pase lo mismo que a mí. Así que junto con un grupo de programadores de todas partes, hemos recopilado una lista de recursos para estudiantes. Si  estas en la univerSi dad, o recientemente te graduaste, o estas empezando como programador, definitivamente deberías echarle un ojo a esta lista!
 
@@ -32,7 +32,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
      - [MongoDB](#114-mongodb)
      - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
 
-2.    [Hackatones y Eventos ](#2-hackatones-and-events)
+2.   [ Hackatones y Eventos ](#2-hackatones-and-events)
      - [Top Hackatones Globales](#21-rainbow-top-global-hackatones)
      - [Competencias](#22-competitions-bomb)
      - [Portal Buscador de Hackathones](#23--hackathon-search-portals-dart)
