@@ -145,6 +145,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
+    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) :star:
 
 
 ## 1.4 Android Development
