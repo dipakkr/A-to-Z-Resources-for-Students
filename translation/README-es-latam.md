@@ -129,7 +129,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
-## 1.4 Desarrolo de Android :iPhone:
+## 1.4 Desarrollo de Android :Phone:
 
 -  [Para principiantes](Android.md)
 -  [Udacity - Cursos gratis y Nanodegree](https://udacity.com)
@@ -157,7 +157,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79Zysihs4) - **PAGO**  *Nivel Intermedio*
+    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79Zysihs4) - **PAGO**  *Nivel Intermedio*
 
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxUylist=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bueno para Principiantes*
 
@@ -214,13 +214,13 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 
 - **JavaScript Frameworks**    
-    ###### Angular
+- **Angular**
      - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Pago)**
     - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Pago)**
     - [Angular Expo](https://angularexpo.com/) - **Una hermosa muestra de Webistes, aplicaciones y experimentos usando Angular**
     - [Hecho con Angular](https://www.madewithangular.com/) - **Galeria de Webistes inspiradores usando Angular/AngularJS**
 
-     ###### React.js
+  -**React.js**
      - [Video Tutorials - Principiante a Intermedio](https://www.youtube.com/watch?v=JPT3bFIwJYAylist=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [Video YouTube Tutorials - React y Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0ylist=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
      - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactivo*
@@ -271,7 +271,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 
-- ** Plataformas Online**
+- **Plataformas Online**
     - [CodeChef](https://www.codechef.com/) - **CodeChef site de programación competitivo**
     - [Codeforces](https://codeforces.com/) - **Gran site para prepararse para concursos de programación**
     - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Preguntas obligadas de código para compañías basadas en productos**
@@ -290,10 +290,10 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Libro clave para entuSi atas de la programación competitiva .**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Biblia en análisis y diseño de algoritmos**
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Otro libro clave para facilitar el entendimiento de diseño y análiSi s de algoritmos**
-- [Coding Interview university - Github](https://github.com/jwasham/coding-interview-university) -  **Altamente recomendado para aprender DS e Informática fundamental**
-- [Algo y DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos y Estructura de Data en lenguajes de programación diferentes**
-- [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK A AMAZON**
-- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1ra Edición** **LINK A AMAZON**
+    - [Coding Interview university - Github](https://github.com/jwasham/coding-interview-university) -  **Altamente recomendado para aprender DS e Informática fundamental**
+    - [Algo y DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos y Estructura de Data en lenguajes de programación diferentes**
+    - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK A AMAZON**
+    - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1ra Edición** **LINK A AMAZON**
 
 
 ## 1.8 Alexa Tutorials
@@ -437,7 +437,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online y En lugar | Data Science | 
 |7| [Hackathon.com](https://www.hackathon.com/) | Online y En lugar | GLOBAL | Todas |
 
-## 2.4 Eventos :heart_esi:
+## 2.4 Eventos :heart_eyes:
 
 > **Chequea estos eventos en tu región**
 
