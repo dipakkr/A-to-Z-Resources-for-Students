@@ -262,6 +262,7 @@ Instructions :
 | 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
 | 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
 | 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
+| 233 | **Demir Baş** | Turkey | Student | [GitHub](https://github.com/ironhead690) |
 
 ---
 
