@@ -855,7 +855,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
-      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)      
+      - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
