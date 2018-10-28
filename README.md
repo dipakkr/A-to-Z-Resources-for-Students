@@ -228,6 +228,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
 - **JavaScript**
+    - [Wes Bos list of courses](https://wesbos.com/courses/)
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
