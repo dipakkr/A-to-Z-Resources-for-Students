@@ -269,6 +269,7 @@ Instructions :
 | 237 | **Trent Andraka** | USA | Student | [Github](https://github.com/trentandraka) - [LinkedIn](https://www.linkedin.com/in/trentandraka/)|
 | 238 | **Bolaram Paul**  | Bangladesh | Web Dev and Tech Blogger | [GitHub](https://github.com/bolaram) |
 | 239 | **Abhishek sharma** | India | Computer Science Student | [GitHub](https://github.com/abhi010101) |
+| 240 | **Linda Lai** | Australia | Full-Stack Developer | [GitHub](https://github.com/linda-lai)|
 
 ---
 
