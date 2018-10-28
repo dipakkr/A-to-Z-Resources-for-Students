@@ -180,6 +180,8 @@ goto label;
 .
 label: statement;
 example:
+
+```
 int a = 10;
    /* do loop execution */
    LOOP:do {
@@ -205,23 +207,32 @@ value of a: 17
 value of a: 18
 value of a: 19
 
+```
 
 
 ### 12 ARRAYS
 
 1. Declaraction: 
 
+```
 typeof_array array_name[size];
 ```
 Eg:
+
+```
 int arr[10]; // makes an integer array of size 10
 int num[6] = { 2, 4, 12, 5, 45, 5 } ; 
+```
 2)Accessing Elements:
+```
 int k=arr[2]; //k stores the element at index 2 of the array
+```
 3)Entering data:
+```
 for(i =0;i<3;i++){
   scanf("%d", &arr[i]); // takes the values in the array arr by the user
 }
+```
 
 ### 13 STRINGS
 
