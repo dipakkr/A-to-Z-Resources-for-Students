@@ -31,13 +31,15 @@
 + [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
 + [Android Programming by Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming/)
 + [Professional Android by Reto Meier, Ian Lake](https://www.wiley.com/en-us/Professional+Android%2C+4th+Edition-p-9781118949528)
-
++ [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
++ [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)
 
 ## 4. Podcast
 
 + [Fragmented](https://fragmentedpodcast.com/)
 + [Android Backstage](http://androidbackstage.blogspot.com/)
 + [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast)
++ [Android Developers Backstage](https://androidbackstage.blogspot.com/)
 
 
 ## 5. Blog
@@ -46,11 +48,13 @@
 + [JakeWharton's Blog](https://jakewharton.com/blog/)
 + [Official Android Developer on Medium](https://medium.com/androiddevelopers)
 + [Android Developers Blog](https://android-developers.googleblog.com/)
++ [Android Arsenal](https://android-arsenal.com)
 
 
 ## 6. References
 
 + [Android Developer Page](https://developer.android.com/)
++ [Kotlin Documentation](https://kotlinlang.org/docs/reference/)
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
 
