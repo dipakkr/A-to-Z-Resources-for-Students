@@ -25,7 +25,7 @@
      - [자료구조](#17-자료구조-chart_with_upwards_trend)
      - [알렉사 튜토리얼](#18-알렉사-튜토리얼)
      - [C Language](#19-c언어)
-     - [C++ ](#110-C++)
+     - [C++ Language](#110-C++-Language)
      - [Git and Github](#111-git-과-github-octocat)
      - [R Language](#112-r)
      - [Haskell](#113-haskell)
@@ -297,7 +297,7 @@ different programming languages**
  - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
 
 
-## 1.10 C++
+## 1.10 C++ Language
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
