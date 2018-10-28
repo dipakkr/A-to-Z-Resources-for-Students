@@ -7,6 +7,7 @@
 + Siraj Raval youtube cryptocurrencies series on youtube : https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
 
 ## Ethereum and smart contracts
++ Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
 + Highly recommend this course: https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
 + A good resource to learn dApp development by coding your own game: https://cryptozombies.io/
 + A good grasp on concepts of Decentralised Applications: https://www.theschool.ai/courses/decentralized-application/
