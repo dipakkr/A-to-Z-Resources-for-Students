@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia:
 
 ```
 Instructions :
@@ -262,7 +262,7 @@ Instructions :
 | 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
 | 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
 | 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
-
+| 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
