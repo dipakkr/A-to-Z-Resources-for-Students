@@ -189,7 +189,7 @@ Instructions :
 | 158 | **Andrew Ferreira** | Canada | Software Engineering Student | [GitHub](https://github.com/acferreir4) - [LinkedIn](https://www.linkedin.com/in/acferreir4/)|
 | 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub](https://github.com/bendiuguid) |
 | 160 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
-| 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
+| 161 | **Kirie** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 | 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
 | 164 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
@@ -272,6 +272,7 @@ Instructions :
 | 240 | **Linda Lai** | Australia | Full-Stack Developer | [GitHub](https://github.com/linda-lai)|
 | 241 | **Lauren Wright** | United States | Web Dev Student | [GitHub](https://github.com/laurenewright) |
 | 242 | **Mon** | Thailand | Developer | [Github](https://github.com/mon555/) |
+| 243 | **Zeeshan**| India || [Github](https://github.com/15bcs019) |
 
 ---
 
