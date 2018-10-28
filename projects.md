@@ -20,6 +20,8 @@
 
 
 ## 2. Blockchain
+    - [A simplest blockchain in python](https://github.com/dvf/blockchain)
+    - [Lets build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
 ## 3. Internet Of Things
 
