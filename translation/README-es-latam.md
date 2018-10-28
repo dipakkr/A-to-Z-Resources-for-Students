@@ -156,7 +156,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79ZySi hs4) - **PAGO**  *Nivel Intermedio*
+    - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79ZySi hs4) - **PAGO**  *Nivel Intermedio*
 
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxUylist=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bueno para Principiantes*
 
@@ -248,7 +248,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
 
 - **Accesibilidad Web**
-    - [Accesibilidad MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/AccesSi bility)
+    - [Accesibilidad MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
     - [Tutoriales de Accesibilidad Web](https://www.w3.org/WAI/tutorials/)
     - [Full-Stack Web Accessibility Guidelines - Video Tutorial en Accesibilidad Web para Ususarios Discapacitados](https://www.youtube.com/watch?v=aqM6rV5IBlgyt=1s)
     - [Checklist de Accesibilidad Web - The A11Y Project](https://a11yproject.com/checklist)
@@ -329,14 +329,14 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
 
  ## 1.11 Git and Github :octocat:
- - [Git Tutorials](https://www.atlasSi an.com/git/tutorials/comparing-workflows)
+ - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/Version-control-with-git--ud123)
  - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
-- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotnessygroup=everyoneypageSi ze=20ylanguage=R)
+- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotnessygroup=everyoneypagesize=20ylanguage=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
 
 ## 1.13 Haskell
@@ -354,7 +354,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 |Id |Nombre | Lugar | Reembolso de Viaje | Inscripciones Abren | Inscripciones Cierran |
 |--|------ |---|---| ------ | ----|
-|1| [Smart India Hackathon](https://innovate.mygov.in/Si h2018/)| India | Si | Abril | Verificar website |
+|1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India | Si | Abril | Verificar website |
 |2 | [HacktheNorth](http://pennapps.com/)| Canadá | Si  | Mediados Sept | Final Julio |
 |3 | [HackMIT](https://hackmit.org/)   | USA | Si  | Mid Sept | Final Julio |
 |4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online y en lugar | Si  | - | - |
@@ -363,7 +363,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
 |7 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
 |8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Suiza | Si  | Verificar website | - |
-|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/diviSi ons/technology) | Nueva York y Londres | Si  | - | - |
+|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | Nueva York y Londres | Si  | - | - |
 |10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
 |11 | [HackNY](http://hackny.org/hackathon/) | USA | Si  | - | - |
 |12 | [HackPrinceton](https://www.hackprinceton.com/)| USA | - | - |  - |
@@ -389,7 +389,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |32 | [IOT for Smart Life-REVA university](https://reva-university-iot-for-smart-life.hackerearth.com) | En Lugar (Reva University) | Octubre (Entrega de ideas) | Final Nov | - |
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + En Lugar (India) | - | Septiembre-Octubre | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | Octubre | - |
-|35 | [UHack 3.0](https://uSi cthack.com/)| New Delhi, India | - | Octubre 26 | - |
+|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | Octubre 26 | - |
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Si  | Inicios de Octubre | - |
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Si  | Agosto | Octubre |
 
@@ -421,7 +421,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
 |21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
 |22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
-|23| [RusSi an AI Cup](http://rusSi anaicup.ru/) | - |
+|23| [Russian AI Cup](http://russianaicup.ru/) | - |
 
 
 
@@ -641,7 +641,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |15| [Clinton Global Initiative university](http://www.cgiu.org/) | USA | - | Marzo a Oct (varía cada año) | 3 días | - |
 |16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Parcial | Ago 3 | Ago 5 | Business |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Si  | Jan 6 | Jan 11 | - |
-|18| [KPMG Future DiverSi ty Leaders](https://scholarshipscorner.website/kmpg-future-diverSi ty-leaders-summer-leadership-program-2018/) | California | Si  | Verano | - | - |
+|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Si  | Verano | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global | No | - | - | - |
 |20| [Tech in Asia Bangalore](http://events.techinAsia.com/bangalore/) | India | - | - | - | - |
 |21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
@@ -665,8 +665,8 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |39| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
 |40| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Ago 8 - 10 | - | JS |
 |41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
-|42| [Si GGRAPH](https://s2019.Si ggraph.org/) | Global | - | Jul 29 - Ago 1 | - | - |
-|43| [Si GGRAPH Asia](https://sa2018.Si ggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|42| [SiGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Ago 1 | - | - |
+|43| [SiGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
 =============================================================================================
 
@@ -676,7 +676,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |--|------ |---|
 |1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI y ML |
 |2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI y ML |
-|3 |[Tarry Singh](https://www.linkedin.com/in/tarrySi ngh/) | AI y ML |
+|3 |[Tarry Singh](https://www.linkedin.com/in/tarrySingh/) | AI y ML |
 |4 |[Paul Graham](http://www.paulgraham.com/) |  Experto en Startups, Fundador de Y-Combinator |
 |5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | Experta en MEAN stack|
 |6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP y Chief AI Scientist en Facebook |
@@ -724,7 +724,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 1. [Top 10 Incubadoras de Startups en India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [Las primeras 20 horas -- Cómo aprender cualquier cosa](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Apendizaje*
 3. [Eres introvertido? Mira esto - El poder de los introvertidos ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Introspección*
-4. [30 Becas Internacionales ofrecidas por las Mayores Universidades del Mundo](http://www.scholars4dev.com/13300/international-scholarships-top-univerSi ties-world/) - *Becas*
+4. [30 Becas Internacionales ofrecidas por las Mayores Universidades del Mundo](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Becas*
 5. [30 Libros famosos que no te arrepentirás de haber leido!](https://bornrealist.com/famous-books/) - *Lectura*
 6. [Ideas de Startups por Y Combinator](https://www.ycombinator.com/rfs/) - *Startups*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Aprendizaje*
