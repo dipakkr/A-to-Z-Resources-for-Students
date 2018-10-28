@@ -277,6 +277,7 @@ Instructions :
 | 245 | **Ambuj Kumar** | India | IT Final Year Student | [Github](https://github.com/AmbujaAK) |
 | 246 | **Tiffany R** | United States | Lead Anesthesia Technician | [Twitter](https://twitter.com/Tifftough) |
 | 247 | **Isaac** | United States | Site Reliablity Engineer | [GitHub](https://github.com/JukieWalsh)|
+| 248 | **Edgar** | USA | Computer Science Student | [GitHub](https://github.com/edgarp28)|
 
 ---
 
