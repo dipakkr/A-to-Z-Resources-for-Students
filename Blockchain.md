@@ -4,7 +4,7 @@
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
 + Simply Explained Playlist by SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
-
++ Siraj Raval youtube cryptocurrencies series on youtube : https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
 
 ## Ethereum and smart contracts
 + Highly recommend this course: https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
@@ -18,6 +18,7 @@
 + For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
 + IBM hyperledger fabric study material : https://www.ibm.com/blockchain/hyperledger
++ really valuable course by linux foundation | https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
 
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
