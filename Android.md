@@ -75,7 +75,7 @@
 + [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
 
 
-## Misc. Resources
+## Misc Resources
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
 + [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 
