@@ -16,6 +16,7 @@
 ## Hyperledger fabric
 + For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
++really valuable course by linux foundation | https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
 
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
