@@ -168,6 +168,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
+     - [React Newsletter](http://reactjsnewsletter.com/)
 
 - **Vue.js**
     - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
