@@ -8,7 +8,7 @@
 
 Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackatones, conferencias, pasantías y una cantidad de eventos globales por no estar al tanto. No quiero que a los programadores emergentes les pase lo mismo que a mí. Así que junto con un grupo de programadores de todas partes, hemos recopilado una lista de recursos para estudiantes. Si  estas en la univerSi dad, o recientemente te graduaste, o estas empezando como programador, definitivamente deberías echarle un ojo a esta lista!
 
-![Image](**/res/xx.gif)
+![Image](../res/xx.gif)
 
 *Crédito de Imagen: Google*
 
@@ -56,7 +56,8 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 11. [Enlaces Adicionales](#11-additional-links-hamster)
 12. [Colaboradores](CONTRIBUTORS.md)
 
-=========================================================================================
+----------------------------------------------------------
+
 # 1. Recursos de Código :pencil:
 
 ## 1.1 Python :snake:
@@ -346,7 +347,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB university](https://university.mongodb.com/)
 
-=============================================================================================
+----------------------------------------------------------
 
 # 2. Hackatones y Eventos
 
@@ -393,7 +394,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Si  | Inicios de Octubre | - |
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Si  | Agosto | Octubre |
 
-----------------------------------------------------------
+
 
 ##  2.2 Competencias :bomb:
 
@@ -482,7 +483,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
 
-=============================================================================================
+----------------------------------------------------------
 
 # 3. Programas y Beneficios para Estudiantes :fire:
 
@@ -543,7 +544,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 4. [Becas de Coding Bootcamp - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 
-=============================================================================================
+----------------------------------------------------------
 # 4. Programas de Open Source :octocat:
 
 > **Para más información sobre la organización GSOC Organización** - [Click Aquí](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
@@ -563,7 +564,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 |12| [Outreachy](https://www.outreachy.org/) |  | Si | - | - |
 
-=============================================================================================
+----------------------------------------------------------
 
 # 5. Programas de Startups e Incubadoras :mag_right:
 
@@ -577,7 +578,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+----------------------------------------------------------
 
 # 6. Portales de Pasantías :smile:
 1. [Angel List](https://angel.co)
@@ -593,7 +594,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
      - Pasantías de Verano, comienza a buscar al menos con 3-4 meses de anticipacíon.
 
-=============================================================================================
+----------------------------------------------------------
 
 # 7. Clubs de Programadores y Meetups
 
@@ -617,7 +618,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 - [MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
 
-=============================================================================================
+----------------------------------------------------------
 # 8. Conferencias :bookmark_tabs:
 
 > ### **Tech, Entrepreneurship Events and Conferences**
@@ -668,7 +669,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |42| [SiGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Ago 1 | - | - |
 |43| [SiGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
-=============================================================================================
+----------------------------------------------------------
 
 # 9. Top de Gente a Seguir
 
@@ -701,7 +702,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |25 |[Aaron Gable](https://github.com/aarongable) | Desarrollador de Google Chrome (BR) |
 |26 |[Addy Osmani](https://github.com/addyosmani) | Web y Chrome |
 
-=============================================================================================
+----------------------------------------------------------
 
 # 10. Top de Webistes a Seguir
 
@@ -718,6 +719,8 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [TechCrunch - Tech y Noticias de Startups](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
+
+----------------------------------------------------------
 
 # 11. Enlaces Adicionales :hamster:
 

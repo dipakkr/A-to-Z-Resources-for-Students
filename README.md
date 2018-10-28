@@ -56,7 +56,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
-=========================================================================================
+----------------------------------------------------------
+
 # 1. Coding Resources :pencil:
 
 ## 1.1 Python :snake:
@@ -347,7 +348,7 @@ different programming languages**
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
-=============================================================================================
+----------------------------------------------------------
 
 # 2. Hackathons and Events
 
@@ -394,7 +395,7 @@ different programming languages**
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
 |37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
 
-----------------------------------------------------------
+
 
 ##  2.2 Competitions :bomb:
 
