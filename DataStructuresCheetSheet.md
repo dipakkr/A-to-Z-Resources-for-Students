@@ -17,3 +17,9 @@
 	- [SEGSQRSS](https://www.spoj.com/problems/SEGSQRSS/) - **MEDIUM**
 	- [TorCoder](https://codeforces.com/contest/240/problem/F) - **HARD**
 	- [Comrades- III](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/) - **HARD**
+
+**Refrences to some nice book (Free .pdf FILE) of Data Structure :**
+
+**1.** ["Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles” by Narasimha Karumanchi.](https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi.pdf#page=230)
+
+**2.** [“Introduction to Algorithms” by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)
