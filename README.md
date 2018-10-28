@@ -508,12 +508,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 3. Paytm Build for India Workshops [ Delhi, Bangalore ]
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
-6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
-7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
-8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
-9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
-10. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-11. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
+6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+7. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
