@@ -189,7 +189,7 @@ Instructions :
 | 158 | **Andrew Ferreira** | Canada | Software Engineering Student | [GitHub](https://github.com/acferreir4) - [LinkedIn](https://www.linkedin.com/in/acferreir4/)|
 | 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub](https://github.com/bendiuguid) |
 | 160 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
-| 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
+| 161 | **Kirie** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 | 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
 | 164 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
@@ -265,7 +265,16 @@ Instructions :
 | 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
 | 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
 | 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
-| 236 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) | [LinkedIn](https://in.linkedin.com/in/pranav7955)
+| 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+| 237 | **Trent Andraka** | USA | Student | [Github](https://github.com/trentandraka) - [LinkedIn](https://www.linkedin.com/in/trentandraka/)|
+| 238 | **Bolaram Paul**  | Bangladesh | Web Dev and Tech Blogger | [GitHub](https://github.com/bolaram) |
+| 239 | **Abhishek sharma** | India | Computer Science Student | [GitHub](https://github.com/abhi010101) |
+| 240 | **Linda Lai** | Australia | Full-Stack Developer | [GitHub](https://github.com/linda-lai)|
+| 241 | **Lauren Wright** | United States | Web Dev Student | [GitHub](https://github.com/laurenewright) |
+| 242 | **Mon** | Thailand | Developer | [Github](https://github.com/mon555/) |
+| 243 | **Zeeshan**| India || [Github](https://github.com/15bcs019) |
+| 250 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) | [LinkedIn](https://in.linkedin.com/in/pranav7955)
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
