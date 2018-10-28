@@ -52,6 +52,7 @@
 ## 6. References
 
 + [Android Developer Page](https://developer.android.com/)
++ [Kotlin Documentation](https://kotlinlang.org/docs/reference/)
 + [Android Jetpack](https://developer.android.com/jetpack/)
 + [Material Design](https://material.io/)
 
