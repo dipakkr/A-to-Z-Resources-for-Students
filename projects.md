@@ -32,6 +32,7 @@
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
  * [Advanced React Course](https://advancedreact.com/)
  * [MEAN Stack | Online portal of IIT Professors' details](https://github.com/aashish-ak/search_guru)
+ * [MEOWER - Twitter clone | Full Stack Web Development example project & detailed walktrough](https://github.com/CodingGarden/meower) - [video](https://www.youtube.com/watch?v=JnEH9tYLxLk)
 
 ## 6. Backend Development
 
