@@ -281,6 +281,7 @@ Instructions :
 | 249 | **Lenny** | Germany | Computer Science Student | [GitHub](https://github.com/lenni108) |
 | 250 | **Matei** | Slovakia | Rock Instructor, Pixel Aligner | [CodePen](https://codepen.io/towc) |
 | 251 | **Ajith Kumar Panja** | India | Sophomore , CEG | [GitHub](https://github.com/AjithPanja) |
+| 252 | **Franciele Portugal** | Brazil | Student of Information Systems and I love datas | [GitHub](https://github.com/francieleportugal) - [LinkedIn](https://www.linkedin.com/in/franciele-portugal-557aa7119)|
 
 ---
 
