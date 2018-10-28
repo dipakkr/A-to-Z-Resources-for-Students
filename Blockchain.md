@@ -5,6 +5,7 @@
 + Simply Explained Playlist by SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Siraj Raval youtube cryptocurrencies series on youtube : https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
++ Basic Blockchain Essentials course by IBM: https://cognitiveclass.ai/courses/blockchain-course/ 
 
 ## Ethereum and smart contracts
 + Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
