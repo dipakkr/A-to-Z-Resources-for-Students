@@ -9,3 +9,4 @@
 3. Please don't remove any resources or content from README.md
 
 4. Make sure to add your resources in correct section as mentioned in Table of Content. 
+5. Please verify resources and put them in the right topic.
