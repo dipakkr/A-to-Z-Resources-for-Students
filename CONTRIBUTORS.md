@@ -263,6 +263,7 @@ Instructions :
 | 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
 | 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
 | 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
+| 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
