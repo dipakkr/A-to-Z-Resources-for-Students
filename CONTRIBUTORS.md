@@ -262,7 +262,7 @@ Instructions :
 | 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
 | 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
 | 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
-
+| 232 | **Chandan**  | India | Student | [Github](https://github.com/chandan) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
