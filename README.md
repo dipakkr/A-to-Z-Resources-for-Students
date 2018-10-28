@@ -33,6 +33,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Prolog](#115-prolog)
      - [C# Language](#116-c#-language)
      - [DevDocs](#117-devdocs)
+     - [Docker](#118-docker)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -244,15 +245,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
+    - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
 
 
 - **JavaScript Frameworks**    
 
-- **Angular**
+    - **Angular**
         - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
         - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
+        - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
 
      - **React.js**
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -366,6 +370,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
+ - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -399,6 +404,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.17 DevDocs
 
 - [API documentation for most programming languages](https://devdocs.io) - Works offline
+
+## 1.18 Docker
+
+- [Documentation](https://docs.docker.com/)
+- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star: 
+- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
 ---
 
@@ -484,6 +495,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 |25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
 |26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
+|27| [Microsoft AI challenge](https://www.ailab.microsoft.com/challenge) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -562,6 +574,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
+14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
@@ -728,6 +741,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
 - [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
+- [Girl Develop It](https://www.girldevelopit.com/chapters)
 
 ---
 
@@ -781,6 +795,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
+|45 | [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
 
 ---
 
@@ -819,7 +834,10 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 |31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
-|32 |[Sandi Metz](https://www.sandimetz.com/) | Ruby Teacher, Author, Consultant|
+|32 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
+|33 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
+|34 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
+
 ---
 
 # 10. Top Websites to Follow
@@ -835,7 +853,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
-      -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
 
