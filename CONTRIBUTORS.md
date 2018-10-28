@@ -280,7 +280,7 @@ Instructions :
 | 248 | **Edgar** | USA | Computer Science Student | [GitHub](https://github.com/edgarp28)|
 | 249 | **Lenny** | Germany | Computer Science Student | [GitHub](https://github.com/lenni108) |
 | 250 | **Matei** | Slovakia | Rock Instructor, Pixel Aligner | [CodePen](https://codepen.io/towc) |
-
+| 251 | **Rich** | Mexico | Intelligent Systems Student, Musician | [GitHub](https://github.com/Richb17) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
