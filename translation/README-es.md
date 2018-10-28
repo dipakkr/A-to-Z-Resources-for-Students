@@ -90,7 +90,7 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Explora este link para información detallada sobre `Machine Learning` y `Deep Learning`**](ML.md)
 
 -  **Los mejores Cursos Onlines**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -242,7 +242,7 @@ Different Programming Languages**
 
 # 2. Hackathons y Eventos
 
-## 2.1 :rainbow: Top Global Hackathons
+## 2.1 :rainbow: Los mejores Hackathons globales
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End |
 |--|------ |---|---| ------ | ----|
@@ -323,7 +323,7 @@ Different Programming Languages**
 
 ## 2.4 Eventos :heart_eyes:
 
-> **Check out these events for your region**
+> **Echa un vistazo a estos eventos para tu región**
 
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
@@ -336,7 +336,7 @@ Different Programming Languages**
 8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
 9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
 
-## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
+## 2.5 Startup Summits, Competiciones y Bootcamps :neckbeard:
 
 
 |ID| Name  | Location |
@@ -351,7 +351,7 @@ Different Programming Languages**
 |8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
 |9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
 
-## 2.6 Hiring Challenges :heart:
+## 2.6 Desafíos de contratación :heart:
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -362,7 +362,7 @@ Different Programming Languages**
 
 =============================================================================================
 
-# 3. Student Benefits and Programs :fire:
+# 3. Beneficios y programas estudiantiles :fire:
 
 ## Campus Ambassador Programs :v:
 1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
@@ -376,7 +376,7 @@ Different Programming Languages**
 9. [ HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 
-## Student Benefits and Packs :v:
+## Beneficios y Paquetes para Estudiantes :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
@@ -384,7 +384,7 @@ Different Programming Languages**
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 
-## Student Fellowship Programs :v:
+## Programas de becas para estudiantes :v:
 1. [University Innovation Fellowship - Stanford University]()
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
@@ -406,7 +406,7 @@ Different Programming Languages**
 18. [Helium Grant Fellowship](https://www.heliumgrant.org)
 19. [HackNY Fellows Program](https://apply.hackny.org/)
 
-## Scholarships :runner:
+## Becas :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
 
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
@@ -414,9 +414,9 @@ Different Programming Languages**
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 
 =============================================================================================
-# 4. Open Source Programs :octocat:
+# 4. Programas Open Source :octocat:
 
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **Para información más detallada sobre la organización del GSOC** - [Haga clic aquí](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
 
 |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
@@ -448,7 +448,7 @@ Different Programming Languages**
 
 =============================================================================================
 
-# 6. Internship Portals :smile:
+# 6. Portales de prácticas :smile:
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
@@ -457,17 +457,17 @@ Different Programming Languages**
 6. [Hackkar](https://hackkar.com/)
 7. [LetsIntern](https://www.letsintern.com)
 
-    ### Tips for Internship:
+    ### Consejos para las prácticas:
 
-     - For summer internship, start looking at least 3-4 months in advance.
+     - Para una pasantía de verano, comience a buscar por lo menos con 3-4 meses de anticipación.
 
 =============================================================================================
 
 # 7. Developer Clubs and Meetups
 
-> **Take a moment to search for these clubs on Google and Facebook in your city.**
+> **Tómese un momento para buscar estos clubes en Google y Facebook en su ciudad.**
 
-> **Check **Meetup.com** for more events in your locality**
+> **Compruebe **Meetup.com** para ms enventos en su localidad**
 
 - Coursera F2F Office Hours at PyCon India - **TRENDING**
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
@@ -486,9 +486,9 @@ Different Programming Languages**
 - MUG - MongoDB User Group (Meetups)
 
 =============================================================================================
-# 8. Conferences :bookmark_tabs:
+# 8. Conferencias :bookmark_tabs:
 
-> ### **Tech, Entrepreneurship Events and Conferences**
+> ### **Eventos y conferencias sobre tecnología y emprendimiento**
 
 Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 |--|------ |---|---| ------ | ----|
@@ -522,7 +522,7 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 
 =============================================================================================
 
-# 9. Top People to Follow
+# 9. La mejor gente a seguir
 
 |Id | Name | Category|
 |--|------ |---|
@@ -534,21 +534,21 @@ Id | Name | Place| Travel Reimbursement |Timeline | Deadline |
 
 =============================================================================================
 
-# 10. Top Websites to Follow
+# 10. Los mejores sitios web a seguir
 
-1.   **Data Science**
+1.   **Ciencia de Datos**
       - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
 
-2.   **Startup News and Stories**
+2.   **Noticias e Historias de Startup**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
 
-# 11. Additional Links :hamster:
+# 11. Enlaces adicionales :hamster:
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*

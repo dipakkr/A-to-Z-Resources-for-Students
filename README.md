@@ -33,6 +33,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Prolog](#115-prolog)
      - [C# Language](#116-c#-language)
      - [DevDocs](#117-devdocs)
+     - [Docker](#118-docker)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
@@ -145,18 +146,20 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
+    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) :star:
 
 
 ## 1.4 Android Development
 
 -  [For Beginners](Android.md) :baby:
--  [Free courses & Nanodegree | Udacity](https://udacity.com) 
+-  [Free courses & Nanodegree | Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
+-  [Caster.io](https://caster.io) :heavy_dollar_sign:
 
 ## 1.5 Backend Development
 
@@ -169,6 +172,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) :baby:
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
+    - [Django Class-Based Views](https://ccbv.co.uk/)
 
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
@@ -193,6 +197,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
+    - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
+    - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
@@ -222,6 +228,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
+     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 
 - **Bootstrap4**
 
@@ -242,15 +249,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
+    - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
 
 
 - **JavaScript Frameworks**    
 
-- **Angular**
+    - **Angular**
         - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
         - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani | Udemy](https://www.udemy.com/the-complete-angular-master-class/) - :heavy_dollar_sign:
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
+        - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
 
      - **React.js**
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -321,9 +331,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons ot take part in challenges
+    - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
 
 - **Books**
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - Holy Bible for Design and Analysis of algorithms
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
@@ -364,6 +375,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
+ - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -397,6 +409,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.17 DevDocs
 
 - [API documentation for most programming languages](https://devdocs.io) - Works offline
+
+## 1.18 Docker
+
+- [Documentation](https://docs.docker.com/)
+- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star: 
+- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
 ---
 
@@ -482,6 +500,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24| [Hackshetra] (https://techspardha.org/Hackathon/) |Onsite|
 |25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
 |26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
+|27| [Microsoft AI challenge](https://www.ailab.microsoft.com/challenge) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -502,15 +521,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
 3. Google Solve for India
-3. Paytm Build for India Workshops [ Delhi, Bangalore ]
-4. NVIDIA Developer Connect [ Global ]
-5. AWS meetups [ Global ]
-6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
-7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
-8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
-9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
-10. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-11. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
+4. Paytm Build for India Workshops [ Delhi, Bangalore ]
+5. NVIDIA Developer Connect [ Global ]
+6. AWS meetups [ Global ]
+7. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
+8. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
+9. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
+10. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+11. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+12. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
@@ -560,13 +579,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
+14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
-5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
+5. [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
@@ -726,6 +746,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [HelsinkiJS](https://meetabit.com/communities/helsinkijs)
 - [100 Days of Code](https://www.100daysofcode.com/connect/)
 - [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
+- [Girl Develop It](https://www.girldevelopit.com/chapters)
 
 ---
 
@@ -779,6 +800,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
+|45 | [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
 
 ---
 
@@ -817,6 +839,10 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
 |31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|32 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
+|33 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
+|34 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
+
 ---
 
 # 10. Top Websites to Follow
@@ -832,7 +858,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
-      -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
 

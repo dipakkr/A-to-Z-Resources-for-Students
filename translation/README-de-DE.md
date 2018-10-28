@@ -333,9 +333,7 @@ different programming languages**
 |33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
 |34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
-
 |36 | [Krakathon](http://krakathon.com/)| Vivea Park, Moka Mauritius | - | September | October 10th  |
-
 ---
 
 ##  2.2 Competitions :bomb:
