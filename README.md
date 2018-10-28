@@ -169,6 +169,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) :baby:
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
+    - [Django Class-Based Views](https://ccbv.co.uk/)
 
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
