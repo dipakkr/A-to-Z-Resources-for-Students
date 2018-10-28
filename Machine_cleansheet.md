@@ -13,7 +13,7 @@
 
 ## Machine Learning Algorithms
 * [Deep learning (MLP, CNN, RNN, LSTM)](mla/neuralnet)
-* [Linear regression, logistic regression](mla/linear_models.py)
+* [Linear regression,Multiple regression,logistic regression](mla/linear_models.py)
 * [Random Forests](mla/ensemble/random_forest.py)
 * [Support vector machine (SVM) with kernels (Linear, Poly, RBF)](mla/svm)
 * [K-Means](mla/kmeans.py)
@@ -88,6 +88,8 @@
 - [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
 
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
+- [Udacity - Machine Learning (Georgia Tech)](https://www.udacity.com/course/machine-learning--ud262#)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
