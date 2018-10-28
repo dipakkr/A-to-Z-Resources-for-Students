@@ -129,7 +129,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
-## 1.4 Desarrollo de Android :Phone:
+## 1.4 Desarrollo de Android
 
 -  [Para principiantes](Android.md)
 -  [Udacity - Cursos gratis y Nanodegree](https://udacity.com)
@@ -220,7 +220,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Angular Expo](https://angularexpo.com/) - **Una hermosa muestra de Webistes, aplicaciones y experimentos usando Angular**
     - [Hecho con Angular](https://www.madewithangular.com/) - **Galeria de Webistes inspiradores usando Angular/AngularJS**
 
-  -**React.js**
+- **React.js**
      - [Video Tutorials - Principiante a Intermedio](https://www.youtube.com/watch?v=JPT3bFIwJYAylist=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [Video YouTube Tutorials - React y Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0ylist=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
      - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactivo*
@@ -281,15 +281,15 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [LeetCode](https://www.leetcode.com) -  **Plataforma para preparase para entrevistas técnicas con preguntas reales**
     - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Gran comienzo para aprender Data Structures**
     - [UVa Online Judge](https://uva.onlinejudge.org) - **El site para entregar [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) problemas de data structures**
-    - [Codewars](https://www.codewars.com/) - **Si stema de ranking muy interesante con hermoso UI para programación competitiva y preparación para entrevistas**
+    - [Codewars](https://www.codewars.com/) - **Sistema de ranking muy interesante con hermoso UI para programación competitiva y preparación para entrevistas**
     - [CodinGame](https://www.codingame.com/) - **Programación competitiva con retos como de juego**
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **Uno de dlos mejores cursos de informática disponible** **PAGO PARA CERTIFICACIÓN**
     - [Codility](https://app.codility.com/programmers/) - **Desarrolla tus habilidades de código con lecciones para hacer parte de retos**
 
 - **Libros**
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Libro clave para entuSi atas de la programación competitiva .**
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Libro clave para entusiatas de la programación competitiva.**
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Biblia en análisis y diseño de algoritmos**
-    - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Otro libro clave para facilitar el entendimiento de diseño y análiSi s de algoritmos**
+    - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Otro libro clave para facilitar el entendimiento de diseño y análisis de algoritmos**
     - [Coding Interview university - Github](https://github.com/jwasham/coding-interview-university) -  **Altamente recomendado para aprender DS e Informática fundamental**
     - [Algo y DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos y Estructura de Data en lenguajes de programación diferentes**
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK A AMAZON**
@@ -392,7 +392,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |34 | [HackISU](https://hackisu.org/)| USA | No | Octubre | - |
 |35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | Octubre 26 | - |
 |36 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Si  | Inicios de Octubre | - |
-|37 | [Junction](https://hackjunction.com/) | Espoo, Finland | Si  | Agosto | Octubre |
+|37 | [Junction](https://hackjunction.com/) | Espoo, Finlandia | Si  | Agosto | Octubre |
 
 
 
@@ -603,19 +603,19 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 > **Chequea **Meetup.com** para más eventos en tu área**
 
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
-- [Mozilla Open Source Community]
+- Mozilla Open Source Community
 - [Mozilla Campus Clubs](https://campus.mozilla.community/)
 - [Facebook Developer Circle](https://developers.facebook.com/developercircles)
 - [Women Tech Makers](https://womentechmakers.com)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [Women In Tech](https://www.womenintechnology.org/)
-- [Developers Student Club by Google]
-- [Microsoft Student Technical Community]
-- [Paytm Build for India **[ Only in Delhi and Bangalore]**
-- [Python Student Community] - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
+- Developers Student Club by Google
+- Microsoft Student Technical Community
+- Paytm Build for India **[ Only in Delhi and Bangalore]**
+- Python Student Community - [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)
 - [Toastmaster International](https://www.toastmasters.org)
-- [Swift Users Group]
-- [MUG - MongoDB User Group (Meetups)
+- Swift Users Group
+- MUG - MongoDB User Group (Meetups)
 - [Forloop Africa](https://forloop.africa)
 
 ----------------------------------------------------------
