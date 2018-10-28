@@ -4,7 +4,7 @@
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
 + Simply Explained Playlist by SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
-
++ Siraj Raval youtube cryptocurrencies series on youtube : https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
 
 ## Ethereum and smart contracts
 + Highly recommend this course: https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
