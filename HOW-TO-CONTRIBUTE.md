@@ -10,7 +10,7 @@ Every Expert was once a beginner, so if you are facing difficulties or don't kno
 Fork the repository by clicking on FORK button.
 
 ### Step 2 :
-Clone the repo on your computer 
+Clone the repo on your computer using git bash.
 
 ```
 git clone https://github.com/dipakkr/A-to-Z-Resources-for-Students.git
