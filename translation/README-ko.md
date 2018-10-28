@@ -1,6 +1,6 @@
 # 학생을위한 A to Z 자료:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## 여러분의 사랑을 :heart: 별표로 표현하세요! :star:
+> ## 여러분의 사랑을 :heart: 스타로 표현하세요! :star:
 
 > ## [참여자 목록 확인 :heart::heart:](../CONTRIBUTORS.md) - **여기에 세부 정보를 추가하십시오.**
 
@@ -25,7 +25,7 @@
      - [자료구조](#17-자료구조-chart_with_upwards_trend)
      - [알렉사 튜토리얼](#18-알렉사-튜토리얼)
      - [C Language](#19-c언어)
-     - [C++ Language](#110-c++)
+     - [C++ ](#110-C++)
      - [Git and Github](#111-git-과-github-octocat)
      - [R Language](#112-r)
      - [Haskell](#113-haskell)
