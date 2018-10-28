@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia:
 
 ```
 Instructions :
@@ -249,7 +249,24 @@ Instructions :
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
 | 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
 | 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
-| 220 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+| 220 | **Lauren Conley** | United States | Learning Full Stack web development | https://github.com/laconley |
+| 221 | **Caleb Xu** | USA | | [GitHub](https://github.com/alebcay) |
+| 222 | **Shafran Naizer** | Srilanka| Undergraduate | [GitHub](https://github.com/shafran123) |
+| 223 | **Steve Worrell** | England | SharePoint Developer | [GitHub](https://github.com/steve-worrell) |
+| 224 | **Jacquetta Bommuluri** | United States | Self-taught student | [Github](https://github.com/jacquetta) |
+| 225 | **Tania Joseph** | India | Engineering Student-Android Developer | [Github](https://github.com/tannyjoseph)
+| 226 | **Tushant** | Nepal | Fullstack Developer | [Github](https://github.com/Tushant)
+| 227 |  **Christian Johnathan Baquiran**  | Philippines | Student | [Github](https://github.com/CyjKun) |
+| 228 | **Batuhan Taştekin** | Turkey | Engineering Student | [Github](https://github.com/batuhantstkn)
+| 229 | **Siltaz** | India | BCA Student- Web Developer | [Github](https://github.com/siltaz)
+| 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
+| 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
+| 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
+| 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
+| 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
+| 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
+| 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+
 
 ---
 
