@@ -77,10 +77,20 @@
 2)
 
 # 3. **DataSets**
+  ***Beginners***
   - [MNIST Dataset for Digit Recogniser](http://yann.lecun.com/exdb/mnist/)
+  - [CIFAR-10 for Image Recognition (170 MB)](http://www.cs.toronto.edu/~kriz/cifar.html)
+  - [Fashion-MNIST Dataset a Fashion Images Dataset (30 MB)](https://github.com/zalandoresearch/fashion-mnist)
+  - [SENTIMENT140 for sentiment analysis (80 MB)](http://help.sentiment140.com/for-students/)
+
+  ***Advanced***
+  - [55000 song Lyrics CSV file](https://www.kaggle.com/mousehead/songlyrics)
+  - [Gender Recognition by Voice — audio frequency statistics](https://www.kaggle.com/primaryobjects/voicegender/version/1#)
+  - [Ted-Talks - csv](https://www.kaggle.com/rounakbanik/ted-talks)
 
 ## COMING SOON
 
 # 5. **Celebrities in ML and AI world**
 - [Siraj Raval](https://github.com/llSourcell)
 - [sentdex](https://github.com/Sentdex)
+- [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)

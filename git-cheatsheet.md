@@ -27,6 +27,7 @@ Learn about version control and keeping your projects organized with this Git ch
 13. [Releases and Version Tags](#13-releases-and-version-tags)
 14. [Collaborate](#14-collaborate)
 15. [Archive / Troubleshooting / Security](#15-archive)
+16. [Reflog](#16-reflog)
 
 
 
@@ -425,6 +426,24 @@ Create a zip-archive: `git archive --format zip --output filename.zip master`
 
 Export/write custom log to a file: `git log --author=sven --all > log.txt`
 
+
+### 16. Reflog
+----------
+#### Often useful when needing to recover "lost" references as it tracks your reference history rather than your commit history.
+
+View all changes to HEAD:
+`git reflog` or:
+`git reflog show HEAD`
+
+View all changes to a branch:
+`git reflog show <branch>`
+
+View all changes to a stash:
+`git reflog <stash>`
+
+Additionally: `git reflog show` is an alias for: `git log -g --abbrev-commit --pretty=oneline`, and accepts the same options as `git log`
+
+Further information: https://git-scm.com/docs/git-reflog 
 
 Troubleshooting
 -----------

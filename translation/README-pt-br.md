@@ -165,6 +165,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - **Ruby**
     - [Tutorial de Ruby on Rails](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way ("Aprenda Ruby Do Jeito Mais Difícil")](https://learnrubythehardway.org/book/)
+    - [Learn Ruby (Aprenda Ruby)|Codecademy](https://www.codecademy.com/learn/learn-ruby)
 
 ## 1.6 Desenvolvimento Frontend Web :computer:
 
