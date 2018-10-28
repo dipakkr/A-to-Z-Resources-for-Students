@@ -4,7 +4,7 @@
 # Android
 
 ## Index
-1. [Courses](#1.Courses)
+1. [Courses](#Courses)
 2. Certificate
 3. Book
 4. Podcast
@@ -15,7 +15,7 @@
 9. Newsletter
 
 
-#1.Courses
+#Courses
 
 + [Android Fundamental by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) 
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
