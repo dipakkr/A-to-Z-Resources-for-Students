@@ -12,6 +12,7 @@
 6. References
 7. Publish
 8. Misc. Resources
+9. Newsletter
 
 
 ## 1. Courses
@@ -77,3 +78,7 @@
 ## 8. Misc. Resources
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
 + [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+
+## 9. Newsletter
++ [Android Weekly](https://androidweekly.net/)
++ [Android Developer Newsletter by Google](https://developer.android.com/newsletter/)
