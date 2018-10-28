@@ -11,7 +11,7 @@
 5. [Blog](#blog)
 6. [References](#references)
 7. [Publish](#publish)
-8. [Misc. Resources](#misc-ressources)
+8. [Misc. Resources](#misc-resources)
 9. [Newsletter](#newsletter)
 
 
