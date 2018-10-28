@@ -266,6 +266,7 @@ Instructions :
 | 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
 | 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
 | 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+| 237 | **Trent Andraka** | USA | Student | [Github](https://github.com/trentandraka) - [LinkedIn](https://www.linkedin.com/in/trentandraka/)|
 
 
 ---
