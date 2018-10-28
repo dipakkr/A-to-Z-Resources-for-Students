@@ -261,6 +261,7 @@ Instructions :
 | 229 | **Siltaz** | India | BCA Student- Web Developer | [Github](https://github.com/siltaz)
 | 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
 | 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
+| 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
 
 ---
 
