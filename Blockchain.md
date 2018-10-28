@@ -12,11 +12,13 @@
 + A good grasp on concepts of Decentralised Applications: https://www.theschool.ai/courses/decentralized-application/
 + Excellent course on Coursera: https://www.coursera.org/learn/blockchain-foundations-and-use-cases
 + Best Handon course by DApp University(Highly Recommended) complete playlist: https://www.youtube.com/playlist?list=PLS5SEs8ZftgWFuKg2wbm_0GLV0Tiy1R-n
++ Course on Coursera : https://www.coursera.org/learn/blockchain-basics
 
 ## Hyperledger fabric
 + For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
-+really valuable course by linux foundation | https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
++ IBM hyperledger fabric study material : https://www.ibm.com/blockchain/hyperledger
++ really valuable course by linux foundation | https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
 
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
