@@ -265,10 +265,7 @@ Instructions :
 | 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
 | 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
 | 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
-| 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
-| 237 | **Trent Andraka** | USA | Student | [Github](https://github.com/trentandraka) - [LinkedIn](https://www.linkedin.com/in/trentandraka/)|
-
-
+| 236 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) | [LinkedIn](https://in.linkedin.com/in/pranav7955)
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
