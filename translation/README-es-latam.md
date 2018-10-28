@@ -124,7 +124,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Manual de Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
     - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
-    - [Caire - Content aware image reSi ze library ](https://github.com/eSi mov/caire)
+    - [Caire - Content aware image resize library](https://github.com/esimov/caire)
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
@@ -132,7 +132,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 -  [Para principiantes](Android.md)
 -  [Udacity - Cursos gratis y Nanodegree](https://udacity.com)
--  [PluralSi ght - Android Developer Track](http://pluralSi ght.com/) [Gratis por 60 diás]
+-  [Pluralsight - Android Developer Track](http://pluralsight.com/) [Gratis por 60 diás]
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
@@ -147,22 +147,22 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *El mejor para principiantes*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-Si de/Django) *Bueno para Principiantes*
-    - [Si mpleIsBetterThanComplex Blog](https://Si mpleisbetterthancomplex.com/)
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Bueno para Principiantes*
+    - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
 
 -  **Node.JS**
     - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **PAGO**
 
-    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-Si de/Express_Nodejs)
+    - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?Si teID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79ZySi hs4) - **PAGO**  *Nivel Intermedio*
+    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79ZySi hs4-ysDvxh6JST3o9mSuR2USMQyLSNPUBID=jU79ZySi hs4) - **PAGO**  *Nivel Intermedio*
 
     - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxUylist=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bueno para Principiantes*
 
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *Recomendado para todos los niveles*
 
-    - [Node.js DeSi gn Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_DeSi gn_Patterns_Second_Edition_Code) - *Libro, Nivel Avanzado*
+    - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Libro, Nivel Avanzado*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
@@ -205,11 +205,11 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recomendado* **ENLACE A AMAZON**
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recomendado para todos los niveles*
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
-    - [JavaScript DeSi gn Patterns](https://in.udacity.com/course/javascript-deSi gn-patterns--ud989)
+    - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-Design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
-    - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/baSi c-javascript)
+    - [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
     - [HTML Dog](http://www.htmldog.com/guides/javascript/)
-    - [Javascript Tutorial for Beginner Complete Course 2018](https://www.youtube.com/watch?v=PwSi gsH4oXw)
+    - [Javascript Tutorial for Beginner Complete Course 2018](https://www.youtube.com/watch?v=PwsigsH4oXw)
 
 
 - **JavaScript Frameworks**    
@@ -235,7 +235,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 - **Redux.js**
      - [Video Tutorials - Principiantes](https://www.youtube.com/watch?v=1w-oQ-i1XB8ylist=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
-     - [Redux docs](https://redux.js.org/introduction) *Recommended for everyone*
+     - [Redux docs](https://redux.js.org/introduction) *Recomendado para todos los niveles*
      - [Comenzando con Redux](https://egghead.io/courses/getting-started-with-redux)
      - [Construyendo Aplicaciones de React Applications con Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
@@ -247,11 +247,11 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
     - [Scrimba](https://scrimba.com/g/glearnvue)
     - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
 
-- **AcceSi bilidad Web**
-    - [AcceSi bilidad MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/AccesSi bility)
-    - [Tutoriales deAcceSi bilidad Web](https://www.w3.org/WAI/tutorials/)
-    - [Full-Stack Web AccesSi bility Guidelines - Un Video Tutorial en AcceSi bilidad Web para Ususarios Discapacitados](https://www.youtube.com/watch?v=aqM6rV5IBlgyt=1s)
-    - [Checklist de AcceSi bilidad Web - The A11Y Project](https://a11yproject.com/checklist)
+- **Accesibilidad Web**
+    - [Accesibilidad MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/AccesSi bility)
+    - [Tutoriales de Accesibilidad Web](https://www.w3.org/WAI/tutorials/)
+    - [Full-Stack Web Accessibility Guidelines - Video Tutorial en Accesibilidad Web para Ususarios Discapacitados](https://www.youtube.com/watch?v=aqM6rV5IBlgyt=1s)
+    - [Checklist de Accesibilidad Web - The A11Y Project](https://a11yproject.com/checklist)
 
 - **Frontend DevTools**
      ###### Package managers
@@ -264,22 +264,22 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
      - [Webpack | YouTube](https://www.youtube.com/watch?v=GU-2T7k9NfI)
      - [Parcel - The predicted webpack killer](https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c)
      - [Browserify - The first bundler](https://scotch.io/tutorials/getting-started-with-browserify)
-     - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-baSi cs-b782b55f36a8)
+     - [Rollup](https://medium.com/@yonester/bundling-with-rollup-the-basics-b782b55f36a8)
 
 ------
 
 ## 1.7 Data Structures :chart_with_upwards_trend:
 
 - ** Plataformas Online**
-    - [CodeChef](https://www.codechef.com/) - **CodeChef Si te de programación competitivo**
-    - [Codeforces](https://codeforces.com/) - **Gran Si te para prepararse para concursos de programación**
+    - [CodeChef](https://www.codechef.com/) - **CodeChef site de programación competitivo**
+    - [Codeforces](https://codeforces.com/) - **Gran site para prepararse para concursos de programación**
     - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Preguntas obligadas de código para compañías basadas en productos**
     - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk para comenzar con programación - fundamenta del programación**
     - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Kit de preparación de entevistas**
     - [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Mejor plataforma para preparase para entrevistas de Data Structures**
     - [LeetCode](https://www.leetcode.com) -  **Plataforma para preparase para entrevistas técnicas con preguntas reales**
-    - [Sphere Online Judge](https://www.spoj.com/problems/clasSi cal/) - **Gran comienzo para aprender Data Structures**
-    - [UVa Online Judge](https://uva.onlinejudge.org) - **El Si te para entregar [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) problemas de data structures**
+    - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Gran comienzo para aprender Data Structures**
+    - [UVa Online Judge](https://uva.onlinejudge.org) - **El site para entregar [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) problemas de data structures**
     - [Codewars](https://www.codewars.com/) - **Si stema de ranking muy interesante con hermoso UI para programación competitiva y preparación para entrevistas**
     - [CodinGame](https://www.codingame.com/) - **Programación competitiva con retos como de juego**
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - **Uno de dlos mejores cursos de informática disponible** **PAGO PARA CERTIFICACIÓN**
@@ -287,20 +287,20 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 
 - **Libros**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) - **Libro clave para entuSi atas de la programación competitiva .**
-    - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Biblia en análiSi s y diseño de algoritmos**
-    - [Algorithm DeSi gn by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20DeSi gn.pdf) - **Otro libro clave para facilitar el entendimiento de diseño y análiSi s de algoritmos**
+    - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Biblia en análisis y diseño de algoritmos**
+    - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Otro libro clave para facilitar el entendimiento de diseño y análiSi s de algoritmos**
 - [Coding Interview university - Github](https://github.com/jwasham/coding-interview-university) -  **Altamente recomendado para aprender DS e Informática fundamental**
 - [Algo y DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos y Estructura de Data en lenguajes de programación diferentes**
 - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - **Clean Code: A Handbook of Agile Software Craftsmanship** **LINK A AMAZON**
-- [Domain Driven DeSi gn](https://www.amazon.com/Domain-Driven-DeSi gn-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven DeSi gn: Tackling Complexity in the Heart of Software 1ra Edición** **LINK A AMAZON**
+- [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1ra Edición** **LINK A AMAZON**
 
 
 ## 1.8 Alexa Tutorials
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
- - [Udemy](https://www.udemy.com/comprehenSi ve-alexa-skill-development-course/?Si teID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQyLSNPUBID=Fh5UMknfYAU) (PAGO)
+ - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQyLSNPUBID=Fh5UMknfYAU) (PAGO)
  - [YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Spyv=1cx_I0kARnU)
- - [PluralSi ght](https://www.pluralSi ght.com/courses/amazon-echo-developing-alexa-skills) **10 DÍAS DE PRUEBA**
+ - [Pluralsight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) **10 DÍAS DE PRUEBA**
  - [Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
@@ -331,7 +331,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
  ## 1.11 Git and Github :octocat:
  - [Git Tutorials](https://www.atlasSi an.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
- - [VerSi on Control with Git](https://in.udacity.com/course/verSi on-control-with-git--ud123)
+ - [Version Control with Git](https://in.udacity.com/course/Version-control-with-git--ud123)
  - [Introduction to Git and Github](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 ## 1.12 R Language
@@ -410,7 +410,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
 |10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
 |11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-deSi gn-contest-2018/) |Online y En Lugar |
+|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-Design-contest-2018/) |Online y En Lugar |
 |13| [Quest Ingenium](https://www.questingenium.com/) | - |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | En Lugar |
 |15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | En Lugar |
@@ -509,7 +509,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-8. [Google Reskilling India Program | PluralSi ght](https://www.pluralSi ght.com/partners/google/)
+8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
 
 ## Programas de Becas de Investigación para Estudiantes :v:
 1. [university Innovation Fellowship - Stanford university](http://universityinnovationfellows.org/)
@@ -628,7 +628,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |2 | [ODSC ](https://odsc.com/) |  Global | No | Ago 30 | Sep 2 | AI |
 |3 | [World Business Dialogue](https://www.world-Business-dialogue.com/)| Global | Si | Feb 18 | Feb 22 | Business |
 |4 | [Business Today Conference](https://Businesstoday.org/conferences/)| Nueva York | Si | Nov 18 | Nov 20  | Business |
-|5 | [ASi a Pacific Week](http://aSi apacificweek.anu.edu.au/) | Australia | Parcial | June 24 | June 29 | - |
+|5 | [Asia Pacific Week](http://Asiapacificweek.anu.edu.au/) | Australia | Parcial | June 24 | June 29 | - |
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Nov 9 | Nov 9 | JS |
 |7 | [PyCon](https://www.pycon.fr/2018/) | Francia | - | Octubre 4 | Octubre 7 | Python |
 |8 | [React Europe]() | Francia | - | May 21 - 24 | - | JS |
@@ -641,9 +641,9 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |15| [Clinton Global Initiative university](http://www.cgiu.org/) | USA | - | Marzo a Oct (varía cada año) | 3 días | - |
 |16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Parcial | Ago 3 | Ago 5 | Business |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Si  | Jan 6 | Jan 11 | - |
-|18| [KPMG Future DiverSi ty Leaders](https://scholarshipscorner.webSi te/kmpg-future-diverSi ty-leaders-summer-leadership-program-2018/) | California | Si  | Verano | - | - |
+|18| [KPMG Future DiverSi ty Leaders](https://scholarshipscorner.website/kmpg-future-diverSi ty-leaders-summer-leadership-program-2018/) | California | Si  | Verano | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global | No | - | - | - |
-|20| [Tech in ASi a Bangalore](http://events.techinaSi a.com/bangalore/) | India | - | - | - | - |
+|20| [Tech in Asia Bangalore](http://events.techinAsia.com/bangalore/) | India | - | - | - | - |
 |21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
 |22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varía por área | Verificar website | - |
 |23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | Sep 5 | Sep 7 | - |
@@ -666,7 +666,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |40| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Ago 8 - 10 | - | JS |
 |41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
 |42| [Si GGRAPH](https://s2019.Si ggraph.org/) | Global | - | Jul 29 - Ago 1 | - | - |
-|43| [Si GGRAPH ASi a](https://sa2018.Si ggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|43| [Si GGRAPH Asia](https://sa2018.Si ggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 
 =============================================================================================
 
