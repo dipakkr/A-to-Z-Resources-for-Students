@@ -563,6 +563,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
 12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
+14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
