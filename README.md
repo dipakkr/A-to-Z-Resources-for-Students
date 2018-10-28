@@ -188,6 +188,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
     - [PHP: The Right Way](https://phptherightway.com)
+    - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -222,10 +223,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
+    - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
+    - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+    - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -243,6 +247,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
 
 
 - **JavaScript Frameworks**    
