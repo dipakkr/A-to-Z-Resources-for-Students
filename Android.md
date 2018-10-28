@@ -31,6 +31,7 @@
 + [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
 + [Android Programming by Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming/)
 + [Professional Android by Reto Meier, Ian Lake](https://www.wiley.com/en-us/Professional+Android%2C+4th+Edition-p-9781118949528)
++ [Efficient Android Threading by Anders Goransson](https://www.oreilly.com/library/view/efficient-android-threading/9781449364120/)
 
 
 ## 4. Podcast
