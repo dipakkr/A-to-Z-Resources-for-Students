@@ -14,34 +14,34 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## Table of Contents :clipboard:
 
-1.  [Coding Resources - How to learn xyz ](#1-coding-resources-pencil)
+1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
 
-     - [Python](#11-python-snake)
-     - [Machine Learning](#12-machine-learning-robot)
+     - [Python](#11-python)
+     - [Machine Learning](#12-machine-learning)
      - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
-     - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
+     - [Android Development](#14-android-development)
+     - [Backend Development ](#15-backend-development)
+     - [Frontend Web Development](#16-frontend-web-development)
+     - [Data Structures](#17-data-structures)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
-     - [Git and Github](#111-git-and-github-octocat)
+     - [Git and Github](#111-git-and-github)
      - [R Language](#112-r-language)
      - [Haskell](#113-haskell)
      - [MongoDB](#114-mongodb)
      - [Prolog](#115-prolog)
-     - [C# Language](#116-c#-language)
+     - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
+     - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
+     - [Competitions](#22-competitions-trophy)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
+     - [Events](#24-events-ticket)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
-     - [Hiring Challenges](#26-hiring-challenges-heart)
+     - [Hiring Challenges](#26-hiring-challenges)
 
 3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
@@ -49,14 +49,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Student Fellowship Programs](#student-fellowship-programs-v)
      - [Scholarships](#scholarships-runner)
 
-4.  [Open Source Programs](#4-open-source-programs-octocat)
+4.  [Open Source Programs](#4-open-source-programs)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
 6.  [Internship Portals](#6-internship-portals-smile)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
+11. [Additional Links](#11-additional-links)
 12. [Contributors](CONTRIBUTORS.md)
 
 ---
@@ -152,13 +152,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.4 Android Development
 
 -  [For Beginners](Android.md) :baby:
--  [Free courses & Nanodegree | Udacity](https://udacity.com) 
+-  [Free courses & Nanodegree | Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
 -  [Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
+-  [Caster.io](https://caster.io) :heavy_dollar_sign:
 
 ## 1.5 Backend Development
 
@@ -196,6 +197,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
+    - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
 
@@ -227,6 +229,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
+     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
 
 - **Bootstrap4**
 
@@ -329,9 +332,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons ot take part in challenges
+    - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
 
 - **Books**
-    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) 
+    - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - Holy Bible for Design and Analysis of algorithms
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
@@ -583,7 +587,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
-5. [Azure Students](https://azure.microsoft.com/en-us/free/students/)
+5. [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
 6. [Google Cloud](https://cloud.google.com/free/)
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
@@ -797,7 +801,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
-|45 | [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
+|45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
+|45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
 
 ---
 
