@@ -295,6 +295,7 @@ Instructions :
 | 261 | **KY SOPHOT** | Cambodia | Computer Science & Engineering | [Github] (https://github.com/sophot)
 | 262 | **Kai Yoke** |Singapore| Engineering Student | [GitHub](https://github.com/kwyoke) |
 | 263 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
+| 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect | [GitHub](https://github.com/niravmadariya) | [LinkedIn](https://www.linkedin.com/in/niravmadariya) | [Twitter](https://twitter.com/niravmadariya)
 
 ---
 
