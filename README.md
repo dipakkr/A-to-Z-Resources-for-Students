@@ -63,7 +63,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # FYI
 
-- Are you just getting started? Look for the :baby: emoji. It highlights resources for absolute begginners.
+- Are you just getting started? Look for the :baby: emoji. It highlights resources for absolute beginners.
 - Some resources are recommended for _everyone_, so they have a :star: emoji.
 - Willing to spend some money to improve your skills?  :heavy_dollar_sign: indicates paid content.
 
