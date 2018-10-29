@@ -93,6 +93,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
+- [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
 
 ## 1.2 Machine Learning
 
