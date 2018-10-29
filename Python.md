@@ -18,7 +18,8 @@
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 + <a href = "https://automatetheboringstuff.com/"> Automate the Boring Stuff with Python</a>
 + <a href = "https://bit.ly/2D3wHsf"> CS Dojo's Tips to write efficient code.</a>
-+ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
++ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basics by Corey Schafer</a>
++ <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Advance by Corey Schafer</a>
 + <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
 
 ## 2. Socket Programming
