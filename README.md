@@ -365,6 +365,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
  - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+ - [Harvard's CS50 Course](https://cs50.harvard.edu/)
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -377,6 +378,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+ - [LearnCPP](https://www.learncpp.com/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
