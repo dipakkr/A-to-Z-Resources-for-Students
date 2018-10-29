@@ -1,10 +1,12 @@
-## Data Structures Cheet Sheet
-**Best way to learn any data structure is to read about it first, understand it and then dive into solving problems using that data structure!**
+## Data Structures Cheat Sheet
+_Best way to learn any data structure is to read about it first, understand it and then dive into solving problems using that data structure! and the last part practice and practice_
+### Segment Tree
+
 - [Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/) - **Segment Tree is used in cases where there are multiple range queries on array and modifications of elements of the same array.**
 	**Goto problems:**
 	- [GSS1- SPOJ](https://www.spoj.com/problems/GSS1/) - **EASY**
 	- [GSS3- SPOJ](https://www.spoj.com/problems/GSS3/) - **EASY**
-	- [More Easy Problems](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/?sort_by=undefined&p_level=E) - **List of easy segment tree problems. Go for the medium diffculty ones once you are comfortably with easy.**
+	- [More Easy Problems](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/?sort_by=undefined&p_level=E) - **List of easy segment tree problems. Go for the medium difficulty ones once you are comfortable with easy.**
 	- [GSS4- SPOJ](https://www.spoj.com/problems/GSS4/) - **MEDIUM**
 	- [BRCKTS](https://www.spoj.com/problems/BRCKTS/) - **MEDIUM**
 	- [FREQUENT](https://www.spoj.com/problems/FREQUENT/) - **MEDIUM**
@@ -17,6 +19,7 @@
 	- [SEGSQRSS](https://www.spoj.com/problems/SEGSQRSS/) - **MEDIUM**
 	- [TorCoder](https://codeforces.com/contest/240/problem/F) - **HARD**
 	- [Comrades- III](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/) - **HARD**
+  - [Hash Table-Problems](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/xsquare-and-palindromes-insertion/)-**A good question on implementaion of hashing from hackerearth.**
 
 **Refrences to some nice book (Free .pdf FILE) of Data Structure :**
 
