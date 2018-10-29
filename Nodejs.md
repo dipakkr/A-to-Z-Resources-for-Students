@@ -4,6 +4,7 @@
 
 1.  [Understand Nodejs](#1-understand-nodejs)
 
+     - [Not to miss the official docs](https://nodejs.org/api/)
      - [What is nodejs - FreeCodecamp](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
      - [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
      - [What you should know to really understand the Node.js Event Loop](https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c)
