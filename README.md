@@ -35,6 +35,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
      - [Microsoft Technologies](#119-microsoft)
+     - [Scala](#120-scala)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
@@ -444,6 +445,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+## 1.20 Scala
+- [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
 
 ---
 
