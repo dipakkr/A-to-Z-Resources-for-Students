@@ -282,7 +282,7 @@ Instructions :
 | 249 | **Lenny** | Germany | Computer Science Student | [GitHub](https://github.com/lenni108) |
 | 250 | **Matei** | Slovakia | Rock Instructor, Pixel Aligner | [CodePen](https://codepen.io/towc) |
 | 251 | **Ajith Kumar Panja** | India | Sophomore , CEG | [GitHub](https://github.com/AjithPanja) |
-| 252| **Abegail I** | Philippines | Mobile Developer | [GitHub](https://github.com/chabbyabe) |
+| 252 | **Abegail I** | Philippines | Mobile Developer | [GitHub](https://github.com/chabbyabe) |
 | 253 | **Alexander Nazarovsky** | Russia | SalesForce Admin | [GitHub](https://github.com/ArchieDash) |
 | 254 | **Prakash Jha** | India | Computer Science Student | [GitHub](https://github.com/forgotter) - [LinkedIn](https://www.linkedin.com/in/prakash-jha-forgotter/)|
 | 255 | **Rotceh** | México | Computer Science student | [GitHub](https://github.com/Rotceh88) |
@@ -302,6 +302,7 @@ Instructions :
 | 269 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) - [LinkedIn](https://in.linkedin.com/in/pranav7955)
 | 270 | **Rich** | Mexico | Intelligent Systems Student, Musician | [GitHub](https://github.com/Richb17) |
 | 271 | **Beatriz Milz** | Brazil | Environmental Science Student | [GitHub](https://github.com/beatrizmilz) |
+| 272 | **Franciele Portugal** | Brazil | Student of Information Systems and I love datas | [GitHub](https://github.com/francieleportugal) - [LinkedIn](https://www.linkedin.com/in/franciele-portugal-557aa7119)|
 
 ---
 
