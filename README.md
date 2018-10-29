@@ -444,6 +444,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
+- [Learn C# building a simple rpg](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+- [DotNetPerls - C# Reference](https://www.dotnetperls.com/)
 
 ## 1.17 DevDocs
 
