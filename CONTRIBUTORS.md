@@ -1,4 +1,4 @@
-﻿## Here is a list of awesome people who contributed to this repository
+## Here is a list of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia:
 
@@ -314,6 +314,7 @@ Instructions :
 | 281 | **Haris Rabbani** | United Kingdom | Computer Science Student | [Github](https://github.com/HarisRabbani) |
 | 282 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
 | 283 | **Gabriel Ferreira** | Brazil | CS Student | [Github](https://github.com/gabrielvf64) |
+| 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/)
 
 ---
 
