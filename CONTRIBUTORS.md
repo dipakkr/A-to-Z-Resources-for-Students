@@ -312,7 +312,8 @@ Instructions :
 | 279 | **Edwin Francis** | India | Web Developer | [GitHub](https://github.com/edwinfrancis002) |
 | 280 | **Johan Reji** | India | web Developer | [GitHub](https://github.com/johanreji) |
 | 281 | **Haris Rabbani** | United Kingdom | Computer Science Student | [Github](https://github.com/HarisRabbani) |
-| 261 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
+| 282 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
+| 283 | **Gabriel Ferreira** | Brazil | CS Student | [Github](https://github.com/gabrielvf64) |
 
 ---
 
