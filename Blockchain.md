@@ -2,6 +2,7 @@
 
 ## Basics
 + Good resource for beginners: https://www.youtube.com/watch?v=_160oMzblY8&t=393s
++ Blockchain basics: https://www.lynda.com/Data-Science-tutorials/Blockchain-Basics/574704-2.html?srchtrk=index%3a3%0alinktypeid%3a2%0aq%3ablockchain%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2
 + Simply Explained Playlist by SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw
 + Siraj Raval youtube cryptocurrencies series on youtube : https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
