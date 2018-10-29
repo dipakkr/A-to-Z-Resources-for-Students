@@ -195,6 +195,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
     - [PHP: The Right Way](https://phptherightway.com)
+    - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -240,10 +241,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
     - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
     - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
+    - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
+    - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
+    - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -264,6 +268,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of Code](https://30secondsofcode.org/)
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
 
 
 - **JavaScript Frameworks**
