@@ -18,13 +18,20 @@ https://www.theschool.ai/
 + Course on Coursera : https://www.coursera.org/learn/blockchain-basics
 
 ## Hyperledger fabric
-+ For getting started: https://hyperledger-fabric.readthedocs.io/en/release-1.1/write_first_app.html
++ For getting started: https://hyperledger-fabric.readthedocs.io
++ Fabric samples - Chaincode, SDKs and Network setup | https://github.com/hyperledger/fabric-samples
++ Hyperledger tutorials and articles | https://medium.com/coinmonks/top-hyperledger-tutorials-and-articles-b77cf3e4d1eb
++ Linux foundation free course on Hyperledger Technologies (includes Fabric) | https://training.linuxfoundation.org/training/blockchain-for-business-an-introduction-to-hyperledger-technologies/
 + Paid but worth it | Udemy: https://www.udemy.com/hyperledger/
 + IBM hyperledger fabric study material : https://www.ibm.com/blockchain/hyperledger
 + really valuable course by linux foundation | https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies
 
+## Multichain
++ Getting started for developers | https://www.multichain.com/developers/
+
 ## More about Blockchain
 + Step by step guide for beginners https://blockgeeks.com/guides/what-is-blockchain-technology/
++ Step by step Guide in Building a blockchain application with Hyperledger&GO https://chainhero.io/2018/06/tutorial-build-blockchain-app-v1-1-0/ 
 
 A tip before watching all the resources : Bitcoin!=Blockchain, that means blockchain is not only bitcoin.
 + What is Blockchain Technology https://www.coindesk.com/information/what-is-blockchain-technology/
