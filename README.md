@@ -270,6 +270,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
+    - [Wes Bos list of courses](https://wesbos.com/courses/)
 
 
 - **JavaScript Frameworks**
