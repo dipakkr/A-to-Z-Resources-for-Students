@@ -592,7 +592,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## Campus Ambassador Programs :v:
 1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
-2. [Github Campus Expert](https://githubcampus.expert/)
+2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
 5. [Progate Student Ambassador](http://progate.com/)
@@ -608,16 +608,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
-2. [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
+2. Microsoft students:
+   - [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
+   - [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
+   - [Microsoft Azure - $100 Azure credit for students](https://azure.microsoft.com/en-gb/free/students/)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
-5. [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
-6. [Google Cloud](https://cloud.google.com/free/)
-7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
-8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
-9. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
-10. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
-11. [Bitbucket Education](https://bitbucket.org/product/education)
+5. [Google Cloud](https://cloud.google.com/free/)
+6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+7. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
+8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
+9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
+10. [Bitbucket Education](https://bitbucket.org/product/education)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
