@@ -259,6 +259,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
     - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+    -- [CommonLounge](https://www.commonlounge.com/discussion/f27d47e210914bad8450016551831bd4) - **Great resources available for both Competetive programming and Ds algo interview preparation**
     - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
