@@ -34,6 +34,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
+	 - [Popular IDEs] (#119-popular-ides)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
@@ -434,6 +435,25 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
 - [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
+## 1.19 Popular IDEs
+
+- [Atom](https://atom.io/) (free) 
+- [Sublime Text](https://www.sublimetext.com/) (free)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) (community/pro)
+- [PyCharm](https://www.jetbrains.com/pycharm/) (community free / pro)
+- [RubyMine](https://www.jetbrains.com/ruby/) (community free / pro)
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) (community free / pro)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Visual Studio Code](https://code.visualstudio.com/) (free / paid)
+- [Visual Studio](https://visualstudio.microsoft.com/) (free / paid)
+- [Spyder](https://www.spyder-ide.org/) (free)
+- [PyDev](http://www.pydev.org/) (free)
+- [Eclipse](https://www.eclipse.org/ide/) (free)
+- [CodeBlocks])www.codeblocks.org/) (free)
+- [Aptana](www.aptana.com/) (free)
+- [Komodo Edit])https://www.activestate.com/komodo-edit) (free)
+- [NetBeans](https://netbeans.org/) (free)
+- [Notepad ++](https://notepad-plus-plus.org/download/) (free)
 ---
 
 
