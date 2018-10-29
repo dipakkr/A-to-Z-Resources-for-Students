@@ -235,7 +235,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CSS Flexbox | Wes Bos](https://flexbox.io/)
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
-     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+    - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
+    - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
+    - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
+    - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
+    - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
 
 - **Bootstrap4**
 
