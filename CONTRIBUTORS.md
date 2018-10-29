@@ -286,6 +286,7 @@ Instructions :
 | 254 | **Prakash Jha** | India | Computer Science Student | [GitHub](https://github.com/forgotter) - [LinkedIn](https://www.linkedin.com/in/prakash-jha-forgotter/)|
 | 255 | **Rotceh** | México | Computer Science student | [GitHub](https://github.com/Rotceh88) |
 | 256 | **Rahul R** | India | Security Engineer | [Github](https://github.com/rahulr311295) |
+| 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
 
 ---
 
