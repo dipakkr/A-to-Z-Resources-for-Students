@@ -301,6 +301,7 @@ Instructions :
 | 268 | **Rafli Fahreza**  | Indonesia | Student | [Github](https://github.com/HYP3RTEX7) |
 | 269 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) - [LinkedIn](https://in.linkedin.com/in/pranav7955)
 | 270 | **Rich** | Mexico | Intelligent Systems Student, Musician | [GitHub](https://github.com/Richb17) |
+| 271 | **Beatriz Milz** | Brazil | Environmental Science Student | [GitHub](https://github.com/beatrizmilz) |
 
 ---
 
