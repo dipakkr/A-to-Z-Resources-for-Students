@@ -140,6 +140,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Best Online Courses**
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
+    - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
 
 -  **Best GitHub Repositories to follow**
     - [Top 200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
