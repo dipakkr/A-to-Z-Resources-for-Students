@@ -79,14 +79,16 @@
 + <a href ="https://github.com/getpelican/pelican">Pelican | Static site generator which provides support to Markdown and reST syntax.</a>
 + <a href ="https://github.com/rg3/youtube-dl">Youtube-dl | Small command-line program to download videos from YouTube.com and other video sites</a>
 
-## 8. **Django**
+## 10. **Django**
 + <a href = "https://docs.djangoproject.com/en/2.1/intro/tutorial01/"> Django Documentation Poll App Tutorial (Version 2.1)</a>
 + <a href = "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django (Version 1.11)</a>
 + <a href = "https://tutorial.djangogirls.org/en/installation/">Django Girls Tutorial (Version 2.0.6)</a>
 
-## **Flask**
+## 11. **Flask**
 + <a href = "http://flask.pocoo.org/docs/1.0/"> Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
 + <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
 + <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8&t=5011s">CS50 Flask</a>
 
-
+## 12. **Machine Learning**
++ <a href = "https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook-second-edition"> TensorFlow Machine Learning Cookbook</a>
++ <a href = "https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-scikit-learn-video"> Real-World Machine Learning Projects with Scikit-Learn </a>
