@@ -290,6 +290,7 @@ Instructions :
 | 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
 | 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
 | 252 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
+| 253 | **Menna Fateen** | Egypt | Computer Science student | [Github](https://github.com/mennafateen) |
 
 ---
 
