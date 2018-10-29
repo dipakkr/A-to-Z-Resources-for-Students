@@ -1,4 +1,4 @@
-## Here is a list of awesome people who contributed to this repository
+﻿## Here is a list of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia:
 
@@ -312,6 +312,7 @@ Instructions :
 | 279 | **Edwin Francis** | India | Web Developer | [GitHub](https://github.com/edwinfrancis002) |
 | 280 | **Johan Reji** | India | web Developer | [GitHub](https://github.com/johanreji) |
 | 281 | **Haris Rabbani** | United Kingdom | Computer Science Student | [Github](https://github.com/HarisRabbani) |
+| 261 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
 
 ---
 
