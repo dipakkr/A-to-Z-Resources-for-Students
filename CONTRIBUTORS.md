@@ -307,6 +307,7 @@ Instructions :
 | 274 | **Jessa Bermudez** | Philippines | Designer | [GitHub](https://github.com/sahsah29) |
 | 275 | **Sahil** | USA | Student | [GitHub](https://github.com/EpicDragonSlayr) |
 | 276 | **Jeffrey Ongcay* | Philippines | Software Engineer | [GitHub](https://github.com/jeffreyongcay) |
+| 277 | **Ryan Casicas** | Philippines | Junior Software Developer , Traxion | [GitHub](https://github.com/rcasicas44) |
 
 ---
 
