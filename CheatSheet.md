@@ -112,7 +112,7 @@ double - long float
 if(flag) {
    // put some statements here to execute if flag is true (flag != 0)
 } 
-if(flag) {
+else if(flag) {
    // put some statements here to execute if flag is true (flag != 0)
 } else {
    // put some statements here to execute if flag is false (flag == 0)
