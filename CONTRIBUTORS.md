@@ -290,6 +290,7 @@ Instructions :
 | 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
 | 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
 | 252 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
+| 254 | **Kesara Wimal** | Sri Lanka | Software Engineer | [GitHub](https://github.com/kesarawimal) - [LinkedIn](https://www.linkedin.com/in/kesarawimal/)|
 
 ---
 
