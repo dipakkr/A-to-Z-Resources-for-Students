@@ -298,6 +298,7 @@ Instructions :
 | 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect | [GitHub](https://github.com/niravmadariya) | [LinkedIn](https://www.linkedin.com/in/niravmadariya) | [Twitter](https://twitter.com/niravmadariya)
 | 265 | **Prateek Bajaj**  | India | Student | [Github](https://github.com/prateek552) |
 | 266 | **Nick Day** | USA | Software Developer | [GitHub](https://github.com/solakin) |
+| 267 | **Chandan**  | India | Student | [Github](https://github.com/chandan) |
 
 ---
 
