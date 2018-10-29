@@ -287,7 +287,7 @@ Instructions :
 | 255 | **Rotceh** | México | Computer Science student | [GitHub](https://github.com/Rotceh88) |
 | 256 | **Rahul R** | India | Security Engineer | [Github](https://github.com/rahulr311295) |
 | 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
-
+| 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
