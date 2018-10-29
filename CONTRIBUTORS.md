@@ -1,6 +1,7 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :singapore: :maple_leaf:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :sri lanka
+
 
 ```
 Instructions :
@@ -289,10 +290,11 @@ Instructions :
 | 256 | **Rahul R** | India | Security Engineer | [Github](https://github.com/rahulr311295) |
 | 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
 | 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
-| 252 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
+| 259 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
 | 260 | **Keyur Canji** | United Kingdom | BSc Computer Science Student | [Github](https://github.com/KeyurC) |
 | 261 | **KY SOPHOT** | Cambodia | Computer Science & Engineering | [Github] (https://github.com/sophot)
 | 262 | **Kai Yoke** |Singapore| Engineering Student | [GitHub](https://github.com/kwyoke) |
+| 263 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
 
 ---
 
