@@ -563,15 +563,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
 3. Google Solve for India
-4. Paytm Build for India Workshops [ Delhi, Bangalore ]
-5. NVIDIA Developer Connect [ Global ]
-6. AWS meetups [ Global ]
-7. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
-8. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
-9. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
-10. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
-11. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
-12. Connect.Tech [17-19 October 2018, Atlanta, GA](http://connect.tech/)
+3. Paytm Build for India Workshops [ Delhi, Bangalore ]
+4. NVIDIA Developer Connect [ Global ]
+5. AWS meetups [ Global ]
+6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
 
