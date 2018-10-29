@@ -284,6 +284,8 @@ Instructions :
 | 252| **Abegail I** | Philippines | Mobile Developer | [GitHub](https://github.com/chabbyabe) |
 | 253 | **Alexander Nazarovsky** | Russia | SalesForce Admin | [GitHub](https://github.com/ArchieDash) |
 | 254 | **Prakash Jha** | India | Computer Science Student | [GitHub](https://github.com/forgotter) - [LinkedIn](https://www.linkedin.com/in/prakash-jha-forgotter/)|
+| 255 | **Rotceh** | México | Computer Science student | [GitHub](https://github.com/Rotceh88) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
