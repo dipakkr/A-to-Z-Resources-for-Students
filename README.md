@@ -241,6 +241,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
+    - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
     - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
