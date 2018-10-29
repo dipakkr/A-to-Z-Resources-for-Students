@@ -17,13 +17,22 @@
 + <a href = "https://automatetheboringstuff.com/"> Automate the Boring Stuff with Python</a>
 + <a href = "https://bit.ly/2D3wHsf"> CS Dojo's Tips to write efficient code.</a>
 + <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
++ <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
 + <a href="https://www.geeksforgeeks.org/socket-programming-multi-threading-python/"> Socket Programming with Multithreading in Python</a>
 
 
-## 3. DataScience
+## 3. Web Development
++ <a href = "https://www.youtube.com/watch?v=qgGIqRFvFFk"> Django Tutorial </a>
++ <a href = "https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP"> Flask Tutorial </a>
+
+## 4. Desktop APP Development
++ <a href = "https://kivy.org/#home"> Kivy(Android, Desktop, IOS) Applications </a>
++ <a href = "https://www.youtube.com/watch?v=e5PBUFrSKgQ&list=PLZocUikpczs-Yud2lyFpSNQOvxuPUVBDp"> PyQT5 (Desktop Application) </a>
+
+## 5. DataScience
 
 + <a href = "http://cs231n.github.io/python-numpy-tutorial/"> Python Numpy Library</a>
 + <a href = "https://www.youtube.com/watch?v=B42n3Pc-N2A"> Pandas Tutorial </a>
@@ -33,7 +42,7 @@
 + <a href = "https://www.youtube.com/watch?v=-BQCB6Uch1g">Scikit Learn Tutorial</a>
 + <a href = "https://www.datacamp.com/community/data-science-cheatsheets"> Cheat Sheets</a>
 
-## 4. Databases
+## 6. Databases
 
 + <a href = "https://www.geeksforgeeks.org/mysqldb-connection-python/"> Mysql-Python Introduction with connection method</a>
 + <a href = "https://www.geeksforgeeks.org/mongodb-and-python/">MongoDB and Python</a>
@@ -42,13 +51,13 @@
 + <a href = "https://www.geeksforgeeks.org/mongodb-python-delete-data-drop-collection/">Delete data and Drop collection | MongoDB python </a>
 
 
-## 5. Testing
+## 7. Testing
 
 + <a href = "https://www.geeksforgeeks.org/software-engineering-selenium-an-automation-tool/"> Selenium Definition</a>
 + <a href = "https://www.guru99.com/selenium-python.html"> Python Selenium Tutorial</a>
 + <a href = "https://www.geeksforgeeks.org/selenium-python-tricks/"> Python Selenium Tricks</a>
 
-## 6. Python Miscellaneous
+## 8. Python Miscellaneous
 + <a href = "https://www.geeksforgeeks.org/youtube-mediaaudio-download-using-python-pafy/"> YouTube Media/Audio Download using Python | pafy</a>
 + <a href = "http://qr.ae/TbcLvy"> Python Faker Library | Generates Fake data </a>
 + <a href = "https://pypi.org/project/haversine/"> Harversine | Calculates distance between two points on Earth </a>
@@ -60,7 +69,7 @@
 + <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
 + <a href = "https://docs.quantifiedcode.com/python-anti-patterns/index.html"> Python Anti-Patterns</a>
 
-## 7. **Projects**
+## 9. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
 + <a href ="https://github.com/manojmj92/subtitle-downloader">Subtitle Downloader</a>
 + <a href ="https://github.com/manojmj92/imdb">The classic IMDB scraper</a>
@@ -75,3 +84,10 @@
 + <a href = "https://docs.djangoproject.com/en/2.1/intro/tutorial01/"> Django Documentation Poll App Tutorial (Version 2.1)</a>
 + <a href = "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django (Version 1.11)</a>
 + <a href = "https://tutorial.djangogirls.org/en/installation/">Django Girls Tutorial (Version 2.0.6)</a>
+
+## **Flask**
++ <a href = "http://flask.pocoo.org/docs/1.0/"> Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
++ <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
++ <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8&t=5011s">CS50 Flask</a>
+
+
