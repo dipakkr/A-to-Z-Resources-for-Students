@@ -11,7 +11,8 @@ Instructions :
 
 - Don't change the format of the table or modify someone else content.
 
-- In case you don't want to disclose your contact information, no problem, this list is just created to get to know people who are contributing to this repository.
+- In case you don't want to disclose your contact information, no problem, 
+  this list is just created to get to know people who are contributing to this repository.
 ```
 
 ### 1. Collaborators
@@ -249,7 +250,7 @@ Instructions :
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
 | 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
 | 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
-| 220 | **Lauren Conley** | United States | Learning Full Stack web development | https://github.com/laconley |
+| 220 | **Lauren Conley** | United States | Learning Full Stack web development | [Github](https://github.com/laconley) |
 | 221 | **Caleb Xu** | USA | | [GitHub](https://github.com/alebcay) |
 | 222 | **Shafran Naizer** | Srilanka| Undergraduate | [GitHub](https://github.com/shafran123) |
 | 223 | **Steve Worrell** | England | SharePoint Developer | [GitHub](https://github.com/steve-worrell) |
@@ -288,6 +289,8 @@ Instructions :
 | 256 | **Rahul R** | India | Security Engineer | [Github](https://github.com/rahulr311295) |
 | 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
 | 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
+| 252 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
