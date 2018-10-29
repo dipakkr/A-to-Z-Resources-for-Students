@@ -1,7 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :sri lanka
-
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia:
 
 ```
 Instructions :
@@ -299,6 +298,7 @@ Instructions :
 | 265 | **Prateek Bajaj**  | India | Student | [Github](https://github.com/prateek552) |
 | 266 | **Nick Day** | USA | Software Developer | [GitHub](https://github.com/solakin) |
 | 267 | **Chandan**  | India | Student | [Github](https://github.com/chandan) |
+| 268 | **Rafli Fahreza**  | Indonesia | Student | [Github](https://github.com/HYP3RTEX7) |
 
 ---
 
