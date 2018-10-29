@@ -281,6 +281,7 @@ Instructions :
 | 249 | **Lenny** | Germany | Computer Science Student | [GitHub](https://github.com/lenni108) |
 | 250 | **Matei** | Slovakia | Rock Instructor, Pixel Aligner | [CodePen](https://codepen.io/towc) |
 | 251 | **Ajith Kumar Panja** | India | Sophomore , CEG | [GitHub](https://github.com/AjithPanja) |
+| 252 | **Junhyeong Bak** | Republic of Korea | Highschool student | [GitHub](https://github.com/Bak-JH) |
 
 ---
 
