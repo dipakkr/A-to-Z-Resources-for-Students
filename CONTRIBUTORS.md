@@ -304,6 +304,7 @@ Instructions :
 | 271 | **Beatriz Milz** | Brazil | Environmental Science Student | [GitHub](https://github.com/beatrizmilz) |
 | 272 | **Franciele Portugal** | Brazil | Student of Information Systems and I love datas | [GitHub](https://github.com/francieleportugal) - [LinkedIn](https://www.linkedin.com/in/franciele-portugal-557aa7119)|
 | 273 | **Vladimir Solovev** | Russia | Developer | [GitHub](https://github.com/solovyovs) |
+| 274 | **Jessa Bermudez** | Philippines | Designer | [GitHub](https://github.com/sahsah29) |
 
 ---
 
