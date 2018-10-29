@@ -315,6 +315,7 @@ Instructions :
 | 282 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
 | 283 | **Gabriel Ferreira** | Brazil | CS Student | [Github](https://github.com/gabrielvf64) |
 | 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/)
+| 285 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
 
 ---
 
