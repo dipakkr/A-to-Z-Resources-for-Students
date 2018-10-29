@@ -297,6 +297,7 @@ Instructions :
 | 263 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
 | 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect | [GitHub](https://github.com/niravmadariya) | [LinkedIn](https://www.linkedin.com/in/niravmadariya) | [Twitter](https://twitter.com/niravmadariya)
 | 265 | **Prateek Bajaj**  | India | Student | [Github](https://github.com/prateek552) |
+| 266 | **Nick Day** | USA | Software Developer | [GitHub](https://github.com/solakin) |
 
 ---
 
