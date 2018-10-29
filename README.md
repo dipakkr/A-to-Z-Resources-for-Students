@@ -391,6 +391,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R-Bloggers](https://www.r-bloggers.com/)
 - [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
+- [Swirl](https://swirlstats.com/students.html)
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
