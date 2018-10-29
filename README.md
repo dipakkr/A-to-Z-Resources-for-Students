@@ -34,7 +34,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
-	 - [Popular IDEs] (#119-popular-ides)
+	 - [Popular IDEs](#119-popular-ides)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
@@ -449,9 +449,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Spyder](https://www.spyder-ide.org/) (free)
 - [PyDev](http://www.pydev.org/) (free)
 - [Eclipse](https://www.eclipse.org/ide/) (free)
-- [CodeBlocks])www.codeblocks.org/) (free)
+- [CodeBlocks](www.codeblocks.org/) (free)
 - [Aptana](www.aptana.com/) (free)
-- [Komodo Edit])https://www.activestate.com/komodo-edit) (free)
+- [Komodo Edit](https://www.activestate.com/komodo-edit) (free)
 - [NetBeans](https://netbeans.org/) (free)
 - [Notepad ++](https://notepad-plus-plus.org/download/) (free)
 ---
