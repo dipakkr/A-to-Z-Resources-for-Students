@@ -242,6 +242,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
     - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
+    - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
     - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
@@ -334,6 +335,21 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons ot take part in challenges
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
+
+- **Tutorials & Practice**
+    - [Visual Algo]
+    (https://visualgo.net/en) Understanding DS & Algo through animations.
+    - [E-maxx] 
+    (https://e-maxx.ru/algo/) Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
+    (https://cp-algorithms.com/) English version of e-maxx. (Translation is almost complete)
+    - [All Good Tutorials on Codeforces]
+    (http://codeforces.com/blog/entry/57282) - All of the best tutorials on Codeforces all at one place.
+    - [DS & Algo + Maths + C++] 
+    (http://codeforces.com/blog/entry/13529) - Another set of good compilation of resources to study.
+    - [Data Structures and Algorithms]
+    (https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
+    - [Problem Topics]
+    (http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
