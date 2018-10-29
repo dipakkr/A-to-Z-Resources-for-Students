@@ -1,86 +1,87 @@
-# 학생을위한 A to Z 자료:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# 학생을 위한 A to Z 자료:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-> ## 자유롭게 너의 사랑을 보여라 :heart: 별표를주는 것으로 :star:
+> ## 여러분의 사랑을 :heart: 스타로 표현하세요 :star:
 
-> ## [참여자 목록 확인 :heart::heart:](CONTRIBUTORS.md) - **여기에 세부 정보를 추가하십시오.**
+> ## [참여자 목록 확인 :heart::heart:](../CONTRIBUTORS.md) - **여기에 세부 정보를 추가하십시오.**
 
-### 새로운 언어를 배우기위한 자원을 찾고있는 대학생 또는 직업 전문가입니까? 지역 사회의 새로운 사람들을 만나거나 글로벌 컨퍼런스, 해커턴 및 대회 참가를 원하십니까? 그렇다면 확실히 확인해야합니다.
+### 새로운 언어를 배우기위한 리소스를 찾고있는 대학생 또는 직업 전문가입니까? 새로운 사람들을 만나거나 글로벌 컨퍼런스, 해커톤 및 대회 참가를 원하십니까? 그렇다면 이 문서를 확실히 확인해 봐야합니다.
 
-대학 시절 해커턴, 컨퍼런스, 인턴십 및 인지도 부족으로 인한 많은 글로벌 이벤트와 같은 많은 기회를 놓쳤습니다. 신흥 개발자가 나처럼 똑같은 고통을 겪지 않기를 바란다. 따라서 나는 다른 곳에서 온 다른 개발자들과 함께 학생들을위한 자원 목록을 수집했습니다. 대학 또는 대학 졸업자이거나 개발 사업자로 시작한 사람이라면 반드시 확인해야합니다!
+대학 시절 해커톤, 컨퍼런스, 인턴십 및 인지도 부족으로 인한 많은 글로벌 이벤트와 같은 많은 기회를 놓쳤습니다. 신흥 개발자가 나처럼 똑같은 고통을 겪지 않기를 바랍니다. 따라서 저는 다른 개발자들과 함께 학생들을 위한 자원 목록을 수집했습니다. 대학생 또는 대학 졸업자이거나 막 개발자로 시작한 사람이라면 반드시 확인해 봐야합니다!
 
-![Image](res/xx.gif)
+![Image](../res/xx.gif)
 
 *이미지 크레딧 : Google*
 
 ## 목차 :clipboard:
 
-1.  [코딩 리소스 - xyz 배우는 법 ](#1-coding-resources-pencil)
+1.  [코딩 리소스 - 기초부터 배우는 법 ](#1-코딩-리소스-pencil)
 
      - [Python](#11-python-snake)
-     - [Machine Learning](#12-machine-learning-robot)
-     - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
-     - [Frontend Web Development](#16-frontend-web-development-computer)
-     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
-     - [Alexa Tutorials](#18-alexa-tutorials)
-     - [C Language](#19-c-language)
-     - [C++ Language](#110-c-language)
-     - [Git and Github](#111-git-and-github-octocat)
-     - [R Language](#112-r-language)
+     - [머신러닝](#12-머신러닝-robot)
+     - [딥러닝](#13-딥러닝)
+     - [안드로이드 개발](#14-안드로이드-개발-iphone)
+     - [백엔드 개발 ](#15-백엔드-개발-computer)
+     - [프론트엔드 웹 개발](#16-프론트엔드-웹-개발-computer)
+     - [자료구조](#17-자료구조-chart_with_upwards_trend)
+     - [알렉사 튜토리얼](#18-알렉사-튜토리얼)
+     - [C 언어](#19-c-언어)
+     - [C++ (Cpp)](#110-C++(Cpp))
+     - [Git과 Github](#111-git과-github-octocat)
+     - [R](#112-r)
      - [Haskell](#113-haskell)
-     - [DevDocs - API documentation for most programming languages (works offline)](https://devdocs.io)
+     - [DevDocs - 대부분의 프로그래밍 언어에 대한 API 문서 (오프라인에서 사용 가능)](https://devdocs.io)
 
-2.  [ Hackathons 및 이벤트 ](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
-     - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
-     - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
-     - [Hiring Challenges](#26-hiring-challenges-heart)
+2.  [ 해커톤 및 이벤트 ](#2-해커톤-및-이벤트)
+     - [Top 글로벌 해커톤](#21-rainbow-top-글로벌-해커톤)
+     - [대회](#22-대회-bomb)
+     - [해커톤 검색 포털](#23-해커톤-검색-포털-dart)
+     - [이벤트](#24-이벤트-heart_eyes)
+     - [스타트업 서밋과 대회 그리고 부트캠프](#25-스타트업-서밋과-대회-그리고-부트캠프-neckbeard)
+     - [채용 챌린지](#26-채용-챌린지-heart)
 
-3.  [ 학생 혜택 및 프로그램 ](#3-student-benefits-and-programs-fire)
-     - [Campus Ambassador Programs](#campus-ambassador-programs-v)
-     - [Student Benefits and Packs](#student-benefits-and-packs-v)
-     - [Student Fellowship Programs](#student-fellowship-programs-v)
-     - [Scholarships](#scholarships-runner)
+3.  [ 학생 혜택 및 프로그램 ](#3-학생-혜택-및-프로그램-fire)
+     - [캠퍼스 홍보 프로그램](#캠퍼스-홍보-프로그램-v)
+     - [학생 혜택 및 팩](#학생-혜택-및-팩-v)
+     - [학생 단체 프로그램](#학생-단체-프로그램-v)
+     - [장학금](#장학금-runner)
 
-4.  [ 오픈 소스 프로그램 ](#4-open-source-programs-octocat)
-5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [ Internship Portals ](#6-internship-portals-smile)
-7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
-8.  [ Conferences for students ](#8-conferences-bookmark_tabs)
-9.  [Top People to Follow](#9-top-people-to-follow)
-10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
-12. [Contributors](CONTRIBUTORS.md)
+4.  [ 오픈 소스 프로그램 ](#4-오픈-소스-프로그램-octocat)
+5.  [스타트업 프로그램과 인큐베이터](#5-스타트업-프로그램과-인큐베이터-mag_right)
+6.  [ 인턴쉽 포털 ](#6-인턴쉽-포털-smile)
+7.  [개발자 클럽과 밋업](#7-개발자-클럽과-밋업)
+8.  [ 학생들을 위한 컨퍼런스 ](#8-학생들을-위한-컨퍼런스-bookmark_tabs)
+9.  [따라가기 좋은 사람들](#9-따라가기-좋은-사람들)
+10. [따라하기 좋은 사이트](#10-따라하기-좋은-사이트)
+11. [추가 링크](#11-추가-링크-hamster)
+12. [참여자](../CONTRIBUTORS.md)
 
-=============================================================================================
+---
+
 # 1. 코딩 리소스 :pencil:
 
-## 1.1 파이썬 :snake:
+## 1.1 Python :snake:
 
-> [**파이썬에 대한 자세한 정보는이 링크에서 찾아보십시오**](Python.md)
+> [**Python에 대한 자세한 정보는이 링크에서 찾아보십시오**](../Python.md)
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
-- [Progate Python Classes](https://progate.com/languages/python) - **Good for absolute beginners**
+- [Progate Python Classes](https://progate.com/languages/python) - *초심자에게 좋음*
 -  [Video Tutorial for absolute beginners - Youtube](http://bit.ly/2NkrsKh)
 -  [Intro to Python - Udacity - Free course](https://in.udacity.com/course/introduction-to-python--ud1110-india)
 -  [Google Python class](https://developers.google.com/edu/python/)
 -  [Python For Everybody](https://www.coursera.org/specializations/python)
 
-## 1.2 기계 학습 :robot:
+## 1.2 머신러닝 :robot:
 
-> [**기계 학습 및 심층 학습에 대한 자세한 정보는이 링크에서 찾아보십시오**](ML.md)
+> [**머신러닝 및 딥러닝에 대한 자세한 정보는이 링크에서 찾아보십시오**](../ML.md)
 
 -  **최고의 온라인 코스**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
-    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **FREE**
+    - [Move 37](https://www.theschool.ai/courses/move-37-course/) - **무료**
     - [ML with Python - YouTube ](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **지급**
+    - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - **유료**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
@@ -100,15 +101,15 @@
     - [Research Papers with code](https://github.com/zziz/pwc)
     - [Papers with code](https://paperswithcode.com/)
 
--  **데이터 세트 테스트의 ML 모델**
+-  **데이터 세트에서 ML 모델 테스트**
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
 
 
-## 1.3 깊은 학습
+## 1.3 딥러닝
 
-> [**기계 학습 및 심층 학습에 대한 자세한 정보는이 링크에서 찾아보십시오**](ML.md)
+> [**머신러닝 및 딥러닝에 대한 자세한 정보는이 링크에서 찾아보십시오**](ML.md)
 
 -  **최고의 온라인 코스**
     - [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -124,11 +125,11 @@
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
 
 
-## 1.4 Android 개발 :iPhone:
+## 1.4 안드로이드 개발 :iPhone:
 
 -  [For Beginners](Android.md)
 -  [Udacity - Free courses & Nanodegree](https://udacity.com)
--  [PluralSight - Android Developer Track](http://pluralsight.com/) [FREE for 60 days]
+-  [PluralSight - Android Developer Track](http://pluralsight.com/) **[60일 동안 무료]**
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
@@ -138,25 +139,25 @@
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
 
--  **장고 - 파이썬**
-    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Best for beginners*
+-  **Django - Python**
+    - [Try Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *초심자에게 최고*
     - [Django Docs ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Good for beginners*
+    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *초심자에게 좋음*
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
 
--  **Node.js를**
-    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **지급**
+-  **Node.js**
+    - [The Complete Node.js Developer Course | UDEMY](https://www.udemy.com/the-complete-nodejs-developer-course-2/) -- **유료**
 
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAID**  *Intermediate level*
+    - [Learn and Understand NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **유료**  *중급 수준*
 
-    - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Good for beginners*
+    - [Video Tutorials-Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *초심자에게 좋음*
 
-    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recommended for everyone*
+    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) - *모두에게 추천*
 
-    - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Book Advanced level*
+    - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *책 고급 수준*
 
 - **PHP**
     - [W3Schools](https://www.w3schools.com/php/)
@@ -164,14 +165,14 @@
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
 
-- **루비**
+- **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
 
-## 1.6 프론트 엔드 웹 개발 :computer:
+## 1.6 프론트엔드 웹 개발 :computer:
 
-- **HTML5 and CSS3**
-    - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *Good for beginners*
+- **HTML5과 CSS3**
+    - [HTML and CSS w3schools.com](https://www.w3schools.com/html/default.asp) *초심자에게 좋음*
     - [Intro to HTML and CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
     - [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -184,55 +185,55 @@
 
     - [Bootstrap4 Course with Projects](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
-- **자바 스크립트**
+- **자바스크립트**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript](https://in.udacity.com/course/intro-to-javascript--ud803-india)
-    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *recommended*
-    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *recommended for everyone*
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) *추천*
+    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) *모두에게 추천*
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/)
     - [freeCodeCamp](https://www.freecodecamp.org/)
 
-- **자바 스크립트 프레임 워크**    
+- **자바스크립트 프레임 워크**    
      ###### Angular
-     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
-    - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy Paid)**
-    - [Angular Expo](https://angularexpo.com/) - **Beautiful showcase of websites, applications and experiments using Angular**
-    - [Made With Angular](https://www.madewithangular.com/) - **Gallery of inspiring websites using Angular/AngularJS**
+     - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy 유료)**
+    - [The Complete Angular Course: Beginner to Advanced by  Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy 유료)**
+    - [Angular Expo](https://angularexpo.com/) - **Angular를 사용한 웹사이트, 어플리케이션, 그리고 실험들의 아름다운 쇼케이스**
+    - [Made With Angular](https://www.madewithangular.com/) - **Angular/AngularJS를 사용한 영감을 주는 웹 사이트 갤러리**
 
      ###### React.js
      - [Video Tutorials - Beginner to Intermediate](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
      - [Video Youtube Tutorials - React & Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
-     - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *Interactive*
+     - [ReactJS Tutorial codecademy](https://www.codecademy.com/learn/react-101) *중급*
      - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
      - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
      - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **PAID**
+     - [PAID but Worth it | UDEMY](https://www.udemy.com/react-the-complete-guide-incl-redux/) -- **유료**
      - [Original Docs](https://reactjs.org/docs/hello-world.html)
      - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
-     - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **PAID**
-     - [Advanced React | Wes Bos](https://advancedreact.com/) -- **PAID**
+     - [React For Beginners | Wes Bos](https://reactforbeginners.com/) -- **유료**
+     - [Advanced React | Wes Bos](https://advancedreact.com/) -- **유료**
 
 
 - **Redux.js**
      - [Video Tutorials - Beginner](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
-     - [Redux docs](https://redux.js.org/introduction) *Recomended for everyone*
+     - [Redux docs](https://redux.js.org/introduction) *모두에게 추천*
      - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
      - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
      - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
      - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 
 - **Vue.js**
-    - [Vue School](https://vueschool.io/courses) -- **Free + Paid**
+    - [Vue School](https://vueschool.io/courses) -- **무료 + 유료**
     - [Scrimba](https://scrimba.com/g/glearnvue)
 
 - **웹 접근성**
     - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
-- **프론트 엔드 DevTools**
+- **프론트 엔드 개발 툴**
      ###### Package managers
      - [NPM | YouTube](https://www.youtube.com/watch?v=76A2Ppenxh8)
      - [Yarn | YouTube](https://www.youtube.com/watch?v=g9_6KmiBISk)
@@ -247,7 +248,7 @@
 
 ------
 
-## 1.7 데이터 구조 :chart_with_upwards_trend:
+## 1.7 자료구조 :chart_with_upwards_trend:
 
 - **온라인 플랫폼**
     - [CodeChef](https://www.codechef.com/) - **CodeChef competitive programming site**
@@ -275,10 +276,10 @@ different programming languages**
 - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - **Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition**
 
 
-## 1.8 알렉사 자습서
+## 1.8 알렉사 튜토리얼
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
- - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
+ - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) **(유료)**
  - [Youtube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
  - [PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills)
  - [Qwiklabs](https://qwiklabs.com/quests/19)
@@ -297,7 +298,7 @@ different programming languages**
  - [Learning to Program in C by Jonathan Engelsma](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
 
 
-## 1.10 C++ 언어
+## 1.10 C++(Cpp)
  - [Tutorial Point](https://www.tutorialspoint.com/cplusplus/)
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
  - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
@@ -306,12 +307,12 @@ different programming languages**
  - [Study Tonight](https://www.studytonight.com/cpp/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
 
- ## 1.11 Git 그리고 Github :octocat:
+ ## 1.11 Git과 Github :octocat:
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git](https://in.udacity.com/course/version-control-with-git--ud123)
 
-## 1.12 R 언어
+## 1.12 R
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
@@ -319,89 +320,89 @@ different programming languages**
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
-=============================================================================================
+---
 
-# 2. Hackathons 및 이벤트
+# 2. 해커톤 및 이벤트
 
-## 2.1 :rainbow: 맨위 글로벌 Hackathons
+## 2.1 :rainbow: Top 글로벌 해커톤
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
+|Id |이름 | 장소| 여행 경비 제공 |시작일 | 종료일 |
 |--|------ |---|---| ------ | ----|
-|1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
-|2 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
-|3 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
-|4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
-|4 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
-|5 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
-|6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
-|7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-|8 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | - | - |
-|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
-|10 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
-|11 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
-|12 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - |
+|1| [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| 인도| Yes| 4월 |웹사이트 확인 |
+|2 | [HacktheNorth](http://pennapps.com/)| 캐나다| Yes|9월 중순 | 7월 말 |
+|3 | [HackMIT](https://hackmit.org/)   | 미국 | Yes|9월 중순 | 7월 말 |
+|4 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | 온라인 & 현장 | Yes | - | - |
+|4 | [PennApps](http://pennapps.com/)|미국   | Yes| 9월 중순 | 7월 말 |
+|5 | [UltraHack](https://ultrahack.org/)|지역 및 글로벌 | Yes| - |  - |
+|6 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | 온라인 | NA | - | - |
+|7 | [TechCruch Disrupt](https://techcrunch.com/event-type/disrupt/) | 미국 | Top Teams | - |  - |
+|8 | [HackZurich](http://www.hackzurich.com/) | 스위스 취리히 | Yes | - | - |
+|9 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | 뉴욕 & 런던|Yes | - | - |
+|10 | [HackDuke](http://www.hackduke.com/) | 미국 | - | - | - |
+|11 | [HackNY](http://hackny.org/hackathon/) | 미국 | Yes | - | - |
+|12 | [HackPrinceton](https://www.hackprinceton.com/)|미국 | - | - |  - |
 |13 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - |
-|14 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - |
-|15 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - |
-|16 | [QHacks](http://qhacks.io/) | USA | - | - |  - |
+|14 | [MHacks](http://www.mhacks.org/) |미국 | - |  - | - |
+|15 | [HackDavis](http://hackdavis.io/)|미국 | - |  - |   - |
+|16 | [QHacks](http://qhacks.io/) | 미국 | - | - |  - |
 |17 | [Hackinit](https://hackinit.org/) | China | - | - |  - |
-|18 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
+|18 | [HackUCI](https://www.hackuci.com/) | 미국 | - | - |  - |
 |19 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
-|20 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
-|21 | [Y Combinator Hacks]() | USA | - | - | - |
-|22 | [TreeHacks]() | USA | - | - | - |
-|23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
-|24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
-|25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
-|26 | [InOut](https://hackinout.co/) | Onsite (India) | Yes | October | - |
-|27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
-|28 | [HackDTU](http://hackdtu.tech/) | Onsite (India) | No | - | - |
-|29 | [HashHacks](http://hashhacks.tech/) | Onsite (India) | No | Mid Oct | - |
-|30 | [Hack Western](https://hackwestern.com/) | Onsite (Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
-|31 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - |
-|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite (Reva University) | October (Idea Submission) | Nov End | - |
-|33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
-|34 | [HackISU](https://hackisu.org/)| USA | No | October | - |
-|35 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
+|20 | [McHacks](http://mchacks.io/) | 미국| - | - |  - |
+|21 | [Y Combinator Hacks]() | 미국 | - | - | - |
+|22 | [TreeHacks]() | 미국 | - | - | - |
+|23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | 대한민국 | YES | - | - |
+|24 | [Call for Code](https://callforcode.org/) | 온라인 | - | - | - |
+|25 | [Mercari Euro Hack](https://challengerocket.com/) | 온라인 + 현장 (Poland) | Yes | 10월 중순 |- |
+|26 | [InOut](https://hackinout.co/) | 현장 (인도) | Yes | 10월 | - |
+|27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | 현장 (인도) | No | 8월-9월 | - |
+|28 | [HackDTU](http://hackdtu.tech/) | 현장 (인도) | No | - | - |
+|29 | [HashHacks](http://hashhacks.tech/) | 현장 (인도) | No | 10월 중순 | - |
+|30 | [Hack Western](https://hackwestern.com/) | 현장 (Western University) | Yes (on a case by case basis) | 11월 말 | 10월 중순 |
+|31 | [YHack](https://www.yhack.org/) | 현장 (Yale University) | Yes | 11월 말 | - |
+|32 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | 현장 (Reva University) | October (Idea Submission) | 11월 말 | - |
+|33 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | 온라인 + 현장 (인도) | - | 9월-10월 | - |
+|34 | [HackISU](https://hackisu.org/)| 미국 | No | 10월 | - |
+|35 | [UHack 3.0](https://usicthack.com/)| 인도 뉴델리 | - | 10월 26일 | - |
 ----------------------------------------------------------
 
 ##  2.2 대회 :bomb:
 
-|ID| Name  | Location |
+|ID| 이름  | 장소 |
 |--|------ |----------|
-|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC](https://www.codechef.com/icpc/2019) | Online & On-Site |
-|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
-|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
-|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
-|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
+|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | 온라인 & 현장 |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2019) | 온라인 & On-Site |
+|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | 온라인 |
+|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | 온라인 |
+|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | 온라인 & 현장 |
+|6 | [E-Yantra](http://www.e-yantra.org/) | 온라인 & 현장 |
 |7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
-|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
-|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
-|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
+|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| 온라인 & 현장 |
+|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | 온라인 |
+|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | 온라인 |
 |11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
+|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |온라인 & 현장 |
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
-|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
-|15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
-|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
-|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
-|19| [Google Code Jam](https://code.google.com/codejam) | Online |
-|20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
-|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
+|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | 현장 |
+|15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | 현장 |
+|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| 온라인 & 현장 |
+|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | 온라인 |
+|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | 온라인 |
+|19| [Google Code Jam](https://code.google.com/codejam) | 온라인 |
+|20| [Google Hash Code](https://hashcode.withgoogle.com) | 온라인 |
+|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | 온라인 |
 
 
-##  2.3  Hackathon 포털 검색 :dart:
-|s.no| Name  | Location | Category |
+##  2.3  해커톤 검색 포털 :dart:
+|s.no| 이름  | 장소 | 카테고리 |
 |---| ------ |---| --- |
-|1| [HackSociety](https://hacksociety.tech/attend/)| INDIA| ALL |
-|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
-|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
-|4| [Hackathon.io](http://www.hackathon.io/events) | GLOBAL | ALL |
-|5|[TechGIG - Search Online Competitons]()| Online & On-Site |ALL |
-|6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
-|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site | GLOBAL | ALL |
+|1| [HackSociety](https://hacksociety.tech/attend/)| 인도| ALL |
+|2| [DevPost](https://devpost.com/hackathons) | 온라인 & 현장 | ALL |
+|3| [HackerEarth](https://hackerearth.com/) | 온라인 & 현장 | ALL |
+|4| [Hackathon.io](http://www.hackathon.io/events) | 글로벌 | ALL |
+|5|[TechGIG - Search Online Competitons]()| 온라인 & 현장 |ALL |
+|6| [Analytical Vidya](https://www.analyticsvidhya.com/) | 온라인 & 현장 | 데이터 과학 | |
+|7| [Hackathon.com](https://www.hackathon.com/) [온라인 & 현장] | 글로벌 | ALL |
 
 ## 2.4 이벤트 :heart_eyes:
 
@@ -410,49 +411,49 @@ different programming languages**
 1. Google Developer Day - Organized by GDG
 2. Google IO extended - Organized by GDG
 3. Google Solve for India
-3. Paytm Build for India Workshops [ Delhi, Banglore ]
-4. NVIDIA Developer Connect [ Global ]
-5. AWS meetups [ Global ]
-6. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
-7. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
-8. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
-9. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
+4. Paytm Build for India Workshops [ 델리, 방글라데시 ]
+5. NVIDIA Developer Connect [ 글로벌 ]
+6. AWS meetups [ 글로벌 ]
+7. Hacktoberfest OpenSource meetups [6th October 2018 , Bengaluru](https://www.meetup.com/OpenSource-Cafe/events/255061797/)
+8. Hacktoberfest OpenSource meetups [6th October 2018 , Hsinchu](https://hacktoberfest.digitalocean.com/#events)
+9. Hacktoberfest OpenSource meetups [10th October 2018 , New York](https://www.eventbrite.com/e/hacktoberfest-night-dev-flatiron-school-nyc-tickets-50536426813)
+10. Hacktoberfest OpenSource meetups [12th October 2018 , FrankFurt](https://www.eventbrite.com/e/hacktoberfest-frankfurt-2018-tickets-50225231018)
 
-## 2.5 스타트 업 서밋, 경기 및 부트 캠프 :neckbeard:
+## 2.5 스타트업 서밋과 대회 그리고 부트 캠프 :neckbeard:
 
-|ID| Name  | Location |
+|ID| 이름  | 장소 |
 |--|------ |----------|
-|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
-|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
-|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
-|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
-|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
-|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
-|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
-|12 | [HackerYou](https://hackeryou.com/) | Toronto |
-|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
-|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
-|15 | [RED Academy](https://redacademy.com) | Canada |
+|1| [Eureka - IITB](http://www.ecell.in/eureka/)| 인도 뭄바이 |
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | 온라인 & 미국 |
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | 캘리포니아 레드우드 시티 |
+|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | 뉴욕 |
+|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | 온라인 |
+|6 |[School of AI](https://picampus-school.com/programme/school-of-ai/) | 이탈리아 로마 |
+|7 | [European Innovation Academy](https://www.inacademy.eu/) | 포르투갈, 중국 |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | 인도 델리 |
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | 미국 |
+|10 | [DevMountain](https://devmountain.com/) | 유타, 애리조나, 텍사스 |
+|11 | [Product School](https://www.productschool.com) | 온라인, 미국, & 토론토 |
+|12 | [HackerYou](https://hackeryou.com/) | 토론토 |
+|13 | [BrainStation](https://brainstation.io/) | 온라인, 미국, & 캐나다 |
+|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | 캐나다 |
+|15 | [RED Academy](https://redacademy.com) | 캐나다 |
 
-## 2.6 채용 도전 :heart:
+## 2.6 채용 챌린지 :heart:
 
-|ID| Name  | Location |
+|ID| 이름  | 장소 |
 |--|------ |----------|
-|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
-|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
-|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
-|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| 온라인 |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | 온라인 |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | 온라인 |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | 온라인 |
 
-=============================================================================================
+---
 
 # 3. 학생 혜택 및 프로그램 :fire:
 
-## 캠퍼스 대사 프로그램 :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - Application Deadline - **August**
+## 캠퍼스 홍보 프로그램 :v:
+1. [Microsoft Student Partner](https://studentpartners.microsoft.coem/en-us) - 신청 마감 - **8월**
 2. [Github Campus Expert](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
@@ -476,7 +477,7 @@ different programming languages**
 7. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 8. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
 
-## 학생 휄로우 십 프로그램 :v:
+## 학생 단체 프로그램 :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
 1. [Teach for India Fellowship]()
 2. [Young India Fellowship]()
@@ -510,26 +511,71 @@ different programming languages**
 =============================================================================================
 # 4. 오픈 소스 프로그램 :octocat:
 
-> **GSOC 조직에 대한 자세한 정보** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> [**GSOC 조직에 관한 더 많은 정보를 얻기 위해서는 여기를 클릭하세요**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+
+> [**GSOC 참여에 관한 더 많은 정보를 얻기 위해서는 여기를 클릭하세요**](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
+
+## SOC-프로그램
 
 
-|Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
-|-|--|---- |---|---| ------ |
-|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
-|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global(Not owned)| Yes|- | - |
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
-|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
-|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
-|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
-|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
-| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
-|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+| 이름                                    | 급여 |
+|-----------------------------------------|-------------|
+| [Season of KDE](https://season.kde.org) | No      |
+| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
+| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No |
+| [Outreachy](https://www.gnome.org/outreachy/) | Yes |
+| [RGSOC](http://railsgirlssummerofcode.org/) | Yes |
+| [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
+| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes |
+| [SOCIS](http://sophia.estec.esa.int/socis/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
+| [OpenDaylight summer internship Programme](https://wiki.opendaylight.org/view/Interns) | Yes |
+| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
+| [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes¹|
+| [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
+| [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
+| [Summer of Haskell](https://summer.haskell.org/) | Yes |
+| [OPNFV- Linux Foundation](https://wiki.opnfv.org/display/DEV/Internship-program) | Yes |
+| [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/blog/2017/11/20/want-hack-mainframe-next-summer-summer-2018-internship-program-now-accepting-applications) | Yes |
+| [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
+| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
+| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |
+| [Open Summer of Code](http://2017.summerofcode.be/) | Yes² |
+| [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
+| [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
+| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
+| [DataOne](https://www.dataone.org/internships) | Yes |
+| [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
+| [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
+| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
+| [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
+| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
+| [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |
 
-=============================================================================================
+¹ 인턴은 현재 미국 대학이나 기타 연구기관에 등록 또는 고용되어 있어야 하며 현재 미국에 거주하고 있으며 미국에서 일할 수 있어야 합니다.<br />
 
-# 5. 시동 프로그램 및 인큐베이터 :mag_right:
+² OSoC는 벨기에 학생들만 이용할 수 있습니다.
+
+# 오픈 소스 대회
+
+| 이름                                    | 상 |
+|-----------------------------------------|-------------|
+| [GCI](https://codein.withgoogle.com/archive/) | 우승자에게 상품 지급|
+| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | 우승자에게 상품*|
+| [FOSSASIA Codeheat](https://codeheat.org/) | 우승자에게 상품 지급|
+| [Data Driven Competitions](https://www.drivendata.org/competitions/) | 우승자에게 현금 지급|
+| [Quantopian Open](https://www.quantopian.com/open) | 우승자에게 현금 지급|
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | 스웩 넘치는 보상 지급|
+| [Halite AI Bot Challenge](https://halite.io/) | 우승자에게 스웩 넘치는 보상 지급|
+| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | 우승자에게 상품 지급**|
+| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | 우승자에게 상품 지급|
+| [Girlscript Summer of Code](http://gssoc.tech/) | 우승자에게 상품, 스웩 넘치는 보상, 인턴십 기회 제공 |
+
+*인도 학생만 가능<br />
+** OSS World Challenge는 일시적으로 국제 신청 접수를 중단했습니다.
+
+---
+
+# 5. 스타트업 프로그램과 인큐베이터 :mag_right:
 
 |Id |Name | Organization|
 |-|--|---- |
@@ -541,29 +587,28 @@ different programming languages**
 |6 | [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
 
-=============================================================================================
+---
 
 # 6. 인턴쉽 포털 :smile:
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
 3. [Vettery](https://www.vettery.com/)
-4. [LinkedIn](https://linkedin.com)
-5. *Contact HRs on LinkedIn*
-6. [Hackkar](https://hackkar.com/)
-7. [LetsIntern](https://www.letsintern.com)
-8. [Intern Supply](https://intern.supply/)
+4. [LinkedIn](https://linkedin.com) *LinkedIn에서 HR들과 연락하십시오*
+5. [Hackkar](https://hackkar.com/)
+6. [LetsIntern](https://www.letsintern.com)
+7. [Intern Supply](https://intern.supply/)
 
-    ### Tips for Internship:
+    ### 인턴십을 위한 팁:
 
-     - For summer internship, start looking at least 3-4 months in advance.
+     - 여름 인턴십을 위해, 적어도 3~4개월 이전에 알아보십시오.
 
-=============================================================================================
+---
 
 # 7. 개발자 클럽 및 Meetups
 
-> **귀하의 도시에있는 Google 및 Facebook에서 이들 클럽을 검색하십시오.**
+> **귀하의 도시에서 Google 및 Facebook으로 이 클럽들을 검색하십시오.**
 
-> **검사 **Meetup.com** 당신의 지역에서 더 많은 이벤트를 위해**
+> **더 많은 이벤트를 검색하려면 **Meetup.com** 에서**
 
 - [Google Developer Group](https://developers.google.com/programs/community/gdg/)
 - Mozilla Open Source Community
@@ -580,91 +625,92 @@ different programming languages**
 - Swift Users Group
 - MUG - MongoDB User Group (Meetups)
 
-=============================================================================================
+---
+
 # 8. 컨퍼런스 :bookmark_tabs:
 
 ### **기술, 기업가 정신 이벤트 및 컨퍼런스**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type | 
+|Id | 이름 | 장소| 여행 경비 제공 |시작일 | 종료일 | 종류 | 
 |--|------ |---|---|:------ |:----|:-----| 
-|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 |-|
-|2 |[ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 |-|
-|3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | - |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | - |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | - |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | - |
-|8 | [React Europe]() | France | - | May | - | - |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov5 | Nov8 | - |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug16 | Aug20 | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | YES | Nov14 | Nov16 | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March26 | March28 | - |
-|13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
-|14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | - |
-|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | March to Oct(varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug3 | Aug5 | - |
-|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | YES | Jan6 | Jan11 | - |
-|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | YES | Summer | - | - |
-|19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | GLOBAL| NO | - | - | - |
-|20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | INDIA | - | - | - | - |
-|21| [SURGE](https://surgeconf.com/surge2017) | INDIA | - | Nov | - | - | - |
-|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | INDIA | NO | Differs with area | Check the website | - |
-|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | NO | Sep5 | Sep7 | - |
-|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, INDIA | NO | Nov29 | Nov30 | - |
-|25| [Pioneer Application](https://pioneer.app/) | GLOBAL | YES | - | - | - |
-|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | YES | Aug31 | Aug31 | - |
-|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|29| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct29-30 | Oct29 | - |
-|30| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 | - |
-|31| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 -26  | - | - |
-|32| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - | - |
-|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - | - |
-|34| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - | - |
-|35| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - | - |
-|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - | - |
-|37| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - | - |
-|38| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - | - |
-|39| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 | - |
-|40| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|41| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - | - |
-|42| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | - |
-|43| [SIGGRAPH](https://s2019.siggraph.org/) | GLOBAL | - | Jul 29 - Aug 1 | - | - |
-|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
+|1 |[PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  미국 | NO |  5월 1일 | 5월 9일 |-|
+|2 |[ODSC ](https://odsc.com/) |  글로벌 | NO |  8월 30일 | 9월 2일 |-|
+|3 |[World Business Dialogue](https://www.world-business-dialogue.com/)| 글로벌 | Yes |  2월 18일 | 2월 22일 | - |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| 뉴욕 | Yes| 11월 18일 | 11월 20일  | - |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | 오스트레일리아 | Partial | 6월 24일 | 6월 29일 | - |
+|6 | [DotJS](https://www.dotjs.io/) | 프랑스 | - | 11월 9일 | 11월 9일 | - |
+|7 | [PyCon](https://www.pycon.fr/2018/) | 프랑스 | - | October4 | October7 | - |
+|8 | [React Europe]() | 프랑스 | - | 5월 | - | - |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | 더블린 | No | 11월 5일 | 11월 8일 | - |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | 말레이시아 | Yes | 8월 16일 | 8월 20일 | - |
+|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | 미국 | YES | 11월 14일 | 11월 16일 | - |
+|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | 미국 | - | 3월 26일 | 3월 28일 | - |
+|13| [Thiel Summit](http://summit.thielfellowship.org/) | 미국 | - | - | - | - |
+|14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | 미국 | - | - | - | - |
+|15|  [Clinton Global Initiative University](http://www.cgiu.org/) | 미국 | - | 3월부터 10월까지(매년 변동) | 3일간 | - |
+|16| [South American Business Forum](https://www.sabf.org.ar/) | 아르헨티나 | Partial | 8월 3일 | 8월 5일 | - |
+|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | 버지니아 | YES | 1월 6일 | 1월 11일 | - |
+|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | 캘리포니아 | YES | 여름 | - | - |
+|19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | 글로벌| NO | - | - | - |
+|20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | 인도 | - | - | - | - |
+|21| [SURGE](https://surgeconf.com/surge2017) | 인도 | - | 11월 | - | - | - |
+|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | 인도 | NO | 지역마다 다름 | 웹사이트 확인 | - |
+|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | 미국 | NO | 9월 5일 | 9월 7일 | - |
+|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | 인도 뉴델리 | NO | 11월 29일 | 11월 30일 | - |
+|25| [Pioneer Application](https://pioneer.app/) | 글로벌 | YES | - | - | - |
+|26| [Student Leadership conference](https://studentleadershipconference.com/) | 미국 | YES | 8월 31일 | 8월 31일 | - |
+|27| [Hackference India ](http://hackference.in/) | 인도 | No | 11월 | 12월 중순 | - |
+|28| [Hackference India ](http://hackference.in/) | 인도 | No | 11월 | 12월 중순 | - |
+|29| [JAMstack conf](https://jamstackconf.com/) | 미국 | No | 10월 29일 - 30일 | 10월 29일 - 30일 | - |
+|30| [Blend Web Mix](https://www.blendwebmix.com/) | 프랑스 | - | 10월 24일 - 25일 | - |
+|31| [JS Mobile Conf](https://jsmobileconf.com/) | 미국 | - | 10월 25알 - 26일  | - | - |
+|32| [CascadiaJS](https://2018.cascadiajs.com/) | 미국  | - | 11월 15일 - 16일  | - | - |
+|33| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| 미국  | - | 12월 2일 - 5일 | - | - |
+|34| [JS Kongress](https://js-kongress.com/) | 무니치  | - | 3월 11일 - 12일  | - | - |
+|35| [JSConf US](https://jsconf.com/)| 미국 | - | 8월 21일 - 23일 | - | - |
+|36| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| 미국 | -  | 6월 11일 - 14알 | - | - |
+|37| [dotJS](https://www.dotjs.io/) | 프랑스 | - | 11월 9일  | - | - |
+|38| [ViewSource](https://events.mozilla.org/viewsource2018) | 런던 | - | 10월 26일  | - | - |
+|39| [SmashingConf NY](https://smashingconf.com/) | 미국 | No | 10월 23일 | 10월 24일 | - |
+|40| [Hackference India ](http://hackference.in/) | 인도 | No | 11월 | 12월 중순 | - |
+|41| [Midwest JS](http://www.midwestjs.com/#/main)| 미국 | - | 8월 8일 - 10일 | - | - |
+|42| [HolyJS](https://holyjs.ru/en/)| 모스크바 | - | 11월 24일 - 25일 | - | - |
+|43| [SIGGRAPH](https://s2019.siggraph.org/) | 글로벌 | - | 7월 29일 - 8월 1일 | - | - |
+|44| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | 도쿄 | - | 12월 4일 - 7일 | - | - |
 
-=============================================================================================
+---
 
-# 9. 팔로우 할 최고의 사람들
+# 9. 따라가기 좋은 사람들
 
-|Id | Name | Category|
+|Id | 이름 | 카테고리|
 |--|------ |---|
-|1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
-|3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
-|4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
-|5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
-|6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
-|7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
-|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
-|9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
-|10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
-|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
-|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
-|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
-|14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
-|15|[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
-|16|[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
-|17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
-|18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
-|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
-|20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
-|21 |[Linus Torvalds] (https://github.com/torvalds) | Linux Founder|
-|22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | Software Developer |
-|23 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
+|1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & 머신러닝 |
+|2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & 머신러닝 |
+|3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & 머신러닝 |
+|4 |[Paul Graham](http://www.paulgraham.com/) | 스타트업 전문가, Y-Combinator 설립자 |
+|5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN 스택 전문가 |
+|6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | 페이스북 부사장 겸 수석 AI 과학자 |
+|7 |[Martin Fowler](https://twitter.com/martinfowler) | 소프트웨어 개발자 |
+|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | 소프트웨어 개발자 |
+|9 |[Kyle Simpson](https://twitter.com/getify) | You Don't Know JS의 작가 |
+|10|[Richard Stallman](https://stallman.org/) | GNU Project 설립자 |
+|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS 전문가, 파이어폭스 그리드 인스펙터 창시자. |
+|12 |[Mike Cohn](https://twitter.com/mikewcohn) | S스크럼과 애자일 옹호자, Mountain Goat Software의 소유자 인 스크럼 얼라이언스 (Scrum Alliance)의 설립자 중 한 사람. |
+|13 |[John ResigVerified account](https://twitter.com/jeresig) | jQuery 창시자 |
+|14 |[Vaughn Vernon](https://vaughnvernon.co/) | 도메인 드리븐 디자인 전문가 |
+|15|[Evan You](https://twitter.com/youyuxi) | Vue.js 창시자|
+|16|[Taylor Otwell](https://twitter.com/taylorotwell) | Laravel 창시자|
+|17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Microsoft 소프트웨어 엔지니어, Visual Studio Code 개발자 |
+|18 |[Valentin Shergin](http://twitter.com/shergin) | React Native 개발자 |
+|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr 개발자 |
+|20 |[Isaac Schlueter](https://twitter.com/izs) | npm 창시자 |
+|21 |[Linus Torvalds] (https://github.com/torvalds) | Linux 설립자|
+|22 |[Miguel Grinberg](https://blog.miguelgrinberg.com/) | 소프트웨어 개발자 |
+|23 |[Ryan Dahl](https://github.com/ry) | Node.js 창시자 |
 
-=============================================================================================
+---
 
-# 10. 따라 가기 웹 사이트
+# 10. 따라하기 좋은 웹사이트
 
 1.   **데이터 과학**
       - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
