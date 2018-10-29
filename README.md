@@ -260,7 +260,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
 
 
-- **JavaScript Frameworks**    
+- **JavaScript Frameworks**
 
     - **Angular**
         - [Angular 7 - The Complete Guide by Maximilian Schwarzmüller | Udemy](https://www.udemy.com/the-complete-guide-to-angular-2/) :heavy_dollar_sign:
@@ -405,6 +405,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Version Control with Git | Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
  - [Introduction to Git and Github | YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
+ - [LearnGitBranching](https://learngitbranching.js.org/)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
