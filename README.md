@@ -34,6 +34,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
+     - [Microsoft Technologies](#119-microsoft)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
@@ -434,6 +435,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Documentation](https://docs.docker.com/)
 - [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
 - [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
+
+## 1.19 Microsoft Technologies
+
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ---
 
