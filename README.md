@@ -228,7 +228,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
 
 - **JavaScript**
-    - [Wes Bos list of courses](https://wesbos.com/courses/)
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
@@ -244,6 +243,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [Wes Bos list of courses](https://wesbos.com/courses/)
 
 
 - **JavaScript Frameworks**    
