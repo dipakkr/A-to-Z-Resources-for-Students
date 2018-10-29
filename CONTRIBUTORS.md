@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :morocco:
 
 ```
 Instructions :
@@ -281,6 +281,7 @@ Instructions :
 | 249 | **Lenny** | Germany | Computer Science Student | [GitHub](https://github.com/lenni108) |
 | 250 | **Matei** | Slovakia | Rock Instructor, Pixel Aligner | [CodePen](https://codepen.io/towc) |
 | 251 | **Ajith Kumar Panja** | India | Sophomore , CEG | [GitHub](https://github.com/AjithPanja) |
+| 252 | **Boughaba Otmane** | Morocco | Computer Science Student | [GitHub](https://github.com/Otman404) |
 
 ---
 
