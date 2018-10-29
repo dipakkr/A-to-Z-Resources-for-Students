@@ -294,12 +294,12 @@ Instructions :
 | 261 | **KY SOPHOT** | Cambodia | Computer Science & Engineering | [Github] (https://github.com/sophot)
 | 262 | **Kai Yoke** |Singapore| Engineering Student | [GitHub](https://github.com/kwyoke) |
 | 263 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
-| 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect | [GitHub](https://github.com/niravmadariya) | [LinkedIn](https://www.linkedin.com/in/niravmadariya) | [Twitter](https://twitter.com/niravmadariya)
+| 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect - [GitHub](https://github.com/niravmadariya) - [LinkedIn](https://www.linkedin.com/in/niravmadariya) - [Twitter](https://twitter.com/niravmadariya)
 | 265 | **Prateek Bajaj**  | India | Student | [Github](https://github.com/prateek552) |
 | 266 | **Nick Day** | USA | Software Developer | [GitHub](https://github.com/solakin) |
 | 267 | **Chandan**  | India | Student | [Github](https://github.com/chandan) |
 | 268 | **Rafli Fahreza**  | Indonesia | Student | [Github](https://github.com/HYP3RTEX7) |
-| 269 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) | [LinkedIn](https://in.linkedin.com/in/pranav7955)
+| 269 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) - [LinkedIn](https://in.linkedin.com/in/pranav7955)
 
 ---
 
