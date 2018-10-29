@@ -19,6 +19,7 @@ _Best way to learn any data structure is to read about it first, understand it a
 	- [SEGSQRSS](https://www.spoj.com/problems/SEGSQRSS/) - **MEDIUM**
 	- [TorCoder](https://codeforces.com/contest/240/problem/F) - **HARD**
 	- [Comrades- III](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/) - **HARD**
+  - [Hash Table-Problems](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/xsquare-and-palindromes-insertion/)-**A good question on implementaion of hashing from hackerearth.**
 
 **Refrences to some nice book (Free .pdf FILE) of Data Structure :**
 
