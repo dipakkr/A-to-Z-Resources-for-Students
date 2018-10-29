@@ -853,7 +853,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |16 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
 |17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
 |18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
-|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
+|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angular Developer |
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
 |22 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
