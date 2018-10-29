@@ -66,7 +66,6 @@
 
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
- - [Amazon ML](https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html)
 
 # 2.  **Deep Learning**
 ## 2.1 Where to Start in DL?
@@ -83,6 +82,7 @@
   - [CIFAR-10 for Image Recognition (170 MB)](http://www.cs.toronto.edu/~kriz/cifar.html)
   - [Fashion-MNIST Dataset a Fashion Images Dataset (30 MB)](https://github.com/zalandoresearch/fashion-mnist)
   - [SENTIMENT140 for sentiment analysis (80 MB)](http://help.sentiment140.com/for-students/)
+  - [PREDICTING PULSAR STAR FROM HTRU2 DATASET_(771 KB)](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)
 
   ***Advanced***
   - [55000 song Lyrics CSV file](https://www.kaggle.com/mousehead/songlyrics)
@@ -95,3 +95,4 @@
 - [Siraj Raval](https://github.com/llSourcell)
 - [sentdex](https://github.com/Sentdex)
 - [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
+- [Andrew Yan-Tak Ng](http://www.andrewng.org/)
