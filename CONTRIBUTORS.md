@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :sri lanka
 
 ```
 Instructions :
@@ -284,6 +284,7 @@ Instructions :
 | 252| **Abegail I** | Philippines | Mobile Developer | [GitHub](https://github.com/chabbyabe) |
 | 253 | **Alexander Nazarovsky** | Russia | SalesForce Admin | [GitHub](https://github.com/ArchieDash) |
 | 254 | **Prakash Jha** | India | Computer Science Student | [GitHub](https://github.com/forgotter) - [LinkedIn](https://www.linkedin.com/in/prakash-jha-forgotter/)|
+| 255 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
