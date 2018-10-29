@@ -303,6 +303,7 @@ Instructions :
 | 270 | **Rich** | Mexico | Intelligent Systems Student, Musician | [GitHub](https://github.com/Richb17) |
 | 271 | **Beatriz Milz** | Brazil | Environmental Science Student | [GitHub](https://github.com/beatrizmilz) |
 | 272 | **Franciele Portugal** | Brazil | Student of Information Systems and I love datas | [GitHub](https://github.com/francieleportugal) - [LinkedIn](https://www.linkedin.com/in/franciele-portugal-557aa7119)|
+| 273 | **Vladimir Solovev** | Russia | Developer | [GitHub](https://github.com/solovyovs) |
 
 ---
 
