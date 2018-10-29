@@ -433,6 +433,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+ - [Functional Programming in Haskell](https://github.com/caiorss/Functional-Programming/blob/master/haskell/README.org)
+ - [Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1)](https://youtu.be/6COvD8oynmI?list=RD6COvD8oynmI)
+ - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+ - [Haskell Book](haskellbook.com)
+ - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
 
 ## 1.14 MongoDB
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
