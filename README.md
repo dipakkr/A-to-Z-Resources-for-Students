@@ -836,6 +836,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
 |45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
 |46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology
+|47| [dotGo](https://www.dotgo.eu/) | Europe | No | March | Varies | Go |
 
 ---
 
