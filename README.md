@@ -438,6 +438,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
  - [Haskell Book](haskellbook.com)
  - [FUNCTIONAL PROGRAMMING - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
+ - [Haskell Programming from First Principles(Follow-up resources)](https://github.com/pushcx/hpffp-resources)
 
 ## 1.14 MongoDB
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
