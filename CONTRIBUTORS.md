@@ -306,6 +306,7 @@ Instructions :
 | 273 | **Vladimir Solovev** | Russia | Developer | [GitHub](https://github.com/solovyovs) |
 | 274 | **Jessa Bermudez** | Philippines | Designer | [GitHub](https://github.com/sahsah29) |
 | 275 | **Sahil** | USA | Student | [GitHub](https://github.com/EpicDragonSlayr) |
+| 276 | **Jeffrey Ongcay* | Philippines | Software Engineer | [GitHub](https://github.com/jeffreyongcay) |
 
 ---
 
