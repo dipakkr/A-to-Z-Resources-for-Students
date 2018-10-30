@@ -29,6 +29,7 @@
 ## 3. Web Development
 + <a href = "https://www.youtube.com/watch?v=qgGIqRFvFFk"> Django Tutorial </a>
 + <a href = "https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP"> Flask Tutorial </a>
++ <a href = "https://tutorial.djangogirls.org/"> Django Girls </a>
 
 ## 4. Desktop APP Development
 + <a href = "https://kivy.org/#home"> Kivy(Android, Desktop, IOS) Applications </a>
@@ -70,6 +71,7 @@
 + <a href = "https://www.djangoproject.com/">Learn Django to make backend accessible | Python </a>
 + <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
 + <a href = "https://docs.quantifiedcode.com/python-anti-patterns/index.html"> Python Anti-Patterns</a>
++ <a href = "https://interactivepython.org/runestone/static/pythonds/index.html"> Learn Algorithms and Data Structures using Python</a>
 
 ## 9. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
