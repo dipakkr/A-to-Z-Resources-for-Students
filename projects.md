@@ -51,6 +51,7 @@
 
   ######  Laravel  -PHP Framework 
   - [Laravel Authentication](https://github.com/jeremykenedy/laravel-auth)
+  - [Laravel Ticketing System](https://github.com/thekordy/ticketit)
 
 ## 7. Frontend Development
 
