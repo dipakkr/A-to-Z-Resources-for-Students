@@ -319,7 +319,9 @@ Instructions :
 | 286 | **lwolff** | USA | CS Student | [Github](https://github.com/lwolff) |
 | 286 | **Jay Yabsley** | Australia | Realtime Software Developer | [GitHub](https://github.com/jayyabsley/) - [LinkedIn](https://www.linkedin.com/in/jayyabsley/)|
 | 287 | **Aldo Cano** | Albania | Android Developer | [Github](https://github.com/aldocano) |
-| 288 | **Ahmetcan Guvendiren** | Turkey | CENG Student | [Github}(https://github.com/glacion) |
+| 288 | **Ahmetcan Guvendiren** | Turkey | CENG Student | [Github](https://github.com/glacion) |
+| 289 | **Jairo Junior** | Brazil | Software Engineer | [Github](https://github.com/jairojj) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.

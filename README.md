@@ -98,6 +98,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 
+
 ## 1.2 Machine Learning
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
@@ -210,6 +211,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
     - [RailsCasts](http://railscasts.com) - Video tutorials on more intermediate Ruby on Rails topics.
+    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) - Learn Web Development with Rails
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
@@ -468,7 +470,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## 1.20 Scala
-- [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+
+- Books
+    - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+- Online Courses
+    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
 
 ---
 
