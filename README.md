@@ -646,6 +646,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
 9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
+11. [Namecheap free .name Domain](https://nc.me/)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
