@@ -324,6 +324,7 @@ Instructions :
 | 290 | **Ganaa** | Austria | Cybersecurity graduate | [Github](https://github.com/ganbadrakh)
 | 291 | **Bentley** | Philippines | Software Developer | [GitHub](https://github.com/kwen-fts)|
 | 292 | **Boughaba Otmane** | Morocco | Computer Science Student | [GitHub](https://github.com/Otman404) |
+| 293 | **Kesara Wimal** | Sri Lanka | Software Engineer | [GitHub](https://github.com/kesarawimal) - [LinkedIn](https://www.linkedin.com/in/kesarawimal/)|
 
 ---
 
