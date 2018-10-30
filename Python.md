@@ -72,6 +72,9 @@
 + <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
 + <a href = "https://docs.quantifiedcode.com/python-anti-patterns/index.html"> Python Anti-Patterns</a>
 + <a href = "https://interactivepython.org/runestone/static/pythonds/index.html"> Learn Algorithms and Data Structures using Python</a>
++ <a href = "https://ipython.org/"> Edit and recode a work session with iPython</a>
++ <a href = "https://www.hackster.io/dexterindustries/give-your-raspberry-pi-robot-a-worm-brain-bc5cc1"> Code a Raspberry Pi to function as the brain of a robot</a>
++ <a href = "https://realpython.com/python-bitcoin-ifttt/"> Use Python to build a Bitcoin price notification service</a>
 
 ## 9. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
