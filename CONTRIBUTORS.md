@@ -246,7 +246,6 @@ Instructions :
 | 214 | **Dhairya** | India | Engineering Student-beginner developer- machine learning | [Github](https://github.com/arLong-98)
 | 215 | **William Cook** | United States | Software Engineer | [Github](https://github.com/bcookdev) |
 | 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
-| 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
 | 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
 | 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
@@ -291,7 +290,7 @@ Instructions :
 | 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
 | 259 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
 | 260 | **Keyur Canji** | United Kingdom | BSc Computer Science Student | [Github](https://github.com/KeyurC) |
-| 261 | **KY SOPHOT** | Cambodia | Computer Science & Engineering | [Github] (https://github.com/sophot)
+| 261 | **KY SOPHOT** | Cambodia | Computer Science & Engineering | [Github](https://github.com/sophot)
 | 262 | **Kai Yoke** |Singapore| Engineering Student | [GitHub](https://github.com/kwyoke) |
 | 263 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
 | 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect | [GitHub](https://github.com/niravmadariya) - [LinkedIn](https://www.linkedin.com/in/niravmadariya) - [Twitter](https://twitter.com/niravmadariya)
@@ -332,7 +331,7 @@ Instructions :
 | 298 | **Jeroen Thomas** | Netherlands | Computer Science Bachelor Student | [GitHub](https://github.com/JeromerT) - [LinkedIn](www.linkedin.com/in/jeroen-thomas-2075ab108)
 | 299 | **Hunter** | United States | Aspiring DevOps Engineer | [Github](https://github.com/huntmanday) |
 | 300 | **Archit Singla** | India | Software Developer | [GitHub](https://github.com/architsingla13) |
-
+| 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 
 ---
 
