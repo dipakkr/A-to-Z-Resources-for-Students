@@ -12,20 +12,22 @@
 
 
 ## Machine Learning Algorithms
-* [Deep learning (MLP, CNN, RNN, LSTM)](mla/neuralnet)
-* [Linear regression,Multiple regression,logistic regression](mla/linear_models.py)
-* [Random Forests](mla/ensemble/random_forest.py)
-* [Support vector machine (SVM) with kernels (Linear, Poly, RBF)](mla/svm)
-* [K-Means](mla/kmeans.py)
-* [Gaussian Mixture Model](mla/gaussian_mixture.py)
-* [K-nearest neighbors](mla/knn.py)
-* [Naive bayes](mla/naive_bayes.py)
-* [Principal component analysis (PCA)](mla/pca.py)
-* [Factorization machines](mla/fm.py)
-* [Restricted Boltzmann machine (RBM)](mla/rbm.py)
-* [t-Distributed Stochastic Neighbor Embedding (t-SNE)](mla/tsne.py)
-* [Gradient Boosting trees (also known as GBDT, GBRT, GBM, XGBoost)](mla/ensemble/gbm.py)
-* [Reinforcement learning (Deep Q learning)](mla/rl)
+Common ML algorithms (examples coming soon)!
+
+* Deep learning (MLP, CNN, RNN, LSTM)
+* Linear regression,Multiple regression,logistic regression]
+* Random Forests
+* Support vector machine (SVM) with kernels (Linear, Poly, RBF)
+* K-Means
+* Gaussian Mixture Model
+* K-nearest neighbors
+* Naive bayes
+* Principal component analysis (PCA)
+* Factorization machines
+* Restricted Boltzmann machine (RBM)
+* t-Distributed Stochastic Neighbor Embedding (t-SNE)
+* Gradient Boosting trees (also known as GBDT, GBRT, GBM, XGBoost)
+* Reinforcement learning (Deep Q learning)
 
 ## Beginner Books
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
