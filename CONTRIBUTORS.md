@@ -317,7 +317,8 @@ Instructions :
 | 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/)
 | 285 | **Anurita Srivastava** | India | iOS Developer | [GitHub](https://github.com/AnuritaS/) - [LinkedIn](https://www.linkedin.com/in/anurita-srivastava/) |
 | 286 | **lwolff** | USA | CS Student | [Github](https://github.com/lwolff) |
-| 286 | **Jay Yabsley** | Australia | Realtime Software Developer | [GitHub](https://github.com/jayyabsley/) - [LinkedIn](https://www.linkedin.com/in/jayyabsley/)
+| 286 | **Jay Yabsley** | Australia | Realtime Software Developer | [GitHub](https://github.com/jayyabsley/) - [LinkedIn](https://www.linkedin.com/in/jayyabsley/)|
+| 287 | **Aldo Cano** | Albania | Android Developer | [Github](https://github.com/aldocano) |
 
 ---
 
