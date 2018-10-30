@@ -332,7 +332,6 @@ Instructions :
 | 298 | **Jeroen Thomas** | Netherlands | Computer Science Bachelor Student | [GitHub](https://github.com/JeromerT) - [LinkedIn](www.linkedin.com/in/jeroen-thomas-2075ab108)
 | 299 | **Hunter** | United States | Aspiring DevOps Engineer | [Github](https://github.com/huntmanday) |
 
-
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
