@@ -732,7 +732,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ² OSoC is only open to Belgian students.
 
-# Open Source Competitions
+## Open Source Competitions
 
 
 | Name                                    | Awards |
