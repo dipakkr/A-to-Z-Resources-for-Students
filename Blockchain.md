@@ -1,4 +1,5 @@
 # Blockchain
+![blockchaincom](https://user-images.githubusercontent.com/39133739/47614922-bdaa3700-dacd-11e8-88d8-865424220ee2.jpg)
 
 ## Basics
 + Blockchain 101 - A Visual Demo: [YouTube](https://www.youtube.com/watch?v=_160oMzblY8)
@@ -29,7 +30,13 @@
 ## Multichain
 + Getting started for developers: https://www.multichain.com/developers/
 
+## Hyperledger Composer
++ For getting started: https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
++ Get your hands dirty | Explore online playground: https://composer-playground.mybluemix.net/
+
 ## More about Blockchain
+
++ Blockchain on IBM: https://www.ibm.com/blockchain/getting-started 
 + Step by step guide for beginners: https://blockgeeks.com/guides/what-is-blockchain-technology/
 + Step by step Guide in Building a blockchain application with Hyperledger&GO: https://chainhero.io/2018/06/tutorial-build-blockchain-app-v1-1-0/ 
 
@@ -40,17 +47,17 @@ A tip before watching all the resources : Bitcoin!=Blockchain, that means blockc
 ## For setting up truffle for ethereum-test Blockchain developement
 **Requisites**
 + **npm** 
-  before npm install node.js
-    + 
-    ```
-    wget -qO- https://deb.nodesource.com/setup_8.x | sudo -E bash -
-    sudo apt-get install -y nodejs
-    ```
+  - before npm install node.js
+  ```
+  wget -qO- https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  sudo apt-get install -y nodejs
+  ```
 
-  now install npm 
+  - now install npm 
   ```
   brew install node
   ```
+    
 + **truffle ganache** framework
   - download .appimage file from [ganache](https://truffleframework.com/ganache) 
   ```

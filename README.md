@@ -23,7 +23,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
-     - [Data Structures](#17-data-structures)
+     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -39,10 +39,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Scala](#120-scala)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
-     - [Competitions](#22-competitions-trophy)
+     - [Top Global Hackathons](#21-top-global-hackathons)
+     - [Competitions](#22-competitions)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-ticket)
+     - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
 
@@ -95,6 +95,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
+- [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of     programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code     exercises to practice Python coding.
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 
@@ -112,7 +113,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) :heavy_dollar_sign:
-
+    - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
@@ -169,6 +170,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.5 Backend Development
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
+- [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/backend.png)
 
 -  **Django - Python**
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
@@ -195,6 +197,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 - **PHP**
+    - [PHP Manual](http://php.net/manual/en/index.php)
     - [W3Schools](https://www.w3schools.com/php/)
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
@@ -210,6 +213,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
     - [RailsCasts](http://railscasts.com) - Video tutorials on more intermediate Ruby on Rails topics.
+    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) - Learn Web Development with Rails
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
@@ -222,6 +226,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
+- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
 
 - **HTML5 and CSS3**
     - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
@@ -271,6 +276,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
@@ -286,6 +292,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
         - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
+	- [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
 
      - **React.js**
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -360,19 +367,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
 
 - **Tutorials & Practice**
-    - [Visual Algo]
-    (https://visualgo.net/en) Understanding DS & Algo through animations.
-    - [E-maxx] 
-    (https://e-maxx.ru/algo/) Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
-    (https://cp-algorithms.com/) English version of e-maxx. (Translation is almost complete)
-    - [All Good Tutorials on Codeforces]
-    (http://codeforces.com/blog/entry/57282) - All of the best tutorials on Codeforces all at one place.
-    - [DS & Algo + Maths + C++] 
-    (http://codeforces.com/blog/entry/13529) - Another set of good compilation of resources to study.
-    - [Data Structures and Algorithms]
-    (https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
-    - [Problem Topics]
-    (http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
+    - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
+    - [E-maxx](https://e-maxx.ru/algo/) - Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
+    [English version of e-maxx.](https://cp-algorithms.com/)  (Translation is almost complete)
+    - [All Good Tutorials on Codeforces](http://codeforces.com/blog/entry/57282) - All of the best tutorials on Codeforces all at one place.
+    - [DS & Algo + Maths + C++](http://codeforces.com/blog/entry/13529) - Another set of good compilation of resources to study.
+    - [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
+    - [Problem Topics](http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -467,7 +468,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## 1.20 Scala
-- [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+
+- Books
+    - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+- Online Courses
+    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
 
 ---
 
@@ -580,6 +586,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
@@ -726,7 +733,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ² OSoC is only open to Belgian students.
 
-# Open Source Competitions
+## Open Source Competitions
 
 
 | Name                                    | Awards |
@@ -885,7 +892,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |16 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
 |17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
 |18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
-|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
+|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angular Developer |
 |20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |21 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
 |22 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
@@ -934,4 +941,3 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - Startup
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - Learning
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) Study Abroad
-
