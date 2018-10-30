@@ -1,4 +1,5 @@
 # Data Science Conferences in 2018 and 2019
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.
 
 | Conference | Description and Topics Covered | Location | Date |
 |:--- |:--- |:--- |:--- |
