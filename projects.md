@@ -4,6 +4,7 @@
   - [Data Science - Pizza de Dados](http://pizzadedados.com/)
   - [Data Science - Serenata de Amor](https://serenata.ai/)
   - [Digit Recogniser](https://github.com/aashish-ak/CNN-from-Scratch)
+  - [Machine Learning - Free](http://www.fast.ai/)
   - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
    
    2. Beginner Level: Practice Projects
