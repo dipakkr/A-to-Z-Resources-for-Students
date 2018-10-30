@@ -19,6 +19,7 @@ _Best way to learn any data structure is to read about it first, understand it a
 	- [SEGSQRSS](https://www.spoj.com/problems/SEGSQRSS/) - **MEDIUM**
 	- [TorCoder](https://codeforces.com/contest/240/problem/F) - **HARD**
 	- [Comrades- III](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/comrades-iii/) - **HARD**
+  - [Hash Table-Problems](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/xsquare-and-palindromes-insertion/)-**A good question on implementaion of hashing from hackerearth.**
 
 **Videos introducing Linked Lists**
 - [Linked List](https://www.youtube.com/watch?v=_ri3Qm5A4Dk) - **Youtube Video introducing Linked Lists**
@@ -36,3 +37,5 @@ _Best way to learn any data structure is to read about it first, understand it a
 
 **2.** [“Introduction to Algorithms” by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)
 
+**3.** [“Problem Solving with Algorithms and Data Structures using Python” By Brad Miller and David Ranum, Luther College.] 
+(https://interactivepython.org/runestone/static/pythonds/index.html)
