@@ -586,6 +586,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:

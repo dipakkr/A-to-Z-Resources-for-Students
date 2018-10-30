@@ -329,6 +329,8 @@ Instructions :
 | 295 | **Ankit Kumar maurya** | India | | [Github](https://github.com/mauryaankitsh) |
 | 296 | **Scriptle** | UK | Student | [GitHub](https://github.com/Scriptle) |
 | 297 | **Savreen** | India | explorer | [GitHub](https://github.com/rubal-98/) - [LinkedIn](https://www.linkedin.com/in/rubal-98/)
+| 298 | **Jeroen Thomas** | Netherlands | Computer Science Bachelor Student | [GitHub](https://github.com/JeromerT) - [LinkedIn](www.linkedin.com/in/jeroen-thomas-2075ab108)
+
 
 ---
 
