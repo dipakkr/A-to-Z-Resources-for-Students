@@ -88,6 +88,7 @@
 + <a href = "https://docs.djangoproject.com/en/2.1/intro/tutorial01/"> Django Documentation Poll App Tutorial (Version 2.1)</a>
 + <a href = "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django (Version 1.11)</a>
 + <a href = "https://tutorial.djangogirls.org/en/installation/">Django Girls Tutorial (Version 2.0.6)</a>
++ <a href = "https://www.django-rest-framework.org/tutorial/quickstart/"> Django REST framework quickstart guide</a>
 
 ## **Flask**
 + <a href = "http://flask.pocoo.org/docs/1.0/"> Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
