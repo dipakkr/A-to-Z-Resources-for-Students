@@ -286,6 +286,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
         - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
+	- [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
 
      - **React.js**
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
