@@ -23,7 +23,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
-     - [Data Structures](#17-data-structures)
+     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
