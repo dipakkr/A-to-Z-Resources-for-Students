@@ -1,0 +1,50 @@
+// standard css and html
+  
+  /* ====================
+     landing9 styles begin
+      =====================
+  */
+  
+  <!-- section begins -->
+  
+  /* styles begin */
+  
+  
+		<div class="_section">
+			<div class="inside_ _section">
+			</div>
+		</div>
+	
+	  <!--  section starts -->
+        <div class="_section">
+            <div class="_head"></div>
+            <div class="_body"></div>
+        </div>
+        <!--  section ends -->
+
+	  .landing9{
+		background-image: url(../svgs/Landing9/Landing9_bg.png);
+		height: 100vh;
+		position: relative;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		overflow: scroll;
+      }
+
+
+	  
+	  .body_landing7{
+            display: flex;
+            justify-content: space-between;
+			
+			margin: 0 auto;
+			max-width: 1170px;
+        }
+		
+		margin-left:50%;
+		margin-right:50%;
+		display:block;
+		
+	
+      <img src="../svgs/Home_4/grenade.png" class="apple_logo">
