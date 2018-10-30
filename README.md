@@ -533,7 +533,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |40 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
 |41 | [Y Combinator Hacks]() | USA | - | - | - |
 |42 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - |
-|42 | [SwampHacks](http://2018.swamphacks.com) | Onsite (University of Florida) | Yes | Nov | Dec |
+|43 | [SwampHacks](http://2018.swamphacks.com) | Onsite (University of Florida) | Yes | Nov | Dec |
+|44 | [Rose Hack](http://rosehack.com) | Onsite (University of California, Riverside) | No | September | January |
 
 ----------------------------------------------------------
 
