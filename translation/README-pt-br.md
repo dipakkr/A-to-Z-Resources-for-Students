@@ -165,7 +165,11 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - **Ruby**
     - [Tutorial de Ruby on Rails](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way ("Aprenda Ruby Do Jeito Mais Difícil")](https://learnrubythehardway.org/book/)
-
+    - [Learn Ruby (Aprenda Ruby) | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiaridade com Ruby antes do Rails
+    - [Ruby Tapas](https://www.rubytapas.com/) - Screencasts curtos e focados, abrangindo conceitos e técnicas do Ruby do nível intermediário ao avançado, princípios de design, práticas de testes, refatoração, etc.
+    - [O guia (comovente) de Ruby do Why (Why's (Poignant) Guide to Ruby)](http://why.carlosbrando.com/) - Versão PT-BR
+    - [Curso de Ruby Puro](https://onebitcode.com/course/ruby-puro/) - Para iniciantes.
+    - [RailsCasts](http://railscasts.com) - Vídeos tutoriais sobre tópicos intermediários de Ruby on Rails
 ## 1.6 Desenvolvimento Frontend Web :computer:
 
 - **HTML5 and CSS3**
