@@ -331,8 +331,7 @@ Instructions :
 | 298 | **Jeroen Thomas** | Netherlands | Computer Science Bachelor Student | [GitHub](https://github.com/JeromerT) - [LinkedIn](www.linkedin.com/in/jeroen-thomas-2075ab108)
 | 299 | **Hunter** | United States | Aspiring DevOps Engineer | [Github](https://github.com/huntmanday) |
 | 300 | **Archit Singla** | India | Software Developer | [GitHub](https://github.com/architsingla13) |
-| 301 | **Saikat Tapu** | Bangladesh | Programmer |
-[Github](https://github.com/srt0) |
+| 301 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 
 ---
