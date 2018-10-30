@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco:
 
 ```
 Instructions :
@@ -314,8 +314,21 @@ Instructions :
 | 281 | **Haris Rabbani** | United Kingdom | Computer Science Student | [Github](https://github.com/HarisRabbani) |
 | 282 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
 | 283 | **Gabriel Ferreira** | Brazil | CS Student | [Github](https://github.com/gabrielvf64) |
-| 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/) |
-| 285 | **Scriptle** | UK | Student | [GitHub](https://github.com/Scriptle) |
+| 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/)
+| 285 | **Anurita Srivastava** | India | iOS Developer | [GitHub](https://github.com/AnuritaS/) - [LinkedIn](https://www.linkedin.com/in/anurita-srivastava/) |
+| 286 | **lwolff** | USA | CS Student | [Github](https://github.com/lwolff) |
+| 286 | **Jay Yabsley** | Australia | Realtime Software Developer | [GitHub](https://github.com/jayyabsley/) - [LinkedIn](https://www.linkedin.com/in/jayyabsley/)|
+| 287 | **Aldo Cano** | Albania | Android Developer | [Github](https://github.com/aldocano) |
+| 288 | **Ahmetcan Guvendiren** | Turkey | CENG Student | [Github](https://github.com/glacion) |
+| 289 | **Jairo Junior** | Brazil | Software Engineer | [Github](https://github.com/jairojj) |
+| 290 | **Ganaa** | Austria | Cybersecurity graduate | [Github](https://github.com/ganbadrakh)
+| 291 | **Bentley** | Philippines | Software Developer | [GitHub](https://github.com/kwen-fts)|
+| 292 | **Boughaba Otmane** | Morocco | Computer Science Student | [GitHub](https://github.com/Otman404) |
+| 293 | **Kesara Wimal** | Sri Lanka | Software Engineer | [GitHub](https://github.com/kesarawimal) - [LinkedIn](https://www.linkedin.com/in/kesarawimal/)|
+| 294 | **Courtney Adams** | USA | Junior Web Developer | [Github](https://github.com/cadams8238)
+| 295 | **Ankit Kumar maurya** | India | | [Github](https://github.com/mauryaankitsh) |
+| 296 | **Scriptle** | UK | Student | [GitHub](https://github.com/Scriptle) |
+
 
 ---
 
