@@ -8,6 +8,11 @@
 + Siraj Raval youtube cryptocurrencies series: [YouTube](https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL)
 + Basic Blockchain Essentials course by IBM: https://cognitiveclass.ai/courses/blockchain-course/
 
+## Bitcoin and Programming the Bitcoin Blockchain
++ The Bitcoin Whitepaper: https://bitcoin.org/bitcoin.pdf
++ A youtube playlist by Andreas Antonopolous for beginners: [Bitcoin for Beginners](https://www.youtube.com/playlist?list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj)
++ An absolute must-read book (2nd edition) by Andreas Antonopolous to learn about the Bitcoin blockchain and programming for it: https://github.com/bitcoinbook/bitcoinbook
+
 ## Ethereum and smart contracts
 + Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
 + Ethereum course (highly recommended - paid): https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/
