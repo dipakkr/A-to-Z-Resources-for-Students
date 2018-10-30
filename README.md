@@ -647,6 +647,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
 11. [Namecheap free .name Domain](https://nc.me/)
+12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
