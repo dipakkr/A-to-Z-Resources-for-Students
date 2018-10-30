@@ -37,6 +37,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Docker](#118-docker)
      - [Microsoft Technologies](#119-microsoft)
      - [Scala](#120-scala)
+     - [Programming Notes for Professionals](#121-programming-notes)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons)
@@ -476,6 +477,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
+
+## 1.21 Programming Notes for Professionals
+
+- Books
+    - [Programming Notes for Professionals books](https://goalkicker.com)
 
 ---
 
