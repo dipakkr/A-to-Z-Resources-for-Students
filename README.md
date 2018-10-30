@@ -469,7 +469,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## 1.20 Scala
-- [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+
+- Books
+    - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+- Online Courses
+    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
 
 ---
 
