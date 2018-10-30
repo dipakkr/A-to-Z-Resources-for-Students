@@ -9,5 +9,5 @@
 - [Why Docker?](https://dev.to/abiodunjames/why-docker-creating-a-multi-container-application-with-docker--1gpb)
 - [Docker Guide](https://dev.to/drminnaar/docker-guide---part-1--57c8)
 
-## Video Tutorial
-- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star: 
+## Video Tutorial 
+- [Free Course](https://www.youtube.com/watch?v=4G-ALqd0OZ8):star:
