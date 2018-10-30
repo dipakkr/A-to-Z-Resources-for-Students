@@ -489,7 +489,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 2.1 Top Global Hackathons :globe_with_meridians:
 
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
+|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
 |--|------ |---|---| ------ | ----| ----- |
 |1 | [Call for Code](https://callforcode.org/) | Online | - | - | - | Ended |
 |2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - | Ended |
