@@ -181,6 +181,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
 
+-  **opencv - Python**
+	 - [The opencv Mega Tutorial](https://www.tutorialspoint.com/opencv/) :baby: + Intermediate
+
 -  **Node.JS**
     - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) :heavy_dollar_sign:
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
