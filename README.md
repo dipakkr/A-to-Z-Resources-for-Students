@@ -198,7 +198,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
-
+    - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
@@ -221,11 +221,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
-    -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
-    -[Free Courses and Paid Private training](https://university.mongodb.com/)
+    - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    - [Free Courses and Paid Private training](https://university.mongodb.com/)
+    - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
 
 - **Software architecture**
-    -[Microservices by Chris Richardson](https://microservices.io/index.html)
+    - [Microservices by Chris Richardson](https://microservices.io/index.html)
 
 ## 1.6 Frontend Web Development
 
@@ -390,7 +391,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
-    
+
 
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
@@ -925,7 +926,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
-      - [Kaggle Learn](https://www.kaggle.com/learn/overview)      
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
       - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
 
 2.   **Startup News and Stories**
@@ -946,4 +947,3 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
-
