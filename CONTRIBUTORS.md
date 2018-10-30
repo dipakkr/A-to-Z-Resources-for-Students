@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco:
 
 ```
 Instructions :
@@ -323,6 +323,7 @@ Instructions :
 | 289 | **Jairo Junior** | Brazil | Software Engineer | [Github](https://github.com/jairojj) |
 | 290 | **Ganaa** | Austria | Cybersecurity graduate | [Github](https://github.com/ganbadrakh)
 | 291 | **Bentley** | Philippines | Software Developer | [GitHub](https://github.com/kwen-fts)|
+| 292 | **Boughaba Otmane** | Morocco | Computer Science Student | [GitHub](https://github.com/Otman404) |
 
 ---
 
