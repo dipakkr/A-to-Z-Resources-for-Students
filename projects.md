@@ -19,6 +19,7 @@
        
 
 ## 2. Blockchain
+   - [Interesting Blockchain Projects](https://hackernoon.com/6-interesting-blockchain-projects-8c315364ff7f)
    - [A simplest blockchain in python](https://github.com/dvf/blockchain)
    - [Lets build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
