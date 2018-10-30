@@ -144,6 +144,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
 
+-  **Best Online Books**
+    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+    - [An MIT Press book](http://www.deeplearningbook.org/)
+
 -  **Best GitHub Repositories to follow**
     - [Top 200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
     - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
