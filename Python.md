@@ -29,6 +29,7 @@
 ## 3. Web Development
 + <a href = "https://www.youtube.com/watch?v=qgGIqRFvFFk"> Django Tutorial </a>
 + <a href = "https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP"> Flask Tutorial </a>
++ <a href = "https://tutorial.djangogirls.org/"> Django Girls </a>
 
 ## 4. Desktop APP Development
 + <a href = "https://kivy.org/#home"> Kivy(Android, Desktop, IOS) Applications </a>
