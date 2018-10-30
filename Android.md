@@ -20,6 +20,7 @@
 + [Android Fundamental by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) 
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
++ [The Complete Android & Java Developer Course - Build 21 Apps by Udemy](https://www.udemy.com/complete-android-developer-course/)
 
 
 ## 2. Certificate
