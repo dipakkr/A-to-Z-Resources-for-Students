@@ -17,14 +17,14 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
      - [Python](#11-python-snake)
      - [Machine Learning](#12-machine-learning-robot)
      - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development-iphone)
-     - [Backend Development ](#15-backend-development-computer)
-     - [Frontend Web Development](#16-frontend-web-development-computer)
+     - [Desarrollo Android](#14-android-development-iphone)
+     - [Desarrollo de Backend](#15-backend-development-computer)
+     - [Desarrollo web de Frontend](#16-frontend-web-development-computer)
      - [Data Structure](#17-data-structures-chart_with_upwards_trend)
-     - [Alexa Tutorials](#18-alexa-tutorials)
+     - [Tutoriales de Alexa](#18-alexa-tutorials)
      - [C](#19-c-language)
      - [C++](#110-c-language)
-     - [Git and Github](#111-git-and-github-octocat)
+     - [Git y Github](#111-git-and-github-octocat)
      - [R](#112-r-language)
 
 2.  [ Hackathons y Eventos ](#2-hackathons-and-events)
@@ -68,7 +68,7 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 > [**Navega por este link para aprender mas en detalle sobre Machine Learning and Deep Learning**](ML.md)
 
 -  **Mejores Cursos Online**
-    - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
+    - [CSE-229 - Universidad de Standford]( http://cs229.stanford.edu/)
     - [AndrewNg Coursera](https://www.coursera.org/learn/machine-learning)
     - [Udacity Machine Learning Nanodegree](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
     - [ Reinforcement Learning - Nanodegree](https://in.udacity.com/course/reinforcement-learning--ud600)
@@ -77,11 +77,11 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) -**PAID**
     - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
--  **Best GitHub Repositories to follow**
+-  **Mejores repositorios de Github a seguir**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
--  **Research Papers**
+-  **Trabajos de investigación**
     - [Arxiv](https://arxiv.org/)
     - [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)
     - [Research Gate](https://www.researchgate.net/)
@@ -190,10 +190,9 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
 ------
 
 ## 1.7 Estructura de datos :chart_with_upwards_trend:
-- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algorithm and Data Structure in 
-Different Programming Languages**
+- [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos y Estructuras de Datos en diferentes lenguajes de programación**
 - [CodeChef](https://www.codechef.com/) - **CodeChef Competitive Programming Site**
-- [Codeforces](https://codeforces.com/) - **Great site for preparing for programming contests**
+- [Codeforces](https://codeforces.com/) - **Buen sitio web para prepararse para concursos de programación**
 - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Strongly Recommended to learn DS and Computer Science fundamentals**
 - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Must Do Coding Questions for Product Based companies**
 - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk to start with Programming-Programming Fundamentals**
@@ -203,7 +202,7 @@ Different Programming Languages**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Great head start for learning Data Structures**
 - [UVa Online Judge](https://uva.onlinejudge.org) - **The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems**
 
-## 1.8 Alexa Tutorials
+## 1.8 Tutoriales de Alexa
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
  - [Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) (PAID)
