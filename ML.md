@@ -83,6 +83,7 @@
   - [Fashion-MNIST Dataset a Fashion Images Dataset (30 MB)](https://github.com/zalandoresearch/fashion-mnist)
   - [SENTIMENT140 for sentiment analysis (80 MB)](http://help.sentiment140.com/for-students/)
   - [PREDICTING PULSAR STAR FROM HTRU2 DATASET_(771 KB)](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)
+  - [Labelled faces in wild (280 MB)](http://vis-www.cs.umass.edu/lfw/)
 
   ***Advanced***
   - [55000 song Lyrics CSV file](https://www.kaggle.com/mousehead/songlyrics)
