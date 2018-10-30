@@ -274,6 +274,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
     - [Wes Bos list of courses](https://wesbos.com/courses/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
 
 
 - **JavaScript Frameworks**
