@@ -37,7 +37,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Docker](#118-docker)
      - [Microsoft Technologies](#119-microsoft)
      - [Scala](#120-scala)
-     - [Programming Notes for Professionals](#121-programming-notes)
+     - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons)
