@@ -98,6 +98,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 
+
 ## 1.2 Machine Learning
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
