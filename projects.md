@@ -49,6 +49,9 @@
 ###### Flask - Python Microframework
   - [Article Inventory Tutorial from Scratch](https://bit.ly/py_flask)
 
+  ######  Laravel  -PHP Framework 
+  - [Laravel Authentication](https://github.com/jeremykenedy/laravel-auth)
+
 ## 7. Frontend Development
 
 ###### JavaScript
