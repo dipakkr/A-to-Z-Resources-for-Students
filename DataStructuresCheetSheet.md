@@ -1,5 +1,9 @@
-## Data Structures Cheet Sheet
-**Best way to learn any data structure is to read about it first, understand it and then dive into solving problems using that data structure!**
+## Data Structures Cheat Sheet
+_Best way to learn any data structure is to read about it first, understand it and then dive into solving problems using that data structure! and the last part practice and practice_
+
+### Big O Efficiency
+- [Space and Time Big-O complexities of common algorithms used in Computer Science](http://bigocheatsheet.com/)
+### Segment Tree
 
 - [Segment Tree](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/) - **Segment Tree is used in cases where there are multiple range queries on array and modifications of elements of the same array.**
 
