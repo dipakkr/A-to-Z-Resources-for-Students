@@ -323,6 +323,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Vue School](https://vueschool.io/courses) :free: + :heavy_dollar_sign:
         - [Scrimba](https://scrimba.com/g/glearnvue)
         - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
+        - [Vue.js News](https://news.vuejs.org/)
+        - [Vue.js Showcase - Made With Vue.js](https://madewithvuejs.com/)
 
     - **Web Accessibility**
         - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
