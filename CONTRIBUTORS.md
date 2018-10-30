@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia:
 
 ```
 Instructions :
@@ -11,7 +11,8 @@ Instructions :
 
 - Don't change the format of the table or modify someone else content.
 
-- In case you don't want to disclose your contact information, no problem, this list is just created to get to know people who are contributing to this repository.
+- In case you don't want to disclose your contact information, no problem, 
+  this list is just created to get to know people who are contributing to this repository.
 ```
 
 ### 1. Collaborators
@@ -189,7 +190,7 @@ Instructions :
 | 158 | **Andrew Ferreira** | Canada | Software Engineering Student | [GitHub](https://github.com/acferreir4) - [LinkedIn](https://www.linkedin.com/in/acferreir4/)|
 | 159 | **Ben Diuguid**  | USA | Software Engineer | [GitHub](https://github.com/bendiuguid) |
 | 160 | **Lindsay Chapin** | USA | Full Stack Web Developer | [GitHub](https://github.com/lnchapin) - [LinkedIn](https://www.linkedin.com/in/lnchapin)|
-| 161 | **Kirie	** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
+| 161 | **Kirie** | Australia | Student and aspiring programmer | [GitHub](https://github.com/kirievalient) |
 | 162 | **Celeste Zapata** | Argentina | Web Developer / Software Developer | [GitHub](https://github.com/rozenstraws) - [LinkedIn](https://www.linkedin.com/in/celeste-zapata/)|
 | 163 | **Muhammad Awais** | Pakistan | Computer Science Student | [GitHub](https://github.com/muhammadawaishaider) |
 | 164 | **Rana Faisal** | Pakistan | Computer Science Student | [GitHub](https://github.com/IRanafaisal) |
@@ -249,7 +250,7 @@ Instructions :
 | 217 | **Prakhar** |  -  | CS | [GitHub](https://github.com/prakhar0409) |
 | 218 | **Breno Castelo Branco** | Brazil | Back-End Developer | [Github](https://github.com/brenocastelo/) |
 | 219 | **Aman Pandey** | India | Machine Learning and Blockchain | [Github](https://github.com/johnsoncarl/) |
-| 220 | **Lauren Conley** | United States | Learning Full Stack web development | https://github.com/laconley |
+| 220 | **Lauren Conley** | United States | Learning Full Stack web development | [Github](https://github.com/laconley) |
 | 221 | **Caleb Xu** | USA | | [GitHub](https://github.com/alebcay) |
 | 222 | **Shafran Naizer** | Srilanka| Undergraduate | [GitHub](https://github.com/shafran123) |
 | 223 | **Steve Worrell** | England | SharePoint Developer | [GitHub](https://github.com/steve-worrell) |
@@ -261,6 +262,67 @@ Instructions :
 | 229 | **Siltaz** | India | BCA Student- Web Developer | [Github](https://github.com/siltaz)
 | 230 | **Parth Garasiya** | India | Computer Science Student | [GitHub](https://github.com/parth222) |
 | 231 | **Ahad Ali** | India | Software Developer | [GitHub](https://github.com/ahadali) |
+| 232 | **Ghous AHmed**  | Pakistan | Student | [Github](https://github.com/ghousshah) |
+| 233 | **Alumanda Shakankale**  | Zambia | ICT Technical Support Specialist | [Github](https://github.com/alushaks) |
+| 234 | **Shivam Bachhety** | India | Computer Science Student -Developer- Data Science | [Github](https://github.com/shivambachhety)
+| 235 | **Eduard** | Spain | Computer Science student | [Github](https://github.com/muzikizum)
+| 236 | **Kelvin Mai** | United States | Software Developer | [GitHub](https://github.com/kelvin-mai)|
+| 237 | **Trent Andraka** | USA | Student | [Github](https://github.com/trentandraka) - [LinkedIn](https://www.linkedin.com/in/trentandraka/)|
+| 238 | **Bolaram Paul**  | Bangladesh | Web Dev and Tech Blogger | [GitHub](https://github.com/bolaram) |
+| 239 | **Abhishek sharma** | India | Computer Science Student | [GitHub](https://github.com/abhi010101) |
+| 240 | **Linda Lai** | Australia | Full-Stack Developer | [GitHub](https://github.com/linda-lai)|
+| 241 | **Lauren Wright** | United States | Web Dev Student | [GitHub](https://github.com/laurenewright) |
+| 242 | **Mon** | Thailand | Developer | [Github](https://github.com/mon555/) |
+| 243 | **Zeeshan**| India || [Github](https://github.com/15bcs019) |
+| 244 | **Kapil Chaudhary** | India | Founder Agrocartt , Blockchain,Hyperledger,Tangle loves Android app development | [Github](https://github.com/kapil706)|
+| 245 | **Ambuj Kumar** | India | IT Final Year Student | [Github](https://github.com/AmbujaAK) |
+| 246 | **Tiffany R** | United States | Lead Anesthesia Technician | [Twitter](https://twitter.com/Tifftough) |
+| 247 | **Isaac** | United States | Site Reliablity Engineer | [GitHub](https://github.com/JukieWalsh)|
+| 248 | **Edgar** | USA | Computer Science Student | [GitHub](https://github.com/edgarp28)|
+| 249 | **Lenny** | Germany | Computer Science Student | [GitHub](https://github.com/lenni108) |
+| 250 | **Matei** | Slovakia | Rock Instructor, Pixel Aligner | [CodePen](https://codepen.io/towc) |
+| 251 | **Ajith Kumar Panja** | India | Sophomore , CEG | [GitHub](https://github.com/AjithPanja) |
+| 252 | **Abegail I** | Philippines | Mobile Developer | [GitHub](https://github.com/chabbyabe) |
+| 253 | **Alexander Nazarovsky** | Russia | SalesForce Admin | [GitHub](https://github.com/ArchieDash) |
+| 254 | **Prakash Jha** | India | Computer Science Student | [GitHub](https://github.com/forgotter) - [LinkedIn](https://www.linkedin.com/in/prakash-jha-forgotter/)|
+| 255 | **Rotceh** | México | Computer Science student | [GitHub](https://github.com/Rotceh88) |
+| 256 | **Rahul R** | India | Security Engineer | [Github](https://github.com/rahulr311295) |
+| 257 | **Ajay Tanwar**  |-| | [GitHub](https://github.com/ajayt365) |
+| 258 | **Kian Miguel**  | Philippines | Computer Science Student | [GitHub](https://github.com/kianmiguel) |
+| 259 | **Muna Mohamed** | United Kingdom | Frontend Developer and Technical Writer | [Github](https://github.com/mooneyd12) |
+| 260 | **Keyur Canji** | United Kingdom | BSc Computer Science Student | [Github](https://github.com/KeyurC) |
+| 261 | **KY SOPHOT** | Cambodia | Computer Science & Engineering | [Github] (https://github.com/sophot)
+| 262 | **Kai Yoke** |Singapore| Engineering Student | [GitHub](https://github.com/kwyoke) |
+| 263 | **Randika Suridu** | Sri Lanka | Computer Science Student/Arduino and android developer | [GitHub](https://github.com/Randika97) - [LinkedIn](https://www.linkedin.com/in/randika-suridu-a8271715b/)|
+| 264 | **Nirav Madariya** | India | Microsoft Student Partner, Certified Cloud Solutions Architect | [GitHub](https://github.com/niravmadariya) - [LinkedIn](https://www.linkedin.com/in/niravmadariya) - [Twitter](https://twitter.com/niravmadariya)
+| 265 | **Prateek Bajaj**  | India | Student | [Github](https://github.com/prateek552) |
+| 266 | **Nick Day** | USA | Software Developer | [GitHub](https://github.com/solakin) |
+| 267 | **Chandan**  | India | Student | [Github](https://github.com/chandan) |
+| 268 | **Rafli Fahreza**  | Indonesia | Student | [Github](https://github.com/HYP3RTEX7) |
+| 269 | **Pranav Sharma** | India | Computer Science Student | [Github](https://github.com/pranav7955) - [LinkedIn](https://in.linkedin.com/in/pranav7955)
+| 270 | **Rich** | Mexico | Intelligent Systems Student, Musician | [GitHub](https://github.com/Richb17) |
+| 271 | **Beatriz Milz** | Brazil | Environmental Science Student | [GitHub](https://github.com/beatrizmilz) |
+| 272 | **Franciele Portugal** | Brazil | Student of Information Systems and I love datas | [GitHub](https://github.com/francieleportugal) - [LinkedIn](https://www.linkedin.com/in/franciele-portugal-557aa7119)|
+| 273 | **Vladimir Solovev** | Russia | Developer | [GitHub](https://github.com/solovyovs) |
+| 274 | **Jessa Bermudez** | Philippines | Designer | [GitHub](https://github.com/sahsah29) |
+| 275 | **Sahil** | USA | Student | [GitHub](https://github.com/EpicDragonSlayr) |
+| 276 | **Jeffrey Ongcay** | Philippines | Software Engineer | [GitHub](https://github.com/jeffreyongcay) |
+| 277 | **Ryan Casicas** | Philippines | Junior Software Developer , Traxion | [GitHub](https://github.com/rcasicas44) |
+| 278 | **Kirill** | Australia | Software Engineer | [GitHub](https://github.com/Lirrik) |
+| 279 | **Edwin Francis** | India | Web Developer | [GitHub](https://github.com/edwinfrancis002) |
+| 280 | **Johan Reji** | India | web Developer | [GitHub](https://github.com/johanreji) |
+| 281 | **Haris Rabbani** | United Kingdom | Computer Science Student | [Github](https://github.com/HarisRabbani) |
+| 282 | **Shoaib Majeed** | Pakistan | | [Github](https://github.com/mshoaib85) |
+| 283 | **Gabriel Ferreira** | Brazil | CS Student | [Github](https://github.com/gabrielvf64) |
+| 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/)
+| 285 | **Anurita Srivastava** | India | iOS Developer | [GitHub](https://github.com/AnuritaS/) - [LinkedIn](https://www.linkedin.com/in/anurita-srivastava/) |
+| 286 | **lwolff** | USA | CS Student | [Github](https://github.com/lwolff) |
+| 286 | **Jay Yabsley** | Australia | Realtime Software Developer | [GitHub](https://github.com/jayyabsley/) - [LinkedIn](https://www.linkedin.com/in/jayyabsley/)|
+| 287 | **Aldo Cano** | Albania | Android Developer | [Github](https://github.com/aldocano) |
+| 288 | **Ahmetcan Guvendiren** | Turkey | CENG Student | [Github](https://github.com/glacion) |
+| 289 | **Jairo Junior** | Brazil | Software Engineer | [Github](https://github.com/jairojj) |
+| 290 | **Ganaa** | Austria | Cybersecurity graduate | [Github](https://github.com/ganbadrakh)
+| 291 | **Bentley** | Philippines | Software Developer | [GitHub](https://github.com/kwen-fts)|
 
 ---
 
