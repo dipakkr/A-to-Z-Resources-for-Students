@@ -26,6 +26,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
+     - [Full-stack Web Development](#122-full-stack-web-development)
      - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
@@ -515,6 +516,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - Online Courses
     - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
 
+## 1.22 Full-Stack Web Development
+- [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
+
 
 ---
 
@@ -983,9 +987,14 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 
+
+#12. Contributors 
+
+[Contributors](CONTRIBUTORS.md)
+
 # 13. Coding Bootcamps
 
 1. [Lambda School](https://lambdaschool.com/)
 2. [SpringBoard](https://www.springboard.com/)
-
+2. [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
 
