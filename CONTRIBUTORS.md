@@ -355,6 +355,7 @@ Instructions :
 | 321 | **Aditya M** | India | Student | [GitHub](https://github.com/adimishra1) |
 | 321 | **Tanmay Anand** | India | Student | [GitHub](https://github.com/tanmayanand44) |
 | 321 | **Nitik Jain** | India | Mechanical Engineering Student | [GitHub](https://github.com/nitik1998) |
+| 321 | **Hector Quintero | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 
 
 ---
