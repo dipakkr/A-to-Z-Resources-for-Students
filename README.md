@@ -248,9 +248,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
-- [Frontend Mentor](https://www.frontendmentor.io/)
-- [General Assembly Dash](https://dash.generalassemb.ly/)
-    --General Assembly Dash currently works best in Microsoft Edge (10-2018)
+- [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
+- [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
+    (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
     - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
@@ -990,7 +990,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 
 
-#12. Contributors 
+# 12. Contributors 
 
 [Contributors](CONTRIBUTORS.md)
 
