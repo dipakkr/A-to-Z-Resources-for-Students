@@ -334,7 +334,7 @@ Instructions :
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 217 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
 | 301 | **Sean Mayton** | United States | Tech Apprentice | [GitHub](https://github.com/maytonsw) |
-
+| 285 | **Fert** | Canada | Aspiring Software Developer | [GitHub](https://github.com/Fertalicious) |
 
 
 ---
