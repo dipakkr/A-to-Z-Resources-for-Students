@@ -47,7 +47,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Top Global Hackathons](#21-top-global-hackathons-)
      - [Competitions](#22-competitions-)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events)
+     - [Events](#24-events-)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
 
@@ -633,7 +633,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 
-## 2.4 Events :ticket:
+## 2.4 Events 🎫
 
 > **Check out these events for your region**
 
