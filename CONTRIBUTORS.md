@@ -349,6 +349,7 @@ Instructions :
 | 315 | **bpkaur** | United States | Software Developer | [GitHub](https://github.com/bpkaur) |
 | 316 | **Radhika Gulati** | United States | Software Engineer | [GitHub](https://github.com/radhigulati) |
 | 317 | **Matt Bledsoe** | United States | Software Engineer | [GitHub](https://github.com/mjb12) 
+| 318 | **Jewell Scott** | United States | Self-Stuyding Developer | [GitHub](https://github.com/jewellscott) |
 
 
 ---
