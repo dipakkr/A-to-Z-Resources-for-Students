@@ -340,6 +340,7 @@ Instructions :
 | 305 | **Isaac Torres** | Mexico | Software Developer | [GitHub](https://github.com/isaactorresmichel) |
 | 306 | **Demir Baş** | Turkey | Student | [GitHub](https://github.com/ironhead690) |
 | 307 | **Menna Fateen** | Egypt | Computer Science student | [Github](https://github.com/mennafateen) |
+| 308 | **revised01** | Earth | Computer Science student | [Github](https://github.com/revised01) |
 
 
 ---
