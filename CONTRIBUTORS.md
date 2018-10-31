@@ -337,7 +337,7 @@ Instructions :
 | 302 | **Abhishek Jadav** | India | Student | [GitHub](https://github.com/AbhishekJadav11) |
 | 303 | **Fert** | Canada | Aspiring Software Developer | [GitHub](https://github.com/Fertalicious) |
 | 304 | **Aryan Choudhary** | India | Student | [GitHub](https://github.com/aryanc403) |
-
+| 305 | **Isaac Torres** | Mexico | Software Developer | [GitHub](https://github.com/isaactorresmichel) |
 
 ---
 
