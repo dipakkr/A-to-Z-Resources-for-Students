@@ -44,8 +44,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-top-global-hackathons)
-     - [Competitions](#22-competitions)
+     - [Top Global Hackathons](#21-top-global-hackathons-)
+     - [Competitions](#22-competitions-)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
@@ -537,7 +537,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 2. Hackathons and Events
 
-## 2.1 Top Global Hackathons :globe_with_meridians:
+## 2.1 Top Global Hackathons 🌐
 
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
@@ -589,7 +589,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ----------------------------------------------------------
 
-##  2.2 Competitions :trophy:
+##  2.2 Competitions 🏆
 
 |ID| Name  | Location |
 |--|------ |----------|
