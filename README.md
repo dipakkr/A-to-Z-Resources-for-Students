@@ -40,6 +40,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Docker](#118-docker)
      - [Microsoft Technologies](#119-microsoft)
      - [Scala](#120-scala)
+     - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons)
@@ -435,6 +436,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Programiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
+ - [C++ Language Reference](http://www.cplusplus.com/reference/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
@@ -501,6 +503,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
+
+## 1.21 MATLAB/Octave
+
+- [MATLAB Academy](https://matlabacademy.mathworks.com/)
+- [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
+
+- Online Courses
+    - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
+
 
 ---
 
