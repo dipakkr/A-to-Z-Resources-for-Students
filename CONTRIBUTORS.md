@@ -346,6 +346,7 @@ Instructions :
 | 311 | **Sander Menke** | Netherlands | Freelancer | [Github](https://github.com/sander00) |
 | 312 | **Karthik** | India | Computer Science student | [Github](https://github.com/resrv) |
 | 314 | **Josh Tatton**| Australia | Student Mechanical Engineer | [GitHub](https://github.com/jtatton)
+| 315 | **bpkaur** | United States | Software Developer | [GitHub](https://github.com/bpkaur) |
 
 
 ---
