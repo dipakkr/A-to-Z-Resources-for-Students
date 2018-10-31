@@ -23,8 +23,8 @@
 2.  [Deep Learning](#2--deep-learning)
 
      - [Where to Start in DL?](#21-where-to-start-in-dl)
-     - [Online Courses](#2.2-online-courses)
-     - [Research Paper](#2.3-research-paper)
+     - [Online Courses](#21-where-to-start-in-dl)
+     - [Research Paper](https://arxiv.org/list/stat.ML/recent)
      - [Top Github Repositories](#2.4-top-github-repositories)
      - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
      - [Colah's Blog on Deep Learning](http://colah.github.io/)
@@ -74,8 +74,6 @@
 
    - [Start@Fast.ai](http://course.fast.ai/start.html)
    - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-
-2)
 
 # 3. **DataSets**
   ***Beginners***
