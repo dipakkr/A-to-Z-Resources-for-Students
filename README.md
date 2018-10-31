@@ -199,7 +199,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
 
-
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
     - [W3Schools](https://www.w3schools.com/php/)
@@ -208,6 +207,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
     - [PHP: The Right Way](https://phptherightway.com)
     - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
+    - [PHP Best Practices](https://phpbestpractices.org/)
+    - [PHP Pandas](https://daylerees.com/php-pandas/)
+    - [PHP Internals Book](http://www.phpinternalsbook.com/)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
