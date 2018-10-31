@@ -281,4 +281,18 @@ struct addrress
    int pin; 
 };
 ```
+- Types of structure:
+	- Tagged structure - tag after `struct`
+	- Variable structure - identifier before last semicolon
+	- Type definition structure - a `typedef` before `struct` and a type identifier before last semicolon
 
+
+14. **Macros**
+
+- A macro is a single instruction that expands automatically into a set of instructions to perform a particular task.
+- Commonly used keyword are `#define`, `#undef`
+- Types of macro:
+	- Simple macro
+		- Macro with no variables, usually used as constants
+	- Parameterized macro
+		- Macro with variables, according to gcc.gnu.org: When the macro is expanded, each use of a parameter in its body is replaced by the tokens of the corresponding argument.
