@@ -4,7 +4,7 @@
 
 ### Você é um estudante ou um profissional buscando recursos acadêmicos para aprender uma nova linguagem? Ou gostaria de conhecer novas pessoas em alguma comunidade? Está procurando conferências internacionais, hackathons e competições para participar? Então você realmente deve conferir isto!
 
-Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que outros desenvolvedores iniciantes sofram do mesmo mal. Por isso, eu e vários outros desenvolvedores de toda parte estamos curando uma lista de recursos para estudantes. Se você está na universidade, dá uma olhada nesse material!
+Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, conferências, estágios e eventos internacionais por não ter informações. Eu não quero que outros desenvolvedores iniciantes sofram do mesmo mal. Por isso, eu e vários outros desenvolvedores de toda parte estamos formulando uma lista de recursos para estudantes. Se você está na universidade, dá uma olhada nesse material!
 
 ![Image](/res/xx.gif)
 
@@ -137,7 +137,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - [Introdução do backend](https://in.udacity.com/course/intro-to-backend--ud171)
 
 -  **Django - Python**
-    - [Experimente Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Mehor para iniciantes*
+    - [Experimente Django | Youtube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) - *Ótimo para Iniciantes*
     - [Documentação Django ](https://docs.djangoproject.com/en/2.1/)
     - [Django Girls](https://tutorial.djangogirls.org/en/)
     - [Documentação Web MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) *Bom para iniciantes*
@@ -148,11 +148,11 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
     - [Framework Web Express (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 
-    - [Aprenda e entenda NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAGO**  *Intermediate level*
+    - [Aprenda e entenda NodeJS ](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) - **PAGO**  *Nivel Intermediário*
 
     - [Vídeo Tutoriais - Node.js](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) - *Bom para iniciantes*
 
-    - [Documentação Node.js](https://nodejs.org/dist/latest-v8.x/docs/api/) - *recomendado a todos*
+    - [Documentação Node.js](https://nodejs.org/dist/latest-v8.x/docs/api/) - *Recomendado a todos*
 
     - [Design Patterns em Node.js por Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - *Livro nível avançado*
 
@@ -165,7 +165,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 - **Ruby**
     - [Tutorial de Ruby on Rails](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way ("Aprenda Ruby Do Jeito Mais Difícil")](https://learnrubythehardway.org/book/)
-    - [Learn Ruby (Aprenda Ruby) | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiaridade com Ruby antes do Rails
+    - [Learn Ruby (Aprenda Ruby) | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiaridade com Ruby antes do Rails.
     - [Ruby Tapas](https://www.rubytapas.com/) - Screencasts curtos e focados, abrangindo conceitos e técnicas do Ruby do nível intermediário ao avançado, princípios de design, práticas de testes, refatoração, etc.
     - [O guia (comovente) de Ruby do Why (Why's (Poignant) Guide to Ruby)](http://why.carlosbrando.com/) - Versão PT-BR
     - [Curso de Ruby Puro](https://onebitcode.com/course/ruby-puro/) - Para iniciantes.
@@ -205,8 +205,8 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 - **Frameworks JavaScript**    
      ###### Angular
-     - [Angular 7 - The Complete Guide ("O Guia Completo") por Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy Paid)**
-    - [O Curso Completo de Angular: de Iniciante a Avançado por Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy - pago)**
+     - [Angular 7 - The Complete Guide ("O Guia Completo") por Maximilian Schwarzmüller](https://www.udemy.com/the-complete-guide-to-angular-2/) - **(Udemy - Pago)**
+    - [O Curso Completo de Angular: de Iniciante a Avançado por Mosh Hamedani](https://www.udemy.com/the-complete-angular-master-class/) - **(Udemy - Pago)**
     - [Angular Expo](https://angularexpo.com/) - **Linda mostra de sites, aplicações e experimentos usando**
     - [Made With Angular ("Feito em Angular")](https://www.madewithangular.com/) - **Galeria de sites inspiradores usando Angular/AngularJS**
 
@@ -259,16 +259,16 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 ---
 
 ## 1.7 Estrutura de Dados :chart_with_upwards_trend:
-- [Algo & DS em diferentes linguagens](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos e estrutura de dados em diferentes linguagens**
-- [CodeChef](https://www.codechef.com/) - **CodeChef Site de programação competitiva**
-- [Codeforces](https://codeforces.com/) - **Ótimo site para se preparar para maratonas de programação**
-- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Fortemente recomendado para aprender fundamentos de Estruturas de Dados e Ciência da Computação**
-- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Problemas (Coding Questions) que devem ser resolvidos para companhias baseadas em produtos**
-- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk para começar com Fundamentos de programação de programação**
-- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Kit de preparação para entrevista**
-- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Melhor plataforma para se preparar para entrevistas baseadas em estruturas de dados**
+- [Algo & DS em diferentes linguagens](https://github.com/ZoranPandovski/al-go-rithms) - **Algoritmos e estrutura de dados em diferentes linguagens.**
+- [CodeChef](https://www.codechef.com/) - **CodeChef Site de programação competitiva.**
+- [Codeforces](https://codeforces.com/) - **Ótimo site para se preparar para maratonas de programação.**
+- [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  **Fortemente recomendado para aprender fundamentos de Estruturas de Dados e Ciência da Computação.**
+- [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - **Problemas (Coding Questions) que devem ser resolvidos para companhias baseadas em produtos.**
+- [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - **Code Monk para começar com Fundamentos de programação.**
+- [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - **Kit de preparação para entrevistas.**
+- [InterviewBit](https://www.interviewbit.com/courses/programming) -  **Melhor plataforma para se preparar para entrevistas baseadas em estruturas de dados.**
 - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - **Ótimo para iniciar o aprendizado de estruturas de dados**
-- [UVa Online Judge](https://uva.onlinejudge.org) - **Site para submeter problemas de estrutura de dados [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) **
+- [UVa Online Judge](https://uva.onlinejudge.org) - **Site para submeter problemas de estrutura de dados** [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html)
 
 ## 1.8 Tutoriais - Alexa
  - [CodeAcademy](https://www.codecademy.com/learn/learn-alexa)
