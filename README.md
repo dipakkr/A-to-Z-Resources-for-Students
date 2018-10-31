@@ -35,7 +35,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
-     - [Microsoft Technologies](#119-microsoft)
+     - [Microsoft Technologies](#119-microsoft-technologies)
      - [Scala](#120-scala)
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
 
