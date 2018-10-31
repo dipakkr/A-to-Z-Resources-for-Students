@@ -214,6 +214,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
     - [PHP: The Right Way](https://phptherightway.com)
     - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
+    - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
