@@ -28,6 +28,7 @@
      - [Top Github Repositories](#2.4-top-github-repositories)
      - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
      - [Colah's Blog on Deep Learning](http://colah.github.io/)
+     - [Tutorialspoint](https://www.tutorialspoint.com/python_deep_learning/index.htm)
 
 3. [DataSets](#3-datasets)
 
