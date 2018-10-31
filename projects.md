@@ -36,6 +36,7 @@
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
  * [MEAN Stack | Online portal of IIT Professors' details](https://github.com/aashish-ak/search_guru)
  * [MEOWER - Twitter clone | Full Stack Web Development example project & detailed walktrough](https://github.com/CodingGarden/meower) - [video](https://www.youtube.com/watch?v=JnEH9tYLxLk)
+ * [FreeCodeCamp](https://www.freecodecamp.org) The languages and technologies currently taught by freeCodeCamp include HTML5, CSS 3, JavaScript, jQuery, Bootstrap, Sass, React.js, Node.js, Express.js, MongoDB, and Git. 
 
 ## 6. Backend Development
 
