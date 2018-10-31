@@ -59,7 +59,7 @@
 # 1. 코딩 리소스 :pencil:
 
 ## 1.1 파이썬 :snake:
-
+       
 > [**파이썬에 대한 자세한 정보는이 링크에서 찾아보십시오**](Python.md)
 
 - [Learn Python - CodeAcademy](https://www.codecademy.com/learn/learn-python)
@@ -689,4 +689,6 @@ different programming languages**
 5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
-8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
+8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*              
+
+
