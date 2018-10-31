@@ -224,12 +224,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [PHP Pandas](https://daylerees.com/php-pandas/)
     - [PHP Internals Book](http://www.phpinternalsbook.com/)
     - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
     - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
     - [RailsCasts](http://railscasts.com) - Video tutorials on more intermediate Ruby on Rails topics.
@@ -240,6 +242,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Free Courses and Paid Private training](https://university.mongodb.com/)
     - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
+	- [MongoDB full tutorial for beginners](https://www.quackit.com/mongodb/tutorial/)
+	- [MongoDB tutorial for intermediate](https://www.guru99.com/mongodb-tutorials.html)
 
 - **Software architecture**
     - [Microservices by Chris Richardson](https://microservices.io/index.html)
@@ -279,6 +283,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
+	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -303,6 +309,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
     - [Wes Bos list of courses](https://wesbos.com/courses/)
     - [freeCodeCamp](https://www.freecodecamp.org/)
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 
 - **JavaScript Frameworks**
@@ -434,6 +441,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
  - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+ - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
