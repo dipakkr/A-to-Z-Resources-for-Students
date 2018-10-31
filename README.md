@@ -395,7 +395,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
     - [Problem Topics](http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
     - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
-
+    - [Excercism](https://exercism.io/) - Code practice and mentorship. 
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
