@@ -915,6 +915,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |34 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
 |35 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
 |36 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
+|37 |[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | AI & ML |
 
 ---
 
