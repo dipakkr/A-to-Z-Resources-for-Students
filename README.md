@@ -27,6 +27,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C++ Language](#110-c-language)
      - [Git and Github](#111-git-and-github-octocat)
      - [R Language](#112-r-language)
+     - [Go Language](#113-go-language)
 
 2.  [ Hackathons and Events ](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
