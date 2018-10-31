@@ -299,6 +299,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
 
      - **React.js**
+        - [React JS - Conference Videos](https://www.reactjsvideos.com/)
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
@@ -390,7 +391,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
-    
+
 
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
@@ -432,6 +433,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Introduction to Git and Github | YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
  - [LearnGitBranching](https://learngitbranching.js.org/)
+ - [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
+ - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+ - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
@@ -489,52 +493,52 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 2.1 Top Global Hackathons :globe_with_meridians:
 
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
-|--|------ |---|---| ------ | ----|
-|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
-|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
-|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
-|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
-|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
-|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
-|7 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
-|8 | [Hack Western](https://hackwestern.com/) | Onsite (Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
-|9 | [HackDTU](http://hackdtu.tech/) | Onsite (India) | No | - | - |
-|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - |
-|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
-|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
-|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - |
-|14 | [HackISU](https://hackisu.org/)| USA | No | October | - |
-|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
-|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
-|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
-|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - |
-|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
-|20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
-|21 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - |
-|22 | [HashHacks](http://hashhacks.tech/) | Onsite (India) | No | Mid Oct | - |
-|23 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite (Reva University) | October (Idea Submission) | Nov End | - |
-|24 | [InOut](https://hackinout.co/) | Onsite (India) | Yes | October | - |
-|25 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
-|26 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
-|27 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
-|28 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - |
-|29 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
-|30 | [Megathon](https://megathon.in/) | India | No | Early September | September End
-|31 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
-|32 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
-|33 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - |
-|34 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
-|35 | [QHacks](http://qhacks.io/) | USA | - | - |  - |
-|36 | [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
-|37 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-|38 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - |
-|39 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
-|40 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
-|41 | [Y Combinator Hacks]() | USA | - | - | - |
-|42 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - |
-|43 | [SwampHacks](http://2018.swamphacks.com) | Onsite (University of Florida) | Yes | Nov | Dec |
-|44 | [Rose Hack](http://rosehack.com) | Onsite (University of California, Riverside) | No | September | January |
+|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
+|--|------ |---|---| ------ | ----| ----- |
+|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - | Ended |
+|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - | Ended |
+|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
+|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
+|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | n/a |
+|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | Dead page |
+|7 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March | N/A |
+|8 | [Hack Western](https://hackwestern.com/) | Onsite (Western University) | Yes (on a case by case basis) | Nov End | Mid Oct | 11/23/18 |
+|9 | [HackDTU](http://hackdtu.tech/) | Onsite (India) | No | - | - | Ended |
+|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - | N/A |
+|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - | Dead page |
+|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - | Ended |
+|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - | Ended |
+|14 | [HackISU](https://hackisu.org/)| USA | No | October | - | Ended |
+|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | Ended |
+|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event | Ended, 2019 is open for pre-reg |
+|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
+|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
+|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
+|20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|21 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - | Ended |
+|22 | [HashHacks](http://hashhacks.tech/) | Onsite (India) | No | Mid Oct | - | Ended |
+|23 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite (Reva University) | October (Idea Submission) | Nov End | - | 11/2/18 |
+|24 | [InOut](https://hackinout.co/) | Onsite (India) | Yes | October | - | Ended |
+|25 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - | N/A |
+|26 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October | 11/23/18 |
+|27 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - | Ended |
+|28 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - | Ended |
+|29 | [McHacks](http://mchacks.io/) | USA| - | - |  - | Dead page |
+|30 | [Megathon](https://megathon.in/) | India | No | Early September | September End | 2/1/2019 |
+|31 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- | November, 2018 |
+|32 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - | Open |
+|33 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 1/26/19 |
+|34 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | Ended |
+|35 | [QHacks](http://qhacks.io/) | USA | - | - |  - | 2/1/2019 |
+|36 | [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April | Check website | N/A |
+|37 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - | Ended |
+|38 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - | 2/15/19 |
+|39 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - | Ended |
+|40 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - | multiple, next one 12/14/2018 |
+|41 | [Y Combinator Hacks]() | USA | - | - | - | No link? |
+|42 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - | 11/30/18 |
+|43 | [SwampHacks](http://2018.swamphacks.com) | Onsite (University of Florida) | Yes | Nov | Dec | Ended, will be back 2019 |
+|44 | [Rose Hack](http://rosehack.com) | Onsite (University of California, Riverside) | No | September | January | 1/19/2019 |
 
 ----------------------------------------------------------
 
@@ -946,4 +950,9 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
+
+# 12. Coding Bootcamps
+
+1. [Lambda School](https://lambdaschool.com/)
+2. [SpringBoard](https://www.springboard.com/)
 
