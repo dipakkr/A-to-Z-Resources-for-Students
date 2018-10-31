@@ -419,6 +419,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Programiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
+ - [C++ Language Reference](http://www.cplusplus.com/reference/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
