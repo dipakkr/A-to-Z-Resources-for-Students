@@ -352,6 +352,7 @@ Instructions :
 | 318 | **Jewell Scott** | United States | Self-Stuyding Developer | [GitHub](https://github.com/jewellscott) |
 | 319 | **Cleyton Vale** | Brazil | Sofware Developer | [GitHub] (https://github.com/fastest10)
 | 320 | **Pablo J** | Spain | Software Engineer | [GitHub](https://github.com/pablo0910) |
+| 321 | **Aditya M** | India | Student | [GitHub](https://github.com/adimishra1) |
 
 
 ---
