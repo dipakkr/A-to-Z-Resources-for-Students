@@ -24,12 +24,12 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
      - [Tutoriais - Alexa](#18-tutoriais---alexa)
      - [Linguagem C](#19-linguagem-c)
      - [Linguagem C++](#110-linguagem-c)
-     - [Git and Github](#111-git-and-github-octocat)
+     - [Git e Github](#111-git-and-github-octocat)
      - [Linguagem R](#112-r-language)
      - [Haskell](#113-haskell)
      - [DevDocs - Documentação da API da maioria das linguagens de programação (funciona offline)](https://devdocs.io)
 
-2.  [Hackathons and Eventos](#2-hackathons-and-eventos)
+2.  [Hackathons e Eventos](#2-hackathons-and-eventos)
      - [Top Hackathons Internacionais](#21-rainbow-top-hackathons-internacionais)
      - [Competitições](#22-competições-bomb)
      - [Portal de busca de Hackathons](#23--portal-de-busca-de-hackathons-dart)
@@ -106,7 +106,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
 
 ## 1.3 Deep Learning
 
-> [**Consulte este link para obter informações detalhadas sobre Machine Learning and Deep Learning**](ML.md)
+> [**Consulte este link para obter informações detalhadas sobre Machine Learning e Deep Learning**](ML.md)
 
 -  **Melhores Cursos Online**
     - [Especialização em Deep Learning - Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -172,7 +172,7 @@ Quando eu estava na faculdade, eu perdi muitas oportunidades como hackathons, co
     - [RailsCasts](http://railscasts.com) - Vídeos tutoriais sobre tópicos intermediários de Ruby on Rails
 ## 1.6 Desenvolvimento Frontend Web :computer:
 
-- **HTML5 and CSS3**
+- **HTML5 e CSS3**
     - [HTML5 and CSS3 w3schools.com](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Introdução a HTML e CSS](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [HTML5 and CSS3](https://courses.learncodeonline.in/learn/emmet-course?)
