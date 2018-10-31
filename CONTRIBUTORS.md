@@ -335,6 +335,7 @@ Instructions :
 | 217 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
 | 301 | **Sean Mayton** | United States | Tech Apprentice | [GitHub](https://github.com/maytonsw) |
 | 302 | **Abhishek Jadav** | India | Student | [GitHub](https://github.com/AbhishekJadav11) |
+| 303 | **Fert** | Canada | Aspiring Software Developer | [GitHub](https://github.com/Fertalicious) |
 
 
 ---
