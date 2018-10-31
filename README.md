@@ -233,11 +233,17 @@ Different Programming Languages**
 
  ## 1.11 Git and Github :octocat:
  - [Git Tutorials].(https://www.atlassian.com/git/tutorials/comparing-workflows)
+ - [Git ,Progate](https://progate.com/languages/git)
+ - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 ## 1.12 R Language
 - [RStudio}(https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/
+## 1.13 Go Language
+- [Go,Progate](https://progate.com/languages/go)
+- [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
+- [Go by Example](https://gobyexample.com/)
 
 =============================================================================================
 
