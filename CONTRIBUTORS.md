@@ -336,6 +336,7 @@ Instructions :
 | 301 | **Sean Mayton** | United States | Tech Apprentice | [GitHub](https://github.com/maytonsw) |
 | 302 | **Abhishek Jadav** | India | Student | [GitHub](https://github.com/AbhishekJadav11) |
 | 303 | **Fert** | Canada | Aspiring Software Developer | [GitHub](https://github.com/Fertalicious) |
+| 304 | **Aryan Choudhary** | India | Student | [GitHub](https://github.com/aryanc403) |
 
 
 ---
