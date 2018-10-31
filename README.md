@@ -98,6 +98,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of     programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code     exercises to practice Python coding.
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 ## 1.2 Machine Learning
 
