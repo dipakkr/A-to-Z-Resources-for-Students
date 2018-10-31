@@ -37,6 +37,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Docker](#118-docker)
      - [Microsoft Technologies](#119-microsoft)
      - [Scala](#120-scala)
+     - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons)
@@ -481,6 +482,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
+
+## 1.21 MATLAB/Octave
+
+- [MATLAB Academy](https://matlabacademy.mathworks.com/)
 
 ---
 
