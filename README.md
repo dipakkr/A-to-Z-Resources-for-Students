@@ -293,6 +293,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Wes Bos list of courses](https://wesbos.com/courses/)
     - [freeCodeCamp](https://www.freecodecamp.org/)
 
+- **TypeScript**
+    - [offical Documentation](https://www.typescriptlang.org/docs/home.html)
+    - [Github Repo](https://github.com/Microsoft/TypeScript)
+    - [Tutorialspoint](https://www.tutorialspoint.com/typescript/)
+    - [Understanding TypeScript | Udemy](https://www.udemy.com/understanding-typescript) :heavy_dollar_sign:
+
 
 - **JavaScript Frameworks**
 
