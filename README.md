@@ -38,8 +38,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
-     - [Microsoft Technologies](#119-microsoft)
+     - [Microsoft Technologies](#119-microsoft-technologies)
      - [Scala](#120-scala)
+     - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
@@ -514,16 +515,20 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - Books
     - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
     - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
 
-## 1.21 MATLAB/Octave
+## 1.21 Programming Notes for Professionals
+
+- Books
+    - [Programming Notes for Professionals books](https://goalkicker.com)
+
+## 1.22 MATLAB/Octave
 
 - [MATLAB Academy](https://matlabacademy.mathworks.com/)
 - [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
-
-- Online Courses
-    - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
+- [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
 
 
 ---
