@@ -95,6 +95,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
+- [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
 - [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of     programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code     exercises to practice Python coding.
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
@@ -114,7 +115,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) :heavy_dollar_sign:
+    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning) 
     - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
+
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
@@ -144,6 +147,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Best Online Courses**
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
+    - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
