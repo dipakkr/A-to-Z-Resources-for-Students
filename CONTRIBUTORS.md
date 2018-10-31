@@ -347,6 +347,7 @@ Instructions :
 | 312 | **Karthik** | India | Computer Science student | [Github](https://github.com/resrv) |
 | 314 | **Josh Tatton**| Australia | Student Mechanical Engineer | [GitHub](https://github.com/jtatton)
 | 315 | **bpkaur** | United States | Software Developer | [GitHub](https://github.com/bpkaur) |
+| 316 | **Radhika Gulati** | United States | Software Engineer | [GitHub](https://github.com/radhigulati) |
 
 
 ---
