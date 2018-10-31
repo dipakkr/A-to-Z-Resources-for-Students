@@ -318,6 +318,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [React For Beginners | Wes Bos](https://reactforbeginners.com/) :heavy_dollar_sign:
         - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
         - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
+	
+     - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
 
 
