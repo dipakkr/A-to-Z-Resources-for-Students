@@ -198,7 +198,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
-
+    - [Mixu's Node book](http://book.mixu.net/node/)
+    - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
