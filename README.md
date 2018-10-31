@@ -879,43 +879,43 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 |Id | Name | Category|
 |--|------ |---|
-|1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
-|3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
-|4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
-|5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
-|6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
-|7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
-|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
-|9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
-|10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
-|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
-|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
+|2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
+|3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
+|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
+|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
+|6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
+|7 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|8 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
+|9 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
+|10 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
+|11 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|12 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
-|14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
-|15 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
-|16 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
-|17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
-|18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
-|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angular Developer |
-|20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
-|21 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
-|22 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
-|23 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
-|24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
-|25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
-|26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
-|27 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
-|28 |[Quincy Larson](https://twitter.com/ossia) | Teacher that started free code camp |
-|29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
-|30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
-|31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
-|32 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
-|33 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
-|34 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
-|35 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
-|36 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
-|37 |[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | AI & ML |
+|14 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
+|15|[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
+|16 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
+|17 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
+|18 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
+|19 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|20 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|21 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+|22 |[Quincy Larson](https://twitter.com/ossia) | Teacher that started free code camp |
+|23 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
+|24 |[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
+|25 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
+|26 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
+|27 |[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | AI & ML |
+|28 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
+|29 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
+|30 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
+|31 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
+|32 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|33 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
+|34 |[Victor Savkin](https://twitter.com/victorsavkin) | Angular Developer |
+|35 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
+|36 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
+|37 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
 
 ---
 
