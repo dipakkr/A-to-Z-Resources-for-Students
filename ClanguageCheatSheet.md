@@ -281,6 +281,11 @@ struct addrress
    int pin; 
 };
 ```
+- Types of structure:
+	- Tagged structure - tag after `struct`
+	- Variable structure - identifier before last semicolon
+	- Type definition structure - a `typedef` before `struct` and a type identifier before last semicolon
+
 
 14. **Macros**
 
