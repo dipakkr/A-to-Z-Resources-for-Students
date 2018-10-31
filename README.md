@@ -41,6 +41,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Microsoft Technologies](#119-microsoft)
      - [Scala](#120-scala)
      - [MATLAB/Octave](#121-matlab/octave)
+     - [Rust](#122-rust)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons)
@@ -516,6 +517,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - Online Courses
     - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
+
+## 1.22 Rust 
+
+- [The Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/index.html)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) is a book with in-browser executable examples.
+
+- Online Courses
+    - [Rust Lang Udemy](https://www.udemy.com/rust-lang/)
+
 
 
 ---
