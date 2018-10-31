@@ -467,6 +467,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+ - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
