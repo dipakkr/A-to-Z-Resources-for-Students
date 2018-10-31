@@ -240,6 +240,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Free Courses and Paid Private training](https://university.mongodb.com/)
     - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
+	- [MongoDB full tutorial for beginners](https://www.quackit.com/mongodb/tutorial/)
+	- [MongoDB tutorial for intermediate](https://www.guru99.com/mongodb-tutorials.html)
 
 - **Software architecture**
     - [Microservices by Chris Richardson](https://microservices.io/index.html)
