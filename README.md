@@ -677,7 +677,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Young India Fellowship]()
 3. [Urban Leaders Fellowship]()
 4. [Facebook fellowship Program - **Only For PHD Scholars**]()
-5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship]()
+5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
 8. [Stanford-ABC News Global Health and Media Fellowship]()
