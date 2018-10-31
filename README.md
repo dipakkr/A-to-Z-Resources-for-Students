@@ -807,6 +807,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5| [T HUB ](https://t-hub.co/) | - |
 |6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
+|8| [Inova Metrópole](https://inova.imd.ufrn.br/parque/inova/) | IMD/UFRN, Brazil |
 
 ---
 
