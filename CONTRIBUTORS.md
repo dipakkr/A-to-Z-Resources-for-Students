@@ -11,7 +11,7 @@ Instructions :
 
 - Don't change the format of the table or modify someone else content.
 
-- In case you don't want to disclose your contact information, no problem, 
+- In case you don't want to disclose your contact information, no problem,
   this list is just created to get to know people who are contributing to this repository.
 ```
 
@@ -83,7 +83,7 @@ Instructions :
 | 50 | **Asrst** | India | ML Beginner | [GitHub](https://github.com/Asrst) |
 | 51 | **Guido Sanchez** | Canada | Python, Java, Javascript | [Github](https://github.com/Guido2k) |
 | 52 | **Denise Gillette** | USA | | [GitHub](https://github.com/gilletted) |
-| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |   
+| 53 | **Stacey Koornneef** | Canada | Data Science Student | [GitHub](https://github.com/Stacey-Koornneef) |
 | 54 | **Adam Weiler** | Canada |  Teaching self how to code | [GitHub](https://github.com/adam-weiler) - [LinkedIn](https://www.linkedin.com/in/adamweiler/) - [Twitter](https://twitter.com/adamweiler86) |
 | 55 | **Rohit Krishna** |  |  Software Engineer | [GitHub](https://github.com/rohitkrishna094) |
 | 56 | **Soh Boon Hoe** | Malaysia |  Javascript Beginner | [GitHub](https://github.com/maximilliansoh) |
@@ -348,10 +348,12 @@ Instructions :
 | 314 | **Josh Tatton**| Australia | Student Mechanical Engineer | [GitHub](https://github.com/jtatton)
 | 315 | **bpkaur** | United States | Software Developer | [GitHub](https://github.com/bpkaur) |
 | 316 | **Radhika Gulati** | United States | Software Engineer | [GitHub](https://github.com/radhigulati) |
-| 317 | **Matt Bledsoe** | United States | Software Engineer | [GitHub](https://github.com/mjb12) 
+| 317 | **Matt Bledsoe** | United States | Software Engineer | [GitHub](https://github.com/mjb12)
 | 318 | **Jewell Scott** | United States | Self-Stuyding Developer | [GitHub](https://github.com/jewellscott) |
 | 319 | **Cleyton Vale** | Brazil | Sofware Developer | [GitHub] (https://github.com/fastest10)
 | 320 | **Pablo J** | Spain | Software Engineer | [GitHub](https://github.com/pablo0910) |
+| 321 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
+
 
 
 ---
