@@ -358,7 +358,7 @@ Instructions :
 | 323 | **Nitik Jain** | India | Mechanical Engineering Student | [GitHub](https://github.com/nitik1998) |
 | 324 | **Hector Quintero | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
-
+| 326 | **Nick Armet** | United States | Apprentice | [Github] (https://github.com/nickarmet/) |
 
 ---
 
