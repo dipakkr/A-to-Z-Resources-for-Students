@@ -363,6 +363,7 @@ Instructions :
 | 326 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)| [GitHub](https://github.com/ishaan28malik) |
 | 327 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
 | 328 | **J Bowler** | UK | OU Computing Student | [GitHub](https://github.com/jimuk07) |
+| 329 | **Giordi Fungula** | South Africa | | [Github](https://github.com/giordifungula) - [LinkedIn](https://www.linkedin.com/in/giordi-fungula-b0a31295/)|
 
 ---
 
