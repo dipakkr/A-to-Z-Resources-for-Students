@@ -42,6 +42,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Scala](#120-scala)
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#121-matlab/octave)
+     - [Go Language](#123-go-language)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -256,6 +257,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **HTML5 and CSS3**
     - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
     - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
@@ -473,6 +475,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
+ - [Git ,Progate](https://progate.com/languages/git)
+ - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+
+
+
+
+
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
@@ -537,6 +546,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
 - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
 
+
+## 1.23 Go Language
+- [Go,Progate](https://progate.com/languages/go)
+- [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
+- [Go by Example](https://gobyexample.com/)
 
 ---
 
@@ -702,6 +716,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
+15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
@@ -717,6 +732,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
 9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
+11. [Namecheap free .name Domain](https://nc.me/)
+12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
+13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -1006,6 +1024,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
+10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) - *Learning*
+11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 # 12. Coding Bootcamps
 
