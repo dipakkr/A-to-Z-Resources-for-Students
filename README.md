@@ -66,6 +66,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
 12. [Coding Bootcamps](#12-coding-bootcamps)
+13. [Contributors](CONTRIBUTORS.md)
 
 ---
 
