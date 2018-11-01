@@ -296,3 +296,6 @@ struct address
 		- Macro with no variables, usually used as constants
 	- Parameterized macro
 		- Macro with variables, according to gcc.gnu.org: When the macro is expanded, each use of a parameter in its body is replaced by the tokens of the corresponding argument.
+
+15. **Videos**
+- [C Programming Tutorial](https://www.youtube.com/watch?v=-CpG3oATGIs)
