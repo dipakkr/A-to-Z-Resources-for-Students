@@ -44,10 +44,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-top-global-hackathons-)
-     - [Competitions](#22-competitions-)
+     - [Top Global Hackathons](#21-top-global-hackathons)
+     - [Competitions](#22-competitions)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-)
+     - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
 
@@ -537,7 +537,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 2. Hackathons and Events
 
-## 2.1 Top Global Hackathons 🌐
+## 2.1 Top Global Hackathons :globe_with_meridians:
 
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
@@ -589,7 +589,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ----------------------------------------------------------
 
-##  2.2 Competitions 🏆
+##  2.2 Competitions :trophy:
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -633,7 +633,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 
-## 2.4 Events 🎫
+## 2.4 Events :ticket:
 
 > **Check out these events for your region**
 
@@ -968,6 +968,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |35 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |36 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
 |37 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
+|38 |[Julie Zhou](http://juliezhuo.com/?source=user_profile---------------------------) | VP of Design at Facebook
 
 ---
 
