@@ -6,9 +6,9 @@
 ## Index
 1. [Courses](#courses)
 2. [Certifications](#certificate)
-3. [Books](#book)
-4. [Podcasts](#podcast)
-5. [Blogs](#blog)
+3. [Books](#books)
+4. [Podcasts](#podcasts)
+5. [Blogs](#blogs)
 6. [References](#references)
 7. [Publish](#publish)
 8. [Misc. Resources](#misc-resources)
