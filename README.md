@@ -1025,6 +1025,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
 10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) - *Learning*
+11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 # 12. Coding Bootcamps
 
