@@ -41,7 +41,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Scala](#120-scala)
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#121-matlab/octave)
-     - [Go Language](#123-go-language)
      - [C# Language](#124-c#-language)
      - [Rust](#125-rust)
 
@@ -569,15 +568,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
+- [Learn Go](https://golang.org/doc/)
+- [Stay tuned](https://blog.golang.org/)
+- [Packages](https://golang.org/pkg/)
 
 ## 1.24 Rust
 - [Learn Rust](https://doc.rust-lang.org/book/second-edition/index.html)
 - [Contribute](https://github.com/rust-lang/rust)
 
-## 1.25 The Go Programming Language
-- [Learn Go](https://golang.org/doc/)
-- [Stay tuned](https://blog.golang.org/)
-- [Packages](https://golang.org/pkg/)
 ---
 
 
