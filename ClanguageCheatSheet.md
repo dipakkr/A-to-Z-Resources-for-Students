@@ -1,17 +1,17 @@
-# CheatSheet 
+# CheatSheet
 
-## C Programming 
+## C Programming
 
-1. **Keywords** 
+1. **Keywords**
 (these words are reserved for the language and cannot be used as any variable name by the user)
 
-|auto      |  double   |   int     |    struct 
-|break     |  else     |   long    |    switch 
-|case      |  enum     |   register|    typedef 
-|char      |  extern   |   return  |    union 
-|const     |  float    |   short   |    unsigned 
-|continue  |  for      |   signed  |    void 
-|default   |  goto     |   sizeof  |    volatile 
+|auto      |  double   |   int     |    struct
+|break     |  else     |   long    |    switch
+|case      |  enum     |   register|    typedef
+|char      |  extern   |   return  |    union
+|const     |  float    |   short   |    unsigned
+|continue  |  for      |   signed  |    void
+|default   |  goto     |   sizeof  |    volatile
 |do        |  if       |   static  |    while
 
 2. **Allowed Character Set**
@@ -34,23 +34,23 @@ double - long float
 ```
 
 > use scanf to take input from the user
-> scanf("Format string",&variable,&variable,...); 
+> scanf("Format string",&variable,&variable,...);
 
 | Placeholders  |       Format |
-|:--------------:|:------------ | 
+|:--------------:|:------------ |
 | %c         |         Character |
-| %d           |        Signed decimal integer | 
-| %i          |         Signed decimal integer| 
-| %e          |         Scientific notation[e]| 
-| %E            |       Scientific notation[E]| 
-| %f              |     Decimal floating point| 
-| %o                |   unsigned octal| 
-| %s              |     String of character| 
-| %u               |    unsigned decimal integer| 
-| %x                |   unsigned Hexadecimal (lower)| 
-| %X                 |  unsigned Hexadecimal (upper)| 
-| %p                  | dispaly a pointer| 
-| %%                  | print a %| 
+| %d           |        Signed decimal integer |
+| %i          |         Signed decimal integer|
+| %e          |         Scientific notation[e]|
+| %E            |       Scientific notation[E]|
+| %f              |     Decimal floating point|
+| %o                |   unsigned octal|
+| %s              |     String of character|
+| %u               |    unsigned decimal integer|
+| %x                |   unsigned Hexadecimal (lower)|
+| %X                 |  unsigned Hexadecimal (upper)|
+| %p                  | display a pointer|
+| %%                  | print a %|
 
 4. **Escape Sequences**
 
@@ -77,7 +77,7 @@ double - long float
 | Structure Operator	  |            .                                      |	  Left to Right   |
 | Unary minus	          |            -                                      |	  Right to Left   |
 | Increment/Decrement	  |          ++, --	                              |   Right to Left   |
-| Oneâ€™s compliment	  |              ~                                    |	  Right to Left   |
+| One's complement	  |              ~                                    |	  Right to Left   |
 | Negation	          |              !                                    |	  Right to Left   |
 | Address of              |        	&                                     |	  Right to Left   |
 | Value of address	  |             `*`	                              |   Right to Left   |
@@ -111,7 +111,7 @@ double - long float
 ```
 if(flag) {
    // put some statements here to execute if flag is true (flag != 0)
-} 
+}
 else if(flag) {
    // put some statements here to execute if flag is true (flag != 0)
 } else {
@@ -136,15 +136,15 @@ switch(flag) {
 8. **While loop**
 
 ```
-//for single statement  
-while(expression) 
+//for single statement
+while(expression)
     statement;
 
-//for multiple statement   
-while(expression) 
-{ 
-    block of statement 
-} 
+//for multiple statement
+while(expression)
+{
+    block of statement
+}
 ```
 
 9. **For loop**
@@ -182,13 +182,13 @@ example:
 int a = 10;
    /* do loop execution */
    LOOP:do {
-   
+
       if( a == 15) {
          /* skip the iteration */
          a = a + 1;
          goto LOOP;
       }
-		
+
       printf("value of a: %d\n", a);
       a++;
 
@@ -208,12 +208,12 @@ value of a: 19
 
 12. **Arrays**
 
-- *Declaraction*: 
+- *Declaraction*:
 typeof_array array_name[size];
 ```
 Eg:
 int arr[10]; // makes an integer array of size 10
-int num[6] = { 2, 4, 12, 5, 45, 5 } ; 
+int num[6] = { 2, 4, 12, 5, 45, 5 } ;
 ```
 - *Accessing Array elements*:
 `int k=arr[2]; //k stores the element at index 2 of the array`
@@ -226,16 +226,16 @@ for(i =0;i<3;i++){
 ```
 13. **Strings**
 
-- *Declaraction*: 
+- *Declaration*:
 ```
 char string_name[size];
-scanf("%s",string_nam); 
+scanf("%s",string_nam);
 ```
 A string has '\0' as the last element which tells the end of string
 It is accessed in the same way as an array
 A string is in many ways similar to array
 
-- Some basic built-in fucntions of strings
+- Some basic built-in functions of strings
 
 > Just include string.h at the top of your code
 
@@ -257,28 +257,42 @@ strcmpi)
 strnicmp - Compares first n characters of two strings without regard
 to case
 strdup - Duplicates a string
-strchr - Finds first occurrence ofa given character in a string
-strrchr - Finds last occurrence ofa given character in a string
+strchr - Finds first occurrence of a given character in a string
+strrchr - Finds last occurrence of a given character in a string
 strstr - Finds first occurrence of a given string in another string
 strset - Sets all characters ofstring to a given character
-strnset - Sets first n characters ofa string to a given character
+strnset - Sets first n characters of a string to a given character
 strrev - Reverses string
 ```
 
 13. **Structures**
-	
-- A structure is a user defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type. 
+
+- A structure is a user defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type.
 
 >‘struct’ keyword is used to create a structure. Following is an example.
 
 ```
-struct addrress 
-{ 
-   char name[50]; 
-   char street[100]; 
-   char city[50]; 
-   char state[20]; 
-   int pin; 
+struct address
+{
+   char name[50];
+   char street[100];
+   char city[50];
+   char state[20];
+   int pin;
 };
 ```
+- Types of structure:
+	- Tagged structure - tag after `struct`
+	- Variable structure - identifier before last semicolon
+	- Type definition structure - a `typedef` before `struct` and a type identifier before last semicolon
 
+
+14. **Macros**
+
+- A macro is a single instruction that expands automatically into a set of instructions to perform a particular task.
+- Commonly used keyword are `#define`, `#undef`
+- Types of macro:
+	- Simple macro
+		- Macro with no variables, usually used as constants
+	- Parameterized macro
+		- Macro with variables, according to gcc.gnu.org: When the macro is expanded, each use of a parameter in its body is replaced by the tokens of the corresponding argument.
