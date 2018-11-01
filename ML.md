@@ -23,10 +23,11 @@
 2.  [Deep Learning](#2--deep-learning)
 
      - [Where to Start in DL?](#21-where-to-start-in-dl)
-     - [Online Courses](#2.2-online-courses)
-     - [Research Paper](#2.3-research-paper)
+     - [Online Courses](#21-where-to-start-in-dl)
+     - [Research Paper](https://arxiv.org/list/stat.ML/recent)
      - [Top Github Repositories](#2.4-top-github-repositories)
      - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
+     - [Colah's Blog on Deep Learning](http://colah.github.io/)
 
 3. [DataSets](#3-datasets)
 
@@ -43,6 +44,14 @@
 
 8. [Online Mathematical Resources](#8-maths-online-resources)
      - [Create staright line by slope and y-intercept](https://www.desmos.com/calculator/5kn5x8f7zk)
+
+9. [Frameworks](#9-frameworks)
+    -[Tensorflow](https://tensorflow.org)
+    -[Caffe](http://caffe.berkeleyvision.org/)
+    -[Caffe2](https://caffe2.ai/)
+    -[Torch](http://torch.ch/)
+    -[Pytorch](https://pytorch.org/)
+    -[Keras](https://keras.io/)
 
 ---
 
@@ -74,8 +83,6 @@
    - [Start@Fast.ai](http://course.fast.ai/start.html)
    - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-2)
-
 # 3. **DataSets**
   ***Beginners***
   - [MNIST Dataset for Digit Recogniser](http://yann.lecun.com/exdb/mnist/)
@@ -83,6 +90,7 @@
   - [Fashion-MNIST Dataset a Fashion Images Dataset (30 MB)](https://github.com/zalandoresearch/fashion-mnist)
   - [SENTIMENT140 for sentiment analysis (80 MB)](http://help.sentiment140.com/for-students/)
   - [PREDICTING PULSAR STAR FROM HTRU2 DATASET_(771 KB)](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)
+  - [Labelled faces in wild (280 MB)](http://vis-www.cs.umass.edu/lfw/)
 
   ***Advanced***
   - [55000 song Lyrics CSV file](https://www.kaggle.com/mousehead/songlyrics)
