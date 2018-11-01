@@ -256,6 +256,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **HTML5 and CSS3**
     - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
     - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
