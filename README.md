@@ -107,10 +107,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 -  **Best GitHub Repositories to follow**
-     - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
-     - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-     - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-     - [Coding Train](https://github.com/CodingTrain)
+     - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
 
 ## 1.2 Machine Learning
 
@@ -149,6 +146,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
+	
+-  **Book for Machine Learning**
+    - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
 
 
 ## 1.3 Deep Learning
@@ -292,6 +292,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
 	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+	- [Bootstrap4 Documentation] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -427,7 +428,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
-
 
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
