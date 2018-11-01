@@ -361,6 +361,7 @@ Instructions :
 | 326 | **Justina Chua** | America | High School Student | [Github](https://github.com/justinachua) |
 | 326 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
 | 326 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)| [GitHub](https://github.com/ishaan28malik) |
+| 327 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/)| [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
 
 ---
 
