@@ -358,6 +358,8 @@ Instructions :
 | 323 | **Nitik Jain** | India | Mechanical Engineering Student | [GitHub](https://github.com/nitik1998) |
 | 324 | **Hector Quintero | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
+| 325 | **Arthur Lima** | Brazil | Web Developer | [GitHub](https://github.com/arthur322) |
+
 
 
 ---

@@ -44,10 +44,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-top-global-hackathons)
-     - [Competitions](#22-competitions)
+     - [Top Global Hackathons](#21-top-global-hackathons-globe_with_meridians)
+     - [Competitions](#22-competitions-trophy)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events)
+     - [Events](#24-events-ticket)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
 
@@ -64,8 +64,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
-12. [Contributors](CONTRIBUTORS.md)
+11. [Additional Links](#11-additional-links)
+12. [Coding Bootcamps](#12-coding-bootcamps)
+13. [Contributors](CONTRIBUTORS.md)
 
 ---
 
@@ -1004,3 +1005,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 1. [Lambda School](https://lambdaschool.com/)
 2. [SpringBoard](https://www.springboard.com/)
+
+# 13. Contributors
+
+1. [Contributors](CONTRIBUTORS.md)
