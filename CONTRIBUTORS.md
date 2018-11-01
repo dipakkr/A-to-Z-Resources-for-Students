@@ -1,4 +1,5 @@
-﻿## Here is a list of awesome people who contributed to this repository
+﻿
+## Here is a list of awesome people who contributed to this repository
 
 ### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :austria:
 
@@ -370,6 +371,7 @@ Instructions :
 | 336 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
 | 337 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
 | 338 | **Andreas Resch** | South Tyrol | Computer Science Student | [GitHub](https://github.com/reschandreas) |
+
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.

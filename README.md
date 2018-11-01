@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
 
-
 > ## Feel free to show your :heart: by giving a star :star:
 
 > ## :gift: [Check Out the List of Contributors](CONTRIBUTORS.md) - _Feel free to add your details here!_
@@ -83,6 +82,21 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 1. Coding Resources
 
+=======
+
+---
+
+# FYI
+
+- Are you just getting started? Look for the :baby: emoji. It highlights resources for absolute beginners.
+- Some resources are recommended for _everyone_, so they have a :star: emoji.
+- Willing to spend some money to improve your skills?  :heavy_dollar_sign: indicates paid content.
+
+---
+
+# 1. Coding Resources
+
+>>>>>>> master
 ## 1.1 Python
 
 > [**Browse this link for detailed information on Python**](Python.md)
@@ -431,7 +445,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
-    
 
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
@@ -454,7 +467,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
  - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
-
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -557,7 +569,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
-
 
 ## 1.24 Rust
 - [Learn Rust](https://doc.rust-lang.org/book/second-edition/index.html)
