@@ -274,6 +274,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
     - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
+    - [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
     - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
     - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
     - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
@@ -312,6 +313,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
+    - [RegexOne | Regular Expression course](https://regexone.com/)
 
 
 - **JavaScript Frameworks**
