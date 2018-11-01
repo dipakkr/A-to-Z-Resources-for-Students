@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania:
 
 ```
 Instructions :
@@ -331,9 +331,6 @@ Instructions :
 | 298 | **Jeroen Thomas** | Netherlands | Computer Science Bachelor Student | [GitHub](https://github.com/JeromerT) - [LinkedIn](www.linkedin.com/in/jeroen-thomas-2075ab108)
 | 299 | **Hunter** | United States | Aspiring DevOps Engineer | [Github](https://github.com/huntmanday) |
 | 300 | **Archit Singla** | India | Software Developer | [GitHub](https://github.com/architsingla13) |
-| 301 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
-| 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
-| 217 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
 | 301 | **Sean Mayton** | United States | Tech Apprentice | [GitHub](https://github.com/maytonsw) |
 | 302 | **Abhishek Jadav** | India | Student | [GitHub](https://github.com/AbhishekJadav11) |
 | 303 | **Fert** | Canada | Aspiring Software Developer | [GitHub](https://github.com/Fertalicious) |
@@ -350,16 +347,28 @@ Instructions :
 | 315 | **bpkaur** | United States | Software Developer | [GitHub](https://github.com/bpkaur) |
 | 316 | **Radhika Gulati** | United States | Software Engineer | [GitHub](https://github.com/radhigulati) |
 | 317 | **Matt Bledsoe** | United States | Software Engineer | [GitHub](https://github.com/mjb12) |
-| 318 | **Jewell Scott** | United States | Self-Stuyding Developer | [GitHub](https://github.com/jewellscott) |
+| 318 | **Jewell Scott** | United States | Self-Studying Developer | [GitHub](https://github.com/jewellscott) |
 | 319 | **Cleyton Vale** | Brazil | Sofware Developer | [GitHub](https://github.com/fastest10)
 | 320 | **Pablo J** | Spain | Software Engineer | [GitHub](https://github.com/pablo0910) |
 | 321 | **Aditya M** | India | Student | [GitHub](https://github.com/adimishra1) |
 | 322 | **Tanmay Anand** | India | Student | [GitHub](https://github.com/tanmayanand44) |
 | 323 | **Nitik Jain** | India | Mechanical Engineering Student | [GitHub](https://github.com/nitik1998) |
-| 324 | **Hector Quintero | Colombia | Student | [GitHub](https://github.com/hectorf123) |
+| 324 | **Hector Quintero** | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
-| 326 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
-
+| 326 | **Justina Chua** | America | High School Student | [Github](https://github.com/justinachua) |
+| 326 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
+| 326 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)| [GitHub](https://github.com/ishaan28malik) |
+| 327 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
+| 328 | **J Bowler** | UK | OU Computing Student | [GitHub](https://github.com/jimuk07) |
+| 329 | **Giordi Fungula** | South Africa | | [Github](https://github.com/giordifungula) - [LinkedIn](https://www.linkedin.com/in/giordi-fungula-b0a31295/)|
+| 330 | **Liliana B** | United States | Newbie coder | [GitHub](https://github.com/liliballe) |
+| 331 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
+| 332 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
+| 333 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
+| 334 | **Nick Armet** | United States | Apprentice | [Github] (https://github.com/nickarmet/) |
+| 335 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
+| 336 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
+| 337 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
 
 ---
 
