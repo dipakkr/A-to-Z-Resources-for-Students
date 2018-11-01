@@ -28,12 +28,12 @@ Cuando estaba en la universidad, perdí muchas oportunidades como hackathons, co
      - [R](#112-r-language)
 
 2.  [ Hackathons y Eventos ](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons)
-     - [Competitions](#22-competitions-bomb)
-     - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-heart_eyes)
-     - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
-     - [Hiring Challenges](#26-hiring-challenges-heart)
+     - [Mejores Hackatones mundiales](#21-rainbow-top-global-hackathons)
+     - [Competiciones](#22-competitions-bomb)
+     - [Portal de búsqueda de hackatones](#23--hackathon-search-portals-dart)
+     - [Eventos](#24-events-heart_eyes)
+     - [Conferencias de Startups y competiciones](#25-startup-summits-competitions-and-bootcamps-neckbeard)
+     - [Retos para contratación](#26-hiring-challenges-heart)
 
 3.  [ Programas para estudiantes ](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
