@@ -311,6 +311,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Wes Bos list of courses](https://wesbos.com/courses/)
     - [freeCodeCamp](https://www.freecodecamp.org/)
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [ES6 Cheatsheet](https://es6cheatsheet.com/)
 
 
 - **JavaScript Frameworks**
