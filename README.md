@@ -1,5 +1,8 @@
 
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
+
 
 > ## Feel free to show your :heart: by giving a star :star:
 
@@ -9,7 +12,7 @@
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers from all around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
-![Image](res/xx.gif)
+![Image](res/a2z.png)
 
 *Image credits: Google*
 
@@ -23,7 +26,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
-     - [Data Structures](#17-data-structures)
+     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -35,14 +38,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [C# Language](#116-c-language)
      - [DevDocs](#117-devdocs)
      - [Docker](#118-docker)
-     - [Microsoft Technologies](#119-microsoft)
+     - [Microsoft Technologies](#119-microsoft-technologies)
      - [Scala](#120-scala)
+     - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
+     - [MATLAB/Octave](#121-matlab/octave)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
-     - [Top Global Hackathons](#21-rainbow-top-global-hackathons-globe_with_meridians)
-     - [Competitions](#22-competitions-trophy)
+     - [Top Global Hackathons](#21-top-global-hackathons-)
+     - [Competitions](#22-competitions-)
      - [Hackathon Search Portal](#23--hackathon-search-portals-dart)
-     - [Events](#24-events-ticket)
+     - [Events](#24-events-)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
 
@@ -59,7 +64,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links)
+11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
 
 ---
@@ -95,7 +100,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
+- [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
+- [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of     programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code     exercises to practice Python coding.
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
 ## 1.2 Machine Learning
 
@@ -111,6 +120,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) :heavy_dollar_sign:
+    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning) 
+    - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -141,6 +152,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Best Online Courses**
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
+    - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+
+-  **Best Online Books**
+    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+    - [An MIT Press book](http://www.deeplearningbook.org/)
 
 -  **Best GitHub Repositories to follow**
     - [Top 200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
@@ -168,6 +184,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.5 Backend Development
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
+- [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/backend.png)
 
 -  **Django - Python**
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
@@ -182,6 +199,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
 
 -  **Node.JS**
+    - [NodeSchool | Workshops Open Source](https://nodeschool.io/) :heart:
     - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) :heavy_dollar_sign:
     - [Express web framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
     - [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/?siteID=jU79Zysihs4-ysDvxh6JST3o9mSuR2USMQ&LSNPUBID=jU79Zysihs4) :heavy_dollar_sign: - Intermediate
@@ -190,36 +208,51 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
-
+    - [Mixu's Node book](http://book.mixu.net/node/)
+    - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
+    - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
 - **PHP**
+    - [PHP Manual](http://php.net/manual/en/index.php)
     - [W3Schools](https://www.w3schools.com/php/)
     - [Tutorial Point](https://www.tutorialspoint.com/php/)
     - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
     - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
     - [PHP: The Right Way](https://phptherightway.com)
+    - [PHP: The Wrong Way](http://www.phpthewrongway.com/)
     - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
+    - [PHP Best Practices](https://phpbestpractices.org/)
+    - [PHP Pandas](https://daylerees.com/php-pandas/)
+    - [PHP Internals Book](http://www.phpinternalsbook.com/)
+    - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
     - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
     - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
     - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
     - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
     - [RailsCasts](http://railscasts.com) - Video tutorials on more intermediate Ruby on Rails topics.
+    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) - Learn Web Development with Rails
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
-    -[Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
-    -[Free Courses and Paid Private training](https://university.mongodb.com/)
+    - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    - [Free Courses and Paid Private training](https://university.mongodb.com/)
+    - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
+	- [MongoDB full tutorial for beginners](https://www.quackit.com/mongodb/tutorial/)
+	- [MongoDB tutorial for intermediate](https://www.guru99.com/mongodb-tutorials.html)
 
 - **Software architecture**
-    -[Microservices by Chris Richardson](https://microservices.io/index.html)
+    - [Microservices by Chris Richardson](https://microservices.io/index.html)
 
 ## 1.6 Frontend Web Development
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
+- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
 
 - **HTML5 and CSS3**
     - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
@@ -251,6 +284,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
+	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -269,10 +304,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
+    - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
     - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
     - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
     - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
     - [Wes Bos list of courses](https://wesbos.com/courses/)
+    - [freeCodeCamp](https://www.freecodecamp.org/)
+    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [ES6 Cheatsheet](https://es6cheatsheet.com/)
 
 
 - **JavaScript Frameworks**
@@ -283,8 +322,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
         - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
+        - [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
 
      - **React.js**
+        - [React JS - Conference Videos](https://www.reactjsvideos.com/)
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
@@ -297,7 +338,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [React For Beginners | Wes Bos](https://reactforbeginners.com/) :heavy_dollar_sign:
         - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
         - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
-
+        - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
+	
+     - **React Native**     
+        - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
 
     - **Redux.js**
         - [Redux Tutorial #1 - React js tutorial - How Redux Works | YouTube](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) :baby:
@@ -313,6 +357,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Vue School](https://vueschool.io/courses) :free: + :heavy_dollar_sign:
         - [Scrimba](https://scrimba.com/g/glearnvue)
         - [Vue Cookbook](https://vuejs.org/v2/cookbook/)
+        - [Getting started with VueJS 2](https://www.youtube.com/watch?v=nyJSd6V2DRI)
+        - [Vue.js News](https://news.vuejs.org/)
+        - [Vue.js Showcase - Made With Vue.js](https://madewithvuejs.com/)
 
     - **Web Accessibility**
         - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
@@ -357,19 +404,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
 
 - **Tutorials & Practice**
-    - [Visual Algo]
-    (https://visualgo.net/en) Understanding DS & Algo through animations.
-    - [E-maxx] 
-    (https://e-maxx.ru/algo/) Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
-    (https://cp-algorithms.com/) English version of e-maxx. (Translation is almost complete)
-    - [All Good Tutorials on Codeforces]
-    (http://codeforces.com/blog/entry/57282) - All of the best tutorials on Codeforces all at one place.
-    - [DS & Algo + Maths + C++] 
-    (http://codeforces.com/blog/entry/13529) - Another set of good compilation of resources to study.
-    - [Data Structures and Algorithms]
-    (https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
-    - [Problem Topics]
-    (http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
+    - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
+    - [E-maxx](https://e-maxx.ru/algo/) - Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
+    [English version of e-maxx.](https://cp-algorithms.com/)  (Translation is almost complete)
+    - [All Good Tutorials on Codeforces](http://codeforces.com/blog/entry/57282) - All of the best tutorials on Codeforces all at one place.
+    - [DS & Algo + Maths + C++](http://codeforces.com/blog/entry/13529) - Another set of good compilation of resources to study.
+    - [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
+    - [Problem Topics](http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
+    - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+    - [Excercism](https://exercism.io/) - Code practice and mentorship. 
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -402,6 +445,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
  - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
+ - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -409,6 +453,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Programiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
  - [Study Tonight](https://www.studytonight.com/cpp/)
+ - [C++ Language Reference](http://www.cplusplus.com/reference/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
@@ -422,6 +467,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Introduction to Git and Github | YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - [Pro Git Book](https://git-scm.com/book/en/v2)
  - [LearnGitBranching](https://learngitbranching.js.org/)
+ - [GIT PURR! Git Commands Explained with Cats!](https://girliemac.com/blog/2017/12/26/git-purr/)
+ - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+ - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+ - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
 
 ## 1.12 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
@@ -429,6 +478,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R-Bloggers](https://www.r-bloggers.com/)
 - [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
+- [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
 
 ## 1.13 Haskell
@@ -447,6 +497,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
 - [Learn C# building a simple rpg](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 - [DotNetPerls - C# Reference](https://www.dotnetperls.com/)
+- [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
+- [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
 
 ## 1.17 DevDocs
 
@@ -464,63 +516,84 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## 1.20 Scala
-- [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+
+- Books
+    - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
+    - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language autor, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+
+- Online Courses
+    - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language autor, Martin Odersky.
+
+## 1.21 Programming Notes for Professionals
+
+- Books
+    - [Programming Notes for Professionals books](https://goalkicker.com)
+
+## 1.22 MATLAB/Octave
+
+- [MATLAB Academy](https://matlabacademy.mathworks.com/)
+- [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
+- [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
+
 
 ---
 
 
 # 2. Hackathons and Events
 
-## 2.1 Top Global Hackathons :globe_with_meridians:
+## 2.1 Top Global Hackathons 🌐
 
 
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End |
-|--|------ |---|---| ------ | ----|
-|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
-|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - |
-|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - |
-|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - |
-|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - |
-|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
-|7 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March |
-|8 | [Hack Western](https://hackwestern.com/) | Onsite (Western University) | Yes (on a case by case basis) | Nov End | Mid Oct |
-|9 | [HackDTU](http://hackdtu.tech/) | Onsite (India) | No | - | - |
-|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - |
-|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - |
-|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |
-|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - |
-|14 | [HackISU](https://hackisu.org/)| USA | No | October | - |
-|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end |
-|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event |
-|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - |
-|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - |
-|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end |
-|20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - |
-|21 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - |
-|22 | [HashHacks](http://hashhacks.tech/) | Onsite (India) | No | Mid Oct | - |
-|23 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite (Reva University) | October (Idea Submission) | Nov End | - |
-|24 | [InOut](https://hackinout.co/) | Onsite (India) | Yes | October | - |
-|25 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - |
-|26 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October |
-|27 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - |
-|28 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - |
-|29 | [McHacks](http://mchacks.io/) | USA| - | - |  - |
-|30 | [Megathon](https://megathon.in/) | India | No | Early September | September End
-|31 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
-|32 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - |
-|33 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - |
-|34 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end |
-|35 | [QHacks](http://qhacks.io/) | USA | - | - |  - |
-|36 | [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April |Check website |
-|37 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - |
-|38 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - |
-|39 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - |
-|40 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - |
-|41 | [Y Combinator Hacks]() | USA | - | - | - |
-|42 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - |
+|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
+|--|------ |---|---| ------ | ----| ----- |
+|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - | Ended |
+|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | Online + Onsite (India) | - | September-October | - | Ended |
+|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
+|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
+|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | n/a |
+|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | Dead page |
+|7 | [Hack In The North](https://www.hackinthenorth.com/)| Allahabad, India | - | - | March | N/A |
+|8 | [Hack Western](https://hackwestern.com/) | Onsite (Western University) | Yes (on a case by case basis) | Nov End | Mid Oct | 11/23/18 |
+|9 | [HackDTU](http://hackdtu.tech/) | Onsite (India) | No | - | - | Ended |
+|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - | N/A |
+|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - | Dead page |
+|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - | Ended |
+|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - | Ended |
+|14 | [HackISU](https://hackisu.org/)| USA | No | October | - | Ended |
+|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | Ended |
+|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event | Ended, 2019 is open for pre-reg |
+|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
+|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
+|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
+|20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|21 | [HackZurich](http://www.hackzurich.com/) | Zurich, Switzerland | Yes | Check Website | - | Ended |
+|22 | [HashHacks](http://hashhacks.tech/) | Onsite (India) | No | Mid Oct | - | Ended |
+|23 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) | Onsite (Reva University) | October (Idea Submission) | Nov End | - | 11/2/18 |
+|24 | [InOut](https://hackinout.co/) | Onsite (India) | Yes | October | - | Ended |
+|25 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | New York & London|Yes | - | - | N/A |
+|26 | [Junction](https://hackjunction.com/) | Espoo, Finland | Yes | August | October | 11/23/18 |
+|27 | [Kent Hack Enough](https://khe.io) | Kent State University, USA | Yes | Early October | - | Ended |
+|28 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - | Ended |
+|29 | [McHacks](http://mchacks.io/) | USA| - | - |  - | Dead page |
+|30 | [Megathon](https://megathon.in/) | India | No | Early September | September End | 2/1/2019 |
+|31 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- | November, 2018 |
+|32 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - | Open |
+|33 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 1/26/19 |
+|34 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | Ended |
+|35 | [QHacks](http://qhacks.io/) | USA | - | - |  - | 2/1/2019 |
+|36 | [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April | Check website | N/A |
+|37 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - | Ended |
+|38 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - | 2/15/19 |
+|39 | [UHack 3.0](https://usicthack.com/)| New Delhi, India | - | October 26th| - | Ended |
+|40 | [UltraHack](https://ultrahack.org/)|Regional and Global | Yes| - |  - | multiple, next one 12/14/2018 |
+|41 | [Y Combinator Hacks]() | USA | - | - | - | No link? |
+|42 | [YHack](https://www.yhack.org/) | Onsite (Yale University) | Yes | Nov End | - | 11/30/18 |
+|43 | [SwampHacks](http://2018.swamphacks.com) | Onsite (University of Florida) | Yes | Nov | Dec | Ended, will be back 2019 |
+|44 | [Rose Hack](http://rosehack.com) | Onsite (University of California, Riverside) | No | September | January | 1/19/2019 |
+
 ----------------------------------------------------------
 
-##  2.2 Competitions :trophy:
+##  2.2 Competitions 🏆
 
 |ID| Name  | Location |
 |--|------ |----------|
@@ -564,7 +637,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 
-## 2.4 Events :ticket:
+## 2.4 Events 🎫
 
 > **Check out these events for your region**
 
@@ -575,6 +648,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4. NVIDIA Developer Connect [ Global ]
 5. AWS meetups [ Global ]
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
@@ -648,7 +722,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Young India Fellowship]()
 3. [Urban Leaders Fellowship]()
 4. [Facebook fellowship Program - **Only For PHD Scholars**]()
-5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship]()
+5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
 8. [Stanford-ABC News Global Health and Media Fellowship]()
@@ -719,7 +793,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ² OSoC is only open to Belgian students.
 
-# Open Source Competitions
+## Open Source Competitions
 
 
 | Name                                    | Awards |
@@ -751,6 +825,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5| [T HUB ](https://t-hub.co/) | - |
 |6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
 |7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
+|8| [Inova Metrópole](https://inova.imd.ufrn.br/parque/inova/) | IMD/UFRN, Brazil |
 
 ---
 
@@ -860,42 +935,43 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 |Id | Name | Category|
 |--|------ |---|
-|1 |[Prof. Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|2 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
-|3 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
-|4 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
-|5 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
-|6 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
-|7 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
-|8 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
-|9 |[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
-|10|[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
-|11 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
-|12 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
+|2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
+|3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
+|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
+|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
+|6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
+|7 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
+|8 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
+|9 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
+|10 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
+|11 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
+|12 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
 |13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
-|14 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
-|15 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
-|16 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
-|17 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
-|18 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
-|19 |[Victor Savkin](https://twitter.com/victorsavkin) | Angualr Developer |
-|20 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
-|21 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
-|22 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
-|23 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
-|24 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
-|25 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
-|26 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
-|27 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
-|28 |[Quincy Larson](https://twitter.com/ossia) | Teacher that started free code camp |
-|29 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
-|30 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
-|31 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
-|32 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
-|33 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
-|34 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
-|35 |[Guido van Rossum](https://gvanrossum.github.io/) | Python Creator |
-|36 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
+|14 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
+|15|[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
+|16 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
+|17 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
+|18 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
+|19 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|20 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
+|21 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
+|22 |[Quincy Larson](https://twitter.com/ossia) | Teacher that started free code camp |
+|23 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
+|24 |[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
+|25 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
+|26 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
+|27 |[Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) | AI & ML |
+|28 |[Tarry Singh](https://www.linkedin.com/in/tarrysingh/) | AI & ML |
+|29 |[Taylor Otwell](https://twitter.com/taylorotwell) | Creator of Laravel |
+|30 |[Uncle Bob Martin](https://twitter.com/unclebobmartin) | Software developer |
+|31 |[Valentin Shergin](http://twitter.com/shergin) | React Native Developer |
+|32 |[Valeri Karpov](https://thecodebarbarian.wordpress.com/about/) | MEAN stack expert |
+|33 |[Vaughn Vernon](https://vaughnvernon.co/) | Domain Driven Design expert |
+|34 |[Victor Savkin](https://twitter.com/victorsavkin) | Angular Developer |
+|35 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
+|36 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
+|37 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
 
 ---
 
@@ -906,7 +982,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
       - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
       - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
-      - [Kaggle Learn](https://www.kaggle.com/learn/overview)      
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
       - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
 
 2.   **Startup News and Stories**
@@ -919,12 +995,17 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 # 11. Additional Links
 
-1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - Startup
-2. [The first 20 hours - How to learn anything | YouTube](https://www.youtube.com/watch?v=5MgBikgcWnY) - Learning
-3. [Are you Introvert? Watch this - Power of Introverts | YouTube](https://www.youtube.com/watch?v=c0KYU2j0TM4) - Self Introspection
-4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - Scholarships
-5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - Reading
-6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - Startup
-7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - Learning
-8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) Study Abroad
+1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
+2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
+3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
+4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*
+5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
+6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
+7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
+8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
+9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
 
+# 12. Coding Bootcamps
+
+1. [Lambda School](https://lambdaschool.com/)
+2. [SpringBoard](https://www.springboard.com/)

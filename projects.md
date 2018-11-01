@@ -4,6 +4,7 @@
   - [Data Science - Pizza de Dados](http://pizzadedados.com/)
   - [Data Science - Serenata de Amor](https://serenata.ai/)
   - [Digit Recogniser](https://github.com/aashish-ak/CNN-from-Scratch)
+  - [Machine Learning - Free](http://www.fast.ai/)
   - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
    
    2. Beginner Level: Practice Projects
@@ -24,7 +25,7 @@
    - [Lets build the tiniest blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
 ## 3. Internet Of Things
-
+   - [IoT Home Temp Tracking](https://github.com/IoT-Projects/IoT-home-temp-tracking)
 ###### Arduino
   - [Arduino Education](https://www.arduino.cc/en/Main/Education)
 
@@ -35,6 +36,7 @@
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
  * [MEAN Stack | Online portal of IIT Professors' details](https://github.com/aashish-ak/search_guru)
  * [MEOWER - Twitter clone | Full Stack Web Development example project & detailed walktrough](https://github.com/CodingGarden/meower) - [video](https://www.youtube.com/watch?v=JnEH9tYLxLk)
+ * [FreeCodeCamp](https://www.freecodecamp.org) The languages and technologies currently taught by freeCodeCamp include HTML5, CSS 3, JavaScript, jQuery, Bootstrap, Sass, React.js, Node.js, Express.js, MongoDB, and Git. 
 
 ## 6. Backend Development
 
@@ -48,6 +50,10 @@
 
 ###### Flask - Python Microframework
   - [Article Inventory Tutorial from Scratch](https://bit.ly/py_flask)
+
+  ######  Laravel  -PHP Framework 
+  - [Laravel Authentication](https://github.com/jeremykenedy/laravel-auth)
+  - [Laravel Ticketing System](https://github.com/thekordy/ticketit)
 
 ## 7. Frontend Development
 
