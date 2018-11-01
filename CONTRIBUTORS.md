@@ -356,11 +356,12 @@ Instructions :
 | 321 | **Aditya M** | India | Student | [GitHub](https://github.com/adimishra1) |
 | 322 | **Tanmay Anand** | India | Student | [GitHub](https://github.com/tanmayanand44) |
 | 323 | **Nitik Jain** | India | Mechanical Engineering Student | [GitHub](https://github.com/nitik1998) |
-| 324 | **Hector Quintero | Colombia | Student | [GitHub](https://github.com/hectorf123) |
+| 324 | **Hector Quintero** | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
 | 326 | **Justina Chua** | America | High School Student | [Github](https://github.com/justinachua) |
 | 326 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
 | 326 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)| [GitHub](https://github.com/ishaan28malik) |
+| 327 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
 
 ---
 
