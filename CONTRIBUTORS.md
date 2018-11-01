@@ -360,7 +360,7 @@ Instructions :
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
 | 326 | **Justina Chua** | America | High School Student | [Github](https://github.com/justinachua) |
 | 326 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
-
+| 326 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)| [GitHub](https://github.com/ishaan28malik) |
 
 ---
 
