@@ -6,17 +6,20 @@
 ## Index
 1. [Python Basics](#1-python-basics)
 2. [Socket programming](#2-socket-programming)
-3. [DataScience](#3-datascience)
-4. [Databases](#4-databases)
-5. [Testing](#5-testing)
-6. [Python Miscellaneous (Libraries andn other stuff)](#6-python-miscellaneous)
-7. [Projects](#7-projects)
+3. [Web development](#3-Web-Development)
+4. [Desktop Development](#4-Desktop-Development)
+5. [DataScience](#5-datascience)
+6. [Databases](#6-databases)
+7. [Testing](#7-testing)
+8. [Python Miscellaneous (Libraries andn other stuff)](#8-python-miscellaneous)
+9. [Projects](#9-projects)
 
 ## 1. Python Basics
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 + <a href = "https://automatetheboringstuff.com/"> Automate the Boring Stuff with Python</a>
 + <a href = "https://bit.ly/2D3wHsf"> CS Dojo's Tips to write efficient code.</a>
 + <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
++ <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
@@ -26,6 +29,7 @@
 ## 3. Web Development
 + <a href = "https://www.youtube.com/watch?v=qgGIqRFvFFk"> Django Tutorial </a>
 + <a href = "https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP"> Flask Tutorial </a>
++ <a href = "https://tutorial.djangogirls.org/"> Django Girls </a>
 
 ## 4. Desktop APP Development
 + <a href = "https://kivy.org/#home"> Kivy(Android, Desktop, IOS) Applications </a>
@@ -67,6 +71,11 @@
 + <a href = "https://www.djangoproject.com/">Learn Django to make backend accessible | Python </a>
 + <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
 + <a href = "https://docs.quantifiedcode.com/python-anti-patterns/index.html"> Python Anti-Patterns</a>
++ <a href = "https://interactivepython.org/runestone/static/pythonds/index.html"> Learn Algorithms and Data Structures using Python</a>
++ <a href = "https://ipython.org/"> Edit and recode a work session with iPython</a>
++ <a href = "https://www.hackster.io/dexterindustries/give-your-raspberry-pi-robot-a-worm-brain-bc5cc1"> Code a Raspberry Pi to function as the brain of a robot</a>
++ <a href = "https://realpython.com/python-bitcoin-ifttt/"> Use Python to build a Bitcoin price notification service</a>
++ <a href = "https://runcode.ninja"> Programming CTF platform supporting multiple languages</a>
 
 ## 9. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
