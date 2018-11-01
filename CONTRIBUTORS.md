@@ -365,6 +365,7 @@ Instructions :
 | 331 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
 | 332 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 333 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
+| 334 | **Nick Armet** | United States | Apprentice | [Github] (https://github.com/nickarmet/) |
 
 ---
 
