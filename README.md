@@ -891,7 +891,10 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 - [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)
 - [Girl Develop It](https://www.girldevelopit.com/chapters)
 - [R-Ladies](https://rladies.org/)
-
+- [India Linux Users Group Delhi](https://www.linuxdelhi.org/)
+- [PyLadies](https://www.pyladies.com/)
+- [PyData Delhi](https://pydata.org/delhi2018/)
+- [LinuxChix](https://www.linuxchix.org/)
 ---
 
 # 8. Conferences :bookmark_tabs:
