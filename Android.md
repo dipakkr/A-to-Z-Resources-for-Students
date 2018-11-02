@@ -73,12 +73,19 @@
 + [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects) *[Free]*
 + [C.Net](https://www.amazon.com/b?node=2350149011) *[Free]*
 + [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
-
++ [F-Droid](https://f-droid.org/en/docs/Submitting_to_F-Droid_Quick_Start_Guide/) *[Free]*
 
 ## Misc Resources
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
 + [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+* [Udacity Free Course](https://classroom.udacity.com/courses/ud905)
 
 ## Newsletter
 + [Android Weekly](https://androidweekly.net/)
 + [Android Developer Newsletter by Google](https://developer.android.com/newsletter/)
+
+# Flutter
+Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.:heart_eyes:
+
+## Resources
+* [Flutter Official Documentation](http://flutter.io)
