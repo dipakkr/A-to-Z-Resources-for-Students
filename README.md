@@ -200,6 +200,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
 
+-  **Swift**
+     - [🦄 `Server Side Swift` open source projects based on the Swift 4.1 and Vapor 3 frameworks. (Swift 服务端开源项目) ](https://github.com/Jinxiansen/SwiftServerSide-Vapor)
+     - 
 -  **Node.JS**
     - [NodeSchool | Workshops Open Source](https://nodeschool.io/) :heart:
     - [The Complete Node.js Developer Course | Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2/) :heavy_dollar_sign:
