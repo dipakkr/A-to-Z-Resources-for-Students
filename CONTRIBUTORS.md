@@ -369,7 +369,9 @@ Instructions :
 | 335 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
 | 336 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
 | 337 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
-| 327 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
+| 338 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
+| 329 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
+| 330 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
 
 ---
 
