@@ -67,6 +67,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
 12. [Contributors](CONTRIBUTORS.md)
+13. [Social Media Platforms](some soacial platforms.md)
 ---
 
 # FYI
