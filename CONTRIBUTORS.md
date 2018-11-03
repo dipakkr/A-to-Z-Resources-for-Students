@@ -370,6 +370,7 @@ Instructions :
 | 336 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
 | 337 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
 | 338 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
+| 329 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
 
 ---
 
