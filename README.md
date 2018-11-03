@@ -26,6 +26,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
+     - [Full-stack Web Development](#122-full-stack-web-development)
      - [Data Structures](#17-data-structures-chart_with_upwards_trend)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
@@ -66,8 +67,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
-12. [Contributors](CONTRIBUTORS.md)
-13. [Social Media Platforms](some soacial platforms.md)
+12. [Bootcamps](#12-coding-bootcamps)
+13. [Contributors](CONTRIBUTORS.md)
+14. [Social Media Platforms](some soacial platforms.md)
 ---
 
 # FYI
@@ -107,6 +109,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
+-  **Best GitHub Repositories to follow**
+     - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
+
 ## 1.2 Machine Learning
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
@@ -144,6 +149,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
+	
+-  **Book for Machine Learning**
+    - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
 
 
 ## 1.3 Deep Learning
@@ -254,6 +262,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
+- [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
+- [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
+    (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
     - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
@@ -289,6 +300,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
 	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+	- [Bootstrap4 Documentation] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -428,7 +440,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
 
-
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
  - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
@@ -546,6 +557,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Octave Tutorial](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial/)
 - [Beginners MATLAB edX](https://www.edx.org/course/matlab-octave-beginners-epflx-matlabeoctavebeginnersx)
 
+
+## 1.22 Full-Stack Web Development
+- [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
@@ -735,6 +749,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Namecheap free .name Domain](https://nc.me/)
 12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
 13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
+14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -769,68 +784,27 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 4. Open Source Programs
 
-> [**Click here for more information about the GSOC Organization**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
+> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
 
-> [**Click here for more information about the GSOC participation**](https://medium.com/@rohithasrk/getting-started-with-google-summer-of-code-7dfb8f6d4572)
+ |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
+|-|--|---- |---|---| ------ |
+|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
+|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global | Yes|- | - |
+|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
+|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
+|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
+|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
+|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
+| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
+|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 
-## SOC-Programs
+> **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
-
-| Name                                    | Stipend |
-|-----------------------------------------|-------------|
-| [Season of KDE](https://season.kde.org) | No      |
-| [OWASP SOC](https://www.owasp.org/index.php/OWASP_Code_Sprint_2017) | Yes |
-| [Mozilla Winter of Security](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) | No |
-| [Outreachy](https://www.gnome.org/outreachy/) | Yes |
-| [RGSOC](http://railsgirlssummerofcode.org/) | Yes |
-| [TOR Summer of Privacy](https://trac.torproject.org/projects/tor/wiki/org/TorSoP) | Yes |
-| [GSOC](https://developers.google.com/open-source/gsoc/) | Yes |
-| [SOCIS](http://sophia.estec.esa.int/socis/) | Yes (For students enrolled in ESA [member states](http://sophia.estec.esa.int/socis2013/?q=faq#socis_elig_student_who) only) |
-| [OpenDaylight summer internship Programme](https://wiki.opendaylight.org/view/Interns) | Yes |
-| [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)| Yes |
-| [DataONE Summer Internship Programme](https://www.dataone.org/internships) | Yes¹|
-| [Free Software Foundation Internship](http://www.fsf.org/volunteer/internships) | No|
-| [Radare Summer of Code](http://rada.re/r/rsoc.html) | Yes |
-| [Summer of Haskell](https://summer.haskell.org/) | Yes |
-| [OPNFV- Linux Foundation](https://wiki.opnfv.org/display/DEV/Internship-program) | Yes |
-| [Open Mainframe Project - Linux Foundation](https://www.openmainframeproject.org/blog/2017/11/20/want-hack-mainframe-next-summer-summer-2018-internship-program-now-accepting-applications) | Yes |
-| [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
-| [Segment Open Fellowship](https://open.segment.com/fellowship) | Yes |
-| [RARE Technologies Student Incubator Programme](https://rare-technologies.com/incubator/#details) | Yes |
-| [Open Summer of Code](http://2017.summerofcode.be/) | Yes² |
-| [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
-| [Hyperledger Internship Program](https://wiki.hyperledger.org/internship/program_overview) | Yes |
-| [Snowplow](https://snowplowanalytics.com/company/careers/?gh_jid=1107068) | Yes |
-| [DataOne](https://www.dataone.org/internships) | Yes |
-| [ICFOSS](https://icfoss.in/event/invitation-for-interns-0) | No |
-| [ERPNext Summer of Code](https://erpnext.org/esoc) | Yes |
-| [Redox Summer Of Code](https://www.redox-os.org/rsoc/)| Yes |
-| [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
-| [GNOME Internship Program](https://wiki.gnome.org/Internships)| Yes |
-| [Igalia Coding Experience Program](https://www.igalia.com/about-us/coding-experience)| Yes |
-
-¹ Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br />
-
-² OSoC is only open to Belgian students.
-
-## Open Source Competitions
+> **For more detailed information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md) <br />
 
 
-| Name                                    | Awards |
-|-----------------------------------------|-------------|
-| [GCI](https://codein.withgoogle.com/archive/) | Prizes for winners |
-| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss) | Prizes for winners*|
-| [FOSSASIA Codeheat](https://codeheat.org/) | Prizes for winners|
-| [Data Driven Competitions](https://www.drivendata.org/competitions/) | Cash prizes for winners|
-| [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
-| [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
-| [Halite AI Bot Challenge](https://halite.io/) | Swag rewards for winners|
-| [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
-| [ACM MM Open Source Software Competition](http://sigmm.org/Resources/software/ossc) | Prize for winners|
-| [Girlscript Summer of Code](http://gssoc.tech/) | Prizes, swag rewards and internship opportunities for winners|
-
-*Indian Students Only<br />
-** OSS World Challenge has temporarily stopped accepting international applications.
 
 ---
 
@@ -1029,6 +1003,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
 10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
+
 
 # 12. Coding Bootcamps
 

@@ -365,10 +365,13 @@ Instructions :
 | 331 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
 | 332 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
 | 333 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
-| 334 | **Nick Armet** | United States | Apprentice | [Github] (https://github.com/nickarmet/) |
+| 334 | **Nick Armet** | United States | Apprentice | [Github](https://github.com/nickarmet/) |
 | 335 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
 | 336 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
 | 337 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
+| 338 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
+| 329 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
+| 330 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
 
 ---
 
