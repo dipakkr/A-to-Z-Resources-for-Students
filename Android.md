@@ -5,21 +5,22 @@
 
 ## Index
 1. [Courses](#courses)
-2. [Certificate](#certificate)
-3. [Book](#book)
-4. [Podcast](#podcast)
-5. [Blog](#blog)
+2. [Certifications](#certificate)
+3. [Books](#books)
+4. [Podcasts](#podcasts)
+5. [Blogs](#blogs)
 6. [References](#references)
 7. [Publish](#publish)
 8. [Misc. Resources](#misc-resources)
 9. [Newsletter](#newsletter)
-
+10. [Flutter](#flutter)
+11. [React Native](#react-native)
 
 ## Courses
 
-+ [Android Fundamental by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) 
-+ [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
-+ [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
++ [Android Fundamentals by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]_
++ [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) _[Paid]_
++ [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) _[Paid]_
 
 
 ## Certificate
@@ -27,7 +28,7 @@
 + [Associate Android Developer](https://developers.google.com/training/certification/associate-android-developer/)
 
 
-## Book
+## Books
 
 + [Effective Java](https://www.oreilly.com/library/view/effective-java-3rd/9780134686097/)
 + [Android Programming by Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming/)
@@ -35,7 +36,7 @@
 + [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
 + [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)
 
-## Podcast
+## Podcasts
 
 + [Fragmented](https://fragmentedpodcast.com/)
 + [Android Backstage](http://androidbackstage.blogspot.com/)
@@ -43,7 +44,7 @@
 + [Android Developers Backstage](https://androidbackstage.blogspot.com/)
 
 
-## Blog
+## Blogs
 
 + [Android Hive](https://www.androidhive.info/)
 + [JakeWharton's Blog](https://jakewharton.com/blog/)
@@ -73,12 +74,30 @@
 + [Post your project and get in touch with top mobile app development companies](https://www.appfutura.com/app-projects) *[Free]*
 + [C.Net](https://www.amazon.com/b?node=2350149011) *[Free]*
 + [Appsgeyser](https://www.appsgeyser.com/create/start) *[Free]*
-
++ [F-Droid](https://f-droid.org/en/docs/Submitting_to_F-Droid_Quick_Start_Guide/) *[Free]*
 
 ## Misc Resources
 + [Android Arsenal - Android Libraries Directory](https://android-arsenal.com/)
 + [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
++ [Udacity Free Course](https://classroom.udacity.com/courses/ud905)
 
 ## Newsletter
 + [Android Weekly](https://androidweekly.net/)
 + [Android Developer Newsletter by Google](https://developer.android.com/newsletter/)
+
+# Flutter
+Flutter is Google’s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.:heart_eyes:
+
+## Resources
+* [Flutter Official Documentation](http://flutter.io)
+* [Build Native Mobile Apps with Flutter by Google](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) _[Free]_ 
+* [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/) _[Paid]_
+
+# React Native
+With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hybrid app". You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
+
+## Resources
+
++ [Official Documentation](https://facebook.github.io/react-native/docs/getting-started)
++ [React Native Express](http://www.reactnativeexpress.com/) _[Free]_
++ [The Complete React Native and Redux Course](https://www.udemy.com/the-complete-react-native-and-redux-course/) _[Paid]_
