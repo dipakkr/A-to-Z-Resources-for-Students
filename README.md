@@ -944,7 +944,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |10 |[Isaac Schlueter](https://twitter.com/izs) | npm Creator |
 |11 |[Jake Vanderplas](https://github.com/jakevdp) | Python Data Science |
 |12 |[Jen Simmons](https://twitter.com/jensimmons) | CSS expert, creator of Firefox Grid Inspector. |
-|13 |[John ResigVerified account](https://twitter.com/jeresig) | Creator of jQuery |
+|13 |[John Resig](https://twitter.com/jeresig) | Creator of jQuery |
 |14 |[Joy Buolamwini](https://www.poetofcode.com/) | Artificial intelligence, Algorithmic Justice League |
 |15|[Kyle Simpson](https://twitter.com/getify) | Author of YDKJS |
 |16 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
