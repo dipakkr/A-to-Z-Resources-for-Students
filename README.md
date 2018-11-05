@@ -50,7 +50,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Events](#24-events)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
-     - [Leet Code](https://leetcode.com)
 
 3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
@@ -410,7 +409,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
     - [Problem Topics](http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
     - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
-    - [Excercism](https://exercism.io/) - Code practice and mentorship. 
+    - [Excercism](https://exercism.io/) - Code practice and mentorship.
+    - [Leet Code](https://leetcode.com)
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
