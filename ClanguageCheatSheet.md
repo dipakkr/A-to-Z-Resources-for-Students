@@ -66,18 +66,20 @@ Some common datatypes are:
 
 4. **Escape Sequences**
 
-\a - Bell
-\n - New line
-\r - Carriage return
-\b - Backspace
-\f - Formfeed
-\t - Horizontal tab
-\" - Quotation mark
-\v - Vertical tab
-\' - Apostrophe
-\\ - Backslash
-\? - Question mark
-\0 - Null
+|   Sequence  |   Task   	    |
+|:-----------:|:--------:	    |
+|    \a       |   Bell   	    |
+|    \n       |   New Line	    |
+|    \r       |   Carriage return   |
+|    \b       |   Backspace         |
+|    \f       |   Formfeed  	    |
+|    \t       |   Horizontal tab    |
+|    \"       |   Quotation mark    |
+|    \v       |   Vertical tab      |
+|    \'       |   Apostrophe        |
+|    \\       |   Backslash         |
+|    \?       |   Question mark     |
+|    \0       |   Null              |
 
 5. **Precedence Order**
 
