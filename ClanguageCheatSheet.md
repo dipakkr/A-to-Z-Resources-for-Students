@@ -16,21 +16,31 @@
 
 2. **Allowed Character Set**
 
-```
-Alphabets - A, B, â€¦.., Y, Z a, b, â€¦â€¦, y, z
-Digits - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-Special symbols - ~ â€˜ ! @ # % ^ & * ( ) _ - + = | \ { } [ ] : ; " ' < > , . ? /
+| Alphabets  |    Digits   |    Special Symbols |
+|:----------:|:-----------:|:------------------:|
+| A 	     |      0 	   |        ~ 	        |
+| B 	     |	    1	   |        â€˜	        |
+| â€¦..      |	    2	   |        ! 	        |
+| Y          |	    3	   |        @ 	        |
+| Z          |	    4	   |        # 	        |
+| a	     |	    5	   |        ^ 	        |
+| b	     |	    6	   |        & 	        |
+| â€¦â€¦     |	    7	   |        * 	        |
+| y 	     |	    8	   |        () 	        |
+| z 	     |	    9	   |        _ 	        |
+
+Some other Special Symbols => - + = | \ { } [ ] : ; " ' < > , . ? /
 ```
 3. **Data Types and Placeholders**
 
 Some common datatypes are:
 
 ```
-int - integer
-char - character
-long - long integer
-float - float number
-double - long float
+|int    | integer      |
+|char   | character    |
+|long   | long integer |
+|float  | float number |
+|double | long float   |
 ```
 
 > use scanf to take input from the user
