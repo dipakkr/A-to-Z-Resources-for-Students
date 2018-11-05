@@ -38,19 +38,19 @@ double - long float
 
 | Placeholders  |       Format |
 |:--------------:|:------------ |
-| %c         |         Character |
-| %d           |        Signed decimal integer |
-| %i          |         Signed decimal integer|
-| %e          |         Scientific notation[e]|
-| %E            |       Scientific notation[E]|
-| %f              |     Decimal floating point|
-| %o                |   unsigned octal|
-| %s              |     String of character|
-| %u               |    unsigned decimal integer|
-| %x                |   unsigned Hexadecimal (lower)|
-| %X                 |  unsigned Hexadecimal (upper)|
-| %p                  | display a pointer|
-| %%                  | print a %|
+| %c             |         Character |
+| %d             |        Signed decimal integer |
+| %i             |         Signed decimal integer|
+| %e             |         Scientific notation[e]|
+| %E             |       Scientific notation[E]|
+| %f             |     Decimal floating point|
+| %o             |   unsigned octal|
+| %s             |     String of character|
+| %u             |    unsigned decimal integer|
+| %x             |   unsigned Hexadecimal (lower)|
+| %X             |  unsigned Hexadecimal (upper)|
+| %p             | display a pointer|
+| %%             | print a %|
 
 4. **Escape Sequences**
 
