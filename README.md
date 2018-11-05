@@ -475,6 +475,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+ - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
