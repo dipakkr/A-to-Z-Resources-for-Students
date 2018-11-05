@@ -26,11 +26,23 @@
 
 ## 3. Internet Of Things
    - [IoT Home Temp Tracking](https://github.com/IoT-Projects/IoT-home-temp-tracking)
+   - [IOT Based Car](https://github.com/Ishaan28malik/IOT-Works/blob/master/Frank-Shark-Car.ino)
+   - [IOT Based Best Projects](https://github.com/phodal/awesome-iot-projects)
+   - [IOT Based Fight Control Drone](https://github.com/Ishaan28malik/IOT-Works/blob/master/Fightcontroldrone.ino)
 ###### Arduino
   - [Arduino Education](https://www.arduino.cc/en/Main/Education)
+### Arduino Based projects  
+  - [IOT Smoke Detector](https://github.com/Ishaan28malik/IOT-Works/blob/master/smokedetector.cpp)
+  - [Temperature and Humidity](https://github.com/Ishaan28malik/IOT-Works/blob/master/Temperature%20and%20Humidity.cpp)
+  - [7Segment](https://github.com/Ishaan28malik/IOT-Works/blob/master/7Segments.ino)
 
 ## 4. Big Data
-
+  - [Big Data University](https://bigdatauniversity.com/courses/what-is-big-data/)
+  - [Books](http://shop.oreilly.com/product/0636920033448.do)
+  - [Tutorials](http://pig.apache.org/docs/r0.7.0/tutorial.html)
+  - [Udacity-Hadoop Course](https://www.udacity.com/course/viewer#!/c-ud617/l-306818608/m-309273649)
+### Big Data Projects   
+  - [Big Data Projects](https://github.com/ashiqimran/Big-Data-Projects)
 ## 5. Full Stack Web Development
  * [Advanced React Course](https://advancedreact.com/)
  * [Make an Online IDE](https://github.com/kaustubhhiware/c0derunR)
