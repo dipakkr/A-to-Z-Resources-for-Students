@@ -36,6 +36,7 @@ Some other Special Symbols => - + = | \ { } [ ] : ; " ' < > , . ? /
 Some common datatypes are:
 
 ```
+| Short | Actual       |
 |:-----:|:------------:|
 |int    | integer      |
 |char   | character    |
