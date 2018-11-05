@@ -16,21 +16,33 @@
 
 2. **Allowed Character Set**
 
-```
-Alphabets - A, B, â€¦.., Y, Z a, b, â€¦â€¦, y, z
-Digits - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
-Special symbols - ~ â€˜ ! @ # % ^ & * ( ) _ - + = | \ { } [ ] : ; " ' < > , . ? /
+| Alphabets  |    Digits   |    Special Symbols |
+|:----------:|:-----------:|:------------------:|
+| A 	     |      0 	   |        ~ 	        |
+| B 	     |	    1	   |        â€˜	        |
+| â€¦..      |	    2	   |        ! 	        |
+| Y          |	    3	   |        @ 	        |
+| Z          |	    4	   |        # 	        |
+| a	     |	    5	   |        ^ 	        |
+| b	     |	    6	   |        & 	        |
+| â€¦â€¦     |	    7	   |        * 	        |
+| y 	     |	    8	   |        () 	        |
+| z 	     |	    9	   |        _ 	        |
+
+Some other Special Symbols => - + = | \ { } [ ] : ; " ' < > , . ? /
 ```
 3. **Data Types and Placeholders**
 
 Some common datatypes are:
 
 ```
-int - integer
-char - character
-long - long integer
-float - float number
-double - long float
+| Short | Actual       |
+|:-----:|:------------:|
+|int    | integer      |
+|char   | character    |
+|long   | long integer |
+|float  | float number |
+|double | long float   |
 ```
 
 > use scanf to take input from the user
@@ -38,34 +50,36 @@ double - long float
 
 | Placeholders  |       Format |
 |:--------------:|:------------ |
-| %c         |         Character |
-| %d           |        Signed decimal integer |
-| %i          |         Signed decimal integer|
-| %e          |         Scientific notation[e]|
-| %E            |       Scientific notation[E]|
-| %f              |     Decimal floating point|
-| %o                |   unsigned octal|
-| %s              |     String of character|
-| %u               |    unsigned decimal integer|
-| %x                |   unsigned Hexadecimal (lower)|
-| %X                 |  unsigned Hexadecimal (upper)|
-| %p                  | display a pointer|
-| %%                  | print a %|
+| %c             |         Character |
+| %d             |        Signed decimal integer |
+| %i             |         Signed decimal integer|
+| %e             |         Scientific notation[e]|
+| %E             |       Scientific notation[E]|
+| %f             |     Decimal floating point|
+| %o             |   unsigned octal|
+| %s             |     String of character|
+| %u             |    unsigned decimal integer|
+| %x             |   unsigned Hexadecimal (lower)|
+| %X             |  unsigned Hexadecimal (upper)|
+| %p             | display a pointer|
+| %%             | print a %|
 
 4. **Escape Sequences**
 
-\a - Bell
-\n - New line
-\r - Carriage return
-\b - Backspace
-\f - Formfeed
-\t - Horizontal tab
-\" - Quotation mark
-\v - Vertical tab
-\' - Apostrophe
-\\ - Backslash
-\? - Question mark
-\0 - Null
+|   Sequence  |   Task   	    |
+|:-----------:|:--------:	    |
+|    \a       |   Bell   	    |
+|    \n       |   New Line	    |
+|    \r       |   Carriage return   |
+|    \b       |   Backspace         |
+|    \f       |   Formfeed  	    |
+|    \t       |   Horizontal tab    |
+|    \"       |   Quotation mark    |
+|    \v       |   Vertical tab      |
+|    \'       |   Apostrophe        |
+|    \\       |   Backslash         |
+|    \?       |   Question mark     |
+|    \0       |   Null              |
 
 5. **Precedence Order**
 
