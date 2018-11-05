@@ -69,7 +69,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Additional Links](#11-additional-links-hamster)
 12. [Bootcamps](#12-coding-bootcamps)
 13. [Contributors](CONTRIBUTORS.md)
-14. [Social Media Platforms](some soacial platforms.md)
+
 ---
 
 # FYI
