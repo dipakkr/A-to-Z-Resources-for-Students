@@ -1,6 +1,8 @@
 # 학생을위한 A to Z 자료:boy:![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > ## 자유롭게 하트를 보내주세요 :heart: 별표를주는 것으로 :star:
+[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
 
 > ## [참여자 목록 확인 :heart::heart:](CONTRIBUTORS.md) - **여기에 세부 정보를 추가하십시오.**
 
