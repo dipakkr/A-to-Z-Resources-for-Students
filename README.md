@@ -668,7 +668,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5| [TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
-
+|8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
 ## 2.4 Events 🎫
 
 > **Check out these events for your region**
