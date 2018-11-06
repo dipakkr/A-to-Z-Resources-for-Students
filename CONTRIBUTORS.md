@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :kr:
 
 ```
 Instructions :
@@ -372,7 +372,8 @@ Instructions :
 | 338 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
 | 329 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
 | 330 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
-| 331 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar)
+| 331 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar) |
+| 331 | **Jeongwhan Choi** | Republic of Korea |  Software Engineering Student |[GitHub](https://github.com/jeongwhanchoi) - [LinkedIn](https://www.linkedin.com/in/jeongwhanchoi/)
 
 ---
 
