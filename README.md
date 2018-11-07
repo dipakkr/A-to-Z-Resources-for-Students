@@ -159,7 +159,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
+    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
     - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
 
