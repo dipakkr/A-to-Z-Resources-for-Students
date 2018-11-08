@@ -256,6 +256,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **Bootstrap4**
 
+    - [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
 
@@ -293,6 +294,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
         - [Learn Angular 7 in 50 minutes](https://www.youtube.com/watch?v=5wtnKulcquA) - A free beginner's crash course :baby:
 	- [Build your first Angular app](https://scrimba.com/g/gyourfirstangularapp) - 33 interactive screencasts to take you from beginner to advanced
+	- [Angular Docs](https://angular.io/docs) - hard to read but have to read
 
      - **React.js**
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
