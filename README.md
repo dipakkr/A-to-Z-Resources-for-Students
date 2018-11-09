@@ -118,15 +118,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
-    - [AndrewNg | Coursera](https://www.coursera.org/learn/machine-learning) :heavy_dollar_sign:
+    - [AndrewNg | Coursera](https://www.coursera.org/learn/machine-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning - Nanodegree | Udacity](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) :heavy_dollar_sign:
     - [ Reinforcement Learning - Nanodegree | Udacity](https://in.udacity.com/course/reinforcement-learning--ud600) :heavy_dollar_sign:
     - [Move 37](https://www.theschool.ai/courses/move-37-course/) - :free:
     - [ML with Python | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
-    - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) :heavy_dollar_sign:
-    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning) 
+    - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
+    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
     - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
 
 -  **Best GitHub Repositories to follow**
@@ -149,7 +149,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Kaggle](https://www.kaggle.com/)
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
-	
+
 -  **Book for Machine Learning**
     - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
 
@@ -159,7 +159,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) :heavy_dollar_sign:
+    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
     - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
 
@@ -355,7 +355,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
         - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
         - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
-	
+
      - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
 

@@ -373,7 +373,8 @@ Instructions :
 | 329 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
 | 330 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
 | 331 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar) |
-| 331 | **Jeongwhan Choi** | Republic of Korea |  Software Engineering Student |[GitHub](https://github.com/jeongwhanchoi) - [LinkedIn](https://www.linkedin.com/in/jeongwhanchoi/)
+| 332 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
+| 333 | **Jeongwhan Choi** | Republic of Korea |  Software Engineering Student |[GitHub](https://github.com/jeongwhanchoi) - [LinkedIn](https://www.linkedin.com/in/jeongwhanchoi/)
 
 ---
 
