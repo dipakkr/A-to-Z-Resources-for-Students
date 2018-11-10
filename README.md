@@ -27,7 +27,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
      - [Full-stack Web Development](#122-full-stack-web-development)
-     - [Data Structures](#17-data-structures-chart_with_upwards_trend)
+     - [Data Structures](#17-data-structures) :chart_with_upwards_trend:
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -42,7 +42,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Microsoft Technologies](#119-microsoft-technologies)
      - [Scala](#120-scala)
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
-     - [MATLAB/Octave](#121-matlab/octave)
+     - [MATLAB/Octave](#122-matlaboctave)
      - [Go Language](#123-go-language)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
