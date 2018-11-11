@@ -925,8 +925,31 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
 |45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
 |45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
-|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology
-|47| [dotGo](https://www.dotgo.eu/) | Europe | No | March | Varies | Go |
+|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology | 
+
+## Data Science Conferences in 2018 and 2019
+
+| Conference |  Location | Date |
+|:--- |:--- |:--- |:--- |
+| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | 16-20 Jun 2019 | 
+| [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 29 Apr - 2 May 2019 (Varies) |
+| [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
+| [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 22-26 Oct 2018 |
+| [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 12-15 Feb 2019 |
+| [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
+| [Data Conference](http://www.dataconference.org/) |  Prague, Czech Republic | 26-29 Jul 2019 |
+| [TDWI Orlando Conference](https://tdwi.org/events/conferences/orlando/home.aspx) |  Orlando, USA | 11-16 Nov 2018 |
+| [PyData](https://pydata.org/index.html) |  Global | Varies |
+| [rstudio](https://www.rstudio.com/conference/) |  USA | 15-18 Jan 2019 | 
+| [2018 Dataworks Summit](https://dataworkssummit.com) |  Australia, Spain, USA | 9 Nov 2018 |
+| [Data Disrupt](http://www.datadisrupt.com/) | New York, USA | 4-5 Jun 2019 |
+| [NIPS \| 2018](https://nips.cc/) | Montreal, Canada | 3-8 Dec 2018 |
+| [Big Data Conference Vilnius](https://www.bigdataconference.lt) | Lithuania | 27-29 November |
+| [Data Science Salon](https://datascience.salon) |  USA | 6-7 Nov 2018 |
+| [Domino Data Science Pop-Up](https://popup.dominodatalab.com) |  USA | 30 Oct 2018 |
+| [Gartner Data & Analytics Summit](https://www.gartner.com/events/calendar/bi.jsp) | Germany, UK, Sydeny, USA | Varies |
+| [IEEE ICDM 2018](http://icdm2018.org/) |  Singapore | 17-20 Nov 2018 |
+
 
 ---
 
