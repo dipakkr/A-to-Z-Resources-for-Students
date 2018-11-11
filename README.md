@@ -960,8 +960,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |1 |[Aaron Gable](https://github.com/aarongable) | Google Chrome Developer (BR) |
 |2 |[Addy Osmani](https://github.com/addyosmani) | Web & Chrome |
 |3 |[Andrew NG](https://www.linkedin.com/in/andrewyng/) | AI & ML |
-|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VS Code Developer |
-|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer |
+|4 |[Benjamin Pasero](https://twitter.com/benjaminpasero) | Software engineer at Microsoft, VSCode  |
+|5 |[Brad Traversy](https://www.youtube.com/user/TechGuyWeb) | Web Developer, Programmer, YouTuber |
 |6 |[Daniel Shiffman](https://shiffman.net/) | Programmer / Former project lead with the [Processing Foundation](https://processing.org/) |
 |7 |[Evan You](https://twitter.com/youyuxi) | Creator of Vue.js |
 |8 |[Giovanni Bassi](https://github.com/giggio) | MVP Microsoft BR |
@@ -975,11 +975,11 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |16 |[Leonardo Maldonado](https://github.com/leonardomso) | Top 2 developerTrending (BR) |
 |17 |[Linus Torvalds](https://github.com/torvalds) | Linux Founder|
 |18 |[Martin Fowler](https://twitter.com/martinfowler) | Software developer |
-|19 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile advocate, one of the founders of the Scrum Alliance, owner of Mountain Goat Software. |
+|19 |[Mike Cohn](https://twitter.com/mikewcohn) | Scrum and Agile Advocate  |
 |20 |[Mohamed Said](https://twitter.com/themsaid) | Works with Taylor Otwell on Laravel |
 |21 |[Paul Graham](http://www.paulgraham.com/) | Startup Expert, Founder of Y-Combinator |
 |22 |[Quincy Larson](https://twitter.com/ossia) | Teacher that started free code camp |
-|23 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Parallel and distributed computation, programming languages, domain specific languages, evolutionary architecture, genetic algorithms, and computational science |
+|23 |[Rebecca Parsons](https://twitter.com/rebeccaparsons) | Distributed computation, Genetic algorithms, and computational science |
 |24 |[Richard Stallman](https://stallman.org/) | Founder of the GNU Project |
 |25 |[Ryan Dahl](https://github.com/ry) | Inventor of Node.js |
 |26 |[Sandi Metz](https://www.sandimetz.com/) | Software developer and author focused on writing flexible object-oriented code |
