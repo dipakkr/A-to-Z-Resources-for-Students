@@ -930,7 +930,7 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 ## Data Science Conferences in 2018 and 2019
 
 | Conference |  Location | Date |
-|:--- |:--- |:--- |:--- |
+|:--- |:--- |:--- |
 | [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | 16-20 Jun 2019 | 
 | [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 29 Apr - 2 May 2019 (Varies) |
 | [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
