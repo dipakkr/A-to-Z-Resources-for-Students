@@ -845,7 +845,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 > **Take a moment to search for these clubs on Google and Facebook in your city.**
 
 > **Check **Meetup.com** for more events in your locality**
-|Id |            Name Of The Community       |        Respective Websites                               | 
+|Id |            Name Of The Community       |        Respective Websites               |
+|---|----------------------------------------|------------------------------------------|
 | 1 | [Google Developer Group]|[](https://developers.google.com/programs/community/gdg/)|
 | 2 | [Mozilla Open Source Community]|[](https://www.mozilla.org/en-US/moss/)|
 | 3 | [Mozilla Campus Clubs](https://campus.mozilla.community/)|
