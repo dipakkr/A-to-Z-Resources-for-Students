@@ -90,12 +90,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Progate Python Classes](https://progate.com/languages/python) :baby:
 - [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) :baby:
 - [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
-- [Python Class | Google for Education](https://developers.google.com/edu/python/)
 - [Python For Everybody](https://www.coursera.org/specializations/python)
 - [Write Better Python Functions](https://jeffknupp.com/)
 - [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Great for learning automation and learning the basics of Python
-- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - Great python resource for learning python quickly and efficiently
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Recommended
+- [The New Boston Python | Youtube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) :baby:
 - [Think Python 2e - Green Tea Press](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [A Byte of Python](https://python.swaroopch.com/)
 - [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
@@ -104,7 +103,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
 - [Real Python](https://realpython.com)
 - [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
-- [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of     programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code     exercises to practice Python coding.
+- [Python Class By Google](https://developers.google.com/edu/python/) - Recommended
 - [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/)
