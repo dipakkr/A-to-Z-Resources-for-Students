@@ -842,36 +842,36 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 # 7. Developer Clubs and Meetups
 
-> **Take a moment to search for these clubs on Google and Facebook in your city.**
+> ## **Take a moment to search for these clubs on Google and Facebook in your city.**
 
-> **Check **Meetup.com** for more events in your locality**
-|Id |            Name Of The Community       |        Respective Websites               |
-|---|----------------------------------------|------------------------------------------|
-| 1 | [Google Developer Group](https://developers.google.com/programs/community/gdg/)|
-| 2 | [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)|
-| 3 | [Mozilla Campus Clubs](https://campus.mozilla.community/)|
-| 4 | [Facebook Developer Circle](https://developers.facebook.com/developercircles)|
-| 5 | [Women Tech Makers](https://womentechmakers.com)|
-| 6 | [Women Who Code](https://www.womenwhocode.com/)|
-| 7 | [Women In Tech](https://www.womenintechnology.org/)|
-| 8 | [Developers Student Club by Google](https://developers.google.com/training/programs/)|
-| 9 | [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)|
-| 10| [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/)-Delhi and Bangalore|
-| 11| [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)-Python Student Community|
-| 12| [Toastmaster International](https://www.toastmasters.org)|
-| 13| [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)|
-| 14| [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)|
-| 15| [Forloop Africa](https://forloop.africa)|
-| 16| [Women in Tech (Finland)](https://womenintech.fi/)|
-| 17| [HelsinkiJS](https://meetabit.com/communities/helsinkijs)|
-| 18| [100 Days of Code](https://www.100daysofcode.com/connect/)|
-| 19| [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)|
-| 20| [Girl Develop It](https://www.girldevelopit.com/chapters)|
-| 21| [R-Ladies](https://rladies.org/)|
-| 22| [India Linux Users Group Delhi](https://www.linuxdelhi.org/)|
-| 23| [PyLadies](https://www.pyladies.com/)|
-| 24| [PyData Delhi](https://pydata.org/delhi2018/)|
-| 25| [LinuxChix](https://www.linuxchix.org/)|
+> ## **Check **Meetup.com** for more events in your locality**
+|Id |            Name Of The Community       |
+|---|:---------------------------------------:|
+|1 | [Google Developer Group](https://developers.google.com/programs/community/gdg/)|
+|2 | [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)|
+|3 | [Mozilla Campus Clubs](https://campus.mozilla.community/)|
+|4 | [Facebook Developer Circle](https://developers.facebook.com/developercircles)|
+|5 | [Women Tech Makers](https://womentechmakers.com)|
+|6 | [Women Who Code](https://www.womenwhocode.com/)|
+|7 | [Women In Tech](https://www.womenintechnology.org/)|
+|8 | [Developers Student Club by Google](https://developers.google.com/training/programs/)|
+|9 | [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)|
+|10| [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/)-Delhi and Bangalore|
+|11| [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)-Python Student Community|
+|12| [Toastmaster International](https://www.toastmasters.org)|
+|13| [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)|
+|14| [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)|
+|15| [Forloop Africa](https://forloop.africa)|
+|16| [Women in Tech (Finland)](https://womenintech.fi/)|
+|17| [HelsinkiJS](https://meetabit.com/communities/helsinkijs)|
+|18| [100 Days of Code](https://www.100daysofcode.com/connect/)|
+|19| [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)|
+|20| [Girl Develop It](https://www.girldevelopit.com/chapters)|
+|21| [R-Ladies](https://rladies.org/)|
+|22| [India Linux Users Group Delhi](https://www.linuxdelhi.org/)|
+|23| [PyLadies](https://www.pyladies.com/)|
+|24| [PyData Delhi](https://pydata.org/delhi2018/)|
+|25| [LinuxChix](https://www.linuxchix.org/)|
 ---
 
 # 8. Conferences :bookmark_tabs:
