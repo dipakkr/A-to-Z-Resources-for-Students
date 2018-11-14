@@ -927,7 +927,9 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
 |45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
 |45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
-|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology | 
+|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology |
+|47| [Devoxx Belgium](https://devoxx.be/) | no | Belgium  | November 14 | - | Technology |
+|48| [Mozfest](https://mozillafestival.org/) | no | London  | October 22 | - | Technology |
 
 ## Data Science Conferences in 2018 and 2019
 
