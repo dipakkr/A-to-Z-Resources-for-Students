@@ -156,7 +156,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
@@ -180,15 +180,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.4 Android Development
 
--  [For Beginners](Android.md) :baby:
+ >  [Checkout the Full Resources on ANDROID](Android/Android.md) :baby:
+
 -  [Free courses & Nanodegree | Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+-  [Google Android Codelabs](https://codelabs.developers.google.com/)
+-  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
--  [Codelabs](https://codelabs.developers.google.com/)
--  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
--  [Caster.io](https://caster.io) :heavy_dollar_sign:
 
 ## 1.5 Backend Development
 
@@ -450,26 +450,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
- - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
- - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
  - [Programiz](https://www.programiz.com/c-programming)
  - [Fresh2Refresh](https://fresh2refresh.com/c-programming/)
- - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
- - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
- - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
- - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
  - [Programiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
- - [Study Tonight](https://www.studytonight.com/cpp/)
- - [C++ Language Reference](http://www.cplusplus.com/reference/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
@@ -488,12 +480,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
- - [Git ,Progate](https://progate.com/languages/git)
+ - [Git - Progate](https://progate.com/languages/git) - Recommended
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-
-
-
-
 
 
 ## 1.12 R Language
