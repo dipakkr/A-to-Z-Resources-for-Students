@@ -882,53 +882,53 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
 |--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | NO |  May1 | May9 | Python |
-|2 | [ODSC ](https://odsc.com/) |  GLOBAL | NO |  Aug30 | Sep2 | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| GLOBAL | Yes |  Feb18 | Feb22 | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov18 | Nov20  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June24 | June29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov9 | Nov9 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | October4 | October7 | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21 - 24 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 5 | Nov 8 | Web |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Aug 16 | Aug 20 | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | USA | Yes | Nov 14 | Nov 16 | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | March 26 | March 28 | - |
+|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  May 1 | May 9 | Python |
+|2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
+|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Feb 18 | Feb 22 | Business |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 18 | Nov 20  | Business |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June 24 | June 29 | - |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov 9 | Nov 9 | JS |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | PASSED | - | Python |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21-24, 2019 | - | JS |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | PASSED | Pre-Register for 2019 | Web |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Feb 15-18, 2019 | - | - |
+|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 2-4, 2019 | - | - |
+|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | Mar 26 | Mar 28 | - |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
-|14| [Stanford E-Bootcamp](http://bases.stanford.edu/e-bootcamp/)  | USA | - | - | - | - |
-|15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | March to Oct (varies every year) | 3 days | - |
+|14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
+|15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
 |16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug 3 | Aug 5 | Business |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | Jan 6 | Jan 11 | - |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
 |20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | India | - | - | - | - |
 |21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
-|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Differs with area | Check the website | - |
-|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | Sep 5 | Sep 7 | - |
+|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varies | - | - |
+|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | PASSED | - | - |
 |24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 29 | Nov 30 | - |
 |25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
-|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | Aug 31 | Aug 31 | - |
+|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JAMstack conf](https://jamstackconf.com/) | USA | No | Oct 29 - 30 | Oct 29 | - |
-|29| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | Oct 24 - 25 | Web |
-|30| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | Oct 25 - 26  | - | JS |
-|31| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | Nov 15 - 16  | - | JS |
+|28| [JAMstack conf](https://jamstackconf.com/) | USA | No | PASSED | - | - |
+|29| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | PASSED | - | Web |
+|30| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | PASSED  | - | JS |
+|31| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | PASSED | - | JS |
 |32| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - | - |
-|33| [JS Kongress](https://js-kongress.com/) | Munich  | - | March 11 - 12  | - | JS |
-|34| [JSConf US](https://jsconf.com/)| USA | - | Aug 21 - 23 | - | JS |
-|35| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | Jun 11 - 14 | - | - |
-|36| [dotJS](https://www.dotjs.io/) | France | - | Nov 9  | - | JS |
-|37| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | Oct 26  | - | Web |
-|38| [SmashingConf NY](https://smashingconf.com/) | USA | No | Oct 23 | Oct 24 | - |
+|33| [JS Kongress](https://js-kongress.com/) | Munich  | - | Mar 11 - 12  | - | JS |
+|34| [JSConf US](https://2018.jsconf.us/)| USA | - | PASSED | - | JS |
+|35| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | PASSED | - | - |
+|36| [dotJS](https://www.dotjs.io/) | France | - | PASSED | - | JS |
+|37| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | PASSED | - | Web |
+|38| [SmashingConf NY](https://smashingconf.com/) | USA | No | PASSED | - | - |
 |39| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|40| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | Aug 8 - 10 | - | JS |
+|40| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | PASSED | - | JS |
 |41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
-|45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
-|45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
-|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology | 
+|45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  April 11-13 | May | Software |
+|45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | No | Munich, Germany | Sep 29 - Oct 1 | - | Entrepreneurship |
+|46| [GDG DevFest London](https://devfest.gdg.london/) | No | London, United Kingdom | Dec 1 | - | Technology | 
 
 ## Data Science Conferences in 2018 and 2019
 
