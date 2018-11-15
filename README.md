@@ -926,9 +926,14 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
 |43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
 |44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
-|45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  April 11-13 | May | Software |
-|45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | No | Munich, Germany | Sep 29 - Oct 1 | - | Entrepreneurship |
-|46| [GDG DevFest London](https://devfest.gdg.london/) | No | London, United Kingdom | Dec 1 | - | Technology | 
+|45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
+|45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
+|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology |
+|47| [Devoxx Belgium](https://devoxx.be/) | no | Belgium  | November 14 | - | Technology |
+|48| [Mozfest](https://mozillafestival.org/) | no | London  | October 22 | - | Technology |
+|49| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  April 11-13 | May | Software |
+|50| [Bits & Pretzels](https://www.bitsandpretzels.com/) | No | Munich, Germany | Sep 29 - Oct 1 | - | Entrepreneurship |
+|51| [GDG DevFest London](https://devfest.gdg.london/) | No | London, United Kingdom | Dec 1 | - | Technology | 
 
 ## Data Science Conferences in 2018 and 2019
 
