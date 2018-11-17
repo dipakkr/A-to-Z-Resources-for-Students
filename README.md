@@ -61,7 +61,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 4.  [Open Source Programs](#4-open-source-programs)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [Internship Portals](#6-internship-portals-smile)
+6.  [Internship Portals](#6-internship-programs)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
@@ -814,9 +814,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ---
 
-# 6. Internship Portals :smile:
+# 6. Internship Programs
 
-For summer internship, start looking at least 3-4 months in advance. #Tip
+## Internships
+
+1. [Cisco International Internship Program](https://www.myciip.com/)
+
+## Internship Portals
+
+> For summer internship, start looking at least 3-4 months in advance. #Tip
 
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
