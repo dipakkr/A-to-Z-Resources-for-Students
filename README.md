@@ -2,6 +2,7 @@
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
 
 
 > ## Feel free to show your :heart: by giving a star :star:
