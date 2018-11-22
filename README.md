@@ -103,9 +103,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
 	- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 	- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-	- [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
-	- [Real Python](https://realpython.com)
-	- [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
 	- [Python Class By Google](https://developers.google.com/edu/python/) - Recommended
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
