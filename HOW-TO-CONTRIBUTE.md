@@ -18,17 +18,17 @@ git clone https://github.com/dipakkr/A-to-Z-Resources-for-Students.git
 ### Step 3 :
 Change your current directory to  **A-to-Z-Resources-for-Students**
 
-### Step 3 : 
+### Step 4 : 
 Create a new Branch (follow the command given below )
 
 ```
 git checkout -b my-branch
 ```
 
-### Step 4:
+### Step 5:
 Go to file "CONTRIBUTORS.md" and add you name.
 
-### Step 5 :
+### Step 6 :
 Commit and push your changes.
 
 ```
@@ -37,7 +37,7 @@ git commit -m "added first commit"
 git push origin my-branch
 ```
 
-### Step 6 :
+### Step 7 :
 Now, go to your forked repository on GitHub and Click make New Pull request.
 
 ### Step 7 : 
