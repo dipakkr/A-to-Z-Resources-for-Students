@@ -40,7 +40,7 @@ git push origin my-branch
 ### Step 7 :
 Now, go to your forked repository on GitHub and Click make New Pull request.
 
-### Step 7 : 
+### Step 8 : 
 Congratulations !!! You have successfully made your first contribution on GitHub.
 
 Feel free to reach out in case you are facing any difficulties.
