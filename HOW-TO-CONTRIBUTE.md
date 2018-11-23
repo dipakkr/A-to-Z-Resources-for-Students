@@ -16,7 +16,7 @@ Clone the repo on your computer using git bash.
 git clone https://github.com/dipakkr/A-to-Z-Resources-for-Students.git
 ```
 ### Step 3 :
-Change your current directory to  **A-to-Z-Resources-for-Students**
+Change your current directory to **A-to-Z-Resources-for-Students** in your terminal.
 
 ### Step 4 : 
 Create a new Branch (follow the command given below )
