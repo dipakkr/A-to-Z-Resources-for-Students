@@ -375,6 +375,7 @@ Instructions :
 | 331 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar)
 | 332 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
 | 333 | **Shreyash Sharma** | India | Software Engineer |[Linkedin](https://www.linkedin.com/in/shreyash-sharma-b19918117/) - [StackOverflow](https://stackoverflow.com/users/8095759/shreyash-sharma) | [GitHub](https://github.com/shreyneil) |
+| 334 | **Akash Kumar** | India | Software Enthusiastic | [GitHub](https://github.com/freakash) |
 
 ---
 
