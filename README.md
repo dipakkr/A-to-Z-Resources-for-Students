@@ -439,7 +439,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
     - [Domain Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/) - Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition :heavy_dollar_sign:
-    - [Data Structures Through C in Depth](https://www.amazon.com/Data-Structures-Through-C-Depth/dp/8176567418/ref=sr_1_1?ie=UTF8&qid=1543028398&sr=8-1&keywords=data+structures+through+c+in+depth) -Strongly recommended to learn DS concepts :heavy_dollar_sign:
+    - [Data Structures Through C in Depth](https://www.amazon.com/Data-Structures-Through-C-Depth/dp/8176567418/ref=sr_1_1?ie=UTF8&qid=1543028398&sr=8-1&keywords=data+structures+through+c+in+depth) - Strongly recommended to learn DS concepts :heavy_dollar_sign:
 ## 1.8 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
  - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
