@@ -126,11 +126,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
-    - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
+  
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
-     - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
      - [Coding Train](https://github.com/CodingTrain)
 
