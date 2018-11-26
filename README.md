@@ -4,6 +4,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
 
+
+> ## Feel free to show your :heart: by giving a star :star:
+
+> ## :gift: [Check Out the List of Contributors](CONTRIBUTORS.md) - _Feel free to add your details here!_
+
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
@@ -579,30 +584,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
 |20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|21 | [HackZurich](http://www.hackzurich.com/) | Zurich | Yes | Check Website | - | Ended |
-|22 | [HashHacks](http://hashhacks.tech/) | India | No | Mid Oct | - | Ended |
-|23 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) |  Reva University | October (Idea Submission) | Nov End | - | 11/2/18 |
-|24 | [InOut](https://hackinout.co/) | India | Yes | October | - | Ended |
-|25 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | USA & London|Yes | - | - | N/A |
-|26 | [Junction](https://hackjunction.com/) | Finland | Yes | August | October | 11/23/18 |
-|27 | [Kent Hack Enough](https://khe.io) | USA | Yes | Early October | - | Ended |
-|28 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - | Ended |
-|29 | [McHacks](http://mchacks.io/) | USA| - | - |  - | Dead page |
-|30 | [Megathon](https://megathon.in/) | India | No | Early September | September End | 2/1/2019 |
-|31 | [Mercari Euro Hack](https://challengerocket.com/) | Poland | Yes | Mid October |- | November, 2018 |
-|32 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - | Open |
-|33 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 1/26/19 |
-|34 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | Ended |
-|35 | [QHacks](http://qhacks.io/) | USA | - | - |  - | 2/1/2019 |
-|36 | [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April | Check website | N/A |
-|37 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - | Ended |
-|38 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - | 2/15/19 |
-|39 | [UHack 3.0](https://usicthack.com/)| India | - | October 26th| - | Ended |
-|40 | [UltraHack](https://ultrahack.org/)| Regional & Global | Yes| - |  - | Multiple, Next one 12/14/2018 |
-|41 | [Y Combinator Hacks]() | USA | - | - | - | - |
-|42 | [YHack](https://www.yhack.org/) | Yale University | Yes | Nov End | - | 11/30/18 |
-|43 | [SwampHacks](http://2018.swamphacks.com) | University of Florida | Yes | Nov | Dec | Ended |
-|44 | [Rose Hack](http://rosehack.com) | USA | No | September | January | 1/19/2019 |
+
 
 ----------------------------------------------------------
 
@@ -621,22 +603,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
 |10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
 |11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
-|13| [Quest Ingenium](https://www.questingenium.com/) | -  |
-|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
-|15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
-|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
-|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
-|19| [Google Code Jam](https://code.google.com/codejam) | Online |
-|20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
-|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
-|22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
-|23| [Russian AI Cup](http://russianaicup.ru/) | - |
-|24| [Hackshetra](https://techspardha.org/Hackathon/) |Onsite|
-|25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
-|26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
-|27| [Microsoft AI challenge](https://www.ailab.microsoft.com/challenge) | Online & Onsite |
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -673,18 +639,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 | [Seedstars World Competition](https://www.seedstarsworld.com/) | Online |
-|7 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
-|8 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|9 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|10 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|11 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
-|12 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
-|13 | [HackerYou](https://hackeryou.com/) | Toronto |
-|14 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
-|15 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
-|16 | [RED Academy](https://redacademy.com) | Canada |
-|17 | [Flatiron School](https://flatironschool) | Online, USA |
+|6 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
+|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
+|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
+|12 | [HackerYou](https://hackeryou.com/) | Toronto |
+|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
+|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
+|15 | [RED Academy](https://redacademy.com) | Canada |
+|16 | [Flatiron School](https://flatironschool) | Online, USA |
 
 ## 2.6 Hiring Challenges
 
@@ -745,18 +710,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
 8. [Stanford-ABC News Global Health and Media Fellowship]()
-9. [NSF Graduate Research Fellows, Graduate Research Opportunities Worldwide (GROW)]()
-10. [Acumen Regional Fellows India]()
-11. [Ramanujan Fellowship - Only for Scientists]()
-12. [Rajiv Gandhi National Fellowship - **For SC/ST candidates pursuing post graduations**]()
-13. [Gandhi Fellowship - UG/PG Students]()
-14. [Ratan Tata Post doctoral Fellowship - **Only For PHD Scholars**]()
-15. [President Abdul Kalam Azad Postgraduate Fellowship - **Graduate Students**]()
-16. [Venkat Pachpakesan Memorial Scholarship](https://wiki.rethinkfoundation.in/Venkat_Panchapakesan_Memorial_Scholarship)
-17. [Young Leaders For Active Citizenship](http://ylacindia.com)
-18. [Helium Grant Fellowship](https://www.heliumgrant.org)
-19. [HackNY Fellows Program](https://apply.hackny.org/)
-20. [Coding it Forward - Civic Digital Fellowship](https://www.codingitforward.com/)
+
 
 ## Scholarships :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
@@ -896,31 +850,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JAMstack conf](https://jamstackconf.com/) | USA | No | PASSED | - | - |
-|29| [Blend Web Mix](https://www.blendwebmix.com/) | France | - | PASSED | - | Web |
-|30| [JS Mobile Conf](https://jsmobileconf.com/) | USA | - | PASSED  | - | JS |
-|31| [CascadiaJS](https://2018.cascadiajs.com/) | USA  | - | PASSED | - | JS |
-|32| [The Rich Web Experience](https://therichwebexperience.com/conference/clearwater/2018/12/home)| USA  | - | Dec 2 - 5 | - | - |
-|33| [JS Kongress](https://js-kongress.com/) | Munich  | - | Mar 11 - 12  | - | JS |
-|34| [JSConf US](https://2018.jsconf.us/)| USA | - | PASSED | - | JS |
-|35| [Fluent](https://conferences.oreilly.com/fluent/fl-ca)| USA | -  | PASSED | - | - |
-|36| [dotJS](https://www.dotjs.io/) | France | - | PASSED | - | JS |
-|37| [ViewSource](https://events.mozilla.org/viewsource2018) | London | - | PASSED | - | Web |
-|38| [SmashingConf NY](https://smashingconf.com/) | USA | No | PASSED | - | - |
-|39| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|40| [Midwest JS](http://www.midwestjs.com/#/main)| USA | - | PASSED | - | JS |
-|41| [HolyJS](https://holyjs.ru/en/)| Moscow | - | Nov 24 - 25 | - | JS |
-|42| [SIGGRAPH](https://s2019.siggraph.org/) | Global | - | Jul 29 - Aug 1 | - | - |
-|43| [SIGGRAPH Asia](https://sa2018.siggraph.org/en/) | Tokyo | - | Dec 4 - 7 | - | - |
-|44| [TechTO](https://www.techtoronto.org/) | Toronto | - | Reoccurring monthly | - | Business |
-|45| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  11-13 April | May | Software |
-|45| [Bits & Pretzels](https://www.bitsandpretzels.com/) | no | Munich, Germany | September 29 - October 1 | - | Entrepreneurship |
-|46| [GDG DevFest London](https://devfest.gdg.london/) | no | London, United Kingdom | December 1 | - | Technology |
-|47| [Devoxx Belgium](https://devoxx.be/) | no | Belgium  | November 14 | - | Technology |
-|48| [Mozfest](https://mozillafestival.org/) | no | London  | October 22 | - | Technology |
-|49| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  April 11-13 | May | Software |
-|50| [Bits & Pretzels](https://www.bitsandpretzels.com/) | No | Munich, Germany | Sep 29 - Oct 1 | - | Entrepreneurship |
-|51| [GDG DevFest London](https://devfest.gdg.london/) | No | London, United Kingdom | Dec 1 | - | Technology | 
+
 
 ## Data Science Conferences in 2018 and 2019
 
@@ -932,18 +862,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 22-26 Oct 2018 |
 | [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 12-15 Feb 2019 |
 | [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
-| [Data Conference](http://www.dataconference.org/) |  Prague, Czech Republic | 26-29 Jul 2019 |
-| [TDWI Orlando Conference](https://tdwi.org/events/conferences/orlando/home.aspx) |  Orlando, USA | 11-16 Nov 2018 |
-| [PyData](https://pydata.org/index.html) |  Global | Varies |
-| [rstudio](https://www.rstudio.com/conference/) |  USA | 15-18 Jan 2019 | 
-| [2018 Dataworks Summit](https://dataworkssummit.com) |  Australia, Spain, USA | 9 Nov 2018 |
-| [Data Disrupt](http://www.datadisrupt.com/) | New York, USA | 4-5 Jun 2019 |
-| [NIPS \| 2018](https://nips.cc/) | Montreal, Canada | 3-8 Dec 2018 |
-| [Big Data Conference Vilnius](https://www.bigdataconference.lt) | Lithuania | 27-29 November |
-| [Data Science Salon](https://datascience.salon) |  USA | 6-7 Nov 2018 |
-| [Domino Data Science Pop-Up](https://popup.dominodatalab.com) |  USA | 30 Oct 2018 |
-| [Gartner Data & Analytics Summit](https://www.gartner.com/events/calendar/bi.jsp) | Germany, UK, Sydeny, USA | Varies |
-| [IEEE ICDM 2018](http://icdm2018.org/) |  Singapore | 17-20 Nov 2018 |
 
 
 ---
