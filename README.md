@@ -4,11 +4,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
 
-
-> ## Feel free to show your :heart: by giving a star :star:
-
-> ## :gift: [Check Out the List of Contributors](CONTRIBUTORS.md) - _Feel free to add your details here!_
-
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
@@ -678,17 +673,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
 |4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
 |5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
-|6 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
-|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
-|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
-|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
-|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
-|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
-|12 | [HackerYou](https://hackeryou.com/) | Toronto |
-|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
-|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
-|15 | [RED Academy](https://redacademy.com) | Canada |
-|16 | [Flatiron School](https://flatironschool) | Online, USA |
+|6 | [Seedstars World Competition](https://www.seedstarsworld.com/) | Online |
+|7 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
+|8 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|9 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
+|10 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|11 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
+|12 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
+|13 | [HackerYou](https://hackeryou.com/) | Toronto |
+|14 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
+|15 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
+|16 | [RED Academy](https://redacademy.com) | Canada |
+|17 | [Flatiron School](https://flatironschool) | Online, USA |
 
 ## 2.6 Hiring Challenges
 
