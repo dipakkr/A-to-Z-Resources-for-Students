@@ -607,19 +607,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
-|15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
-|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
-|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
-|19| [Google Code Jam](https://code.google.com/codejam) | Online |
-|20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
-|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
-|22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
-|23| [Russian AI Cup](http://russianaicup.ru/) | - |
-|24| [Hackshetra](https://techspardha.org/Hackathon/) |Onsite|
-|25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
-|26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
-|27| [Microsoft AI challenge](https://www.ailab.microsoft.com/challenge) | Online & Onsite |
+
 
 
 ##  2.3  Hackathon Search Portals :dart:
