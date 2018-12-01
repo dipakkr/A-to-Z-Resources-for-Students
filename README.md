@@ -382,6 +382,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [WebAim Web Accessibility Resources and Tools](https://webaim.org/resources/)
         - [Web Accessibility Checklist - The A11Y Project](https://a11yproject.com/checklist)
         - [ARIA - Accessibility | MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+	- [Google Developers - Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 
 - **Frontend DevTools**
     - **Package Managers**
