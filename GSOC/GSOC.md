@@ -25,6 +25,15 @@
 ### h. Metasploit (Ruby, Python ,C)
 
 ### i. Teammates (Java, Google Cloud Engine)
+
+## 2. Explanatory videos
+### a. [How to prepare for GSoC? by a GSoC student - I.O. Stream](https://github.com/dipakkr/A-to-Z-Resources-for-Students/edit/master/GSOC.md)
+### b. [Approaching an organisation - I.O. Stream](https://www.youtube.com/watch?v=KIPDtVRMIuE&list=PL9oUnF4b_qbXrxhlgDxo5VX5DVj08HuDE&index=4)
+### c. [GSOC - GeeksForGeeks](https://www.youtube.com/watch?v=k7go4SZFPxQ)
+
+## 3. Blogs/Articles
+### a. Cracking Google Summer of Code 101 (https://www.geeksforgeeks.org/google-summer-of-code-101/)
+
 # COMING SOON
 
 - TODO
