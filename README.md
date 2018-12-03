@@ -455,6 +455,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+ - [Programmming in ANSI C <sup>pdf</sup>](https://drive.google.com/file/d/1cF8dv_11ebyTQHVtOo6pmr15uYQdRaKI/view) by E.Balagurusamy
+ - [The C Programming Language <sup>[pdf]</sup>](http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf) Book by Brian Kernighan and Dennis Ritchie
+ - [Let Us C<sup>[pdf]</sup>](https://www.cluster2.hostgator.co.in/files/writeable/uploads/hostgator99706/file/letusc-yashwantkanetkar.pdf) Book by Yashavant P. Kanetkar
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
