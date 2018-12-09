@@ -2,6 +2,7 @@
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
 
 
 > ## Feel free to show your :heart: by giving a star :star:
@@ -61,7 +62,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 4.  [Open Source Programs](#4-open-source-programs)
 5.  [Startup Programs and Incubators](#5-startup-programs-and-incubators-mag_right)
-6.  [Internship Portals](#6-internship-portals-smile)
+6.  [Internship Portals](#6-internship-programs)
 7.  [Developer Clubs and Meetups](#7-developer-clubs-and-meetups)
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
@@ -102,9 +103,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Project Euler](https://projecteuler.net/) - Great for practicing writing Python codes
 	- [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 	- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-	- [Python 3 Tutorial - Solo Learn](https://www.sololearn.com/Course/Python)
-	- [Real Python](https://realpython.com)
-	- [Pandas | Kaggle](https://www.kaggle.com/learn/pandas)
 	- [Python Class By Google](https://developers.google.com/edu/python/) - Recommended
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
@@ -128,11 +126,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
-    - [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro)             Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on       practice exercises.
+  
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
-     - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
      - [Coding Train](https://github.com/CodingTrain)
 
@@ -157,7 +154,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
@@ -181,15 +178,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.4 Android Development
 
--  [For Beginners](Android.md) :baby:
+ >  [Checkout the Full Resources on ANDROID](Android/Android.md) :baby:
+
 -  [Free courses & Nanodegree | Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+-  [Google Android Codelabs](https://codelabs.developers.google.com/)
+-  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
 -  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
--  [Codelabs](https://codelabs.developers.google.com/)
--  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
--  [Caster.io](https://caster.io) :heavy_dollar_sign:
 
 ## 1.5 Backend Development
 
@@ -451,26 +448,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
 
 ## 1.9 C Language
- - [Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
  - [HackerRank]( https://www.hackerrank.com/domains/c)
- - [JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
  - [Programiz](https://www.programiz.com/c-programming)
  - [Fresh2Refresh](https://fresh2refresh.com/c-programming/)
- - [Study Tonight](https://www.studytonight.com/c/)
  - [Learn C](https://www.learn-c.org/)
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
- - [C-Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language/)
- - [Learning to Program in C by Jonathan Engelsma | YouTube](https://www.youtube.com/playlist?list=PLkB3phqR3X40reMCBYSoNUPbDvM4kybMs)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
- - [JavaTPoint](https://www.javatpoint.com/cpp-tutorial)
  - [Programiz](https://www.programiz.com/cpp-programming)
  - [Hackr.Io](https://hackr.io/tutorials/learn-c-plus-plus)
- - [Study Tonight](https://www.studytonight.com/cpp/)
- - [C++ Language Reference](http://www.cplusplus.com/reference/)
  - [Learn C ++](http://www.cplusplus.com/doc/tutorial/)
  - [Fluent CPP](https://www.fluentcpp.com/)
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
@@ -489,12 +478,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
- - [Git ,Progate](https://progate.com/languages/git)
+ - [Git - Progate](https://progate.com/languages/git) - Recommended
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
-
-
-
-
 
 
 ## 1.12 R Language
@@ -599,30 +584,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
 |20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|21 | [HackZurich](http://www.hackzurich.com/) | Zurich | Yes | Check Website | - | Ended |
-|22 | [HashHacks](http://hashhacks.tech/) | India | No | Mid Oct | - | Ended |
-|23 | [IOT for Smart Life-REVA University](https://reva-university-iot-for-smart-life.hackerearth.com) |  Reva University | October (Idea Submission) | Nov End | - | 11/2/18 |
-|24 | [InOut](https://hackinout.co/) | India | Yes | October | - | Ended |
-|25 | [JP Morgan Code for Good](https://careers.jpmorgan.com/careers/IN/en/divisions/technology) | USA & London|Yes | - | - | N/A |
-|26 | [Junction](https://hackjunction.com/) | Finland | Yes | August | October | 11/23/18 |
-|27 | [Kent Hack Enough](https://khe.io) | USA | Yes | Early October | - | Ended |
-|28 | [MHacks](http://www.mhacks.org/) |USA | - |  - | - | Ended |
-|29 | [McHacks](http://mchacks.io/) | USA| - | - |  - | Dead page |
-|30 | [Megathon](https://megathon.in/) | India | No | Early September | September End | 2/1/2019 |
-|31 | [Mercari Euro Hack](https://challengerocket.com/) | Poland | Yes | Mid October |- | November, 2018 |
-|32 | [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) | Online & Onsite | Yes | - | - | Open |
-|33 | [nwHacks](https://www.nwhacks.io/)| Canada | - | - |  - | 1/26/19 |
-|34 | [PennApps](http://pennapps.com/)|USA   | Yes| Mid Sept | July end | Ended |
-|35 | [QHacks](http://qhacks.io/) | USA | - | - |  - | 2/1/2019 |
-|36 | [Smart India Hackathon](https://innovate.mygov.in/sih2018/)| India| Yes| April | Check website | N/A |
-|37 | [TechCrunch Disrupt](https://techcrunch.com/event-type/disrupt/) | USA | Top Teams | - |  - | Ended |
-|38 | [TreeHacks](https://www.treehacks.com/) | USA | - | - | - | 2/15/19 |
-|39 | [UHack 3.0](https://usicthack.com/)| India | - | October 26th| - | Ended |
-|40 | [UltraHack](https://ultrahack.org/)| Regional & Global | Yes| - |  - | Multiple, Next one 12/14/2018 |
-|41 | [Y Combinator Hacks]() | USA | - | - | - | - |
-|42 | [YHack](https://www.yhack.org/) | Yale University | Yes | Nov End | - | 11/30/18 |
-|43 | [SwampHacks](http://2018.swamphacks.com) | University of Florida | Yes | Nov | Dec | Ended |
-|44 | [Rose Hack](http://rosehack.com) | USA | No | September | January | 1/19/2019 |
+
+
 
 ----------------------------------------------------------
 
@@ -644,19 +607,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
-|15| [ASME HVPC - Humans Powered Vehicle Challenge](https://www.asme.org/events/competitions/human-powered-vehicle-challenge-(hpvc)) | Onsite |
-|16| [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university)| Online & Onsite |
-|17| [Tech Challenge](https://techchallenge.in.capgemini.com/techchallenge) | Online |
-|18| [SnackDown](https://www.shortto.com/Codechefsnackdown) | Online |
-|19| [Google Code Jam](https://code.google.com/codejam) | Online |
-|20| [Google Hash Code](https://hashcode.withgoogle.com) | Online |
-|21| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online |
-|22| [Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/) | Online |
-|23| [Russian AI Cup](http://russianaicup.ru/) | - |
-|24| [Hackshetra](https://techspardha.org/Hackathon/) |Onsite|
-|25| [Catalyst Coding Contest (CCC)](https://register.codingcontest.org/) | Online & Onsite |
-|26| [CodeVita](https://www.tcscodevita.com/) | Online & Onsite |
-|27| [Microsoft AI challenge](https://www.ailab.microsoft.com/challenge) | Online & Onsite |
+
 
 
 ##  2.3  Hackathon Search Portals :dart:
@@ -764,18 +715,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Prime Minister’s Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
 8. [Stanford-ABC News Global Health and Media Fellowship]()
-9. [NSF Graduate Research Fellows, Graduate Research Opportunities Worldwide (GROW)]()
-10. [Acumen Regional Fellows India]()
-11. [Ramanujan Fellowship - Only for Scientists]()
-12. [Rajiv Gandhi National Fellowship - **For SC/ST candidates pursuing post graduations**]()
-13. [Gandhi Fellowship - UG/PG Students]()
-14. [Ratan Tata Post doctoral Fellowship - **Only For PHD Scholars**]()
-15. [President Abdul Kalam Azad Postgraduate Fellowship - **Graduate Students**]()
-16. [Venkat Pachpakesan Memorial Scholarship](https://wiki.rethinkfoundation.in/Venkat_Panchapakesan_Memorial_Scholarship)
-17. [Young Leaders For Active Citizenship](http://ylacindia.com)
-18. [Helium Grant Fellowship](https://www.heliumgrant.org)
-19. [HackNY Fellows Program](https://apply.hackny.org/)
-20. [Coding it Forward - Civic Digital Fellowship](https://www.codingitforward.com/)
+
 
 ## Scholarships :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
@@ -826,9 +766,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ---
 
-# 6. Internship Portals :smile:
+# 6. Internship Programs
 
-For summer internship, start looking at least 3-4 months in advance. #Tip
+## Internships
+
+1. [Cisco International Internship Program](https://www.myciip.com/)
+
+## Internship Portals
+
+> For summer internship, start looking at least 3-4 months in advance. #Tip
 
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
@@ -934,6 +880,8 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 |49| [Developers Conference Mauritius[MSCC]](https://conference.mscc.mu/#/) |  Mauritius | Yes |  April 11-13 | May | Software |
 |50| [Bits & Pretzels](https://www.bitsandpretzels.com/) | No | Munich, Germany | Sep 29 - Oct 1 | - | Entrepreneurship |
 |51| [GDG DevFest London](https://devfest.gdg.london/) | No | London, United Kingdom | Dec 1 | - | Technology | 
+=======
+
 
 ## Data Science Conferences in 2018 and 2019
 
@@ -945,18 +893,6 @@ For summer internship, start looking at least 3-4 months in advance. #Tip
 | [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 22-26 Oct 2018 |
 | [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 12-15 Feb 2019 |
 | [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
-| [Data Conference](http://www.dataconference.org/) |  Prague, Czech Republic | 26-29 Jul 2019 |
-| [TDWI Orlando Conference](https://tdwi.org/events/conferences/orlando/home.aspx) |  Orlando, USA | 11-16 Nov 2018 |
-| [PyData](https://pydata.org/index.html) |  Global | Varies |
-| [rstudio](https://www.rstudio.com/conference/) |  USA | 15-18 Jan 2019 | 
-| [2018 Dataworks Summit](https://dataworkssummit.com) |  Australia, Spain, USA | 9 Nov 2018 |
-| [Data Disrupt](http://www.datadisrupt.com/) | New York, USA | 4-5 Jun 2019 |
-| [NIPS \| 2018](https://nips.cc/) | Montreal, Canada | 3-8 Dec 2018 |
-| [Big Data Conference Vilnius](https://www.bigdataconference.lt) | Lithuania | 27-29 November |
-| [Data Science Salon](https://datascience.salon) |  USA | 6-7 Nov 2018 |
-| [Domino Data Science Pop-Up](https://popup.dominodatalab.com) |  USA | 30 Oct 2018 |
-| [Gartner Data & Analytics Summit](https://www.gartner.com/events/calendar/bi.jsp) | Germany, UK, Sydeny, USA | Varies |
-| [IEEE ICDM 2018](http://icdm2018.org/) |  Singapore | 17-20 Nov 2018 |
 
 
 ---
