@@ -867,7 +867,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 22-26 Oct 2018 |
 | [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 12-15 Feb 2019 |
 | [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
-
+| [KDD](https://www.kdd.org/kdd2018/) |  London | 19-23 Aug 2019 |
+| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2019 |
 
 ---
 
