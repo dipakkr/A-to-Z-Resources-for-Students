@@ -8,7 +8,7 @@
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
-![Image](res/frontbench.png)
+![Image](res/frontb.png)
 
 *Image credits: Google*
 
