@@ -680,6 +680,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
+16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
