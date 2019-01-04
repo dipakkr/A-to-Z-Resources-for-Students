@@ -579,6 +579,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
 |20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|21 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
+(For Women)
+|21 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|21 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|21 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
 
 
 
