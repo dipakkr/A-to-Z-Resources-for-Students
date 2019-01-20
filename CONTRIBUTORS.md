@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :myanmar:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :myanmar: :mexico:
 
 ```
 Instructions :
@@ -376,7 +376,7 @@ Instructions :
 | 343 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
 | 344 | **Shreyash Sharma** | India | Software Engineer |[Linkedin](https://www.linkedin.com/in/shreyash-sharma-b19918117/) - [StackOverflow](https://stackoverflow.com/users/8095759/shreyash-sharma) | [GitHub](https://github.com/shreyneil) |
 | 345 | **Zwe Mun Htun**  | Myanmar | Computer Science, UCSY | [GitHub](https://github.com/zwe-mun-htun) |
-
+| 346 | **Manasés Jesús** | México | Software Architect for the Cloud & IoT | [Github](https://github.com/manasesjesus) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
