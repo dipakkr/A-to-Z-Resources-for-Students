@@ -855,6 +855,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
+|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 19-21, 2019 | - | Lectures, Trainings, Community Activities |
+|29| [Git Merge](https://git-merge.com) | Belgium | - | Feb 01, 2019 | - | Technical talks and hands-on workshops |
 
 
 ## Data Science Conferences in 2018 and 2019
@@ -869,6 +871,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
 | [KDD](https://www.kdd.org/kdd2018/) |  London | 19-23 Aug 2019 |
 | [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2019 |
+| [ICSESS](http://www.icsess.org) | Beijing, China | October 18-20, 2019 |
 
 ---
 
