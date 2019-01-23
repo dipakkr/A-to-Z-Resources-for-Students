@@ -582,6 +582,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |21 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
 |22 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
 |23 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|24 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
 
 
 
