@@ -512,9 +512,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.18 Docker
 
-- [Documentation](https://docs.docker.com/)
-- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
-- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
+- [Official Documentation on website](https://docs.docker.com/)
+- [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
+- [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
 ## 1.19 Microsoft Technologies
 
