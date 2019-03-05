@@ -580,10 +580,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
 |20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|21 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
-|22 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
-|23 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
-|24 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+|21 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
+|22 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|23 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|24 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|25 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
+|26 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|27 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
 
 
 
