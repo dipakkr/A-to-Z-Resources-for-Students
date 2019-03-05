@@ -1,6 +1,7 @@
+
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :myanmar:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :myanmar: :mexico:
 
 ```
 Instructions :
@@ -356,27 +357,29 @@ Instructions :
 | 324 | **Hector Quintero** | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
 | 326 | **Justina Chua** | America | High School Student | [Github](https://github.com/justinachua) |
-| 326 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
-| 326 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)-[GitHub](https://github.com/ishaan28malik) |
-| 327 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
-| 328 | **J Bowler** | UK | OU Computing Student | [GitHub](https://github.com/jimuk07) |
-| 329 | **Giordi Fungula** | South Africa | | [Github](https://github.com/giordifungula) - [LinkedIn](https://www.linkedin.com/in/giordi-fungula-b0a31295/)|
-| 330 | **Liliana B** | United States | Newbie coder | [GitHub](https://github.com/liliballe) |
-| 331 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
-| 332 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
-| 333 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
-| 334 | **Nick Armet** | United States | Apprentice | [Github](https://github.com/nickarmet/) |
-| 335 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
-| 336 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
-| 337 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
-| 338 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
-| 329 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
-| 330 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
-| 331 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar)
-| 332 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
-| 333 | **Shreyash Sharma** | India | Software Engineer |[Linkedin](https://www.linkedin.com/in/shreyash-sharma-b19918117/) - [StackOverflow](https://stackoverflow.com/users/8095759/shreyash-sharma) | [GitHub](https://github.com/shreyneil) |
-| 334 | **Zwe Mun Htun**  | Myanmar | Computer Science, UCSY | [GitHub](https://github.com/zwe-mun-htun) |
-| 335 | **Asif Vora**  | India | Web Developer | [GitHub](https://github.com/asifvora) - [Twitter](https://twitter.com/007_dark_shadow) - [Linkedin](https://www.linkedin.com/in/asif-vora) - [Instagram](https://www.instagram.com/007_dark_shadow/)|
----
+| 327 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
+| 328 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaannino/)-[GitHub](https://github.com/ishaan28malik) |
+| 329 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
+| 330 | **J Bowler** | UK | OU Computing Student | [GitHub](https://github.com/jimuk07) |
+| 331 | **Giordi Fungula** | South Africa | | [Github](https://github.com/giordifungula) - [LinkedIn](https://www.linkedin.com/in/giordi-fungula-b0a31295/)|
+| 332 | **Liliana B** | United States | Newbie coder | [GitHub](https://github.com/liliballe) |
+| 333 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
+| 334 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
+| 335 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
+| 336 | **Nick Armet** | United States | Apprentice | [Github](https://github.com/nickarmet/) |
+| 337 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
+| 338 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
+| 339 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
+| 340 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
+| 341 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
+| 342 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
+| 343 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar)
+| 344 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
+| 345 | **Shreyash Sharma** | India | Software Engineer |[Linkedin](https://www.linkedin.com/in/shreyash-sharma-b19918117/) - [StackOverflow](https://stackoverflow.com/users/8095759/shreyash-sharma) | [GitHub](https://github.com/shreyneil) |
+| 346 | **Zwe Mun Htun**  | Myanmar | Computer Science, UCSY | [GitHub](https://github.com/zwe-mun-htun) |
+| 347 | **Asif Vora**  | India | Web Developer | [GitHub](https://github.com/asifvora) - [Twitter](https://twitter.com/007_dark_shadow) - [Linkedin](https://www.linkedin.com/in/asif-vora) - [Instagram](https://www.instagram.com/007_dark_shadow/)|
+| 348 | **Manasés Jesús** | México | Software Architect for the Cloud & IoT | [Github](https://github.com/manasesjesus) |
+| 349 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
+
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
