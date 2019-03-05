@@ -127,6 +127,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
      - [Coding Train](https://github.com/CodingTrain)
+     -[Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
@@ -511,9 +512,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.18 Docker
 
-- [Documentation](https://docs.docker.com/)
-- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
-- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
+- [Official Documentation on website](https://docs.docker.com/)
+- [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
+- [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
 ## 1.19 Microsoft Technologies
 
@@ -580,10 +581,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
 |20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
 |21 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
-(For Women)
-|21 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
-|21 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
-|21 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|22 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|23 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|24 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|25 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
+|26 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|27 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
 
 
 
@@ -857,6 +860,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
+|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 19-21, 2019 | - | Lectures, Trainings, Community Activities |
+|29| [Git Merge](https://git-merge.com) | Belgium | - | Feb 01, 2019 | - | Technical talks and hands-on workshops |
 
 
 ## Data Science Conferences in 2018 and 2019
@@ -871,6 +876,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
 | [KDD](https://www.kdd.org/kdd2018/) |  London | 19-23 Aug 2019 |
 | [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2019 |
+| [ICSESS](http://www.icsess.org) | Beijing, China | October 18-20, 2019 |
 
 ---
 

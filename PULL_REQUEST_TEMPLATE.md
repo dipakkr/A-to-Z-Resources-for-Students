@@ -1,4 +1,3 @@
 ## Describe your changes
 
-- Delete this line and write here.
-
+[Beginner-friendly Javascript tutorial](https://sabe.io/classes/javascript)
