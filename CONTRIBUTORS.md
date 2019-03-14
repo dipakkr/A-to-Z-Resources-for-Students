@@ -378,6 +378,7 @@ Instructions :
 | 345 | **Zwe Mun Htun**  | Myanmar | Computer Science, UCSY | [GitHub](https://github.com/zwe-mun-htun) |
 | 346 | **Manasés Jesús** | México | Software Architect for the Cloud & IoT | [Github](https://github.com/manasesjesus) |
 | 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
+| 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
