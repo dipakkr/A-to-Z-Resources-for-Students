@@ -393,7 +393,7 @@
 |21 | [Y Combinator Hacks]() | США | - | - | - |
 |22 | [TreeHacks]() | США | - | - | - |
 |23 | [Глобальный хакатон в Сеуле](https://seoul.globalhackathon.io/) | Южная Корея | Да | - | - |
-|24 | [Call for Code](https://callforcode.org/) | Онлайн | - | - | - |
+|24 | [Call for Code](https://callforcode.org/challenge/) | Онлайн | - | Feb 12 2019 | Jul 29 2019 |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Онлайн + личное участие (Польша) | Да | середина октября |- |
 |26 | [InOut](https://hackinout.co/) | Лично (Индия) | Да | октябрь | - |
 |27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Лично (Индия) | Нет | август-сентябрь | - |

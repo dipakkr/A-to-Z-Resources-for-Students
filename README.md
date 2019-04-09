@@ -560,7 +560,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
 |--|------ |---|---| ------ | ----| ----- |
-|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - | Ended |
+|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
 |2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
 |3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
 |4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
