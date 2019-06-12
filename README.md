@@ -53,7 +53,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Events](#24-events-)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
-     - [Swags Opportunities]()
+     - [Swags Opportunities](#27-swags-opportunities)
 
 3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
@@ -665,6 +665,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
 |3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
 |4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+## 2.7 Hiring Challenges
+
+|ID| Name |
+|--|------ |
+|1| [Stackbit](http://bit.ly/StackbitSwag)
+|2| [JenkinsX](https://www.reddit.com/r/freestickers/comments/bo9h97/jenkins_x_community_best_one_yet/)
+|3| [Amazon ALexa](https://developer.amazon.com/alexa-skills-kit/alexa-developer-skill-promotion-india)
+|4| [Adafruit](https://www.adafruit.com/product/3914)
+|5| [Namecheap](https://merch.namecheap.com/collections/stickers/products/sticker-pack)
+|6| [Thousandeye](https://www.thousandeyes.com/tshirt)
+
 
 ---
 
