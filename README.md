@@ -53,6 +53,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Events](#24-events-)
      - [Startup Summits and Competitions](#25-startup-summits-competitions-and-bootcamps-neckbeard)
      - [Hiring Challenges](#26-hiring-challenges)
+     - [Swags Opportunities]()
 
 3.  [Student Benefits and Programs](#3-student-benefits-and-programs-fire)
      - [Campus Ambassador Programs](#campus-ambassador-programs-v)
