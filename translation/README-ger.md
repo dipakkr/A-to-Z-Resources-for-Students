@@ -313,7 +313,7 @@ Als ich noch studierte verpasste ich aufgrund meiner Unkenntnis eine Vielzahl an
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
 |22 | [TreeHacks]() | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | Süd Korea | Ja | - | - |
-|24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
+|24 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 12 2019 | Jul 29 2019 |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Polen) | Yes | Mitte Oktober |- |
 |26 | [InOut](https://hackinout.co/) | Onsite (India) | Ja | Oktober | - |
 |27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (Indien) | Nein | August-September | - |

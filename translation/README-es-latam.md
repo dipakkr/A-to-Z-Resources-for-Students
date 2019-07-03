@@ -379,7 +379,7 @@ Cuando yo estaba en la univeridad, me perdí de varias oportunidades como hackat
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
 |22 | [TreeHacks]() | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | Si  | - | - |
-|24 | [CTodas for Code](https://callforcode.org/) | Online | - | - | - |
+|24 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 12 2019 | Jul 29 2019 |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + En Lugar (Poland) | Si  | Mediados Octubre | - |
 |26 | [InOut](https://hackinout.co/) | En Lugar (India) | Si | Octubre | - |
 |27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | En lugar (India) | No | Agosto-Septiembere | - |
