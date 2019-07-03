@@ -64,7 +64,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 10. [Top Websites to Follow](#10-top-websites-to-follow)
 11. [Additional Links](#11-additional-links-hamster)
 12. [Bootcamps](#12-coding-bootcamps)
-13. [Contributors](CONTRIBUTORS.md)
+13. [Miscellaneous Resources](#13-miscellaneous-resources)
+    - [Design Resources](#131-design-resources)
+14. [Contributors](CONTRIBUTORS.md)
 
 ---
 
@@ -961,3 +963,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 1. [Lambda School](https://lambdaschool.com/)
 2. [SpringBoard](https://www.springboard.com/)
+
+# 13. Miscellaneous Resources
+
+## 13.1 Design Resources
+
+- **Youtube Channels & Playlists**
+    - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
+    - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
+    - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
+    - [DesignCourse](https://www.youtube.com/user/DesignCourse)
