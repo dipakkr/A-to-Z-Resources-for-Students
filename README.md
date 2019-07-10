@@ -562,7 +562,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
 |--|------ |---|---| ------ | ----| ----- |
-|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
+|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - | Ended |
 |2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
 |3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
 |4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
@@ -968,8 +968,27 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 13.1 Design Resources
 
+- **Tools in the Design Market**  
+  - Let me just cut to the vhase first. In the graphic and design industry there is no bigger market than Adobe Products especially the ADOBE Creative Cloud a.k.a. just CC. But, it's also important for you to know that these *_are not free_* what product to use and when to use. This [introductory video](https://www.youtube.com/watch?v=vfBQvlNOoaw) about what these different Adobe products do will help you. Then you can dive into their deeper functioning. Good luck!
+    - [Adobe CC](https://www.adobe.com/in/creativecloud.html) *Complete Creative Cloud tools suite*
+    - [Illustrator](https://www.adobe.com/in/products/illustrator.html) *Vector artwork*
+    - [Photoshop](https://www.adobe.com/in/products/photoshop.html) *Photo Editing*
+    - [Lightroom](https://www.adobe.com/in/products/photoshop-lightroom.html) *Photo Editing*
+    - [Premier Pro](https://www.adobe.com/in/products/premiere.html) *Video Editing*
+    - [XD](https://www.adobe.com/in/products/xd.html) *UI/UX Designing*
+  - There are certain alternatives to these paid products and it totally depends upon the user, which app he/she is comfortable on. Some of them maybe paid, some are only certain platform specific, so be careful. Here are some more alternatives which are popular in the market:
+    - [Sketch App](https://www.sketch.com/) *UI/UX Designing*
+    - [Inkscape](https://inkscape.org/) *Vector Artwork*
+    - [GIMP](https://www.gimp.org/) *Photo editing*
+
+
 - **Youtube Channels & Playlists**
     - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+  
+
+- **Full courses**
+    - [Illustrator CC 2018 for Beginners](https://www.udemy.com/illustrator-cc-2018-for-beginners-basics-tricks/) *Must Recommend*
+    - [Basics of Photoshop](https://www.udemy.com/photoshop-basics-for-beginners-learn-adobe-photoshop/) *Great course to dive into and also master PS*
