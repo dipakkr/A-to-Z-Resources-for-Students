@@ -380,6 +380,7 @@ Instructions :
 | 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
 | 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
 | 348 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
+| 349 | **Aman Kumar** | India | Student | [Github](https://github.com/Amank1647) - [LinkedIn](https://www.linkedin.com/in/aman-kumar-47bb4316b/) - [Website](https://amank1647.github.io/Profile/index.html) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
