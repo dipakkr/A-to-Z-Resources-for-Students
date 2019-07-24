@@ -32,6 +32,7 @@ Common ML algorithms (examples coming soon)!
 ## Beginner Books
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
 * [An Introduction To Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
+* [Learn Machine Learning in one day](https://aisciences.net) - free E-book
 * [Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [Computer Age Statistical Inference (CASI)](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) ([Permalink as of October 2017](https://perma.cc/J8JG-ZVFW)) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
@@ -67,6 +68,8 @@ Common ML algorithms (examples coming soon)!
 * [Advanced R](http://adv-r.had.co.nz/) - Hadley Wickham. More advanced usage of R for programming.
 ## Resources
 - [41 Essential Machine Learning Interview Questions (with answers)](https://www.springboard.com/blog/machine-learning-interview-questions/)
+
+- [Getting Started with Machine Learning Using Microsoft Azure ML Studio](https://www.codemag.com/Article/1709071/Getting-Started-with-Machine-Learning-Using-Microsoft-Azure-ML-Studio) - By Wei-Meng Lee
 
 - [How can a computer science graduate student prepare himself for data scientist interviews?](https://www.quora.com/How-can-a-computer-science-graduate-student-prepare-himself-for-data-scientist-machine-learning-intern-interviews)
 

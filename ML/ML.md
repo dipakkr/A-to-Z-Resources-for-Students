@@ -68,6 +68,7 @@
  - [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
  - [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
  - [Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+ - [Begginer Python Machine Learning] (https://www.aisciences.net) - Free e-book
 
 
 
