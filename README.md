@@ -729,6 +729,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
 
 ---
 
@@ -864,6 +865,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
 |28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 19-21, 2019 | - | Lectures, Trainings, Community Activities |
 |29| [Git Merge](https://git-merge.com) | Belgium | - | Feb 01, 2019 | - | Technical talks and hands-on workshops |
+|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | June 01 - 05 | - | Apple new technology launch events, Swift |
 
 
 ## Data Science Conferences in 2018 and 2019
