@@ -1,8 +1,18 @@
 
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
+---
+### Show some :heart: and :star: the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)[![GitHub forks](https://img.shields.io/github/forks/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Fork)](https://github.com/dipakkr/A-to-Z-Resources-for-Students) [![GitHub watchers](https://img.shields.io/github/watchers/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Watch)](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/dipakkr/badges/README.md)](https://GitHub.com/dipakkr/badges/)
+
+
+
+----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -981,3 +991,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+
+## 14. Created and Maintained By
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+----
+
+
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -    [LinkedIn](https://www.linkedin.com/in/dipakkr/)  -   [Instagram](http://instagram.com/diipakkr)
