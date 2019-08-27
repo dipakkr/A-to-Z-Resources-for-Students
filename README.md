@@ -3,13 +3,11 @@
 ---
 ### Show some :heart: and :star: the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)[![GitHub forks](https://img.shields.io/github/forks/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Fork)](https://github.com/dipakkr/A-to-Z-Resources-for-Students) [![GitHub watchers](https://img.shields.io/github/watchers/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Watch)](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
-
+[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/dipakkr/badges/README.md)](https://GitHub.com/dipakkr/badges/)
-
+![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
 
 
 ----
@@ -996,5 +994,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
+Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
 
-###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -    [LinkedIn](https://www.linkedin.com/in/dipakkr/)  -   [Instagram](http://instagram.com/diipakkr)
+
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
