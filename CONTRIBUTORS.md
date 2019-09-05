@@ -19,7 +19,7 @@ Instructions :
 
 | S.no | Name | Country | Introduction | Contact |
 |------|:------|:---------|:--------------|:------------|
-| 1. | **Deepak Kumar** :octocat: | India | Full stack and Machine Learning Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
+| 1. | **Deepak Kumar** :octocat: | India | Full stack Developer  | [LinkedIn](https://www.linkedin.com/in/dipakkr) - [GitHub](https://github.com/dipakkr) |
 | 2 | **Akhand Mishra**  |India| Frontend Developer - Python Scripter | [GitHub](https://github.com/Contrevien) - [LinkedIn](https://www.linkedin.com/in/contrevien/) |
 
 ---

@@ -1,8 +1,16 @@
 
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
+---
+### Show some :heart: and :star: the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+
+![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
+
+
+----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -699,6 +707,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
    - [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
    - [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
    - [Microsoft Azure - $100 Azure credit for students](https://azure.microsoft.com/en-gb/free/students/)
+   - [Free Microsoft Office 365 for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Google Cloud](https://cloud.google.com/free/)
@@ -729,6 +738,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
 
 ---
 
@@ -864,6 +874,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
 |28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 19-21, 2019 | - | Lectures, Trainings, Community Activities |
 |29| [Git Merge](https://git-merge.com) | Belgium | - | Feb 01, 2019 | - | Technical talks and hands-on workshops |
+|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | June 01 - 05 | - | Apple new technology launch events, Swift |
 
 
 ## Data Science Conferences in 2018 and 2019
@@ -978,3 +989,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+
+## 14. Created and Maintained By
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+----
+
+Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
+
+
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
