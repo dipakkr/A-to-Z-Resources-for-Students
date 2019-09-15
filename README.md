@@ -864,7 +864,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
 
 
-## Data Science Conferences in 2018 and 2019
+## Data Science Conferences in 2019 and 2020
 
 | Conference |  Location | Date |
 |:--- |:--- |:--- |
