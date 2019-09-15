@@ -835,12 +835,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |--|------ |---|---|:------ |:----|:-----|
 |1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  Apr 15-23, 2020 | - | Python |
 |2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2 | Mar 6 | Business |
+|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2-6. 2020| - | Business |
 |4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 24 | Nov 26  | Business |
 |5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | PASSED | - | - |
 |6 | [DotJS](https://www.dotjs.io/) | France | - | Dec 5 | Dec 6 | JS |
 |7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Oct 4 | Oct 7 | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2019 | - | JS |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2020 | - | JS |
 |9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 4 | Nov 7 | Web |
 |10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
 |11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 1-4, 2019 | - | - |
@@ -848,7 +848,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
 |14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
 |15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Jul 25 | Jul 27 | Business |
+|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | PASSED | - | Business |
 |17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | PASSED | - | - |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
@@ -875,7 +875,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 4-7 May 2020 |
 | [MLConf](http://mlconf.com) |  San Francisco, USA | 8 Nov 2019 |
 | [KDD](https://www.kdd.org/kdd2018/) |  London | 22-27 Aug 2020 |
-| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2019 |
+| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2020 |
 | [ICSESS](http://www.icsess.org) | Beijing, China | October 18-20, 2019 |
 ---
 
