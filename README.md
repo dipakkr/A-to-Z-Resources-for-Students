@@ -1,14 +1,22 @@
 
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-[![GitHub license](https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic)](https://github.com/dipakkr/A-to-Z-Resources-for-Students/pulls)
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg?style=plastic)](https://houndci.com)
+---
+### Show some :heart: and :star: the repo to support the project
+
+[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+
+![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
+
+
+----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
-![Image](res/frontb.png)
+![Image](res/a2z.png)
 
 *Image credits: Google*
 
@@ -23,7 +31,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
      - [Full-stack Web Development](#122-full-stack-web-development)
-     - [Data Structures](#17-data-structures) :chart_with_upwards_trend:
+     - [Data Structures](#17-data-structures) 
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -62,9 +70,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Additional Links](#11-additional-links-hamster)
-12. [Bootcamps](#12-coding-bootcamps)
-13. [Contributors](CONTRIBUTORS.md)
+11. [Bootcamps](#11-coding-bootcamps)
+12. [Additional Links](#12-additional-links-hamster)
+13. [Miscellaneous Resources](#13-miscellaneous-resources)
+    - [Design Resources](#131-design-resources)
+14. [Contributors](CONTRIBUTORS.md)
 
 ---
 
@@ -80,7 +90,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.1 Python
 
-> [**Browse this link for detailed information on Python**](Python.md)
+> [**Browse this link for detailed information on Python**](Python/Python.md)
 
 -  **Tutorials**
 
@@ -560,7 +570,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
 |--|------ |---|---| ------ | ----| ----- |
-|1 | [Call for Code](https://callforcode.org/) | Online | - | - | - | Ended |
+|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
 |2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
 |3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
 |4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
@@ -697,6 +707,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
    - [Visual Studio Essentials - Access to Microsoft Premium Services ](https://visualstudio.microsoft.com/dev-essentials/)
    - [Microsoft Imagine Pack - Tools and subscriptions for Students](https://imagine.microsoft.com/en-us/catalog)
    - [Microsoft Azure - $100 Azure credit for students](https://azure.microsoft.com/en-gb/free/students/)
+   - [Free Microsoft Office 365 for Students](https://www.microsoft.com/en-us/education/products/office/default.aspx)
 3. [JetBrains Students pack](https://www.jetbrains.com/student/)
 4. [AWS Educate](https://aws.amazon.com/education/awseducate/)
 5. [Google Cloud](https://cloud.google.com/free/)
@@ -727,6 +738,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
 
 ---
 
@@ -862,6 +874,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
 |28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
 |29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
+|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
 
 
 ## Data Science Conferences in 2019 and 2020
@@ -958,5 +971,31 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 12. Coding Bootcamps
 
-1. [Lambda School](https://lambdaschool.com/)
-2. [SpringBoard](https://www.springboard.com/)
+|Id | Name | Track | Description | Country | 
+|--|------ |---| --- | ---- | 
+|1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
+|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
+| 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
+| 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
+
+
+# 13. Miscellaneous Resources
+
+## 13.1 Design Resources
+
+- **Youtube Channels & Playlists**
+    - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
+    - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
+    - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
+    - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+
+## 14. Created and Maintained By
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+----
+
+Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
+
+
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)

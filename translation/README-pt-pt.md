@@ -340,7 +340,7 @@ Quando eu estava na faculdade perdi muitas oportunidades como hackathons, confer
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
 |22 | [TreeHacks]() | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | Coreia do Sul | Sim | - | - |
-|24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
+|24 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 12 2019 | Jul 29 2019 |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Polônia) | Sim | Meio de Outubro |- |
 |26 | [InOut](https://hackinout.co/) | Onsite(India) | Sim | Outubro | - |
 |27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | Não | Agosto-Setembro | - |

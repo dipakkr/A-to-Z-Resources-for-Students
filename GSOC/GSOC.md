@@ -2,10 +2,9 @@
 
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
+![Image](../res/gsoc.png)
 
-![Image](res/gsoc.jpg)
-
-# Google Summer of Code 
+# Google Summer of Code
 
 ## 1. List of Top Orgranisation in GSOC
 ### a. Mozilla
@@ -30,6 +29,8 @@
 ### a. [How to prepare for GSoC? by a GSoC student - I.O. Stream](https://github.com/dipakkr/A-to-Z-Resources-for-Students/edit/master/GSOC.md)
 ### b. [Approaching an organisation - I.O. Stream](https://www.youtube.com/watch?v=KIPDtVRMIuE&list=PL9oUnF4b_qbXrxhlgDxo5VX5DVj08HuDE&index=4)
 ### c. [GSOC - GeeksForGeeks](https://www.youtube.com/watch?v=k7go4SZFPxQ)
+### d. [GSOC 2019: Beginner's Guide from a 2 time GSOC student | ft. Akshay Deep](https://www.youtube.com/watch?v=u0IPiGhpwRE)
+### e. [GSOC 2019: Solving Bugs and Proposal Preparation | ft. Akshay Deep](https://www.youtube.com/watch?v=uyoRe5SovWQ)
 
 ## 3. Blogs/Articles
 ### a. Cracking Google Summer of Code 101 (https://www.geeksforgeeks.org/google-summer-of-code-101/)
