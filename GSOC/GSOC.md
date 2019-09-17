@@ -31,6 +31,7 @@
 ### c. [GSOC - GeeksForGeeks](https://www.youtube.com/watch?v=k7go4SZFPxQ)
 ### d. [GSOC 2019: Beginner's Guide from a 2 time GSOC student | ft. Akshay Deep](https://www.youtube.com/watch?v=u0IPiGhpwRE)
 ### e. [GSOC 2019: Solving Bugs and Proposal Preparation | ft. Akshay Deep](https://www.youtube.com/watch?v=uyoRe5SovWQ)
+### f. [How to prepare for Google Summer of Code GSoC [Hindi/Hinglish]](https://www.youtube.com/watch?v=RpdjewNuPzc)
 
 ## 3. Blogs/Articles
 ### a. Cracking Google Summer of Code 101 (https://www.geeksforgeeks.org/google-summer-of-code-101/)
