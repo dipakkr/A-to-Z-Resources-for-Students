@@ -845,52 +845,51 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
 |--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  May 1 | May 9 | Python |
+|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  Apr 15-23, 2020 | - | Python |
 |2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Feb 18 | Feb 22 | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 18 | Nov 20  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June 24 | June 29 | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Nov 9 | Nov 9 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | PASSED | - | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 21-24, 2019 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | PASSED | Pre-Register for 2019 | Web |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | Feb 15-18, 2019 | - | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 2-4, 2019 | - | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | Mar 26 | Mar 28 | - |
+|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2-6. 2020| - | Business |
+|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 24 | Nov 26  | Business |
+|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | PASSED | - | - |
+|6 | [DotJS](https://www.dotjs.io/) | France | - | Dec 5 | Dec 6 | JS |
+|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Oct 4 | Oct 7 | Python |
+|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2020 | - | JS |
+|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 4 | Nov 7 | Web |
+|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
+|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 1-4, 2019 | - | - |
+|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | PASSED | - | - |
 |13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
 |14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
 |15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | Aug 3 | Aug 5 | Business |
-|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | Jan 6 | Jan 11 | - |
+|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | PASSED | - | Business |
+|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | PASSED | - | - |
 |18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
 |19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
 |20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | India | - | - | - | - |
 |21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
 |22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varies | - | - |
 |23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | PASSED | - | - |
-|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 29 | Nov 30 | - |
+|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 24 | Nov 25 | - |
 |25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
 |26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
 |27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 19-21, 2019 | - | Lectures, Trainings, Community Activities |
-|29| [Git Merge](https://git-merge.com) | Belgium | - | Feb 01, 2019 | - | Technical talks and hands-on workshops |
-|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | June 01 - 05 | - | Apple new technology launch events, Swift |
+|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
+|29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
+|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
 
 
-## Data Science Conferences in 2018 and 2019
+## Data Science Conferences in 2019 and 2020
 
 | Conference |  Location | Date |
 |:--- |:--- |:--- |
-| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | 16-20 Jun 2019 | 
-| [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 29 Apr - 2 May 2019 (Varies) |
+| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 | 
+| [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 20 Apr - 23 Apr 2020 (Varies) |
 | [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
-| [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 22-26 Oct 2018 |
-| [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 12-15 Feb 2019 |
-| [MLConf](http://mlconf.com) |  San Francisco, USA | 14 Nov 2018 |
-| [KDD](https://www.kdd.org/kdd2018/) |  London | 19-23 Aug 2019 |
-| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2019 |
+| [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 28 Oct- 8 Noc 2019 |
+| [IBM think 2019](https://www.ibm.com/events/think/index.html) |  Las Vegas, USA | 4-7 May 2020 |
+| [MLConf](http://mlconf.com) |  San Francisco, USA | 8 Nov 2019 |
+| [KDD](https://www.kdd.org/kdd2018/) |  London | 22-27 Aug 2020 |
+| [AI Conf](https://conferences.oreilly.com/artificial-intelligence) |  SanJose/Beijing/NY/London | Aug 2020 |
 | [ICSESS](http://www.icsess.org) | Beijing, China | October 18-20, 2019 |
-
 ---
 
 # 9. Top People to Follow
