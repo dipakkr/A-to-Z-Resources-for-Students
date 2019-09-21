@@ -369,6 +369,7 @@ Instructions :
 | 336 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
 | 337 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
 | 338 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
+
 | 339 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
 | 340 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
 | 341 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
@@ -380,6 +381,7 @@ Instructions :
 | 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
 | 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
 | 348 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
+|349| **Bhavanshu Jain**| India | CSE Student | [Github](https://github.com/bhavanshu-1112)|
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
