@@ -597,9 +597,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |25 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
 |26 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
 |27 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
-
-
-
+|28 | [LNMHacks](https://lnmhacks.com)| India|-|September|October| 2019|
 ----------------------------------------------------------
 
 ##  2.2 Competitions 🏆
