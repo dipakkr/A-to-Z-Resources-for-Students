@@ -379,7 +379,7 @@ Instructions :
 | 346 | **Manasés Jesús** | México | Software Architect for the Cloud & IoT | [Github](https://github.com/manasesjesus) |
 | 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
 | 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
-| 348 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
+| 349 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
