@@ -1,5 +1,9 @@
 # Vim Cheatsheet
 
+Credits and Reference:
+[https://vim.rtorr.com](https://vim.rtorr.com)
+[https://devhints.io/vi](https://devhints.io/vim)
+
 ## Global
 ```bash
 :help keyword # open help for keyword
