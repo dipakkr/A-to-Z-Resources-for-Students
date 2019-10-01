@@ -82,6 +82,15 @@
 
    - [Start@Fast.ai](http://course.fast.ai/start.html)
    - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+ ### ** Reinforcement Learning**
+## 2.2  Best Courses
+
+1) Online Courses
+
+   - [Reinforcement Learning Explained EDX](https://www.edx.org/course/reinforcement-learning-explained-4)
+   - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
+   
+
 
 # 3. **DataSets**
   ***Beginners***
