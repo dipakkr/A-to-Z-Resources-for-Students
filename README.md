@@ -131,6 +131,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [Machine Learning A-Z™: Hands-On Python & R In Data Science | Udemy](https://www.udemy.com/course/machinelearning/)
+
   
 
 -  **Best GitHub Repositories to follow**
@@ -166,6 +168,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
     - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+    - [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow | Udemy](https://www.udemy.com/course/tensorflow-2/)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
