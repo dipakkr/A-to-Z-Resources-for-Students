@@ -1,4 +1,4 @@
-
+Commit and push your changes.
 # A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ---
 ### Show some :heart: and :star: the repo to support the project
@@ -635,6 +635,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 |8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
+|9| [HackClub](https://hackathons.hackclub.com/) | On-Site | | North America | | ALL |
+|10| [Major League Hacking](https://mlh.io/) | On-Site | | Global | | ALL |
 ## 2.4 Events 🎫
 
 > **Check out these events for your region**
