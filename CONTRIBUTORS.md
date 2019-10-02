@@ -356,30 +356,32 @@ Instructions :
 | 324 | **Hector Quintero** | Colombia | Student | [GitHub](https://github.com/hectorf123) |
 | 325 | **Daisuke Chen** | Taiwan | student | [GitHub](https://github.com/daisuke1230) |
 | 326 | **Justina Chua** | America | High School Student | [Github](https://github.com/justinachua) |
-| 326 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
-| 327 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaanmaliknino/)-[GitHub](https://github.com/ishaan28malik) |
-| 328 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
-| 329 | **J Bowler** | UK | OU Computing Student | [GitHub](https://github.com/jimuk07) |
-| 330 | **Giordi Fungula** | South Africa | | [Github](https://github.com/giordifungula) - [LinkedIn](https://www.linkedin.com/in/giordi-fungula-b0a31295/)|
-| 331 | **Liliana B** | United States | Newbie coder | [GitHub](https://github.com/liliballe) |
-| 332 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
-| 333 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
-| 334 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
-| 335 | **Nick Armet** | United States | Apprentice | [Github](https://github.com/nickarmet/) |
-| 336 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
-| 337 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
-| 338 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
-| 339 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
-| 340 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
-| 341 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
-| 342 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar)
-| 343 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
-| 344 | **Shreyash Sharma** | India | Software Engineer |[Linkedin](https://www.linkedin.com/in/shreyash-sharma-b19918117/) - [StackOverflow](https://stackoverflow.com/users/8095759/shreyash-sharma) | [GitHub](https://github.com/shreyneil) |
-| 345 | **Zwe Mun Htun**  | Myanmar | Computer Science, UCSY | [GitHub](https://github.com/zwe-mun-htun) |
-| 346 | **Manasés Jesús** | México | Software Architect for the Cloud & IoT | [Github](https://github.com/manasesjesus) |
-| 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
-| 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
-| 349 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
+| 327 | **Sudhanshu Bansal** | India |  Computer Science Student | [Github](https://github.com/Sudhanshu127) |
+| 328 | **Ishaan Malik** | India |  Computer Science Student |[Linkedin](https://www.linkedin.com/in/ishaanmaliknino/)-[GitHub](https://github.com/ishaan28malik) |
+| 329 | **Igor Lucio** | Brazil | CS Student | [GitHub](https://github.com/igorlmgx/) |
+| 330 | **J Bowler** | UK | OU Computing Student | [GitHub](https://github.com/jimuk07) |
+| 331 | **Giordi Fungula** | South Africa | | [Github](https://github.com/giordifungula) - [LinkedIn](https://www.linkedin.com/in/giordi-fungula-b0a31295/)|
+| 332 | **Liliana B** | United States | Newbie coder | [GitHub](https://github.com/liliballe) |
+| 333 | **Saikat Tapu** | Bangladesh | Programmer | [Github](https://github.com/srt0) |
+| 334 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
+| 335 | **Anindita Chakraborty** | India | Software Developer | [GitHub](https://github.com/Anne97) - [LinkedIn](www.linkedin.com/in/aninditachakraborty10)|
+| 336 | **Nick Armet** | United States | Apprentice | [Github](https://github.com/nickarmet/) |
+| 337 | **Pranava Dhar** | India | Student | [Github](https://github.com/pranavad) |
+| 338 | **Melvin Viana** | USA | Student | [GitHub](https://github.com/Melvin-viana) |
+| 339 | **Kyle** | United States | Developer | [GitHub](https://github.com/weliketocode) |
+| 340 | **Santiago Correa** | Spain | Software Developer | [GitHub](https://github.com/santiago0697) |
+| 341 | **William Lin** | United States | Software Engineer | [GitHub](https://github.com/FanciestW) |
+| 342 | **Shivam Arora** | India |  Computer Engineer |[Linkedin](https://www.linkedin.com/in/shivam-ar/) - [StackOverflow](https://stackoverflow.com/users/8160087/shivam-arora) |
+| 343 | **Md Rafi Akhtar** | India |  Student |[GitHub](https://github.com/rafi007akhtar)
+| 344 | **Lakshya Rawat**  | India | Computer Science Enthusiast | [GitHub](https://github.com/rawml) |
+| 345 | **Shreyash Sharma** | India | Software Engineer |[Linkedin](https://www.linkedin.com/in/shreyash-sharma-b19918117/) - [StackOverflow](https://stackoverflow.com/users/8095759/shreyash-sharma) | [GitHub](https://github.com/shreyneil) |
+| 346 | **Zwe Mun Htun**  | Myanmar | Computer Science, UCSY | [GitHub](https://github.com/zwe-mun-htun) |
+| 347 | **Manasés Jesús** | México | Software Architect for the Cloud & IoT | [Github](https://github.com/manasesjesus) |
+| 348 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
+| 349 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
+| 350 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
+
+| 351 | **Adeyoriju Olabode Wilson**  | Nigeria | Computer Science, OAU | [GitHub](https://github.com/whilson03) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
