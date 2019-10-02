@@ -155,8 +155,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
     - [Data.Gov](https://www.data.gov/)
 
--  **Book for Machine Learning**
+-  **Books for Machine Learning**
     - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
+    - [Learning from Data] (http://work.caltech.edu/textbook.html)
 
 
 ## 1.3 Deep Learning
