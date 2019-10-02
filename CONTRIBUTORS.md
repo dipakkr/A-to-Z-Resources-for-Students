@@ -380,7 +380,6 @@ Instructions :
 | 348 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
 | 349 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
 | 350 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
-
 | 351 | **Adeyoriju Olabode Wilson**  | Nigeria | Computer Science, OAU | [GitHub](https://github.com/whilson03) |
 ---
 
