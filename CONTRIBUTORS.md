@@ -380,6 +380,7 @@ Instructions :
 | 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
 | 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
 | 349 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
+| 350 | **Tirth Patel** | India | Machine Learning Engineer | [Github](https://github.com/tirthasheshpatel) - [LinkedIn](https://www.linkedin.com/in/tirth-patel-612348175) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
