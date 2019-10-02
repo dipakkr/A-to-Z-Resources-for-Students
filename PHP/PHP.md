@@ -14,3 +14,5 @@
 
 ## 2. Framework
 + <a href = "https://www.youtube.com/playlist?list=PLFIM0718LjIXU8ul9FiN-owk04cQKtHPw"> Web Programming UNPAS - Codeigniter Basic (Membuat Sistem Login) (Bahasa)</a>
++ <a href = "https://laravel.com/docs">Laravel Documentation</a>
++ <a href = "https://github.com/laravel/laravel">Laravel Github</a>
