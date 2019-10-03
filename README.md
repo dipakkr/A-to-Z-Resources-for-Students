@@ -531,6 +531,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Code Magazin](https://www.codemag.com/magazine/)
 
 ## 1.20 Scala
 
