@@ -670,6 +670,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
 |15 | [RED Academy](https://redacademy.com) | Canada |
 |16 | [Flatiron School](https://flatironschool) | Online, USA |
+|17 | [Max Train](https://maxtrain.com/coding-bootcamp-in-cincinnati-upcoming-events/) | Cincinnati, Ohio USA |
+
+
 
 ## 2.6 Hiring Challenges
 
