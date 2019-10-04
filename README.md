@@ -70,12 +70,18 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
-11. [Bootcamps](#11-coding-bootcamps)
-12. [Additional Links](#12-additional-links-hamster)
-13. [Miscellaneous Resources](#13-miscellaneous-resources)
-    - [Design Resources](#131-design-resources)
-    - [Podcasts](#132-podcasts)
-14. [Contributors](CONTRIBUTORS.md)
+11. [Top 50 YouTube Channels to Follow](#50-top-youtube-channels-to-follow)
+     - [Top 10 in Technology](#111-top-technology)
+     - [Top 10 in Startup](#112-top-startup)
+     - [Top 10 in Design](#113-top-design)
+     - [To 10 in Business](#114-top-business)
+     - [Top 10 in Finance](#115-top-finance)
+12. [Bootcamps](#12-coding-bootcamps)
+13. [Additional Links](#13-additional-links-hamster)
+14. [Miscellaneous Resources](#14-miscellaneous-resources)
+     - [Design Resources](#141-design-resources)
+     - [Podcasts](#142-podcasts)
+15. [Contributors](CONTRIBUTORS.md)
 
 ---
 
@@ -955,7 +961,48 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
 
-# 11. Additional Links
+# 11. Top 50 YouTube Channels
+
+## 11.1 Top 10 in Technology
+|Sr. No. | Channel | No. of Subscribers
+|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M
+|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M
+|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M
+|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M
+|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M
+|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K
+|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M
+|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M
+|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M
+|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K
+
+## 11.2 Top 10 in Startup
+|Sr. No. | Channel | No. of Subscribers
+|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M
+|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M
+|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 131K
+|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K
+|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K
+|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K
+|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K
+|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K
+|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K
+|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K
+
+## 11.3 Top 10 in Design
+|Sr. No. | Channel | No. of Subscribers
+|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K
+|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K
+|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K
+|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K
+|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K
+|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K
+|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K
+|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K
+|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K
+|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K
+
+# 12. Additional Links
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
@@ -970,7 +1017,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 
-# 12. Coding Bootcamps
+# 13. Coding Bootcamps
 
 |Id | Name | Track | Description | Country | 
 |--|------ |---| --- | ---- | 
@@ -980,9 +1027,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
 
 
-# 13. Miscellaneous Resources
+# 14. Miscellaneous Resources
 
-## 13.1 Design Resources
+## 14.1 Design Resources
 
 - **Youtube Channels & Playlists**
     - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
@@ -990,7 +1037,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
     
-## 13.2 Podcasts
+## 14.2 Podcasts
 
 - **Technology**
     - Code Newbie
@@ -1014,7 +1061,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - Tracks to Relax
     - Unladylike
 
-## 14. Created and Maintained By
+## 15. Created and Maintained By
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
