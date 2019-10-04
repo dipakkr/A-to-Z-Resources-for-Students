@@ -965,7 +965,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 11.1 Top 10 in Technology
 |Sr. No. | Channel | No. of Subscribers |
-| --- | | ------------- | ----- |
+| --- | ------------- | ----- |
 |1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
 |2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
 |3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
