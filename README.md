@@ -961,7 +961,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
 
-# 11. Top 50 YouTube Channels
+# 11. Top 50 YouTube Channels to Follow
 
 ## 11.1 Top 10 in Technology
 |Sr. No. | Channel | No. of Subscribers |
@@ -1008,6 +1008,38 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
 |9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
 |10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+
+---
+
+## 11.4 Top 10 in Business
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
+|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
+|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
+|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
+|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
+|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
+|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
+|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
+|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+
+---
+
+## 11.5 Top 10 in Finance
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
+|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
+|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
+|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
+|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
+|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
+|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
+|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
+|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
+|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
 
 ---
 
