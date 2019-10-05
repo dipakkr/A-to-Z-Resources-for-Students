@@ -113,6 +113,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+    - [Learning Python, 5th Edition by Mark Lutz](http://shop.oreilly.com/product/0636920028154.do)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
