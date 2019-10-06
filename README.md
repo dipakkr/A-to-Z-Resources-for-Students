@@ -530,8 +530,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.19 Microsoft Technologies
 
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-- [Microsoft Developer Network (MSDN)] (https://msdn.microsoft.com/en-US/)
-- [Microsoft Visual Studio] (https://visualstudio.microsoft.com/vs/getting-started/)
+- [Microsoft Developer Network (MSDN)](https://msdn.microsoft.com/en-US/)
+- [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/)
 
 
 ## 1.20 Scala
