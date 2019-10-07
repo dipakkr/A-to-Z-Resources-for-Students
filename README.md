@@ -887,6 +887,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
 |29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
 |30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
+|31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
 
 
 ## Data Science Conferences in 2019 and 2020
