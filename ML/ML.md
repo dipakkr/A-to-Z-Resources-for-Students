@@ -82,6 +82,13 @@
 
    - [Start@Fast.ai](http://course.fast.ai/start.html)
    - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+   - [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
+   - [Advanced ML Specialization](https://www.coursera.org/specializations/aml)
+   - [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+   - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+   - [Machine Learning A-Z](https://www.udemy.com/course/machinelearning/)
+   - [Deep Learning A-Z](https://www.udemy.com/course/deeplearning/)
+   - [Data Science A-Z](https://www.udemy.com/course/datascience/)
 
 # 3. **DataSets**
   ***Beginners***
