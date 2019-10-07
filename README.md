@@ -229,7 +229,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
     - [Mixu's Node book](http://book.mixu.net/node/)
-    - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
+    - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
 - **PHP**
@@ -503,6 +503,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 - [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
+- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [Advanced R Programming ](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
+- [R for Dummies](http://sgpwe.izt.uam.mx/files/users/uami/gma/R_for_dummies.pdf)
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
@@ -535,8 +538,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.19 Microsoft Technologies
 
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Microsoft Developer Network (MSDN)](https://msdn.microsoft.com/en-US/)
+- [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/)
+
 
 ## 1.20 Scala
 
