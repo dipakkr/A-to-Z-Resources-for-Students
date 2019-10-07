@@ -223,7 +223,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
     - [Mixu's Node book](http://book.mixu.net/node/)
-    - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
+    - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
 - **PHP**
