@@ -619,7 +619,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |ID| Name  | Location |
 |--|------ |----------|
 |1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC](https://www.codechef.com/icpc/2019) | Online & On-Site |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
 |3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
 |4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
 |5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
