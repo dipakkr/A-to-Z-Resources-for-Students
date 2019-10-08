@@ -21,6 +21,8 @@
 + [Android Fundamentals by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]_
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) _[Paid]_
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) _[Paid]_
++ [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]_
++ [Android Interview Prep byGrow With Google](https://www.udacity.com/course/android-interview-prep--ud241) _[Free]_
 
 
 ## Certificate
