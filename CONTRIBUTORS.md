@@ -34,6 +34,7 @@ Instructions :
 | 4. | **Manuel Coppotelli**  |-| | [GitHub](https://github.com/manuelcoppotelli) |
 | 5. | **Nathan Glover**  |-| | [GitHub](https://github.com/t04glovern) |
 | 6. | **Sengxay Xayachack**  |-| | [GitHub](https://github.com/frankxayachack) |
+| 7. |**Bhaskar Joshi**|-||https://github.com/LuciferJoshi/ACM-ICPC-Algorithms.git
 | 7. | **Juliano Garcia**  |-| | [GitHub](https://github.com/robotenique) |
 | 8. | **Jibin Thomas**  |-| | [GitHub](https://github.com/jibin2706) |
 | 9. | **João Esteves**  |-| | [GitHub](https://github.com/jvaesteves) |
