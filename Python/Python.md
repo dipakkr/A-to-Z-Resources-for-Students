@@ -44,6 +44,7 @@
 + <a href = "https://www.tutorialspoint.com/seaborn/index.htm"> Seaborn Tutorial</a>
 + <a href = "https://www.youtube.com/watch?v=-BQCB6Uch1g">Scikit Learn Tutorial</a>
 + <a href = "https://www.datacamp.com/community/data-science-cheatsheets"> Cheat Sheets</a>
++ <a href = "https://www.youtube.com/watch?v=r6OD07Qq2mw"> Mayavi</a>
 
 ## 6. Databases
 
