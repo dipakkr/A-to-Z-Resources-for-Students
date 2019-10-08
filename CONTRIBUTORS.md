@@ -382,7 +382,7 @@ Instructions :
 | 349 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
 | 350 | **Tirth Patel** | India | Machine Learning Engineer | [Github](https://github.com/tirthasheshpatel) - [LinkedIn](https://www.linkedin.com/in/tirth-patel-612348175) |
 | 351 | **Stuti Jain** | India | Android Developer | [Github](https://github.com/JainStuti25) |
-| 351 | **Sara Anwer** | India | Computer Science Student | [Github](https://github.com/saraanwer15) |
+| 352 | **Sara Anwer** | India | Computer Science Student | [Github](https://github.com/saraanwer15) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
