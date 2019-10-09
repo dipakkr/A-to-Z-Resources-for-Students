@@ -492,7 +492,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
  - [Git - Progate](https://progate.com/languages/git) - Recommended
- - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+ - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)  
+ - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit)    
 
 
 ## 1.12 R Language
