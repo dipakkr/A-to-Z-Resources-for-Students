@@ -125,7 +125,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.2 Machine Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
@@ -137,7 +137,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Data Science Machine Learning Bootcamp](https://courses.learncodeonline.in/learn/Machine-Learning-Bootcamp?tab=1) - :heavy_dollar_sign:
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
-    - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [Machine Learning | Kaggle](https://www.kaggle.com/learn)
   
 
 -  **Best GitHub Repositories to follow**
@@ -158,7 +158,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
-    - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
+    - [UCI ML Repository](https://archive.ics.uci.edu/ml)
     - [Data.Gov](https://www.data.gov/)
 
 -  **Book for Machine Learning**
@@ -194,7 +194,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  >  [Checkout the Full Resources on ANDROID](Android/Android.md) :baby:
 
 -  [Free courses & Nanodegree | Udacity](https://udacity.com)
--  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
+-  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/google-android-associate-developer-aad) :heavy_dollar_sign:
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
@@ -227,7 +227,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) :star:
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
-    - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
+    - [Node.js handbook by Flavio Copes](https://flaviocopes.com/page/express-handbook) - :baby:
     - [Mixu's Node book](http://book.mixu.net/node/)
     - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
