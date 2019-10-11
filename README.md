@@ -48,6 +48,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#122-matlaboctave)
      - [Go Language](#123-go-language)
+     - [Ethical Hacking](#124-ethical-hacking)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -572,6 +573,26 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
 
+## 1.24 Ethical Hacking
+-  **Best Online Courses**
+    - [Station X Cybersecurity Courses](https://courses.stationx.net/courses):heavy_dollar_sign:
+    - [Learn Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/):heavy_dollar_sign:
+    - [Cybrary-The Art of Exploitation](https://www.cybrary.it/course/the-art-of-exploitation/):free:
+    - [EH Academy – The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course):free: :noob:
+    - [Offensive Security – Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/):free:
+    - [Coursera – Cryptography](https://www.coursera.org/learn/cryptography):heavy_dollar_sign:
+-  **Other Resources**
+    -[Hacking Tutorial:tips and tricks](https://www.hacking-tutorial.com)
+    -[Hack This Site:free legal training ground](https://www.hackthissite.org)
+    -[Exploit Exercises](https://exploit-exercises.lains.space)
+    -[Crypto Pals](https://cryptopals.com)
+    -[Vuln Hub](https://www.vulnhub.com)
+    -[Tutorials Point](https://www.tutorialspoint.com/ethical_hacking/index.htm):baby:
+-  **Books**
+    -[Gray Hat Hacking: The Ethical Hackers Handbook, 3rd Edition](http://www.amazon.com/gp/product/0071742557/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0071742557&linkCode=as2&tag=opensecuinfo-20)
+    -[Penetration Tester's Open Source Toolkit](https://www.amazon.com/gp/product/1597496278/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1597496278&linkCode=as2&tag=opensecuinfo-20)
+    -[Social Engineering: The Art of Human Hacking](https://www.amazon.com/gp/product/0470639539/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0470639539&linkCode=as2&tag=opensecuinfo-20)
+    -[The Hacker Playbook 2](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566/ref=pd_sim_14_5?_encoding=UTF8&psc=1&refRID=BJCMP6PTHMC9X830DM6S):star:
 ---
 
 
@@ -890,6 +911,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
 |30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
 |31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
+|32| [DEF CON](https://defcon.org) | Las Vegas |No| Aug 6-9, 2020 | - | Hacking |
 
 
 ## Data Science Conferences in 2019 and 2020
