@@ -737,22 +737,23 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
-1. [Teach for India Fellowship]()
-2. [Young India Fellowship]()
-3. [Urban Leaders Fellowship]()
-4. [Facebook fellowship Program - **Only For PHD Scholars**]()
+1. [Teach for India Fellowship](https://apply.teachforindia.org/)
+2. [Young India Fellowship](https://www.ashoka.edu.in/page/yif-admissions-41)
+3. [Urban Leaders Fellowship](http://www.urbanleadersfellowship.org/)
+4. [Facebook Fellowship Program - **Only For PHD Scholars**](https://research.fb.com/programs/fellowship/)
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
-6. [Prime Minister’s Rural Fellowship]()
-7. [Azim Premji Foundation Fellowship Program]()
-8. [Stanford-ABC News Global Health and Media Fellowship]()
+6. [Prime Minister’s Rural Fellowship](https://tiss.edu/projectevents-announcements/projects/all-projects/prime-ministers-rural-development-fellowship-progr/)
+7. [Azim Premji Foundation Fellowship Program](https://azimpremjifoundation.org/content/fellowship)
+8. [Stanford-ABC News Global Health and Media Fellowship](https://globalhealth.stanford.edu/programs/media-fellowship/)
 
 
 ## Scholarships :runner:
-1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
-2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
-3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
-4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
-5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
+1. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
+2. [Grants in Portugal (for Portuguese and foreigners)](http://www.eracareers.pt/)
+3. [Grants from Portugal's Foundation for Science and Technology](https://www.fct.pt/index.phtml.en)
+4. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
+5. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+6. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
 
 ---
 
