@@ -31,7 +31,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
      - [Full-stack Web Development](#122-full-stack-web-development)
-     - [Data Structures](#17-data-structures) 
+     - [Data Structures](#17-data-structures)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -138,7 +138,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
-  
+
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -479,6 +479,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
+ - [C++ Super FAQ](https://isocpp.org/faq)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -503,7 +504,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 - [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
-- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 - [Advanced R Programming ](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
 - [R for Dummies](http://sgpwe.izt.uam.mx/files/users/uami/gma/R_for_dummies.pdf)
 
@@ -896,7 +897,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 | Conference |  Location | Date |
 |:--- |:--- |:--- |
-| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 | 
+| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 |
 | [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 20 Apr - 23 Apr 2020 (Varies) |
 | [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
 | [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 28 Oct- 8 Noc 2019 |
@@ -1068,10 +1069,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 13. Coding Bootcamps
 
-|Id | Name | Track | Description | Country | 
-|--|------ |---| --- | ---- | 
+|Id | Name | Track | Description | Country |
+|--|------ |---| --- | ---- |
 |1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
-|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
+|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India |
 | 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
 
@@ -1085,7 +1086,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
-    
+
 ## 14.2 Podcasts
 
 - **Technology**
@@ -1114,7 +1115,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
-Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
+Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network.
 
 
 ###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
