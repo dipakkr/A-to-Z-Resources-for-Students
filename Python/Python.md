@@ -37,6 +37,7 @@
 
 ## 5. DataScience
 
++ <a href = "https://jakevdp.github.io/PythonDataScienceHandbook"/> Data Science Handbook</a>
 + <a href = "http://cs231n.github.io/python-numpy-tutorial/"> Python Numpy Library</a>
 + <a href = "https://www.youtube.com/watch?v=B42n3Pc-N2A"> Pandas Tutorial </a>
 + <a href = "https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y"> Data analysis in Python with Pandas</a>
