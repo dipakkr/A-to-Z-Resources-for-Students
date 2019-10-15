@@ -15,7 +15,7 @@ Clone the repo on your computer using git bash.
 ```
 git clone https://github.com/dipakkr/A-to-Z-Resources-for-Students.git
 ```
-### Step 3 : 
+### Step 3 :
 Create a new Branch (follow the command given below )
 
 ```
@@ -37,7 +37,13 @@ git push origin my-branch
 ### Step 6 :
 Now, go to your forked repository on GitHub and Click make New Pull request.
 
-### Step 7 : 
+### Step 7 :
 Congratulations !!! You have successfully made your first contribution on GitHub.
 
 Feel free to reach out in case you are facing any difficulties.
+
+## How to Contribute from your Browser?
+
+For making a PR you can also use [gitpod](https://gitpod.io) a free online IDE that automates dev enviroments. With a single click it will launch a ready to code workspace with everything setup so that you can start hacking around straight away.
+
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dipakkr/A-to-Z-Resources-for-Students/)
