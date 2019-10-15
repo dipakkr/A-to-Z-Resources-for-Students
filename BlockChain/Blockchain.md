@@ -8,6 +8,8 @@
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): [YouTube](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw)
 + Siraj Raval youtube cryptocurrencies series: [YouTube](https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL)
 + Basic Blockchain Essentials course by IBM: https://cognitiveclass.ai/courses/blockchain-course/
++ Understand blockchain concept with LEGO : http://blockexchange.designinformatics.org/
+
 
 ## Ethereum and smart contracts
 + Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
