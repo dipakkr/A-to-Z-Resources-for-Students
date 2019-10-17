@@ -70,12 +70,27 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8.  [Conferences for students](#8-conferences-bookmark_tabs)
 9.  [Top People to Follow](#9-top-people-to-follow)
 10. [Top Websites to Follow](#10-top-websites-to-follow)
+
 11. [Bootcamps](#11-coding-bootcamps)
 12. [Additional Links](#12-additional-links)
 13. [Miscellaneous Resources](#13-miscellaneous-resources)
     - [Design Resources](#131-design-resources)
     - [Podcasts](#132-podcasts)
 14. [Contributors](CONTRIBUTORS.md)
+
+11. [Top 50 YouTube Channels to Follow](#50-top-youtube-channels)
+     - [Top 10 in Technology](#111-top-10-in-technology)
+     - [Top 10 in Startup](#112-top-10-in-startup)
+     - [Top 10 in Design](#113-top-10-in-design)
+     - [To 10 in Business](#114-top-10-in-business)
+     - [Top 10 in Finance](#115-top-10-in-finance)
+12. [Additional Links](#12-additional-links-hamster)
+13. [Bootcamps](#13-coding-bootcamps)
+14. [Miscellaneous Resources](#14-miscellaneous-resources)
+     - [Design Resources](#141-design-resources)
+     - [Podcasts](#142-podcasts)
+15. [Contributors](CONTRIBUTORS.md)
+
 
 ---
 
@@ -223,7 +238,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) - :baby:
     - [Mixu's Node book](http://book.mixu.net/node/)
-    - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
+    - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
 - **PHP**
@@ -497,6 +512,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 - [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
+- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [Advanced R Programming ](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
+- [R for Dummies](http://sgpwe.izt.uam.mx/files/users/uami/gma/R_for_dummies.pdf)
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
@@ -529,8 +547,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.19 Microsoft Technologies
 
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Microsoft Developer Network (MSDN)](https://msdn.microsoft.com/en-US/)
+- [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/)
+
 
 ## 1.20 Scala
 
@@ -590,14 +610,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
 |18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
 |19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
-|20 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|21 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
-|22 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
-|23 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
-|24 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
-|25 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
-|26 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
-|27 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+|20 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | - | - |  - | Annually every October |
+|21 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|22 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
+|23 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|24 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|25 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
+|27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
 
 
 
@@ -608,7 +629,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |ID| Name  | Location |
 |--|------ |----------|
 |1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC](https://www.codechef.com/icpc/2019) | Online & On-Site |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
 |3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
 |4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
 |5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
@@ -647,6 +668,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 5. AWS meetups [ Global ]
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
+8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
@@ -740,6 +762,16 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
 4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
 5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
+6. [Technology Scholarship Program - Udacity](https://www.udacity.com/bertelsmann-data-scholarships) Application deadline - **November 6th, 2019**
+7. [Goldman Sachs Global Scholarship and Mentorship Program](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship) Applications are welcomed in December - January period.
+8. [Grace Hoppers Conference Program](https://ghc.anitab.org/2019-student-academic/scholarships/) Applications are opened in mid-January.
+9. [Facebook Grace Hopper Scholarship 2019](https://www.facebook.com/scholarcorner/posts/2323154047763329?comment_tracking=%7B%22tn%22%3A%22O%22%7D) Applications are opened in March - April before the registration for GHC starts.
+10. [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/#!?detail-content-tabby_activeEl=overview) Applications are opened in the period between May and August every year.
+11. [Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars) Applications are opened in June-July every year.
+12. [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
+13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
+14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
+
 
 ---
 
@@ -876,6 +908,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
 |29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
 |30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
+|31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
 
 
 ## Data Science Conferences in 2019 and 2020
@@ -956,6 +989,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [The Hustle](https://thehustle.co/)
 
 
+
 # 11. Coding Bootcamps
 
 |Id | Name | Track | Description | Country | 
@@ -964,6 +998,89 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
 | 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
+
+# 11. Top 50 YouTube Channels to Follow
+
+## 11.1 Top 10 in Technology
+|Sr. No. | Channel | No. of Subscribers |
+| --- | ------------- | ----- |
+|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
+|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
+|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
+|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M |
+|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M |
+|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K |
+|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M |
+|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M |
+|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M |
+|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K |
+
+---
+
+## 11.2 Top 10 in Startup
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ------ |
+|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
+|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M |
+|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 131K |
+|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K |
+|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K |
+|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K |
+|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K |
+|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K |
+|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K |
+
+---
+
+## 11.3 Top 10 in Design
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
+|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K |
+|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K |
+|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
+|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
+|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K |
+|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
+|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
+|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
+|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+
+---
+
+## 11.4 Top 10 in Business
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
+|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
+|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
+|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
+|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
+|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
+|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
+|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
+|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+
+---
+
+## 11.5 Top 10 in Finance
+|Sr. No. | Channel | No. of Subscribers |
+| --- | -------------- | ----- |
+|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
+|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
+|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
+|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
+|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
+|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
+|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
+|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
+|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
+|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
+
+---
+
 
 # 12. Additional Links
 
@@ -981,8 +1098,21 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 # 13. Miscellaneous Resources
+=======
+# 13. Coding Bootcamps
 
-## 13.1 Design Resources
+|Id | Name | Track | Description | Country | 
+|--|------ |---| --- | ---- | 
+|1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
+|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
+| 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
+| 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
+
+
+# 14. Miscellaneous Resources
+
+
+## 14.1 Design Resources
 
 - **Youtube Channels & Playlists**
     - [Beginners Guide to Graphic Design | 45 episode series](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
@@ -990,7 +1120,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
     
-## 13.2 Podcasts
+## 14.2 Podcasts
 
 - **Technology**
     - Code Newbie
@@ -1014,7 +1144,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - Tracks to Relax
     - Unladylike
 
-## 14. Created and Maintained By
+## 15. Created and Maintained By
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
