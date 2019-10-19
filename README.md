@@ -48,6 +48,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#122-matlaboctave)
      - [Go Language](#123-go-language)
+     - [Java Language](#124-java-language)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -571,6 +572,17 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
+
+## 1.24 Java Language
+- [Codecademy](https://www.codecademy.com/learn/learn-java)
+- [JavaRanch](https://javaranch.com/)
+- [Java T-point](https://www.javatpoint.com/java-tutorial)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/java-tutorials/)
+- [BeginnersBook](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/)
+- [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/Course/Java/) :baby:
+
+### Books
+- [Head First Java](https://www.wickedlysmart.com/head-first-java/)
 
 ---
 
