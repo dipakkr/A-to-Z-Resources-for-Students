@@ -27,6 +27,7 @@
      - [Research Paper](https://arxiv.org/list/stat.ML/recent)
      - [Top Github Repositories](#2.4-top-github-repositories)
      - [Deep Learning by Google](https://br.udacity.com/course/deep-learning--ud730) - free course
+     - [MIT Deep Learning Course](https://deeplearning.mit.edu/) - free course
      - [Colah's Blog on Deep Learning](http://colah.github.io/)
 
 3. [DataSets](#3-datasets)
