@@ -610,6 +610,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
 |27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
 |28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+|29 | [NASA Space Apps](https://www.spaceappschallenge.org/)| Online | - | - | - | 18-20 October, 2019 |
 
 
 
