@@ -278,16 +278,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
-    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
+    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
     - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
     - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
     - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
     - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
     - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
-    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
-    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
     - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
     - [The Odin Project](https://www.theodinproject.com/)
     - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
@@ -302,44 +299,33 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
     - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
     - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
-    - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
-    - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
 
 - **Bootstrap4**
 
     - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
     - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
-	- [Bootstrap4 Tutorial for beginners] (https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
-	- [Bootstrap4 blog top] (https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
-	- [Bootstrap4 Documentation] (https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-
+	- [Bootstrap4 Tutorial for beginners](https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+	- [Bootstrap4 blog top](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
+	
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
     - [Javascript30 | Wes Bos](https://javascript30.com/)
     - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
-    - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
     - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
     - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
     - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
     - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
     - [Introduction to JavaScript | freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
-    - [HTML Dog](http://www.htmldog.com/guides/javascript/)
+    - [HTML Dog - JavaScript](http://www.htmldog.com/guides/javascript/)
     - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
-    - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
     - [30 Seconds of Code](https://30secondsofcode.org/)
     - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
-    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
-    - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-    - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
-    - [Wes Bos list of courses](https://wesbos.com/courses/)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [Wes Bos list of courses - JavaScript 30 ***](https://wesbos.com/courses/)
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
-
+    
 
 - **JavaScript Frameworks**
 
@@ -353,7 +339,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      - **React.js**
         - [React JS - Conference Videos](https://www.reactjsvideos.com/)
-        - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
@@ -366,6 +351,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Advanced React | Wes Bos](https://advancedreact.com/) :heavy_dollar_sign:
         - [React Fundamentals | Tyler McGinnis](https://tylermcginnis.com/courses/react-fundamentals/) :heavy_dollar_sign:
         - [Modern React with Redux | Udemy](https://www.udemy.com/react-redux/) :heavy_dollar_sign:
+        - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
+
 
      - **React Native**     
         - [React Native - The Practical Guide](https://www.udemy.com/react-native-the-practical-guide/) :heavy_dollar_sign:
