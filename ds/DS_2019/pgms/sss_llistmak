@@ -1,0 +1,6 @@
+sss.out:sss_llistc.o sss_llisti.o
+	gcc -o sss.out sss_llistc.o sss_llisti.o
+sss_llistc.o:sss_llistc.c
+	gcc -c sss_llistc.c 
+sss_llisti.o:sss_llisti.c
+	gcc -c sss_llisti.c 

@@ -1,0 +1,6 @@
+g10.out:g10c.o g10i.o
+	gcc -o g10.out g10c.o g10i.o
+g10c.o:g10c.c
+	gcc -c g10c.c
+g10i.o:g10i.c
+	gcc -c g10i.c

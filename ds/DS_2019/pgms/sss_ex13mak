@@ -1,0 +1,6 @@
+sss.out:sss_ex13c.o sss_ex13i.o
+	gcc -o sss.out sss_ex13c.o sss_ex13i.o -lm
+sss_ex13c.o:sss_ex13c.c
+	gcc -c sss_ex13c.c 
+sss_ex13i.o:sss_ex13i.c
+	gcc -c sss_ex13i.c 

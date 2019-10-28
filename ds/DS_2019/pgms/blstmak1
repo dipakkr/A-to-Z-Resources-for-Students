@@ -1,0 +1,6 @@
+blst.out:barlsti1.o barlstc1.o
+	gcc -o blst.out barlsti1.o barlstc1.o
+barlsti.o:barlsti1.c
+	gcc -c barlsti1.c
+barlistc.o:barlstc.c
+	gcc -c barlstc1.c
