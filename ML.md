@@ -43,6 +43,8 @@
 
 8. [Online Mathematical Resources](#8-maths-online-resources)
      - [Create staright line by slope and y-intercept](https://www.desmos.com/calculator/5kn5x8f7zk)
+ 
+9. [Reinforcement Learning]
 
 ---
 
@@ -96,3 +98,13 @@
 - [sentdex](https://github.com/Sentdex)
 - [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
 - [Andrew Yan-Tak Ng](http://www.andrewng.org/)
+
+# 9. **Reinforcement Learning**
+
+- [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
+- [Algorithms in Reinforcement Learning By University of Waterloo](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/goals.html)
+- [Deep Reinforcement Learning CS 285 BY UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/?fbclid=IwAR3sqqeNMtClYv2wsUqGEiiJrXRn0VhcJTY49GkdsumvFTzeTNJRX5Hev9s)
+- [AWS DeepRacer](https://classroom.udacity.com/courses/ud012)
+
+
+
