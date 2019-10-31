@@ -231,6 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mixu's Node book](http://book.mixu.net/node/)
     - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
+    - [Node: From zero to expert](https://www.udemy.com/course/node-de-cero-a-experto/) - Nodejs Course in Spanish
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
