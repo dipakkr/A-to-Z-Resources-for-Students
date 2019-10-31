@@ -339,7 +339,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
-
+    - [JavaScript: from scratch to details](https://www.udemy.com/course/javascript-de-cero-hasta-los-detalles/) - JavaScript: from scratch to details 
 
 - **JavaScript Frameworks**
 
