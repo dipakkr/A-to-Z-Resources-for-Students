@@ -1,4 +1,4 @@
-## How to Make a Pull Request ?
+## How to Make a Pull Request?
 
 Every Expert was once a beginner, so if you are facing difficulties or don't know how to make pull request. Don't worry, we are here to help you.
 
@@ -16,7 +16,7 @@ Clone the repo on your computer using git bash.
 git clone https://github.com/dipakkr/A-to-Z-Resources-for-Students.git
 ```
 ### Step 3 : 
-Create a new Branch (follow the command given below )
+Create a new Branch (follow the command given below)
 
 ```
 git checkout -b my-branch
@@ -38,6 +38,6 @@ git push origin my-branch
 Now, go to your forked repository on GitHub and Click make New Pull request.
 
 ### Step 7 : 
-Congratulations !!! You have successfully made your first contribution on GitHub.
+Congratulations! You have successfully made your first contribution on GitHub.
 
 Feel free to reach out in case you are facing any difficulties.
