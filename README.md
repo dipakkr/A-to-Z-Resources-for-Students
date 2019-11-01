@@ -1071,14 +1071,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
 <<<<<<< HEAD
-8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad* 
-[CodePath](https://codepath.org/) - Free training provided at Universities for people interested in coding in Swift, Java or learning Security
 =======
 8. [5 most common misconceptions about studying abroad among Indians](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Study Abroad*
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
 10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
-
+12. [CodePath](https://codepath.org/) - Free training provided at Universities for people interested in coding in Swift, Java or learning Security
 
 # 13. Coding Bootcamps
 
