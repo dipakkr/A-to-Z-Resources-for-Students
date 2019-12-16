@@ -493,6 +493,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
  - [Git - Progate](https://progate.com/languages/git) - Recommended
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+  - [Making sense of Git and GitHub](https://betterstack.dev/blog/making-sense-of-git-and-github/)
+
 
 
 ## 1.12 R Language
