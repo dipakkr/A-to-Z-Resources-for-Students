@@ -382,6 +382,7 @@ Instructions :
 | 349 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
 | 350 | **Tirth Patel** | India | Machine Learning Engineer | [Github](https://github.com/tirthasheshpatel) - [LinkedIn](https://www.linkedin.com/in/tirth-patel-612348175) |
 | 351 | **Stuti Jain** | India | Android Developer | [Github](https://github.com/JainStuti25) |
+| 352 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
 
 ---
 
