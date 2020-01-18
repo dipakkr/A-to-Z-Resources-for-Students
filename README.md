@@ -812,6 +812,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Internships
 
 1. [Cisco International Internship Program](https://www.myciip.com/)
+2. [Sakae Japan Internship Program: SJIP](https://japan-internships.com/)
+3. [Student Training in Engineering Program: Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
+4. [Summer Student Opportunities](https://home.cern/summer-student-programme)
+
+
+
+
 
 ## Internship Portals
 
