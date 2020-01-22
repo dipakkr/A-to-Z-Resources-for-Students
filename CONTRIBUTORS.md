@@ -383,6 +383,7 @@ Instructions :
 | 350 | **Tirth Patel** | India | Machine Learning Engineer | [Github](https://github.com/tirthasheshpatel) - [LinkedIn](https://www.linkedin.com/in/tirth-patel-612348175) |
 | 351 | **Stuti Jain** | India | Android Developer | [Github](https://github.com/JainStuti25) |
 | 352 | **Rutik Wankhade** | India | CS Student | [Github](https://github.com/rutikwankhade) |
+| 353 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
 
 
 ---
