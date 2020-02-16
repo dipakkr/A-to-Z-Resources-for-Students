@@ -421,6 +421,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - Code Monk to start with programming - programming fundamentals
     - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - Interview preparation kit
     - [InterviewBit](https://www.interviewbit.com/courses/programming) -  Best platform to get prepared for Data Structures based interviews
+    - [InterviewCake](https://www.interviewcake.com/) - An interactive interview prep site for DSA and some System Design with free 3 week access through Github student pack
+    - [AlgoDaily](https://algodaily.com/) - Daily interview questions sent by mail, as well as a full course and online IDE as well as visualizations and tutorials to solve the problems
     - [LeetCode](https://www.leetcode.com) -  Platform to prepare for technical interviews with real interview questions
     - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - Great head start for learning Data Structures
     - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
@@ -815,10 +817,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Sakae Japan Internship Program: SJIP](https://japan-internships.com/)
 3. [Student Training in Engineering Program: Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
 4. [Summer Student Opportunities](https://home.cern/summer-student-programme)
-
-
-
-
 
 ## Internship Portals
 
