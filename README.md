@@ -353,6 +353,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      - **React.js**
         - [React JS - Conference Videos](https://www.reactjsvideos.com/)
+        - [Learn React for free | Scrimba](https://scrimba.com/g/glearnreact)
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
