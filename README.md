@@ -5,7 +5,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/HQdeepak)
 
 ![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
 
