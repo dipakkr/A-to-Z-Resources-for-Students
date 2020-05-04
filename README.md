@@ -866,6 +866,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24| [PyData Delhi](https://pydata.org/delhi2018/)|Delhi|
 |25| [LinuxChix](https://www.linuxchix.org/)|Delhi|
 |26| [Owasp](https://www.owasp.org/index.php/Jaipur)|Jaipur|
+|27| [ACM Student Chapter](https://acm.org/)|All Colleges Worldwide|
 ---
 
 # 8. Conferences :bookmark_tabs:
