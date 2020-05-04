@@ -204,7 +204,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.5 Backend Development
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
-- [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/backend.png)
+- [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 
 -  **Django - Python**
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
