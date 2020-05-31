@@ -1,6 +1,18 @@
 
 # A to Z Resources for Students 
 
+---
+
+This repository is created and curated by Deepak Kumar ( [Twiiter](https://twiiter.com/HQdeepak) ). There are more than 500+ individual contributors have have helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
+
+If you think this repository helped you in any in finding new opporunties, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
+
+Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
+
+---
+
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
