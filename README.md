@@ -7,9 +7,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
 
-![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
-
-
+Support my work - <a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 ----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
