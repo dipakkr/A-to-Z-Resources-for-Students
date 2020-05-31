@@ -1,13 +1,5 @@
 
-# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
----
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
-
-----
+# A to Z Resources for Students 
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
