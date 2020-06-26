@@ -512,6 +512,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.13 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
+ - [Learn You A Haskell](http://learnyouahaskell.com/)
 
 ## 1.14 MongoDB
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
