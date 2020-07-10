@@ -1,6 +1,6 @@
 ## Here is a list of awesome people who contributed to this repository
 
-### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :myanmar: :mexico:
+### It's time to network :india: :us: :cn: :brazil: :australia: :gb: :es: :taiwan: :poland: :turkey: :indonesia: :fr: :vietnam: :de: :ng: :ukraine: :netherlands: :philippines: :serbia: :uruguay: :cuba: :malaysia: :it: :venezuela: :colombia: :belgium: :zambia: :indonesia: :morocco: :bangladesh: :albania: :myanmar: :mexico: :nigeria:
 
 ```
 Instructions :
@@ -383,6 +383,7 @@ Instructions :
 | 350 | **Tirth Patel** | India | Machine Learning Engineer | [Github](https://github.com/tirthasheshpatel) - [LinkedIn](https://www.linkedin.com/in/tirth-patel-612348175) |
 | 351 | **Stuti Jain** | India | Android Developer | [Github](https://github.com/JainStuti25) |
 | 352 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
-| 352 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
+| 353 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
+| 354 | **Paul Stephen Edache** | Nigeria| Developer, #IamRemarkable Facilitator | [LinkedIn](https://www.linkedin.com/in/CounsellorDev/)| [Github](https://github.com/CounsellorDev) | [Twitter](https://twitter.com/CounsellorDev)
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
