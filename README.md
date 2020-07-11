@@ -1,6 +1,11 @@
 
 # A to Z Resources for Students 
 
+
+<p align='center'>
+   <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=dipakkr.a2zresource.visitor-badge">
+ <p/>
+
 ## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
 
 This repository is created and curated by Deepak Kumar ( [Twitter](https://twiiter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
