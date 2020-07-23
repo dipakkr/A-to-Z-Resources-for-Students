@@ -705,7 +705,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 # 3. Student Benefits and Programs :fire:
 
 ## Campus Ambassador Programs :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
+1. [Microsoft Learn Student Ambassadors ](https://studentambassadors.microsoft.com/en-us) - Application Deadline - **August**
 2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
