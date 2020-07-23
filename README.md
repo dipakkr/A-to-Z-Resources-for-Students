@@ -2,9 +2,7 @@
 # A to Z Resources for Students 
 
 
-<p align='center'>
-   <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=dipakkr.a2zresource.visitor-badge">
- <p/>
+ ![Total Visits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdipakkr%2FA-to-Z-Resources-for-Students)
 
 ## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
 
