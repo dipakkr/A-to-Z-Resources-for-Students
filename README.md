@@ -447,6 +447,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
     - [Excercism](https://exercism.io/) - Code practice and mentorship.
     - [Leet Code](https://leetcode.com)
+    - [Data structures](https://www.youtube.com/channel/UCjmiFw-45rJn15yh-jAnShw/playlists)-One of the best platform for learning data structures.
+    - [Algoritms](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured)-for learning algorithms
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
