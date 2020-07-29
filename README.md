@@ -1144,3 +1144,5 @@ Hey, I am excited to see you here. I hope you find the project useful. Follow me
 Support my work 
 
 <a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
+
+<a href="https://tracking.gitads.io/?repo=https://github.com/dipakkr/A-to-Z-Resources-for-Students/"> <img src="https://images.gitads.io/https://github.com/dipakkr/A-to-Z-Resources-for-Students/" alt="GitAds"/> </a>
