@@ -8,6 +8,7 @@
 + Simple Handon using JAVASCRIPT - SAVJEE (highly recommended): [YouTube](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw)
 + Siraj Raval youtube cryptocurrencies series: [YouTube](https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL)
 + Basic Blockchain Essentials course by IBM: https://cognitiveclass.ai/courses/blockchain-course/
++ Play with Blockchain: https://andersbrownworth.com/blockchain/distributed
 
 ## Ethereum and smart contracts
 + Ethereum whitepaper: https://github.com/ethereum/wiki/wiki/White-Paper
@@ -34,11 +35,17 @@
 + For getting started: https://hyperledger.github.io/composer/latest/tutorials/tutorials.html
 + Get your hands dirty | Explore online playground: https://composer-playground.mybluemix.net/
 
+## Books
++ Blockchain: https://drive.google.com/file/d/1nD_gw18wR84JH6JhxY2dNUnUQSVHKP-e/view?usp=sharing
++ Mastering Bitcoin, 2nd Edition: https://drive.google.com/file/d/1oUh91dgQE3fG1GobmIq6KOIoStj76Dok/view?usp=sharing 
++ Programming Bitcoin: https://drive.google.com/file/d/1jQWkWJ85JbddHTzDIP_qCFq29tZvWodQ/view?usp=sharing 
+
 ## More about Blockchain
 
 + Blockchain on IBM: https://www.ibm.com/blockchain/getting-started 
 + Step by step guide for beginners: https://blockgeeks.com/guides/what-is-blockchain-technology/
 + Step by step Guide in Building a blockchain application with Hyperledger&GO: https://chainhero.io/2018/06/tutorial-build-blockchain-app-v1-1-0/ 
++ The Bitcoin's lifecycle overview: https://dev.to/gmfcastro/the-bitcoins-lifecycle-overview-1fld
 
 A tip before watching all the resources : Bitcoin!=Blockchain, that means blockchain is not only bitcoin.
 + What is Blockchain Technology: https://www.coindesk.com/information/what-is-blockchain-technology/
