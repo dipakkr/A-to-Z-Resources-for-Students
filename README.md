@@ -77,7 +77,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Top 10 in Technology](#111-top-10-in-technology)
      - [Top 10 in Startup](#112-top-10-in-startup)
      - [Top 10 in Design](#113-top-10-in-design)
-     - [To 10 in Business](#114-top-10-in-business)
+     - [Top 10 in Business](#114-top-10-in-business)
      - [Top 10 in Finance](#115-top-10-in-finance)
 12. [Additional Links](#12-additional-links-hamster)
 13. [Bootcamps](#13-coding-bootcamps)
