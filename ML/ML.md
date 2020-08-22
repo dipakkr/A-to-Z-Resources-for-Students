@@ -111,3 +111,4 @@
 - [sentdex](https://github.com/Sentdex)
 - [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
 - [Andrew Yan-Tak Ng](http://www.andrewng.org/)
+- [Ian Goodfellow](https://scholar.google.ca/citations?user=iYN86KEAAAAJ)
