@@ -990,6 +990,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
       -  [The Hustle](https://thehustle.co/)
+      -  [Hackernoon - Tech News](https://hackernoon.com/)
+      
 
 # 11. Top 50 YouTube Channels to Follow
 
