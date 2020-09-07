@@ -1,7 +1,7 @@
 # A to Z Resources for Students 
 
-<a href="https://tracking.gitads.io/?repo=https://github.com/dipakkr/A-to-Z-Resources-for-Students/"> <img src="https://images.gitads.io/https://github.com/dipakkr/A-to-Z-Resources-for-Students/" alt="GitAds"/> GitAd</a>
-
+<a href="https://api.whatsapp.com/send?phone=919142027494&text=Hey!%20I%20would%20like%20to%20be%20part%20of%20your%20Whatsapp%20broadcast%20list.%20"> 
+	<img src="https://dev-to-uploads.s3.amazonaws.com/i/2uzf6k7m8icsphzl7np4.png" alt="Whatsapp"/>  Join Whatsapp Community </a>
 
 
 ## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
