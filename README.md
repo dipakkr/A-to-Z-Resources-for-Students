@@ -1,8 +1,7 @@
 # A to Z Resources for Students 
 
-<a href="https://api.whatsapp.com/send?phone=919142027494&text=Hey!%20I%20would%20like%20to%20be%20part%20of%20your%20Whatsapp%20broadcast%20list.%20"  target="_blank" > 
+<a href="https://api.whatsapp.com/send?phone=919142027494&text=Hey!%20I%20got%20to%20know%20about%20your%20Whatsapp%20broadcast%20list%20from%20Github%20and%20I%20would%20like%20to%20join.%20"  target="_blank" > 
 	<img src="https://dev-to-uploads.s3.amazonaws.com/i/b8z327s44r4udm4cfdp5.png" alt="Whatsapp"/>  Join Whatsapp Community </a>
-
 
 ## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
 
