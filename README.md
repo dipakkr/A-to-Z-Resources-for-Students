@@ -449,6 +449,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
     - [Excercism](https://exercism.io/) - Code practice and mentorship.
     - [Leet Code](https://leetcode.com)
+    - [Udemy](https://www.udemy.com/course/datastructurescncpp/)-Paid one with code sheets for every problem.Explained in C and C++;
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -487,6 +488,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
+ - [Udemy](https://www.udemy.com/course/cpp-deep-dive/?referralCode=E4246A516919D7E84225)-Paid C++ courses by Abdul Bari.
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
