@@ -16,7 +16,7 @@ If you think this repository helped you in any in finding new opportunities, tag
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
-When I was in college, I missed a lot of opportunities like hackathons, conferences, internships and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
+When I was in college, I missed a lot of opportunities like hackathons, conferences, internships, workshops and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
 
 ![Image](res/a2z.png)
 
@@ -121,6 +121,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+	- [complete Python tutorials] (https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
