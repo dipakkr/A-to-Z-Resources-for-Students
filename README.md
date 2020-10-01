@@ -523,7 +523,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [MongoDB University](https://university.mongodb.com/)
 
 ## 1.15 Prolog
-- [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
+- [Michael Spivey - An introduction to logic programming through Prolog](https://spivey.oriel.ox.ac.uk/wiki/files/logprog/logic.pdf)
 
 ## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
