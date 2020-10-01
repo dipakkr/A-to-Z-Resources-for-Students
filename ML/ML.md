@@ -65,6 +65,7 @@
 
  2) Maths for ML
  - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+ - [Probability Theory and Statistics](https://www.youtube.com/watch?v=kYHLOksu1SQ)
  - [Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
  - [Derivatives](https://www.khanacademy.org/math/calculus-1/cs1-derivatives-definition-and-basic-rules)
  - [Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
