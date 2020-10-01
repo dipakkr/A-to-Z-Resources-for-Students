@@ -523,7 +523,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [MongoDB University](https://university.mongodb.com/)
 
 ## 1.15 Prolog
-- [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
+- [Michael Spivey - An introduction to logic programming through Prolog](https://spivey.oriel.ox.ac.uk/wiki/files/logprog/logic.pdf)
 
 ## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
@@ -574,6 +574,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.22 Full-Stack Web Development
 - [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
+-[The Odin Project - Ruby & JS tracks](https://www.theodinproject.com/)
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
