@@ -179,6 +179,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
     - [An MIT Press book](http://www.deeplearningbook.org/)
+    - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 -  **Best GitHub Repositories to follow**
     - [Top 200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
