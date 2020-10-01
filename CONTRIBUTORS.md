@@ -385,4 +385,6 @@ Instructions :
 | 352 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
 | 352 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
 
+| 353 | **Ankita Mandal** | India | Full Stack Web Developer | [LinkedIn](https://www.linkedin.com/in/ankita-mandal-21059b16a/)| [Github](https://github.com/GoGi2712) 
+
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
