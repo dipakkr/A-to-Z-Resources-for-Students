@@ -147,6 +147,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
      - [Coding Train](https://github.com/CodingTrain)
      - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning)
+     - [Reinforcement Learning Algorithms and Complementary Material](https://github.com/dennybritz/reinforcement-learning)
 
 -  **Research Papers**
     - [Arxiv](https://arxiv.org/)
