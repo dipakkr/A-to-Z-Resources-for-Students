@@ -705,22 +705,25 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 # 3. Student Benefits and Programs :fire:
 
 ## Campus Ambassador Programs :v:
-1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
+1. [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-us)
 2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
-5. [Progate Student Ambassador](http://progate.com/)
+5. [AWS Educate Student Ambassador](https://aws.amazon.com/education/awseducate/student-ambassador-program/)
 6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
 7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
 8. [HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
 11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
-12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+12. [Intel Ambassador Program](https://devmesh.intel.com/member-programs/intel-student-ambassador-program)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+17. [Developer Student Clubs (Google)](https://developers.google.com/community/dsc)
+18. [Alexa Student Influencers](https://developer.amazon.com/en-IN/alexa/alexa-student-influencer)
+19. [OnePlus Student Ambassadors](https://www.oneplus.in/campus)
 
 
 ## Student Benefits and Packs :v:
