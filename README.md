@@ -574,6 +574,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.22 Full-Stack Web Development
 - [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
+- [Full stack open 2020](https://fullstackopen.com/en)
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
