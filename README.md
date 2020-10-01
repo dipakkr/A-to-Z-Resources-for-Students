@@ -773,6 +773,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 12. [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
 13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
 14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
+15. [Udacity - Bertelsmann Technology Scholarships Program](https://www.udacity.com/bertelsmann-tech-scholarships) **Application deadline - November 16th, 2020**
 
 
 ---
