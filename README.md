@@ -1,16 +1,18 @@
+# A to Z Resources for Students 
 
-# A to Z Resources for Students :boy: ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+<a href="https://api.whatsapp.com/send?phone=919142027494&text=Hey!%20I%20got%20to%20know%20about%20your%20Whatsapp%20broadcast%20list%20from%20Github%20and%20I%20would%20like%20to%20join.%20"  target="_blank" > 
+	<img src="https://dev-to-uploads.s3.amazonaws.com/i/b8z327s44r4udm4cfdp5.png" alt="Whatsapp"/>  Join Whatsapp Community </a>
+
+## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
+
+This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
+
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
+
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
+
 ---
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students.svg?style=social&label=Star)](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
-
-![GitHub followers](https://img.shields.io/github/followers/dipakkr.svg?style=social&label=Follow)
-
-
-----
 
 ### Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
@@ -125,7 +127,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.2 Machine Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
     - [CSE-229 - Stanford University]( http://cs229.stanford.edu/)
@@ -199,12 +201,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
 -  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
+-  [Flutter Examples ](https://github.com/nisrulz/flutter-examples
+-  [Pathway to Follow ](https://roadmap.sh/android)
+
+
 
 ## 1.5 Backend Development
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
-- [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/backend.png)
+- [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
 
 -  **Django - Python**
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
@@ -339,6 +344,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
+    - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
 
 
 - **JavaScript Frameworks**
@@ -353,6 +359,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
      - **React.js**
         - [React JS - Conference Videos](https://www.reactjsvideos.com/)
+        - [Learn React for free | Scrimba](https://scrimba.com/g/glearnreact)
         - [Video Tutorials - Beginner to Intermediate | YouTube](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
@@ -421,6 +428,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - Code Monk to start with programming - programming fundamentals
     - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - Interview preparation kit
     - [InterviewBit](https://www.interviewbit.com/courses/programming) -  Best platform to get prepared for Data Structures based interviews
+    - [InterviewCake](https://www.interviewcake.com/) - An interactive interview prep site for DSA and some System Design with free 3 week access through Github student pack
+    - [AlgoDaily](https://algodaily.com/) - Daily interview questions sent by mail, as well as a full course and online IDE as well as visualizations and tutorials to solve the problems
     - [LeetCode](https://www.leetcode.com) -  Platform to prepare for technical interviews with real interview questions
     - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - Great head start for learning Data Structures
     - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
@@ -445,7 +454,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
-    - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - Holy Bible for Design and Analysis of algorithms
+    - [CLRS](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)  - Holy Bible for Design and Analysis of algorithms
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
     - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  Strongly recommended to learn DS and Computer Science fundamentals
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
@@ -515,7 +524,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [MongoDB University](https://university.mongodb.com/)
 
 ## 1.15 Prolog
-- [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
+- [Michael Spivey - An introduction to logic programming through Prolog](https://spivey.oriel.ox.ac.uk/wiki/files/logprog/logic.pdf)
 
 ## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
@@ -566,6 +575,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.22 Full-Stack Web Development
 - [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
+-[The Odin Project - Ruby & JS tracks](https://www.theodinproject.com/)
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
@@ -812,6 +822,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Internships
 
 1. [Cisco International Internship Program](https://www.myciip.com/)
+2. [Sakae Japan Internship Program: SJIP](https://japan-internships.com/)
+3. [Student Training in Engineering Program: Google STEP](https://buildyourfuture.withgoogle.com/programs/step/)
+4. [Summer Student Opportunities](https://home.cern/summer-student-programme)
 
 ## Internship Portals
 
@@ -861,6 +874,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |24| [PyData Delhi](https://pydata.org/delhi2018/)|Delhi|
 |25| [LinuxChix](https://www.linuxchix.org/)|Delhi|
 |26| [Owasp](https://www.owasp.org/index.php/Jaipur)|Jaipur|
+|27| [ACM Student Chapter](https://acm.org/)|All Colleges Worldwide|
 ---
 
 # 8. Conferences :bookmark_tabs:
@@ -1084,7 +1098,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
 | 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
-
+| 5| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
+| 6| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
 
 # 14. Miscellaneous Resources
 
@@ -1126,7 +1141,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
 
-###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+Support my work 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)
+<a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
+
