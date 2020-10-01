@@ -140,6 +140,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [Intro to ML] (https://www.youtube.com/playlist?list=PLLGfrNGZ7g4MP3yRMSAC0hB-DQzY6nNZg)
   
 
 -  **Best GitHub Repositories to follow**
