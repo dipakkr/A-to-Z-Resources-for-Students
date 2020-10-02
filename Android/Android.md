@@ -21,6 +21,7 @@
 + [Android Fundamentals by Google](https://www.udacity.com/course/new-android-fundamentals--ud851) _[Free]_
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) _[Paid]_
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) _[Paid]_
++ [Advanced Android Developer Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/) _[Free]_
 
 
 ## Certificate
@@ -51,6 +52,7 @@
 + [Official Android Developer on Medium](https://medium.com/androiddevelopers)
 + [Android Developers Blog](https://android-developers.googleblog.com/)
 + [Android Arsenal](https://android-arsenal.com)
++ [Pro Android Dev - by Droidcon](https://proandroiddev.com/)
 
 
 ## References
@@ -90,8 +92,11 @@ Flutter is Google’s mobile app SDK for crafting high-quality native interfaces
 
 ## Resources
 * [Flutter Official Documentation](http://flutter.io)
+* [Flutter Awsome](https://flutterawesome.com/)
+* [Dart documentation](https://dart.dev/guides)
 * [Build Native Mobile Apps with Flutter by Google](https://in.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) _[Free]_ 
 * [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/) _[Paid]_
+* [The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)_[Paid]_
 
 # React Native
 With React Native, you don't build a "mobile web app", an "HTML5 app", or a "hybrid app". You build a real mobile app that's indistinguishable from an app built using Objective-C or Java. React Native uses the same fundamental UI building blocks as regular iOS and Android apps. You just put those building blocks together using JavaScript and React.
