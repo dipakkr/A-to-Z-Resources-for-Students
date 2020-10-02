@@ -724,6 +724,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
 15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
 
 
 ## Student Benefits and Packs :v:
