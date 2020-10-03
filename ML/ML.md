@@ -75,6 +75,7 @@
 
  - [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
  - [Into to ML](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
+ - [An Introduction to Machine Learning | Scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
 # 2.  **Deep Learning**
 ## 2.1 Where to Start in DL?
