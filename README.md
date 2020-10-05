@@ -156,6 +156,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
     - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+    - [CS230 - Stanford University] (https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
