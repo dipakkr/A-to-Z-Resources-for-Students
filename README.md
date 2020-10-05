@@ -83,8 +83,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
-15. [Contributors](CONTRIBUTORS.md)
-
+15. [Top sites for APTITUTE PREPARATION FOR PLACEMENTS]
+16. [Contributors](CONTRIBUTORS.md)
 ---
 
 # FYI
@@ -1136,8 +1136,38 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Other**
     - Tracks to Relax
     - Unladylike
+    
+## 15. Top sites for APTITUTE PREPARATION FOR PLACEMENTS
 
-## 15. Created and Maintained By
+  -**IndiaBix.com**
+
+	This is a website that offers a variety of learning opportunities. 
+	Its verbal and reasoning section has problem sums on Verbal Ability, Logical Reasoning, Verbal Reasoning, and Non Verbal Reasoning. 
+	The website also has section for  quizzes, logical puzzles, and discussion forums. The website also attempts to prepare students 
+	for the interview and group discussion.
+
+   -**Testpot.com**	
+
+	Testpot.com is the place where you can spend hours practicing hundreds of mock tests on 
+	the section of reasoning aptitude and making yourself an erudite. And the best part is that it is free of cost. 
+	As per the website, they have more than 150 mock tests.
+ 
+   -**Freedu.in**
+
+	Freedu.in is especially curated to help the students crack their competing exams. 
+	This is the channel which will make the section of reasoning way easier for the students after their practice
+	sessions on this web page. Freedu.in offers more than thousands of the questions in the section of Logical Reasoning and aptitude. 
+	This website is totally free of cost
+
+   -**Sawaal.com**
+
+	One of the best sites for students and job seekers, sawaal.com 
+	includes a lot of questions that tests both the mathematical and logical abilities of the students. 
+	These questions are carefully drafted and are in line with the most common questions that are usually asked in the examinations. 
+	The website has interesting questions on logical reasoning which will never make you feel exhausted out of boredom and will force 
+	you to use the wits of your mind. The reasoning questions include analytical, verbal and non-verbal reasoning.
+
+## 16. Created and Maintained By
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
