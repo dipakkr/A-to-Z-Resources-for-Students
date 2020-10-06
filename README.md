@@ -575,7 +575,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 ## 1.22 Full-Stack Web Development
-- [web.dev - A Progressive Web App (works offline) by Google for Learning A-Z about Web Development, Latest Web Technologies and mainly Web Performance](https://web.dev/)
+- [web.dev - A Progressive Web App by Google for Learning A-Z about Web Development, Latest Web Technologies and mainly Web Performance](https://web.dev/)
 - [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
 - [The Odin Project - Ruby & JS tracks](https://www.theodinproject.com/)
 
