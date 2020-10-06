@@ -558,6 +558,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - Books
     - [The Neophyte's Guide to Scala](https://danielwestheide.com/scala/neophytes.html)
     - [Programmin in Scala](https://www.artima.com/shop/programming_in_scala_3ed) A book written by the programming language author, Martin Odersky among others. [The first edition is avalible for free](https://www.artima.com/pins1ed/)
+    - [Creative Scala](https://www.creativescala.org/) A fun introduction to the Scala language
+    - [Essential Scala](https://books.underscore.io/essential-scala/essential-scala.html) 
 
 - Online Courses
     - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) A course taught by the programming language author, Martin Odersky.
