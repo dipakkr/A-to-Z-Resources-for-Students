@@ -1142,6 +1142,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
+[![Twitter Follow](https://twitter.com/vatsalverma20)
 
 
