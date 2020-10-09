@@ -36,6 +36,8 @@
 5. [Celebrities in ML and AI world](#5-celebrities-in-ml-and-ai-world)
 
 6. [Tips for ML & AI enthusiasts](#6-ml-ai-tips)
+   - [Medium Blog](https://becominghuman.ai/https-medium-com-katdare-swanand-college-student-to-machine-learning-enthusiast-af7e288e21a7)
+   - [Hackerearth blog](https://www.hackerearth.com/blog/developers/artificial-intelligence-101-how-to-get-started/)
 
 7. [Pandas](#7-pandas)
      - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
@@ -60,6 +62,7 @@
 1) Python
 
    - [Basics of Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+   - [Basics of Python](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
    - [More in Python](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
    - [Python for ML](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp)
 
