@@ -50,6 +50,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#122-matlaboctave)
      - [Go Language](#123-go-language)
+     - [Flutter](#124-flutter-framework)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -583,8 +584,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
 
----
+## 1.24 Flutter
+- [Flutter](https://flutter.dev/)
+- [Flutter Tutorial For Beginners](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
+- [Flutter For Advanced](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
 
+---
 
 # 2. Hackathons and Events
 
