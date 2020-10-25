@@ -975,6 +975,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |35 |[Vincent Boucher](https://www.linkedin.com/in/montrealai) | AI & ML |
 |36 |[Yann LeCun](https://www.facebook.com/yann.lecun) | VP & Chief AI Scientist at Facebook |
 |37 |[Yukihiro Matsumoto](https://twitter.com/yukihiro_matz) | Ruby Creator |
+|38 |[Jacob Appelbaum](https://twitter.com/ioerror) | Computer Security Researcher |
 
 ---
 
