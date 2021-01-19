@@ -1,7 +1,7 @@
 # A to Z Resources for Students 
 
 
-<a href="https://bit.ly/375xQOt"  target="_blank" > 
+<a href="http://bit.ly/3o0ruod"  target="_blank" > 
 	<img src="https://dev-to-uploads.s3.amazonaws.com/i/b8z327s44r4udm4cfdp5.png" alt="Whatsapp"/>  Join Whatsapp Community </a>
 
 ## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
