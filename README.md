@@ -1,11 +1,6 @@
 # A to Z Resources for Students 
 
 
-<a href="http://bit.ly/3o0ruod"  target="_blank" > 
-	<img src="https://dev-to-uploads.s3.amazonaws.com/i/b8z327s44r4udm4cfdp5.png" alt="Whatsapp"/>  Join Whatsapp Community </a>
-
-## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
-
 This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
 
 If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
