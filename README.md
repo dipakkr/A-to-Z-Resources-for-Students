@@ -273,7 +273,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
-- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/frontend.png)
+- [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
