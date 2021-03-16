@@ -1148,5 +1148,5 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
-1. [Deepak Kumar](https://github.com/dipakr)
+1. [Deepak Kumar](https://github.com/dipakkr)
 2. [Ayush Gupta](https://github.com/siAyush)
