@@ -1144,15 +1144,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
    -**[Sawaal.com](https://sawaal.com)**
 
 
-## 16. Created and Maintained By
+## 16. Maintainers
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
-Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
-
-Support my work 
-
-<a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
-
+1. [Deepak Kumar](https://github.com/dipakr)
+2. [Ayush Gupta](https://github.com/siAyush)
