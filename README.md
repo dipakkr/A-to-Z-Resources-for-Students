@@ -645,8 +645,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
 
-
-
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
 |---| ------ |---| --- |
@@ -654,10 +652,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
 |3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
 |4| [Hackathon.io](http://www.hackathon.io/events) | Global | ALL |
-|5| [TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
+|5| [TechGIG - Search Online Competitions](https://www.techgig.com/challenge)| Online & On-Site |ALL |
 |6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 |8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
+|9| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | Data Science |
+
 ## 2.4 Events 🎫
 
 > **Check out these events for your region**
