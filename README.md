@@ -532,6 +532,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [DotNetPerls - C# Reference](https://www.dotnetperls.com/)
 - [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
+- [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
 
 ## 1.17 DevDocs
 
