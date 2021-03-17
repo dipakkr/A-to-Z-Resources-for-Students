@@ -385,7 +385,6 @@ Instructions :
 | 352 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
 | 353 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
 | 354 | **Natalia Loginova** | Russia | QA Engineer | [GitHub](https://github.com/Arrivera) - [LinkedIn](www.linkedin.com/in/alisanatalia)|
-| 355 | **FlatText** | Middle East |  Developer |[GitHub](https://github.com/flattext)
 
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
