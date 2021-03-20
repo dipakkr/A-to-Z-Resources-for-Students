@@ -380,6 +380,12 @@ Instructions :
 | 347 | **Sidak Singh Aulakh** | India | Full-Stack Web Developer | [Github](https://github.com/co16353sidak) |
 | 348 | **Aigbiluese Eronmonsele** | Nigeria | Frontend Web Developer | [Github](https://github.com/eronmmer) |
 | 349 | **Shubhkirti Sharma** | India | Developer and Designer | [Github](https://github.com/wowufoundme) - [Website](https://wowufoundme.github.io) |
----
+| 350 | **Tirth Patel** | India | Machine Learning Engineer | [Github](https://github.com/tirthasheshpatel) - [LinkedIn](https://www.linkedin.com/in/tirth-patel-612348175) |
+| 351 | **Stuti Jain** | India | Android Developer | [Github](https://github.com/JainStuti25) |
+| 352 | **Walter Augustine** | USA | Full Stack Web Developer | [Github](https://github.com/walter-0) |
+| 353 | **Lauren Harris** | USA| Government Travel Agent| [LinkedIn](https://www.linkedin.com/in/lauren-harris90/)| [Github](https://github.com/Lauren2590) | [Twitter](https://twitter.com/LaurenSH23)
+| 354 | **Natalia Loginova** | Russia | QA Engineer | [GitHub](https://github.com/Arrivera) - [LinkedIn](www.linkedin.com/in/alisanatalia)|
+| 355 | **shyoutarou** | Brazil | Student | [Github](https://github.com/shyoutarou) |
+
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
