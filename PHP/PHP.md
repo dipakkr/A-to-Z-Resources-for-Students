@@ -1,6 +1,5 @@
 # A to Z Resources for Students ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-
 ## Index
 1. [PHP Basics](#1-python-basics)
 2. [Framework](#2-framework)
