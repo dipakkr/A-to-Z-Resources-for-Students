@@ -1145,13 +1145,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     
 ## 15. Top sites for APTITUTE PREPARATION FOR PLACEMENTS
 
-  -**[IndiaBix.com](https://indiabix.com)**
+  - [IndiaBix.com](https://indiabix.com)
 
-   -**[Testpot.com](https://testpot.com)**	
+  - [Testpot.com](https://testpot.com)	
 
-   -**[Freedu.in](https://freedu.in)**
+  - [Freedu.in](https://freedu.in)
 
-   -**[Sawaal.com](https://sawaal.com)**
+  - [Sawaal.com](https://sawaal.com)
 
 
 ## 16. Maintainers
