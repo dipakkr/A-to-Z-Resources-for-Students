@@ -500,9 +500,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
- - [Git - Progate](https://progate.com/languages/git) - Recommended
+ - [Git - Progate](https://progate.com/languages/git) 
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
- - [Git training](https://intellipaat.com/git-github-training/)-Learn from the experts|Intellipaat :heavy_dollar_sign:
+ - [Git training](https://intellipaat.com/git-github-training/)
 
 
 ## 1.12 R Language
