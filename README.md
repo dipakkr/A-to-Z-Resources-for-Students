@@ -752,9 +752,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
-1. [Teach for India Fellowship]()
+1. [Teach for India Fellowship](https://apply.teachforindia.org/)
 2. [Young India Fellowship]()
-3. [Urban Leaders Fellowship]()
+3. [Urban Leaders Fellowship](http://www.urbanleadersfellowship.org/)
 4. [Facebook fellowship Program - **Only For PHD Scholars**]()
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
 6. [Prime Minister’s Rural Fellowship]()
