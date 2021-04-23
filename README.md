@@ -79,7 +79,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
-15. [Top sites for APTITUTE PREPARATION FOR PLACEMENTS]
+15. [Top sites for Aptitude Preparion for Placements](#-15-top-sites-for-Aptitude-Preparion-for-Placements)
 16. [Contributors](CONTRIBUTORS.md)
 ---
 
@@ -1143,8 +1143,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Other**
     - Tracks to Relax
     - Unladylike
-    
-## 15. Top sites for APTITUTE PREPARATION FOR PLACEMENTS
+  
+## 15. Top sites for Aptitude Preparion for Placements
 
   - [IndiaBix.com](https://indiabix.com)
 
