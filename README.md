@@ -1,8 +1,6 @@
 # A to Z Resources for Students 
 
 
-This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
-
 If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
 
 
@@ -1159,5 +1157,3 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ----
 
-1. [Deepak Kumar](https://github.com/dipakkr)
-2. [Ayush Gupta](https://github.com/siAyush)
