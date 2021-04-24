@@ -3,7 +3,7 @@
 📌 ##Before even thinking about applying to GSoC you 
 should be using atleast some open source software and 
 must have interest in some sub-field (Machine/Deep learning,
- Artificial Intelligence, etc.) of computer science. You must start preparation must start before 2-3 months of official GSoC start date.
+ Artificial Intelligence, etc.) of computer science. You must start preparation before 2-3 months of official GSoC start date.
 
 📌## Head over to previous year’s GSoC Archives (These projects are most likely to come again) and search for the project/organization you would like to contribute to according to your interest.
 
