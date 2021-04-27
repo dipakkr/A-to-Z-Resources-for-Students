@@ -21,6 +21,7 @@
 + <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
 + <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
 + <a href = "https://www.linkedin.com/learning/python-essential-training-2"> Python Essential Training - LinkedIn Learning</a>
++ <a href = "https://www.tutlane.com/tutorial/python"> Learn Python - Tutlane</a>
 
 
 ## 2. Socket Programming
