@@ -1160,6 +1160,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 16. Maintainers
 [Ayush Gupta](https://github.com/siAyush)
+
 [Deepak Kumar](https://github.com/dipakkr)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
