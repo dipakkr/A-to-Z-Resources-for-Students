@@ -1164,5 +1164,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 [Deepak Kumar](https://github.com/dipakkr)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-----
 
+<a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students"></a>
+----
