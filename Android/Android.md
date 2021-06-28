@@ -22,6 +22,9 @@
 + [Android Basics Nanodegree by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) _[Paid]_
 + [Android Nanodegree by Google](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) _[Paid]_
 + [Advanced Android Developer Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/) _[Free]_
++ [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) _[Free]_
++ [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) _[Free]_
++ [Become an Android Kotlin Developer](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940) _[Paid]_
 
 
 ## Certificate
