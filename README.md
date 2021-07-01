@@ -650,6 +650,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
+|15| [Walmart-Codehers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) |Online|
 
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
@@ -663,6 +664,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
 |8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
 |9| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | Data Science |
+|10| [MLH](https://mlh.io/) | Global | ALL|
 
 ## 2.4 Events 🎫
 
