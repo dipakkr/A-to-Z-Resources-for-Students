@@ -319,6 +319,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Bootstrap4 Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 	- [Learn Bootstrap4 | Tutlane](https://www.tutlane.com/tutorial/bootstrap)
 
+- **Bootstrap 5**
+
+    - [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
+
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
     - [javascript info](https://javascript.info/)
