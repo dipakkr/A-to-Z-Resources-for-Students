@@ -803,7 +803,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
 |6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+|8| [GirlScript Summer of Code](https://gssoc.girlscript.tech/#) | - | Prizes & Goodies | - | - |
 |9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
