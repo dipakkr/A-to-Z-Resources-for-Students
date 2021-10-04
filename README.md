@@ -455,6 +455,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
     - [Excercism](https://exercism.io/) - Code practice and mentorship.
     - [Leet Code](https://leetcode.com)
+    - [Data Structures and Algorithm](https://nptel.ac.in/courses/106/102/106102064/ "NPTEL")
 
 - **Books**
     - [Competitive Programming by Felix Halim and Steven Halim](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf)
@@ -655,6 +656,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |13| [Quest Ingenium](https://www.questingenium.com/) | -  |
 |14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
 |15| [Walmart-Codehers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) |Online|
+|16| [Codechef-Snackdown](https://snackdown.codechef.com/) | Online & Onsite |
 
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
@@ -737,6 +739,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
 17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
+18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
 
 
 ## Student Benefits and Packs :v:
@@ -755,7 +758,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
 10. [Bitbucket Education](https://bitbucket.org/product/education)
 11. [Namecheap free .name Domain](https://nc.me/)
-12. [ Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
+12. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
 13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
 14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
 
@@ -787,6 +790,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
 14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
 15. [Udacity - Bertelsmann Technology Scholarships Program](https://www.udacity.com/bertelsmann-tech-scholarships) **Application deadline - November 16th, 2020**
+16. [ONGC Foundation](https://ongcscholar.org/) Applications open every year
 
 
 ---
@@ -808,6 +812,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
 | 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 |12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+|13| [GSSOC(GirlScript Summer of Code)](https://gssoc.girlscript.tech/)| GirlScript Foundation | For top 50 | - | - |
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
