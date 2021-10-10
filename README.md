@@ -560,8 +560,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.19 Microsoft Technologies
 
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-- [Microsoft Developer Network (MSDN)](https://msdn.microsoft.com/en-US/)
+- [Microsoft Developer Network (MSDN)](https://developer.microsoft.com/en-us/)
 - [Microsoft Visual Studio](https://visualstudio.microsoft.com/vs/getting-started/)
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/docs)
 
 
 ## 1.20 Scala
@@ -1143,6 +1144,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - Soft Skills Engineering
     - Programming Throwdown
     - Hanselminutes
+    - Syntax
+    - Developer Tea
+    - Command Line Heroes
 - **Startup and Entrepreneurship**
     - StartUp
     - How I Built This
