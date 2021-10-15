@@ -387,7 +387,7 @@ Instructions :
 | 354 | **Natalia Loginova** | Russia | QA Engineer | [GitHub](https://github.com/Arrivera) - [LinkedIn](www.linkedin.com/in/alisanatalia)|
 | 355 | **shyoutarou** | Brazil | Student | [Github](https://github.com/shyoutarou) |
 | 356 | **Aditya Mehta** | India | Mechanical Engineering Student | [Github](https://github.com/adimehta03) - [LinkedIn](https://www.linkedin.com/in/aditya-mehta-414b67195/) |
-
+| 357 | **Faran Mohammad** | India | Associate Software Engineer | [Github](https://github.com/Faranheit15) - [LinkedIn](https://www.linkedin.com/in/faran-mohammad-7b938917a/) |
 
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
