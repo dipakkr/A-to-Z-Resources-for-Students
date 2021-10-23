@@ -1,7 +1,7 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
 
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community.
 
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
@@ -27,7 +27,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Backend Development ](#15-backend-development)
      - [Frontend Web Development](#16-frontend-web-development)
      - [Full-stack Web Development](#122-full-stack-web-development)
-     - [Data Structures](#17-data-structures) 
+     - [Data Structures](#17-data-structures)
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
      - [C++ Language](#110-c-language)
@@ -136,7 +136,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
-  
+
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -462,6 +462,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [The Hitchhiker's Guide to the Programming Contests](https://comscigate.com/Books/contests/icpc.pdf) - Goto book for competitive programming enthusiasts.
     - [CLRS](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)  - Holy Bible for Design and Analysis of algorithms
     - [Algorithm Design by Kleinberg Tardos](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - Another goto book for easy to understand algorithm design and analysis
+    - [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious-ebook/dp/B09781V6F7/ref=sr_1_1?crid=1ES0BXN5S7P30&dchild=1&keywords=grokking+algorithms&qid=1635005448&s=books&sprefix=grokking+algorithms%2Cstripbooks%2C265&sr=1-1) - Great for beginners and visual learners
     - [Coding Interview University - Github](https://github.com/jwasham/coding-interview-university) -  Strongly recommended to learn DS and Computer Science fundamentals
     - [Algo & DS in different languages](https://github.com/ZoranPandovski/al-go-rithms) - Algorithm and Data Structure in different programming languages
     - [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Clean Code: A Handbook of Agile Software Craftsmanship :heavy_dollar_sign:
@@ -507,7 +508,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [git - the simple guide](http://rogerdudler.github.io/git-guide/)
  - [GIT: A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
  - [Mastering Git by thoughtbot](https://thoughtbot.com/upcase/mastering-git)
- - [Git - Progate](https://progate.com/languages/git) 
+ - [Git - Progate](https://progate.com/languages/git)
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
  - [Git training](https://intellipaat.com/git-github-training/)
 
@@ -520,7 +521,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
 - [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
-- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
+- [Introduction to Statistical Learning with R ](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 - [Advanced R Programming ](https://englianhu.files.wordpress.com/2016/05/advanced-r.pdf)
 - [R for Dummies](http://sgpwe.izt.uam.mx/files/users/uami/gma/R_for_dummies.pdf)
 
@@ -723,7 +724,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 # 3. Student Benefits and Programs :fire:
 
 ## Campus Ambassador Programs :v:
-1. [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) 
+1. [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
 2. [GitHub Campus Experts](https://githubcampus.expert/)
 3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
 4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
@@ -788,7 +789,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 10. [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/#!?detail-content-tabby_activeEl=overview) Applications are opened in the period between May and August every year.
 11. [Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars) Applications are opened in June-July every year.
 12. [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
-13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
+13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year.
 14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
 15. [Udacity - Bertelsmann Technology Scholarships Program](https://www.udacity.com/bertelsmann-tech-scholarships) **Application deadline - November 16th, 2020**
 16. [ONGC Foundation](https://ongcscholar.org/) Applications open every year
@@ -941,7 +942,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 | Conference |  Location | Date |
 |:--- |:--- |:--- |
-| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 | 
+| [Predictive Analytics World](http://www.predictiveanalyticsworld.com) |  Las Vegas, USA | May 31-June 4, 2020 |
 | [Strata Data Conference](http://conferences.oreilly.com/strata)|  USA, UK | 20 Apr - 23 Apr 2020 (Varies) |
 | [Open Data Science Conference](https://www.odsc.com) |  UK, USA | Varies |
 | [Big Data Analytics Tokyo](www.bigdatacon.jp) |  Tokyo, Japan | 28 Oct- 8 Noc 2019 |
@@ -1116,10 +1117,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 # 13. Coding Bootcamps
 
-|Id | Name | Track | Description | Country | 
-|--|------ |---| --- | ---- | 
+|Id | Name | Track | Description | Country |
+|--|------ |---| --- | ---- |
 |1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
-|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
+|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India |
 | 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
 | 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
 | 5| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
@@ -1134,7 +1135,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
     - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
-    
+- **Curated lists**
+    -[A curated list of design resources from design templates, stock photos, icons, colors](https://github.com/MohamedYoussouf/Design-Resources)
 ## 14.2 Podcasts
 
 - **Technology**
@@ -1158,12 +1160,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Other**
     - Tracks to Relax
     - Unladylike
-  
+
 ## 15. Top sites for Aptitude Preparion for Placements
 
   - [IndiaBix.com](https://indiabix.com)
 
-  - [Testpot.com](https://testpot.com)	
+  - [Testpot.com](https://testpot.com)
 
   - [Freedu.in](https://freedu.in)
 
