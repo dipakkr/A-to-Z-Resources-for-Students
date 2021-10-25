@@ -22,7 +22,7 @@
 + <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
 + <a href = "https://www.linkedin.com/learning/python-essential-training-2"> Python Essential Training - LinkedIn Learning</a>
 + <a href = "https://www.tutlane.com/tutorial/python"> Learn Python - Tutlane</a>
-
++ <a href = "https://pythontutor.com/visualize.html#mode=edit"> Python Code Visuaizing Tool </a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
