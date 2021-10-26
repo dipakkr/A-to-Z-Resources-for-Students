@@ -387,6 +387,7 @@ Instructions :
 | 354 | **Natalia Loginova** | Russia | QA Engineer | [GitHub](https://github.com/Arrivera) - [LinkedIn](www.linkedin.com/in/alisanatalia)|
 | 355 | **shyoutarou** | Brazil | Student | [Github](https://github.com/shyoutarou) |
 | 356 | **Aditya Mehta** | India | Mechanical Engineering Student | [Github](https://github.com/adimehta03) - [LinkedIn](https://www.linkedin.com/in/aditya-mehta-414b67195/) |
+| 356 | **Manoj Sadanala** | India | Electrical And Communication Engineering Student | [Github](https://github.com/DarkHunter1749) - [LinkedIn](https://www.linkedin.com/in/manoj-parasuram-sadhanala-29042004/) |
 
 
 

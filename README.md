@@ -117,6 +117,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
+    - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
+
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
