@@ -371,6 +371,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
+        - [Reactstrap - React Bootstrap 4 Components](https://reactstrap.github.io/)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
         - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
@@ -439,6 +440,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [AlgoDaily](https://algodaily.com/) - Daily interview questions sent by mail, as well as a full course and online IDE as well as visualizations and tutorials to solve the problems
     - [LeetCode](https://www.leetcode.com) -  Platform to prepare for technical interviews with real interview questions
     - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - Great head start for learning Data Structures
+    - [Prepbytes](https://mycode.prepbytes.com/interview-coding/practice) - Prepbytes Coding Platform - Get problems as per your coding skills.
     - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
     - [Codewars](https://www.codewars.com/) - Interesting ranking system with beautiful UI for competitive programming and interview prep.
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
