@@ -322,6 +322,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Bootstrap 5**
 
     - [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
+    - [Sneat Free Bootstrap 5 HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
