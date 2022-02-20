@@ -1184,7 +1184,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Life**
     - Unf*ck your brain
     - By the Book
-    - Stren#gth and Scotch
+    - Strength and Scotch
     - Happier with Gretchen Rubin
     - The Minimalists
 - **Other**
