@@ -77,6 +77,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
+     - [Note Taking](#143-Note-Taking-Resources)
 15. [Top sites for Aptitude Preparion for Placements](#15-top-sites-for-aptitude-preparion-for-placements)
 16. [Contributors](CONTRIBUTORS.md)
 ---
@@ -1183,13 +1184,28 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Life**
     - Unf*ck your brain
     - By the Book
-    - Strength and Scotch
+    - Stren#gth and Scotch
     - Happier with Gretchen Rubin
     - The Minimalists
 - **Other**
     - Tracks to Relax
     - Unladylike
-  
+
+## 14.3 Note taking resources
+**Tools**
+- [Obsidian](https://obsidian.md) 
+- [Notion](https://www.notion.so)
+- [Evernote](https://evernote.com/)
+- [Onenote](https://www.onenote.com/download)
+s
+**Tools tutorials**
+
+| Tool names | Tutorials  |
+| --- | --- |
+| Obsidian   |[Obsidian for Beginners: Start HERE](https://www.youtube.com/watch?v=QgbLb6QCK88)|
+|Notion| [Notion Training: The Basics](https://www.youtube.com/watch?v=aA7si7AmPkY)|
+|Evernote|[How to Use Evernote | Basics for Students](# How to Use Evernote | Basics for Students)|
+|Onenote|[How to Use OneNote Effectively (Stay organized with little effort!)](https://www.youtube.com/watch?v=Poepoh1b_3k)|
 ## 15. Top sites for Aptitude Preparion for Placements
 
   - [IndiaBix.com](https://indiabix.com)
