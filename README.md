@@ -432,7 +432,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **Online Platforms**
     - [CodeChef](https://www.codechef.com/) - CodeChef competitive programming site
-    - [CodeSignal](https://codesignal.com/) - (formerly CodeFights)Fun gaming approach to Coding contests and Interview practices.
+    - [CodeSignal](https://codesignal.com/) - (formerly CodeFights) Fun gaming approach to Coding contests and Interview practices.
     - [Codeforces](https://codeforces.com/) - Great site for preparing for programming contests
     - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - Must do coding questions for product based companies
     - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - Code Monk to start with programming - programming fundamentals
@@ -717,6 +717,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 7. Hackathon at the NS [Netherlands](https://werkenbijns.nl/hackathon/)
 8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+9. [Codementor Events](https://www.codementor.io/events) [ Global ]
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
@@ -772,6 +773,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
 17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
 18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
+19. [Codementor for Students](https://www.codementor.io/students)
 
 
 ## Student Benefits and Packs :v:
@@ -933,39 +935,29 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
+|Id | Name | Place | Travel Reimbursement | Timeline | Deadline | Type |
 |--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  Apr 15-23, 2020 | - | Python |
-|2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2-6. 2020| - | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 24 | Nov 26  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | PASSED | - | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Dec 5 | Dec 6 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Oct 4 | Oct 7 | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2020 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 4 | Nov 7 | Web |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 1-4, 2019 | - | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | PASSED | - | - |
-|13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
-|14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
-|15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | PASSED | - | Business |
-|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | PASSED | - | - |
-|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
-|19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
-|20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | India | - | - | - | - |
-|21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
-|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varies | - | - |
-|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | PASSED | - | - |
-|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 24 | Nov 25 | - |
-|25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
-|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
-|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
-|29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
-|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
-|31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
+|1 | [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) | Global | No | April 20, 2022 | April 21, 2022 | No | - |
+|2 | [PyCon US-Python Conference USA](https://us.pycon.org/2022/) |  Salt Lake City, USA | No |  April 27, 2022 | May 3, 2022 | Python |
+|3| [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes | June 6, 2022 | June 20, 2022 | - | Business |
+|4 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June 20, 2022 | June 23, 2022 | - |
+|5 | [AWS Summit, New Dehli](https://aws.amazon.com/events/summits/new-delhi/) | India | No | Sept 9, 2022 | - | - |
+|6 | [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Sept 20, 2022 | Sept 23, 2022 | - |
+|7 | [TechCrunch Disrupt](https://techcrunch.com/events/tc-disrupt-2022/) | USA | No | Oct 18, 2022 | Oct 20, 2022 | - |
+|8 | [Dublin Web Summit](https://websummit.net/) | Dublin | No | Nov 1, 2022 | Nov 4, 2022 | Web |
+|9 | [Web Summit](https://websummit.com/) | Lisbon | - | Nov 1, 2022 | Nov 4, 2022 | - | - |
+|10 | [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Varies | Varies | - |
+|11 | [ODSC](https://odsc.com/) | Global | Varies | Varies | - | AI |
+|12 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes | PASSED | Business |
+|13 | [DotJS](https://www.dotjs.io/) | France | - | PASSED | JS |
+|14 | [PyCon](https://www.pycon.fr/2018/) | France | - | PASSED | Python |
+|15 | [React Europe](https://www.react-europe.org/) | France | - | PASSED | - | JS |
+|16 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
+|17 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
+|18 | [Hackference India ](https://hackference.in/) | India | No | PASSED | - |
+|19 | [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | PASSED | - | Lectures, Trainings, Community Activities |
+|20 | [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
+
 
 
 ## Data Science Conferences in 2019 and 2020
