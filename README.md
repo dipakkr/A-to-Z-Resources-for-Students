@@ -1029,6 +1029,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
       - [Kaggle Learn](https://www.kaggle.com/learn/overview)
       - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
+      - [Towards AI](https://towardsai.net/)
+      - [Analytics Vidhya](https://www.analyticsvidhya.com/)
+      - [Towards Data Science](https://towardsdatascience.com/)
+      - [Real Python](https://realpython.com/tutorials/data-science/)
+      - [Edureka](https://www.edureka.co/blog/category/data-science/)
+      - [KD nuggets](https://www.kdnuggets.com/)
+      - [Elements of AI](https://www.elementsofai.com/)
+      - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
