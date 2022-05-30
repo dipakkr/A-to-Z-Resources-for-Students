@@ -717,7 +717,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 7. Hackathon at the NS [Netherlands](https://werkenbijns.nl/hackathon/)
 8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-9. [Codementor Events]((https://www.codementor.io/events))
+9. [Codementor Events]((https://www.codementor.io/events)) [ Global ]
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
