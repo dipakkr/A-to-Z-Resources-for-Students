@@ -492,6 +492,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+ - [Scaler Topics](https://www.scaler.com/topics/c/)
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
