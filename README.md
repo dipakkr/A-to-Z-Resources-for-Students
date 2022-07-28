@@ -122,6 +122,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [ Finxter Learn, Train and get feedback ](https://finxter.com/)
     - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
+    - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
+    - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
 
 
 -  **Best GitHub Repositories to follow**
@@ -142,6 +144,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
   
 
 -  **Best GitHub Repositories to follow**
@@ -315,6 +318,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
     - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
     - [CSS Grid Garden Game](https://cssgridgarden.com/)
+    - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
 
 - **Bootstrap4**
 
@@ -357,7 +361,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
     - [RegexOne | Regular Expression course](https://regexone.com/)
     - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
-
+    - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
 
 - **JavaScript Frameworks**
 
@@ -492,6 +496,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+ - [C Interview Questions](https://www.interviewbit.com/c-interview-questions/)
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -504,6 +509,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
  - [Software Design Using C++](https://cis.stvincent.edu/html/tutorials/swd/)
+ - [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions/)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -519,6 +525,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Git - Progate](https://progate.com/languages/git) 
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
  - [Git training](https://intellipaat.com/git-github-training/)
+ - [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
 
 
 ## 1.12 R Language
@@ -554,6 +561,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/pt-br/design-patterns)
 - [Learn C# | Tutlane](https://www.tutlane.com/tutorial/csharp)
+- [C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ## 1.17 DevDocs
 
@@ -565,6 +573,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Free Course on Youtube](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
 - [Paid Docker Course on udemy](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 - [Docker Cheat Sheet](https://gist.github.com/Nairit11/59d7ef2beca03b6a770e4c278e4b4aa9)
+- [Docker-InterviewBit](https://www.interviewbit.com/docker-interview-questions/)
 
 ## 1.19 Microsoft Technologies
 
@@ -600,6 +609,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Basic Tools]() Tools Like : Text Editor (Visual Studio Code), Terminal(hyper), Design(Figma).
  - [HTML](https://www.youtube.com/watch?v=XiQ9rjaa2Ow) Best Practices, Semantic HTML, Forms & Validations, Accessibility, SEO.
  - [CSS](https://www.youtube.com/watch?v=Tfjd5yzCaxk) [Flexbox](https://www.youtube.com/watch?v=qqDH0T6K5gY), [CSS Grid](https://www.youtube.com/watch?v=BDOzg4lXcSg), Custom Properties,[Animations/Transitions](https://animejs.com/), Responsive Design, CSS Preprocessor, Modern CSS, CSS Frameworks [Tailwind CSS](https://tailwindcss.com/),[Bootstrap](https://getbootstrap.com/).
+ - [Full Stack Developer](https://www.interviewbit.com/full-stack-developer-interview-questions/)
  ## Front-End Starts
  - [JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
  - [TypeScript](https://www.youtube.com/watch?v=ahCwqrYpIuM)
@@ -1040,6 +1050,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [KD nuggets](https://www.kdnuggets.com/)
       - [Elements of AI](https://www.elementsofai.com/)
       - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+      - [Data Science-InterviewBit](https://www.interviewbit.com/data-science-interview-questions/)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
