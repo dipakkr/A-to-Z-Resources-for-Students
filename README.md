@@ -259,6 +259,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [PHP Internals Book](http://www.phpinternalsbook.com/)
     - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
     - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [Learn PHP ](https://www.interviewbit.com/blog/php-developer/)
 
 - **Ruby**
     - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
