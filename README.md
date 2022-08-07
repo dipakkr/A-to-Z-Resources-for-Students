@@ -527,6 +527,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
  - [Git training](https://intellipaat.com/git-github-training/)
  - [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
+ - [Git vs Github](https://www.interviewbit.com/blog/git-vs-github/)
 
 
 ## 1.12 R Language
