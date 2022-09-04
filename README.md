@@ -495,6 +495,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Programiz](https://www.programiz.com/c-programming)
  - [Fresh2Refresh](https://fresh2refresh.com/c-programming/)
  - [Learn C](https://www.learn-c.org/)
+ - [C Tutorial](https://www.scaler.com/topics/c)
  - [Randu](https://randu.org/tutorials/c/)
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
