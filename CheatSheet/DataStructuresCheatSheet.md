@@ -1,6 +1,7 @@
 ## Data Structures Cheat Sheet
 _Best way to learn any data structure is to read about it first, understand it and then dive into solving problems using that data structure! and the last part practice and practice_
 
+-->> Learn DSA by https://libgen.rs/book/index.php?md5=FD8631D3830BFA7A3D2D305A99A011F2
 ### Big O Efficiency
 - [Space and Time Big-O complexities of common algorithms used in Computer Science](http://bigocheatsheet.com/)
 ### Segment Tree
