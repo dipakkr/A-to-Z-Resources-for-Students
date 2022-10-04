@@ -1,9 +1,6 @@
-#Vatsal-Verma
-
-
 # RESEARCH INTERNSHIPS FOR UNDERGRADUATE AND GRADUATE STUDENTS 
 
-# INDIA:
+## INDIA:
 1. SURGE, IIT Kanpur (http://surge.iitk.ac.in/)
 
 2. SPARK, IIT Roorkee (http://spark.iitr.ac.in/)
@@ -24,7 +21,7 @@
 (https://www.cmeri.res.in/notice-regarding-summer-internship…)
  
  
-# INTERNATIONAL:
+## INTERNATIONAL:
 
 1. DAAD WISE Research internships in Germany (highly CGPA centric)
 (https://www2.daad.de/…/date…/en/21148-scholarship-database/…)
@@ -60,7 +57,7 @@
 16. CalTech Surf Program, USA, {improbable}
 (https://www.sfp.caltech.edu/progr…/…/application_information)
  
-# OTHERS:
+## OTHERS:
 
 1. NIMS Japan, (https://www.nims.go.jp/eng/hr-development/internship.html) [Materials Science]
 
