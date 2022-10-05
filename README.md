@@ -320,6 +320,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
     - [CSS Grid Garden Game](https://cssgridgarden.com/)
     - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
+    - [CSS Tricks](https://css-tricks.com/guides/)
+    - [100 days CSS](https://100dayscss.com/)
 
 - **Bootstrap4**
 
