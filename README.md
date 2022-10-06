@@ -44,6 +44,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Programming Notes for Professionals](#121-programming-notes-for-professionals)
      - [MATLAB/Octave](#122-matlaboctave)
      - [Go Language](#123-go-language)
+     - [Kotlin](#124-kotlin-language)
 
 2.  [Hackathons and Events](#2-hackathons-and-events)
      - [Top Global Hackathons](#21-top-global-hackathons-)
@@ -642,6 +643,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
 
+
+## 1.24 Kotlin Language
+- [Kotlin Basics](https://hyperskill.org/tracks/18?category=5) :baby:
 ---
 
 
