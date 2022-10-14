@@ -821,14 +821,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
 1. [Teach for India Fellowship](https://apply.teachforindia.org/)
-2. [Young India Fellowship]()
+2. [Young India Fellowship](https://www.ashoka.edu.in/academic-programme/young-india-fellowship/)
 3. [Urban Leaders Fellowship](http://www.urbanleadersfellowship.org/)
-4. [Facebook fellowship Program - **Only For PHD Scholars**]()
+4. [Facebook fellowship Program - **Only For PHD Scholars**](https://research.facebook.com/fellowship/)
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
-6. [Prime Minister’s Rural Fellowship]()
+6. [Prime Minister’s Rural Fellowship](https://www.indiafilings.com/learn/prime-ministers-rural-development-fellowship/)
 7. [Azim Premji Foundation Fellowship Program]()
-8. [Stanford-ABC News Global Health and Media Fellowship]()
-
+8. [Stanford-ABC News Global Health and Media Fellowship](https://globalhealth.stanford.edu/programs/media-fellowship/)
+9. [MLH Fellowship](https://fellowship.mlh.io/)
+10. [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ## Scholarships :runner:
 1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
