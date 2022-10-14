@@ -115,6 +115,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 	- [Python 3 for humans that want practical project exposure](https://pythonprogramming.net/)
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+	- [Learn Python Programming](https://www.scaler.com/topics/python/)
 	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
 	- [ Python  Course by IIT M | You Tube ](https://www.youtube.com/watch?v=8ndsDXohLMQ&list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
