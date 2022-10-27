@@ -515,6 +515,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [C++ Class | Google for Education ](https://developers.google.com/edu/c++/)
  - [Tutorials Point](https://www.tutorialspoint.com/cplusplus/)
  - [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+ - [C++ Tutorial](https://www.scaler.com/topics/cpp/)
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
  - [Software Design Using C++](https://cis.stvincent.edu/html/tutorials/swd/)
  - [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions/)
