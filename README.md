@@ -288,6 +288,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 1.6 Frontend Web Development
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
+- [Frontend Masters Bootcamp **Free**](https://frontendmasters.com/bootcamp/) :money_mouth_face:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
