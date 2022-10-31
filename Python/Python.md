@@ -52,6 +52,7 @@
 ## 6. Databases
 
 + <a href = "https://www.geeksforgeeks.org/mysqldb-connection-python/"> Mysql-Python Introduction with connection method</a>
++ <a href = "https://www.geeksforgeeks.org/postgresql-connecting-to-the-database-using-python/">PostgreSQL and Python</a>
 + <a href = "https://www.geeksforgeeks.org/mongodb-and-python/">MongoDB and Python</a>
 + <a href = "https://www.geeksforgeeks.org/mongodb-python-insert-update-data/">MongoDB Insert and Update Data</a>
 + <a href = "https://www.geeksforgeeks.org/mongodb-python-insert-replace_one-replace_many/">Insert and Replace data MongoDB</a>
