@@ -563,6 +563,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.16 C# Language
 - [LearnCS](https://www.learncs.org)
+- [Learn C in Detail](https://www.scaler.com/topics/c/)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
 - [Learn C# building a simple rpg](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
