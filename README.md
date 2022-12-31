@@ -798,7 +798,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
 19. [Codementor for Students](https://www.codementor.io/students)
 20. [Geeksforgeeks Campus Ambassador Program](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
-
+21. [Coding Ninjas( Ninja Entrepreneur Program)](https://learning.codingninjas.com/campus/)
 
 ## Student Benefits and Packs :v:
 1. [GitHub Student Developer Pack - Free Resources for Students](https://education.github.com/pack)
@@ -870,6 +870,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |9| [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 |10| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 |11| [GSSOC(GirlScript Summer of Code)](https://gssoc.girlscript.tech/)| GirlScript Foundation | For top 50 | - | - |
+|!2| [Social winter of code(SWOC)](https://swoc.getsocialnow.co/)| Social Foundation | Yes | - | - |
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
