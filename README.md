@@ -798,7 +798,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
 19. [Codementor for Students](https://www.codementor.io/students)
 20. [Geeksforgeeks Campus Ambassador Program](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/)
-21. [Coding Ninjas( Ninja Entrepreneur Program)](https://learning.codingninjas.com/campus/)
+21. [Coding Ninjas( Ninja Entrepreneur Program)](https://learning.codingninjas.com/campus/)  
 
 
 ## Student Benefits and Packs :v:
