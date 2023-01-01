@@ -870,7 +870,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |9| [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
 |10| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 |11| [GSSOC(GirlScript Summer of Code)](https://gssoc.girlscript.tech/)| GirlScript Foundation | For top 50 | - | - |
-|!2| [Social winter of code(SWOC)](https://swoc.getsocialnow.co/)| Social Foundation | Yes | - | - |
+|12| [Social winter of code(SWOC)](https://swoc.getsocialnow.co/)| Social Foundation | Yes | - | - |
 
 > **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
 
