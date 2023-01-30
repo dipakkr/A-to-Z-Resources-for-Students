@@ -24,6 +24,8 @@
 + <a href = "https://www.tutlane.com/tutorial/python"> Learn Python - Tutlane</a>
 + <a href = "https://pythontutor.com/visualize.html#mode=edit"> Python Code Visuaizing Tool </a>
 + <a href = "https://www.scaler.com/topics/python"> Python Tutorial - Scaler Topics </a>
++ <a href = "https://www.interviewbit.com/python-cheat-sheet/"> Python Cheat Sheet</a>
+
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
