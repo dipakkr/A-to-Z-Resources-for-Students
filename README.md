@@ -182,6 +182,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Deep Learning | Fast.AI](http://course.fast.ai/)
     - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
+    - [Deep Learning Interview Questions and Answers (2023)](https://www.adaface.com/blog/deep-learning-interview-questions/)
 
 -  **Best Online Books**
     - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
