@@ -463,6 +463,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons to take part in challenges
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
     - [Scaler Topics](https://www.scaler.com/topics/) -  Platform to access free Resouces to coding tutorials
+    - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for students.
 
 - **Tutorials & Practice**
     - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
