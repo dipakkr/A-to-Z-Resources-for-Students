@@ -126,6 +126,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
     - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
     - [Python Cheat Sheet] (https://www.interviewbit.com/python-cheat-sheet/)
+    - [Python Language and Syntax Cheat Sheet] (![image](https://user-images.githubusercontent.com/84919650/227742970-7507ef1e-01fa-4e7e-a448-e0d587bb0769.png)
 
 
 -  **Best GitHub Repositories to follow**
@@ -290,6 +291,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
+- [How to become a Frontend Developer](![image](https://user-images.githubusercontent.com/84919650/227743259-9d38c3fa-36fe-4abb-9684-69608806e210.png))
+
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
     (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
@@ -311,6 +314,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
     - [CSS Grid](https://cssgrid.io/)
     - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [CSS Basic Cheatsheet](![image](https://user-images.githubusercontent.com/84919650/227743321-96c328b5-1378-42b1-8613-cc0fd1e1962e.png))
     - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
     - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
     - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
@@ -325,6 +329,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
     - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)
     - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)
+    - [Best HTML and CSS Cheat Sheets](https://cssauthor.com/html-and-css-cheat-sheets/)
 
 - **Bootstrap4**
 
