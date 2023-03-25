@@ -125,8 +125,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
     - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
     - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
-    - [Python Cheat Sheet] (https://www.interviewbit.com/python-cheat-sheet/)
-    - [Python Language and Syntax Cheat Sheet] (https://user-images.githubusercontent.com/84919650/227742970-7507ef1e-01fa-4e7e-a448-e0d587bb0769.png)
+    - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)
+    - [Python Language and Syntax Cheat Sheet](https://user-images.githubusercontent.com/84919650/227742970-7507ef1e-01fa-4e7e-a448-e0d587bb0769.png)
 
 
 -  **Best GitHub Repositories to follow**
@@ -291,7 +291,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
-- [How to become a Frontend Developer](![image](https://user-images.githubusercontent.com/84919650/227743259-9d38c3fa-36fe-4abb-9684-69608806e210.png))
+- [How to become a Frontend Developer](https://user-images.githubusercontent.com/84919650/227743259-9d38c3fa-36fe-4abb-9684-69608806e210.png)
 
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
