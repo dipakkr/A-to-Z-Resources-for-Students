@@ -587,6 +587,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Docker Cheat Sheet](https://gist.github.com/Nairit11/59d7ef2beca03b6a770e4c278e4b4aa9)
 - [Docker-InterviewBit](https://www.interviewbit.com/docker-interview-questions/)
 - [Docker Overview](https://docs.docker.com/get-started/overview/)
+- [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
 
 
 ## 1.19 Microsoft Technologies
