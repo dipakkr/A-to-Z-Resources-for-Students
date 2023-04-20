@@ -148,6 +148,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
     - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
+    - [Machine Learning Tutorial | Scaler Topics](https://www.scaler.com/topics/machine-learning/)
   
 
 -  **Best GitHub Repositories to follow**
@@ -229,6 +230,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [SimpleIsBetterThanComplex Blog](https://simpleisbetterthancomplex.com/)
     - [Tango With Django Book](https://www.tangowithdjango.com/book/)
     - [Django Class-Based Views](https://ccbv.co.uk/)
+    - [Django Tutorial | Scaler Topics](https://www.scaler.com/topics/django/)
 
 -  **Flask - Python**
      - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) :baby: + Intermediate
@@ -247,6 +249,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [What You Need To Know About Node.js](https://www.packtpub.com/free-ebooks/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
     - [Learn Node.js | Tutlane](https://www.tutlane.com/tutorial/nodejs)
+    - [Learn Node.js | Scaler Topics](https://www.scaler.com/topics/nodejs/)
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
@@ -374,6 +377,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
     - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
     - [JavaScript CheatSheet](https://www.interviewbit.com/javascript-cheat-sheet/)
+    - [JavaScript Tutorial | Scaler Topics](https://www.scaler.com/topics/javascript/)
 
 - **JavaScript Frameworks**
 
@@ -543,6 +547,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Git training](https://intellipaat.com/git-github-training/)
  - [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
  - [Git vs Github](https://www.interviewbit.com/blog/git-vs-github/)
+ - [Git Tutorial | Scaler Topics](https://www.scaler.com/topics/git/)
+ - [An Introduction to Github](https://www.scaler.com/topics/what-is-github/)
+ - [Git Vs Github by Scaler Topics](https://www.scaler.com/topics/git-vs-github/)
 
 
 ## 1.12 R Language
