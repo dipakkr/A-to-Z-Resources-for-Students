@@ -389,6 +389,8 @@ Instructions :
 | 356 | **Aditya Mehta** | India | Mechanical Engineering Student | [Github](https://github.com/adimehta03) - [LinkedIn](https://www.linkedin.com/in/aditya-mehta-414b67195/) |
 | 356 | **Manoj Sadanala** | India | Electrical And Communication Engineering Student | [Github](https://github.com/DarkHunter1749) - [LinkedIn](https://www.linkedin.com/in/manoj-parasuram-sadhanala-29042004/) |
 | 357 | **Lindsay Shelton** | USA | Application Programmer | [Github](https://github.com/lsheltonSTO) - [LinkedIn](https://www.linkedin.com/in/lindsaytshelton/) |
+| 358 | **Aleksander Gomez** | USA | Computer Science Student | [Github](https://github.com/CoffeeTulip) - [LinkedIn](https://www.linkedin.com/in/aleksander-gomez-981aaa249/) |
+
 
 
 
