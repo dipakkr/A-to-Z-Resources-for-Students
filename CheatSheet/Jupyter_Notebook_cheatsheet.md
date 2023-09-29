@@ -13,7 +13,7 @@ Use the number sign (#) followed by a blank space for notebook titles and sectio
 #### for 4th level subheadings
 
 # Emphasis
-Use the following code to emphasize text:
+## Use the following code to emphasize text:
 1. Bold text: __string__ or **string**
 2. Italic text: _string_ or *string*
 
