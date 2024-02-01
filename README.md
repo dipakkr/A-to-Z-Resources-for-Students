@@ -428,6 +428,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Getting started with VueJS 2](https://www.youtube.com/watch?v=nyJSd6V2DRI)
         - [Vue.js News](https://news.vuejs.org/)
         - [Vue.js Showcase - Made With Vue.js](https://madewithvuejs.com/)
+        - [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) :free:
 
     - **Web Accessibility**
         - [Accessibility MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
