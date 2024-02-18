@@ -60,7 +60,7 @@
 
 ###### Node js 
   - [Newsletter]() Begineer Friendly Project to boots up your APIs Knowledge
-  - [Weather App](https://github.com/Wilson0406/Weather-App)
+  - [Weather App](https://github.com/Wilson0406/Weather-App) Day-to-day weather update application.
 
 ###### JavaScript
   -  [Brain-Game](https://github.com/CODXZAHEER/Brain-Game) Its a Game Simon. To Creating this Game you only Need to know about JavaScript Basics.
