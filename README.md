@@ -1089,6 +1089,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       -  [The Hustle](https://thehustle.co/)
 3.  **Computer science in general**
       -  [All about computer science](https://www.computerscience.org/)
+      -  [CompSciLib - 24/7 CS & Math Tutor](https://www.compscilib.com/)
 
 # 11. Top 50 YouTube Channels to Follow
 
