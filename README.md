@@ -1082,6 +1082,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [Elements of AI](https://www.elementsofai.com/)
       - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
       - [Data Science-InterviewBit](https://www.interviewbit.com/data-science-interview-questions/)
+      - [Data Science-Applied AI](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
