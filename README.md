@@ -128,6 +128,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)
     - [Python Language and Syntax Cheat Sheet](https://user-images.githubusercontent.com/84919650/227742970-7507ef1e-01fa-4e7e-a448-e0d587bb0769.png)
     - [Python Tutorial: A Comprehensive Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/)
+    - [Python Skill Tree | LabEx](https://labex.io/skilltrees/python)
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
@@ -281,6 +282,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
+    - [MongoDB Skill Tree](https://labex.io/skilltrees/mongodb)
     - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Free Courses and Paid Private training](https://university.mongodb.com/)
     - [Understanding Mongoose Deep Population](http://frontendcollisionblog.com/mongodb/2016/01/24/mongoose-populate.html)
@@ -379,6 +381,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
     - [JavaScript CheatSheet](https://www.interviewbit.com/javascript-cheat-sheet/)
     - [JavaScript Tutorial | Scaler Topics](https://www.scaler.com/topics/javascript/)
+    - [500 JavaScript Practice Labs](https://github.com/labex-labs/javascript-practice-labs)
 
 - **JavaScript Frameworks**
 
@@ -518,6 +521,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [W3Schools](https://www.w3schools.in/c-tutorial/)
  - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
  - [C Interview Questions](https://www.interviewbit.com/c-interview-questions/)
+ - [C Skill Tree](https://labex.io/skilltrees/c)
 
 ## 1.10 C++ Language
  - [HackerRank](https://www.hackerrank.com/domains/cpp)
@@ -532,6 +536,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [C++ For Programmers | Udacity](https://in.udacity.com/course/c-for-programmers--ud210)
  - [Software Design Using C++](https://cis.stvincent.edu/html/tutorials/swd/)
  - [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions/)
+ - [C++ Skill Tree](https://labex.io/skilltrees/cpp)
 
  ## 1.11 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -552,6 +557,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [Git Tutorial | Scaler Topics](https://www.scaler.com/topics/git/)
  - [An Introduction to Github](https://www.scaler.com/topics/what-is-github/)
  - [Git Vs Github by Scaler Topics](https://www.scaler.com/topics/git-vs-github/)
+ - [Git Skill Tree](https://labex.io/skilltrees/git)
 
 
 ## 1.12 R Language
@@ -602,6 +608,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Docker-InterviewBit](https://www.interviewbit.com/docker-interview-questions/)
 - [Docker Overview](https://docs.docker.com/get-started/overview/)
 - [Docker Tutorial for Beginners – Introduction & Getting Started](https://spacelift.io/blog/docker-tutorial)
+- [Docker Hands-on Labs](https://labex.io/skilltrees/docker)
 
 
 ## 1.19 Microsoft Technologies
@@ -667,6 +674,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Go,Progate](https://progate.com/languages/go)
 - [Go lang Tutorial For Beginners,Edureka Youtube](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 - [Go by Example](https://gobyexample.com/)
+- [Go Hands-on Labs](https://labex.io/skilltrees/golang)
 
 ---
 
