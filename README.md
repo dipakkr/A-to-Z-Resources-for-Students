@@ -479,6 +479,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
     - [Scaler Topics](https://www.scaler.com/topics/) -  Platform to access free Resouces to coding tutorials
     - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for students.
+    - [OneCompiler](https://www.onecompiler.com/) - An online compiler supporting over 70 programming languages, perfect for running quick code snippets and practicing data structures.
 
 - **Tutorials & Practice**
     - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.

@@ -391,6 +391,7 @@ Instructions :
 | 357 | **Lindsay Shelton** | USA | Application Programmer | [Github](https://github.com/lsheltonSTO) - [LinkedIn](https://www.linkedin.com/in/lindsaytshelton/) |
 | 358 | **Aleksander Gomez** | USA | Computer Science Student | [Github](https://github.com/CoffeeTulip) - [LinkedIn](https://www.linkedin.com/in/aleksander-gomez-981aaa249/) |
 | 359 | **Ben Pasquariello** | USA | Education Marketing | [Github](https://github.com/Bintendo64)
+| 360 | **Om Pharate** | India | Computer Science Student | [Github](https://github.com/ompharate) - [LinkedIn](https://www.linkedin.com/in/ompharate11/) |
 
 
 
