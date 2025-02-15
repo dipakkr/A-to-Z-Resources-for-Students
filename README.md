@@ -1092,6 +1092,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
       - [Data Science-InterviewBit](https://www.interviewbit.com/data-science-interview-questions/)
       - [Data Science-Applied AI](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
+      - [Data Analyst as a career - Scaler Blogs](https://www.scaler.com/blog/is-data-analyst-a-good-career/)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
