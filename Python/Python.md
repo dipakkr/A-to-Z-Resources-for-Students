@@ -20,6 +20,12 @@
 + <a href = "https://bit.ly/2D3wHsf"> CS Dojo's Tips to write efficient code.</a>
 + <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
 + <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
++ <a href = "https://www.linkedin.com/learning/python-essential-training-2"> Python Essential Training - LinkedIn Learning</a>
++ <a href = "https://www.tutlane.com/tutorial/python"> Learn Python - Tutlane</a>
++ <a href = "https://pythontutor.com/visualize.html#mode=edit"> Python Code Visuaizing Tool </a>
++ <a href = "https://www.scaler.com/topics/python"> Python Tutorial - Scaler Topics </a>
++ <a href = "https://www.interviewbit.com/python-cheat-sheet/"> Python Cheat Sheet</a>
++ <a href = "https://wiingy.com/learn/python/python-tutorial/"> Python Tutorial: A Comprehensive Guide for Beginners</a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>

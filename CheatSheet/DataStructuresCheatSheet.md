@@ -38,3 +38,5 @@ _Best way to learn any data structure is to read about it first, understand it a
 
 **3.** [“Problem Solving with Algorithms and Data Structures using Python” By Brad Miller and David Ranum, Luther College.] 
 (https://interactivepython.org/runestone/static/pythonds/index.html)
+
+**4.**["Cracking the Coding Interview" by Gayle Laakmann.](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)

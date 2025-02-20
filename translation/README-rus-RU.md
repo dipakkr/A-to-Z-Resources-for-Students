@@ -294,7 +294,7 @@
 - **Книги**
     - [Соревновательное программрование - Феликс Халим и Стивен Халим](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf) 
     - [CLRS](https://mcdtu.files.wordpress.com/2017/03/introduction-to-algorithms-3rd-edition-sep-2010.pdf)  - **Библия для проектирования и анализа алгоритмов**
-    - [Проектирования алгоритмов - Кляйнберг Тардос](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **AЕще одна книга для понмиания алгоритмов**
+    - [Проектирования алгоритмов - Кляйнберг Тардос](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf) - **Еще одна книга для понмиания алгоритмов**
 - [Рефакторинг кода University - Github](https://github.com/jwasham/coding-interview-university) -  **Очень рекомендуется для изучения Структур данных и основ**
 - [Алгоритмы & Структуры данных в разных ЯП](https://github.com/ZoranPandovski/al-go-rithms)
 
@@ -783,13 +783,154 @@
       -  [ TechCrunch - Tech and Startup News](https://techcrunch.com/)
       -  [ProductHunt](https://producthunt.com)
 
-# 11. Дополнительные ссылки :hamster:
+# 11. Топ 50 YouTube каналов, на которые можно подписаться
 
-1. [Топ 10 стартапов в Индии](https://inc42.com/resources/top-20-startup-incubators-india/)
-2. [Первые 20 часов -- как выучить все, что угодно](https://www.youtube.com/watch?v=5MgBikgcWnY)
-3. [Вы интроверт? Сила интровертов ](https://www.youtube.com/watch?v=c0KYU2j0TM4)
-4. [30 международных стипендии в лучших университетах мира](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/)
-5. [30 знаменитых книг, обязательных к прочтению](https://bornrealist.com/famous-books/)
-6. [Стартап Идеи на Y Combinator](https://www.ycombinator.com/rfs/)
-7. [Epicodus программирование Bootcamp курс](https://www.learnhowtoprogram.com/tracks)
-8. [5 самых распространненых заблуждений об учебе заграницей](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/)
+## 11.1 Топ 10 о технологиях
+|Номер | Канал | Количество подписчиков |
+| --- | ------------- | ----- |
+|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
+|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
+|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
+|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M |
+|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M |
+|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K |
+|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M |
+|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M |
+|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M |
+|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K |
+
+---
+
+## 11.2 Топ 10 о стартапах
+|Номер | Канал | Количество подписчиков |
+| --- | -------------- | ------ |
+|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
+|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M |
+|3 | [На этой неделе в стартапах](https://www.youtube.com/user/ThisWeekIn/about) | 131K |
+|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|5 | [Как начать стартап](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K |
+|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K |
+|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K |
+|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K |
+|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K |
+|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K |
+
+---
+
+## 11.3 Топ 10 о дизайне
+|Номер | Канал | Количество подписчиков |
+| --- | -------------- | ----- |
+|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
+|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K |
+|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K |
+|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
+|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
+|6 | [Да, я дизайнер](https://www.youtube.com/user/perhiniak/about) | 191K |
+|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
+|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
+|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
+|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+
+---
+
+## 11.4 Топ 10 о бизнесе
+|Номер | Канал | Количество подписчиков |
+| --- | -------------- | ----- |
+|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
+|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
+|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
+|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
+|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
+|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
+|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
+|8 | [Форум молодых предпринимателей](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
+|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
+|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+
+---
+
+## 11.5 Топ 10 о финансах
+|Номер | Канал | Количество подписчиков |
+| --- | -------------- | ----- |
+|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
+|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
+|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
+|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
+|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
+|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
+|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
+|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
+|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
+|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
+
+---
+
+# 12. Дополнительные ссылки
+
+1. [Топ 10 стартап инкубаторов в Индии](https://inc42.com/resources/top-20-startup-incubators-india/) - *Стартап*
+2. [Первые 20 часов -- как выучить что угодно](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Обучение*
+3. [Вы интроверт? Посмотрите "Силу интровертов"](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Самосознание*
+4. [30 международных стипендий в лучших мировых университетах](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Стипендии*
+5. [30 известных книг, о прочтении которых вы не пожалеете!](https://bornrealist.com/famous-books/) - *Чтение*
+6. [Стартап идеи от Y Combinator](https://www.ycombinator.com/rfs/) - *Стартап*
+7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Обучение*
+8. [5 самых больших заблуждений об обучении заграницей среди индусов](https://www.wemakescholars.com/blog/common-misconceptions-about-studying-abroad/) *Обучение зарубежом*
+9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
+10. [Самостоятельное обучение в Computer Science](https://github.com/ossu/computer-science) - *Обучение*
+11. [Бесплатная программа менторства для женщин](https://www.builtbygirls.com/programs/wave) - *Обучение*
+
+
+# 13. Coding Bootcamps
+
+|Номер | Название | Обучение | Описание | Страна | 
+|--|------ |---| --- | ---- | 
+|1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | Нет входящей платы, 17.5% вашей зарплаты когда вы получаете работу | США |
+|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 года опыта как Software Dev, платите только когда получаете работу | США, Индия | 
+| 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 года опыта как Software Dev, платите 17.5 % зарплаты, когда получаете больше 15LPA | Индия |
+| 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | Опыт не требуется, 6 месяцев онлайн обучения, платите когда получаете работу | Индия |
+
+
+# 14. Разные ресурсы
+
+## 14.1 Ресурсы по дизайну
+
+- **Youtube каналы & плейлисты**
+    - [Beginners Guide to Graphic Design | 45 эпизодов](https://www.youtube.com/watch?v=WONZVnlam6U&list=PLYfCBK8IplO4E2sXtdKMVpKJZRBEoMvpn) *Playlist* :baby:
+    - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw) *Great tutorials for Logo Designing*
+    - [Dansky](https://www.youtube.com/user/ForeverDansky) *All about Graphic Designing*
+    - [DesignCourse](https://www.youtube.com/user/DesignCourse)
+    
+## 14.2 Подкасты
+
+- **Технологии**
+    - Code Newbie
+    - The Bike Shed
+    - Soft Skills Engineering
+    - Programming Throwdown
+    - Hanselminutes
+- **Стартапы и предпринимательство**
+    - StartUp
+    - How I Built This
+    - The Pitch
+    - The Growth Show
+    - Scrum master toolbox
+- **Жизнь**
+    - Unf*ck your brain
+    - By the Book
+    - Strength and Scotch
+    - Happier with Gretchen Rubin
+    - The Minimalists
+- **Другое**
+    - Tracks to Relax
+    - Unladylike
+
+## 15. Создано и поддерживается
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+----
+
+Привет, я рад видеть вас здесь. Я надеюсь, вы найдете мой проект полезным. Подписывайтесь на меня и делитесь в своей сети A2Z-Resources. 
+
+
+###  **Deepak Kumar** -  [Twitter](https://twitter.com/diipakkr)     -  [Instagram](http://instagram.com/diipakkr)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/diipakkr.svg?style=social)](https://twitter.com/diipakkr)

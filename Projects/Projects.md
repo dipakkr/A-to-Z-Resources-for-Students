@@ -6,6 +6,7 @@
   - [Digit Recogniser](https://github.com/aashish-ak/CNN-from-Scratch)
   - [Machine Learning - Free](http://www.fast.ai/)
   - [Spam/Ham Classification model](https://github.com/suleka96/RNN-and-ML-models/blob/master/LSTM_Enron.py)
+  - [Movie Recommendation System](https://github.com/Wilson0406/Movie-Recommendation-System)
    
    2. Beginner Level: Practice Projects
        - [Bigmart Sales Data](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
@@ -57,11 +58,18 @@
 
 ## 7. Frontend Development
 
+###### Node js 
+  - [Newsletter]() Begineer Friendly Project to boots up your APIs Knowledge
+  - [Weather App](https://github.com/Wilson0406/Weather-App) Day-to-day weather update application.
+
 ###### JavaScript
+  -  [Brain-Game](https://github.com/CODXZAHEER/Brain-Game) Its a Game Simon. To Creating this Game you only Need to know about JavaScript Basics.
   -  [ExpressJS](http://sahatyalkabov.com/how-to-implement-password-reset-in-nodejs/)
   -  [Javascript 30](https://javascript30.com/) Provides a list of front end development projects along with their sourcecode.
 
-###### React  
+###### React 
+  - [Cloning Social media app] It will Help you to learn more new thing to add up your knowledge Use MERN stact for more Flexibilty.
+  - [E-commerce Website] Using MERN You can create a new E-commerce Web App.
   - [Realtime chat backed by Firebase API](https://github.com/sar-gupta/space)
   - [Weather app](https://github.com/pixelsinprogress/weather-app-2)
 
