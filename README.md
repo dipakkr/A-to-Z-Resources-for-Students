@@ -150,6 +150,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
     - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
     - [Machine Learning Tutorial | Scaler Topics](https://www.scaler.com/topics/machine-learning/)
+    - [Machine Learning Roadmap  | Scaler Blogs](https://www.scaler.com/blog/machine-learning-roadmap/)
   
 
 -  **Best GitHub Repositories to follow**
