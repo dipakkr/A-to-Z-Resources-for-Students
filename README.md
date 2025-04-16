@@ -850,6 +850,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 12. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
 13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
 14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
+15. [CloudCredits.io - Free credits for prototyping and building startups](https://cloudcredits.io)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
