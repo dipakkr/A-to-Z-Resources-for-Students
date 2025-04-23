@@ -1,5 +1,4 @@
-# What is ROS2?
-# ROS 2 (Robot Operating System 2)
+# What is ROS2(Robot Operating System 2)?
 
 ROS 2 is an open-source framework designed for building robot applications. It is the successor to the original ROS (Robot Operating System) and addresses many of the limitations of its predecessor.
 
