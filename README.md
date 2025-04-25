@@ -252,6 +252,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
     - [Learn Node.js | Tutlane](https://www.tutlane.com/tutorial/nodejs)
     - [Learn Node.js | Scaler Topics](https://www.scaler.com/topics/nodejs/)
+    
 
 - **PHP**
     - [PHP Manual](http://php.net/manual/en/index.php)
@@ -298,6 +299,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
 - [How to become a Frontend Developer](https://user-images.githubusercontent.com/84919650/227743259-9d38c3fa-36fe-4abb-9684-69608806e210.png)
+- [FreeCodeCamp Web Dev Course](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Learn HTML, CSS, JavaScript from scratch.
+
 
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
 - [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
