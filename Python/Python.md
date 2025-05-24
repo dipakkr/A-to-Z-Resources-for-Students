@@ -25,7 +25,7 @@
 + <a href = "https://pythontutor.com/visualize.html#mode=edit"> Python Code Visuaizing Tool </a>
 + <a href = "https://www.scaler.com/topics/python"> Python Tutorial - Scaler Topics </a>
 + <a href = "https://www.interviewbit.com/python-cheat-sheet/"> Python Cheat Sheet</a>
-+ <a href = "https://wiingy.com/learn/python/python-tutorial/"> Python Tutorial: A Comprehensive Guide for Beginners</a>
++ <a href = "https://wiingy.com/learn/python/python-overview/"> Python Tutorial: A Comprehensive Guide for Beginners</a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
@@ -104,5 +104,3 @@
 + <a href = "http://flask.pocoo.org/docs/1.0/"> Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
 + <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
 + <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
-
-
