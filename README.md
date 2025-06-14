@@ -1,7 +1,7 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
 
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
+If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/dipakkr_) and help it reach more people in the community. 
 
 
 [Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
@@ -20,13 +20,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
 
+     - [Frontend Web Development](#16-frontend-web-development)
+     - [Backend Development ](#15-backend-development)
+     - [Full-stack Web Development](#122-full-stack-web-development)
+     - [LLM](#13-large-language-models-llms)
      - [Python](#11-python)
      - [Machine Learning](#12-machine-learning)
      - [Deep Learning](#13-deep-learning)
      - [Android Development](#14-android-development)
-     - [Backend Development ](#15-backend-development)
-     - [Frontend Web Development](#16-frontend-web-development)
-     - [Full-stack Web Development](#122-full-stack-web-development)
      - [Data Structures](#17-data-structures) 
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
@@ -176,45 +177,110 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 -  **Book for Machine Learning**
     - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
 
+# 1.3 Large Language Models (LLMs)
+
+> [**Browse this link for detailed information on LLMs**](LLM/LLM.md)
+
+- **Best Online Courses**
+    - [CS25 - Transformers United | Stanford University](https://web.stanford.edu/class/cs25/)
+    - [LLMOps Specialization | DeepLearning.AI & AWS](https://www.deeplearning.ai/short-courses/llmops/)
+    - [Generative AI with LLMs | Coursera](https://www.coursera.org/learn/generative-ai-with-llms) - Select audit option if available
+    - [Large Language Models Bootcamp | Full Stack Deep Learning](https://fullstackdeeplearning.com/llm-bootcamp/)
+    - [LangChain for LLM Application Development | DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+    - [Intro to LLMs | Cohere](https://academy.cohere.com/)
+    - [LLM University by Weaviate](https://university.weaviate.io/)
+    - [Fine-Tuning LLMs | Hugging Face](https://huggingface.co/blog/fine-tune-transformers)
+    - [Transformers Course | Hugging Face](https://huggingface.co/course/chapter1)
+    - [Prompt Engineering for Developers | OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
+    - [Mastering LLMs | YouTube (AssemblyAI)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+- **Best GitHub Repositories to Follow**
+    - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
+    - [LLM Course Materials | Full Stack Deep Learning](https://github.com/fullstackdeeplearning/llm-bootcamp)
+    - [LLM University (Free Curriculum)](https://github.com/weaviate/llm-university)
+    - [LLM Papers and Tools](https://github.com/Mooler0410/LLMsPracticalGuide)
+    - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+    - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+
+- **Research Papers**
+    - [Arxiv - LLM Category](https://arxiv.org/search/cs?query=large+language+model&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
+    - [OpenReview - LLM Papers](https://openreview.net/)
+    - [Papers With Code – LLM](https://paperswithcode.com/task/language-modelling)
+    - [Anthropic Research](https://www.anthropic.com/research)
+    - [Google DeepMind Research](https://deepmind.google/research/)
+    - [Meta AI Papers](https://ai.meta.com/research/publications/)
+
+- **Tools and Playgrounds to Test LLMs**
+    - [OpenAI Playground](https://platform.openai.com/playground)
+    - [Hugging Face Inference Playground](https://huggingface.co/models)
+    - [Replicate](https://replicate.com/)
+    - [Google AI Studio (Gemini)](https://makersuite.google.com/)
+    - [Anthropic Console (Claude)](https://claude.ai/)
+    - [OpenRouter (Multi-LLM API Playground)](https://openrouter.ai/)
+    - [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain)
+
+
 
 ## 1.3 Deep Learning
 
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) - Select individual course if it consists of multiple then click on audit below the trial/payment options
-    - [Deep Learning | Fast.AI](http://course.fast.ai/)
-    - [Deep Learning | Kaggle](https://www.kaggle.com/learn/deep-learning/)
-    - [Deep Learning Interview Questions and Answers (2023)](https://www.adaface.com/blog/deep-learning-interview-questions/)
+    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) – Andrew Ng’s flagship series; free to audit
+    - [Practical Deep Learning for Coders | Fast.AI](https://course.fast.ai/)
+    - [Deep Learning with PyTorch | Coursera (by IBM)](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
+    - [TensorFlow Developer Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+    - [Deep Learning A-Z | Udemy](https://www.udemy.com/course/deeplearning/) – :heavy_dollar_sign:
 
 -  **Best Online Books**
-    - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-    - [An MIT Press book](http://www.deeplearningbook.org/)
+    - [Neural Networks and Deep Learning | Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+    - [Dive into Deep Learning (D2L)](https://d2l.ai/)
+    - [Deep Learning with Python (2nd Edition) | François Chollet](https://www.manning.com/books/deep-learning-with-python-second-edition) – :heavy_dollar_sign:
+    - [Mathematical Introduction to Deep Learning](https://arxiv.org/abs/2103.11201)
 
 -  **Best GitHub Repositories to follow**
-    - [Top 200 GitHub Repos in Deep learning](https://github.com/mbadry1/Top-Deep-Learning)
-    - [DensePose - FB Research](https://github.com/facebookresearch/DensePose)
-    - [Data Science HandBook](https://github.com/jakevdp/PythonDataScienceHandbook)
+    - [Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning)
+    - [DensePose - Facebook Research](https://github.com/facebookresearch/DensePose)
+    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
     - [Tensorflow Project Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
-    - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
-    - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
-    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) :star:
+    - [Caire - Content Aware Image Resize](https://github.com/esimov/caire)
+    - [Learn Deep Learning in 6 Weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
+
+-  **Certifications & Toolkits**
+    - [NVIDIA Deep Learning Institute (DLI)](https://developer.nvidia.com/dli)
+    - [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+    - [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
 
 
 ## 1.4 Android Development
 
- >  [Checkout the Full Resources on ANDROID](Android/Android.md) :baby:
+> [**Checkout the Full Resources on ANDROID**](Android/Android.md) :baby:
 
--  [Free courses & Nanodegree | Udacity](https://udacity.com)
--  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
--  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
--  [Google Android Codelabs](https://codelabs.developers.google.com/)
--  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
--  [Android examples ](https://github.com/nisrulz/android-examples)
--  [Flutter Examples ](https://github.com/nisrulz/flutter-examples)
--  [Pathway to Follow ](https://roadmap.sh/android)
--  [Learn Android Programming | Tutlane](https://www.tutlane.com/tutorial/android)
+-  **Best Online Courses & Paths**
+    - [Free Android Development Courses | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+    - [Associate Android Developer Certification Path | GitHub](https://github.com/Amejia481/Associate-Android-Developer-Certification)
+    - [Android Developer Roadmap | roadmap.sh](https://roadmap.sh/android)
+    - [Build Your First App | Android Developers](https://developer.android.com/training/basics/firstapp)
+    - [Android Basics with Compose | Google](https://developer.android.com/courses/android-basics-compose/course)
+    - [Kotlin for Android Developers | Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+    - [PluralSight – Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
+
+-  **Hands-on Practice**
+    - [Google Android Codelabs](https://codelabs.developers.google.com/)
+    - [Android Examples | GitHub](https://github.com/nisrulz/android-examples)
+    - [Android Projects | GitHub](https://github.com/android)
+
+-  **Flutter Resources**
+    - [Flutter Widget Tour](https://flutter.io/widgets-intro/)
+    - [Flutter Codelabs | Google](https://flutter.dev/docs/codelabs)
+    - [Flutter Examples | GitHub](https://github.com/nisrulz/flutter-examples)
+
+-  **Learning Resources**
+    - [Learn Android Programming | Tutlane](https://www.tutlane.com/tutorial/android)
+    - [Official Android Developer Docs](https://developer.android.com/docs)
+    - [Jetpack Compose Pathway | Google](https://developer.android.com/jetpack/compose/tutorial)
 
 
 
@@ -295,58 +361,28 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 1.6 Frontend Web Development
 
-- [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
+- [Scrimba](https://scrimba.com/learn/frontend)
 - [Frontend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/faa0ec253021944ef15fe0872673f7e42102d7e9/img/frontend.png)
-- [How to become a Frontend Developer](https://user-images.githubusercontent.com/84919650/227743259-9d38c3fa-36fe-4abb-9684-69608806e210.png)
 - [FreeCodeCamp Web Dev Course](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Learn HTML, CSS, JavaScript from scratch.
-
-
+- [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 - [Frontend Mentor **FREE**](https://www.frontendmentor.io/)
-- [General Assembly Dash **FREE**](https://dash.generalassemb.ly/)
-    (General Assembly Dash currently works best in Microsoft Edge as of 10-2018)
 
 - **HTML5 and CSS3**
-    - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
-    - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-    - [Intro to HTML and CSS | Udacity](https://in.udacity.com/course/intro-to-html-and-css--ud001-india)
-    - [Write quicker HTML5 and CSS 3 | Learn Code Online](https://courses.learncodeonline.in/learn/emmet-course?)
-    - [Flexbox Interactive](https://codepen.io/enxaneta/full/adLPwv)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
-    - [Interneting is Hard](https://internetingishard.com/html-and-css/)
-    - [HTML MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-    - [CSS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-    - [Codrops CSS Reference](https://tympanus.net/codrops/css_reference/)
-    - [The Odin Project](https://www.theodinproject.com/)
-    - [HTML Dog Tutorials](http://www.htmldog.com/guides/)
-    - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
-    - [CSS Grid](https://cssgrid.io/)
-    - [CSS Flexbox | Wes Bos](https://flexbox.io/)
+    - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) - Comprehensive HTML learning
+    - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Comprehensive CSS learning
+    - [CSS Reference](https://cssreference.io/) - Visual guide to CSS
+    - [HTML Reference](https://htmlreference.io/) - Visual guide to HTML
+    - [CSS Grid](https://cssgrid.io/) - Learn CSS Grid with Wes Bos
+    - [CSS Flexbox](https://flexbox.io/) - Learn Flexbox with Wes Bos
+    - [Flexbox Froggy](https://flexboxfroggy.com/) - Interactive Flexbox learning game
+    - [Grid Garden](https://cssgridgarden.com/) - Interactive Grid learning game
     - [CSS Basic Cheatsheet](https://user-images.githubusercontent.com/84919650/227743321-96c328b5-1378-42b1-8613-cc0fd1e1962e.png)
-    - [CSS-The Complete Guide (incl. Flexbox, Grid & Sass)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) (**Udemy Paid**) *Good for beginners*
-    - [Advanced CSS and SASS](https://www.udemy.com/advanced-css-and-sass) - **(Udemy Paid)**
-    - [flexbox cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html)
-    - [Flexbox Froggy | CSS Learning Game](https://flexboxfroggy.com/)
-    - [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
-    - [CSS Reference: A Visual CSS Cheat Sheet](https://cssreference.io/) *Good for beginners*
-    - [HTML Reference: A Visual HTML Cheat Sheet](https://htmlreference.io/) *Good for beginners*
-    - [Learn to Code HTML & CSS: Shay Howe ](https://learn.shayhowe.com/html-css/)
-    - [BitDegree-Learn HTML](https://bitdegree.org/learn/html-basics)
-    - [BitDegree-Learn CSS](https://bitdegree.org/learn/css-basics)
-    - [CSS Grid Garden Game](https://cssgridgarden.com/)
-    - [HTML & HTML5](https://www.interviewbit.com/html-interview-questions/)
-    - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)
-    - [CSS Cheat Sheet](https://www.interviewbit.com/css-cheat-sheet/)
-    - [Best HTML and CSS Cheat Sheets](https://cssauthor.com/html-and-css-cheat-sheets/)
-
-- **Bootstrap4**
-
-    - [Bootstrap4 Course with Projects | Learn Code Online](https://courses.learncodeonline.in/learn/Complete-Bootstrap-4-course?)
-    - [BitDegree-BootStrap 4](https://bitdegree.org/learn/bootstrap-css)
-	- [Bootstrap4 Tutorial for beginners](https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
-	- [Bootstrap4 blog top](https://coursetro.com/posts/code/130/Learn-Bootstrap-4-Final-in-2018-with-our-Free-Crash-Course)
-	- [Bootstrap4 Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-	- [Learn Bootstrap4 | Tutlane](https://www.tutlane.com/tutorial/bootstrap)
+    
+    **Courses & Tutorials**
+    - [Interneting is Hard](https://internetingishard.com/html-and-css/) - Friendly web development tutorials
+    - [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Shay Howe's beginner guide
+    - [CSS - The Complete Guide](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) :heavy_dollar_sign:
+    - [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass) :heavy_dollar_sign:
 
 - **Bootstrap 5**
 
@@ -356,35 +392,25 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-    - [javascript info](https://javascript.info/)
-    - [Javascript30 | Wes Bos](https://javascript30.com/)
-    - [Intro to JavaScript | Udacity](https://in.udacity.com/course/intro-to-javascript--ud803-india)
-    - [JavaScript Docs and Live examples](https://www.w3schools.com/js/)
-    - [JavaScript: Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
-    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
-    - [You Don’t Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
+    - [javascript.info](https://javascript.info/) - Modern JavaScript Tutorial
+    - [Javascript30 | Wes Bos](https://javascript30.com/) - 30 Day Vanilla JS Challenge
+    - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
     - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
-    - [JavaScript Design Patterns | Udacity](https://in.udacity.com/course/javascript-design-patterns--ud989)
-    - [Theodinproject](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
-    - [Introduction to JavaScript | freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
-    - [HTML Dog](http://www.htmldog.com/guides/javascript/)
-    - [Javascript Tutorial for Beginner Complete Course 2018 | YouTube](https://www.youtube.com/watch?v=PwsigsH4oXw)
+    - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
     - [33 JS concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
-    - [30 Seconds of Code](https://30secondsofcode.org/)
-    - [example.js | js by example | CodePen ](https://codepen.io/towc/post/examplejs-1-1)
-    - [Foundations of Programming in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) :baby:
-    - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-    - [BitDegree-JS Basics](https://bitdegree.org/learn/javascript-basics)
-    - [Wes Bos list of courses](https://wesbos.com/courses/)
-    - [freeCodeCamp](https://www.freecodecamp.org/)
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) :baby:
+    - [30 Seconds of Code](https://30secondsofcode.org/) - Short code snippets for all your development needs
+    - [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - By Addy Osmani
     - [ES6 Cheatsheet](https://es6cheatsheet.com/)
-    - [RegexOne | Regular Expression course](https://regexone.com/)
-    - [Dmitry Soshnikov's blog | A blog about JavaScript](http://dmitrysoshnikov.com/)
+    - [RegexOne](https://regexone.com/) - Learn Regular Expressions
     - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
-    - [JavaScript CheatSheet](https://www.interviewbit.com/javascript-cheat-sheet/)
-    - [JavaScript Tutorial | Scaler Topics](https://www.scaler.com/topics/javascript/)
     - [500 JavaScript Practice Labs](https://github.com/labex-labs/javascript-practice-labs)
+    
+    **Learning Platforms**
+    - [freeCodeCamp](https://www.freecodecamp.org/) - Interactive learning platform
+    - [Codecademy JavaScript Course](https://www.codecademy.com/learn/introduction-to-javascript)
+    - [The Odin Project](https://www.theodinproject.com/)
+    - [Wes Bos Courses](https://wesbos.com/courses/)
+    - [Frontend Masters](https://frontendmasters.com/) :heavy_dollar_sign:
 
 - **JavaScript Frameworks**
 
@@ -687,63 +713,50 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 2.1 Top Global Hackathons 🌐
 
-
-|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
-|--|------ |---|---| ------ | ----| ----- |
-|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
-|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
-|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
-|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
-|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | n/a |
-|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | Dead page |
-|7 | [Hack In The North](https://www.hackinthenorth.com/)| India | - | - | March | N/A |
-|8 | [Hack Western](https://hackwestern.com/) | Western University | Yes  | Nov End | Mid Oct | 11/23/18 |
-|9 | [HackDTU](http://hackdtu.tech/) | India | No | - | - | Ended |
-|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - | N/A |
-|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - | Dead page |
-|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | India | No | August-September | - | Ended |
-|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - | Ended |
-|14 | [HackISU](https://hackisu.org/)| USA | No | October | - | Ended |
-|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | Ended |
-|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event | Ended, 2019 is open for pre-reg |
-|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
-|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
-|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
-|20 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | - | - |  - | Annually every October |
-|21 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
-|22 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
-|23 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
-|24 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
-|25 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
-|26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
-|27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
-|28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
-|29 | [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/schedule)| Online| - | - | - | Multiple rounds|
-
+| #  | Event                                                                                              | Location                 | In‑Person | App Opens    | Event Dates             | Status    |
+| -- | -------------------------------------------------------------------------------------------------- | ------------------------ | --------- | ------------ | ----------------------- | --------- |
+| 1  | [Call for Code Global Challenge](https://callforcode.org/challenge/)                               | Online/Global            | Yes       | Mar 18, 2025 | Mar–Oct 2025            | Ongoing   |
+| 2  | [Hacktoberfest](https://hacktoberfest.com)                                                         | Online                   | –         | –            | October 2025            | Annual    |
+| 3  | [Major League Hacking Events](https://mlh.io/seasons/na-2025/events)                               | USA/Canada/Mexico        | Yes       | –            | Various 2025            | Ongoing   |
+| 4  | [GitLab Virtual Hackathon](https://about.gitlab.com/community/hackathon/)                          | Online                   | No        | –            | Apr 10–17, 2025         | Scheduled |
+| 5  | [OpenHackathons (NVIDIA)](https://www.openhackathons.org/)                                         | Online                   | No        | –            | Jun 24–Jul 3, 2025      | Scheduled |
+| 6  | [Digital Jam Hackathon](https://www.digitaljamaica.com/digital-jam-hackathon-2025/)                | Online                   | No        | –            | Mar 28, 2025 (Deadline) | Open      |
+| 7  | [DeveloperWeek Hackathon](https://www.developerweek.com/hackathon/)                                | Santa Clara, CA + Online | Yes       | Jan 2025     | Jan 27–Feb 13, 2025     | Ended     |
+| 8  | [MIT Reality Hack](https://www.mitrealityhack.com/)                                                | Boston, MA               | Yes       | –            | Jan 2025                | Ended     |
+| 9  | [nwHacks 2025](https://nwhacks.io/)                                                                | Vancouver, Canada        | Yes       | –            | Jan 18–19, 2025         | Ended     |
+| 10 | [Hoya Hacks 2025](https://www.hoyahacks.com/)                                                      | Washington, D.C.         | Yes       | –            | Jan 24–26, 2025         | Ended     |
+| 11 | [QHacks 2025](https://qhacks.io/)                                                                  | Kingston, Canada         | Yes       | –            | Jan 24–26, 2025         | Ended     |
+| 12 | [nf-core Hackathon](https://nf-co.re/events/2025/hackathon-spring)                                 | Global (Online + Local)  | Hybrid    | –            | Mar 24–26, 2025         | Scheduled |
+| 13 | [Call for Code SDG6](https://callforcode.org/challenge/)                                           | Online                   | Yes       | –            | Mar 20–31, 2025         | Open      |
+| 14 | [Call for Code SDG13](https://callforcode.org/challenge/)                                          | Online                   | Yes       | –            | May 22–Jun 2, 2025      | Upcoming  |
+| 15 | [WCRP KM-scale Hackathon](https://www.wcrp-climate.org/news/wcrp-news/2203-kmscale-hackathon-2025) | Global                   | Yes       | –            | May 12–16, 2025         | Scheduled |
+| 16 | [Global AI Hackathon](https://raise.mit.edu/global-ai-hackathon)                                   | Online                   | No        | –            | Oct 2025                | Upcoming  |
+| 17 | [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)                                   | Global                   | Yes       | –            | Oct 4–5, 2025           | Upcoming  |
 
 
 ----------------------------------------------------------
 
 ##  2.2 Competitions 🏆
 
-|ID| Name  | Location |
-|--|------ |----------|
-|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
-|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
-|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
-|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
-|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
-|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
-|7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
-|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
-|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
-|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
-|11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
-|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
-|13| [Quest Ingenium](https://www.questingenium.com/) | -  |
-|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
-|15| [Walmart-Codehers](https://dare2compete.com/o/walmart-codehers-walmart-india-pvt-ltd-167089) |Online|
-|16| [Codechef-Snackdown](https://snackdown.codechef.com/) | Online & Onsite |
+| ID | Name                                        | Location        | Status 2025                                                               |
+| -- | ------------------------------------------- | --------------- | ------------------------------------------------------------------------- |
+| 1  | Accenture Innovation Challenge              | Online & Onsite | 2025 applications closed; 2026 info in Fall ([accenture.com][1])          |
+| 2  | ACM – ICPC                                  | Online & Onsite | Likely ongoing regionally (annual collegiate comp), no specific 2025 data |
+| 3  | CodersBit                                   | Online          | Active platform, ongoing                                                  |
+| 4  | **Facebook Hacker Cup (Meta Hacker Cup)**   | Online          | Active in 2025; last held Dec 7, 2024                                     |
+| 5  | Code Gladiators                             | Online & Onsite | Recurring, no 2025 specifics                                              |
+| 6  | E‑Yantra                                    | Online & Onsite | Annual India robotics contest, likely 2025 held                           |
+| 7  | Red Bull Basement University                | –               | Annual, global student challenge, check 2025 timeline                     |
+| 8  | Shell Ideas360                              | Online & Onsite | Active (check Shell site for 2025)                                        |
+| 9  | Sony World Photography Awards – Youth Award | Online          | 2025 cycle likely open                                                    |
+| 10 | Doodle 4 Google                             | Online          | 2025 edition expected                                                     |
+| 11 | UN Volunteer                                | –               | Ongoing UN volunteering, not a contest                                    |
+| 12 | India Innovation Challenge (IICDC)          | Online & Onsite | 2018 outdated—remove                                                      |
+| 13 | Quest Ingenium                              | –               | Unclear current status—remove or verify                                   |
+| 14 | ROBOCON                                     | Onsite          | Likely ongoing (e.g., ABU ROBOCON 2025)                                   |
+| 15 | Walmart‑CodeHers                            | Online          | Likely annual; verify 2025                                                |
+| 16 | CodeChef SnackDown                          | Online & Onsite | Active annual comp, next editions in 2025                                 |
+
 
 ##  2.3  Hackathon Search Portals :dart:
 |s.no| Name  | Location | Category |
@@ -861,7 +874,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 3. [Urban Leaders Fellowship](http://www.urbanleadersfellowship.org/)
 4. [Facebook fellowship Program - **Only For PHD Scholars**]()
 5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
-6. [Prime Minister’s Rural Fellowship]()
+6. [Prime Minister's Rural Fellowship]()
 7. [Azim Premji Foundation Fellowship Program]()
 8. [Stanford-ABC News Global Health and Media Fellowship]()
 
@@ -1099,7 +1112,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [Data Analyst as a career - Scaler Blogs](https://www.scaler.com/blog/is-data-analyst-a-good-career/)
 
 2.   **Startup News and Stories**
-      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
+      -  [YCombinator's Hacker News](https://news.ycombinator.com/)
       -  [YourStory](https://yourstory.com/)
       -  [Entrepreneur.com](https://www.entrepreneur.com/)
       -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
@@ -1196,7 +1209,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
 3. [Are you Introvert? Watch this - Power of Introverts ](https://www.youtube.com/watch?v=c0KYU2j0TM4) - *Self Introspection*
-4. [30 International Scholarships offered by the World’s Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*
+4. [30 International Scholarships offered by the World's Top Universities](http://www.scholars4dev.com/13300/international-scholarships-top-universities-world/) - *Scholarships*
 5. [30 Famous Books that You Will Regret Not Reading!](https://bornrealist.com/famous-books/) - *Reading*
 6. [Startup Ideas By Y Combinator](https://www.ycombinator.com/rfs/) - *Startup*
 7. [Epicodus Coding Bootcamp Full Curriculum](https://www.learnhowtoprogram.com/tracks) - *Learning*
