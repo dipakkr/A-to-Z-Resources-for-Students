@@ -16,6 +16,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 *Image credits: Google*
 
+[AI Tools and Resources](#ai-tools-and-resources)
+
 ## Table of Contents :clipboard:
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
@@ -23,11 +25,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
      - [Frontend Web Development](#16-frontend-web-development)
      - [Backend Development ](#15-backend-development)
      - [Full-stack Web Development](#122-full-stack-web-development)
-     - [LLM](#13-large-language-models-llms)
      - [Python](#11-python)
      - [Machine Learning](#12-machine-learning)
-     - [Deep Learning](#13-deep-learning)
-     - [Android Development](#14-android-development)
+     - [Large Language Models (LLMs)](#13-large-language-models-llms)
+     - [Deep Learning](#15-deep-learning)
+     - [Android Development](#16-android-development)
      - [Data Structures](#17-data-structures) 
      - [Alexa Tutorials](#18-alexa-tutorials)
      - [C Language](#19-c-language)
@@ -78,7 +80,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Miscellaneous Resources](#14-miscellaneous-resources)
      - [Design Resources](#141-design-resources)
      - [Podcasts](#142-podcasts)
-15. [Top sites for Aptitude Preparion for Placements](#15-top-sites-for-aptitude-preparion-for-placements)
+15. [Top sites for Aptitude Preparion for Placements](#15-top-sites-for-aptitude-preparation-for-placements)
 16. [Contributors](CONTRIBUTORS.md)
 ---
 
@@ -89,6 +91,27 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - Willing to spend some money to improve your skills?  :heavy_dollar_sign: indicates paid content.
 
 ---
+
+# AI Tools and Resources
+
+> A curated list of AI tools and platforms to enhance your productivity
+
+- **AI Tool Directories and Resources**
+    - [ToolJunction](https://www.tooljunction.io/) - Comprehensive directory of AI tools
+    - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) - Curated collection of AI tools and resources
+
+- **Popular AI Tools**
+    - [ChatGPT](https://www.tooljunction.io/ai-tools/chatgpt) - Advanced AI chatbot for conversations and tasks
+    - [Midjourney](https://www.tooljunction.io/ai-tools/midjourney) - AI art generation platform
+    - [RunwayML](https://www.tooljunction.io/ai-tools/runwayml) - Creative tools for AI-powered content creation
+    - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
+    - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
+
+- **Best GitHub Repositories for AI Tools**
+    - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+    - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
+    - [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts)
+    - [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 # 1. Coding Resources
 
@@ -226,7 +249,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best Online Courses**
-    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) – Andrew Ng’s flagship series; free to audit
+    - [Deep Learning Specialization | Coursera](https://www.coursera.org/specializations/deep-learning) – Andrew Ng's flagship series; free to audit
     - [Practical Deep Learning for Coders | Fast.AI](https://course.fast.ai/)
     - [Deep Learning with PyTorch | Coursera (by IBM)](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
     - [TensorFlow Developer Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
@@ -833,7 +856,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 8. [HackerEarth Campus Ambassador](https://hackerearth.com)
 9. [HackerRank Campus Ambassador](https://hackerrank.com)
 10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
-11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-camp ambassadors-program)
 12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 13. [Codechef Campus Ambassador](https://www.codechef.com/)
 14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
@@ -908,7 +931,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |-|--|---- |---|---| ------ |
 |1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
 |2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global | Yes|- | - |
-|3| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
+|3| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  | - |
 |4| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
 |5| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
 |6| [GirlScript Summer of Code](https://gssoc.girlscript.tech/#) | - | Prizes & Goodies | - | - |
@@ -1264,21 +1287,62 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - Tracks to Relax
     - Unladylike
   
-## 15. Top sites for Aptitude Preparion for Placements
+# 15. Top Sites for Aptitude Preparation for Placements
 
-  - [IndiaBix.com](https://indiabix.com)
+- **Quantitative Aptitude**
+    - [IndiaBix](https://www.indiabix.com/) - Comprehensive practice tests and explanations
+    - [ArtOfProblemSolving](https://artofproblemsolving.com/) - Advanced math problems with detailed solutions
+    - [MathsGuru](https://www.mathsguru.com/) - Topic-wise practice and video explanations
+    - [CareerRide](https://www.careerride.com/online-aptitude-test.aspx) - Practice tests and interview prep
 
-  - [Testpot.com](https://testpot.com)	
+- **Logical Reasoning**
+    - [Testpot](https://testpot.com/) - Logical and analytical reasoning practice
+    - [Hitbullseye](https://www.hitbullseye.com/) - Free practice tests and study material
+    - [Sawaal](https://www.sawaal.com/) - Question bank with solutions
+    - [GeeksforGeeks Puzzles](https://www.geeksforgeeks.org/puzzles/) - Logical puzzles and brain teasers
 
-  - [Freedu.in](https://freedu.in)
+- **Verbal Ability**
+    - [TestFunda](https://testfunda.com/) - Comprehensive verbal ability practice
+    - [ExamVeda](https://www.examveda.com/) - English grammar and vocabulary
+    - [TCYonline](https://www.tcyonline.com/) - Practice tests for verbal sections
+    - [VocabBuilder](https://www.vocabulary.com/) - Vocabulary improvement tools
 
-  - [Sawaal.com](https://sawaal.com)
+- **Company-Specific Practice**
+    - [Face Prep](https://www.faceprep.in/) - Company-specific preparation materials
+    - [PrepInsta](https://prepinsta.com/) - Previous year questions and company patterns
+    - [Placement Season](https://www.placementseason.com/) - Company-wise practice tests
+    - [AmCat Practice Tests](https://www.myamcat.com/) - Adaptive practice tests
+
+- **Mock Test Platforms**
+    - [Mercer Mettl](https://mettl.com/) - Professional assessment platform
+    - [CoCubes](https://www.cocubes.com/) - Placement preparation platform
+    - [eLitmus](https://www.elitmus.com/) - pH test practice
+    - [AspiringMinds](https://www.aspiringminds.com/) - AMCAT practice tests
+
+- **Free Resources**
+    - [Brilliant.org](https://brilliant.org/) - Interactive courses and problems
+    - [Khan Academy](https://www.khanacademy.org/) - Free math and reasoning practice
+    - [YouTube Channels](https://www.youtube.com/results?search_query=aptitude+preparation)
+        - [Unacademy](https://www.youtube.com/c/unacademy)
+        - [CareerRide](https://www.youtube.com/user/CareerRideVideos)
+        - [MathsTricks](https://www.youtube.com/c/MathsTricks)
+
+- **Mobile Apps**
+    - [Aptitude Test by Career Power](https://play.google.com/store/apps/details?id=com.careerpower.aptitude)
+    - [Placement Preparation](https://play.google.com/store/apps/details?id=com.placement.preparation)
+    - [Aptitude Trainer](https://play.google.com/store/apps/details?id=com.aptitude.preparation.app)
+
+- **Interview Preparation**
+    - [InterviewBit](https://www.interviewbit.com/) - Technical and aptitude preparation
+    - [Glassdoor Interviews](https://www.glassdoor.co.in/Interview/index.htm) - Company-specific interview experiences
+    - [AmbitionBox](https://www.ambitionbox.com/) - Interview experiences and company reviews
+    - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/)
 
 
 ## 16. Maintainers
-[Ayush Gupta](https://github.com/siAyush)
-
 [Deepak Kumar](https://github.com/dipakkr)
+
+[Ayush Gupta](https://github.com/siAyush)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
