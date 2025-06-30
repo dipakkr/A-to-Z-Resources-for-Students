@@ -700,6 +700,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [HTML](https://www.youtube.com/watch?v=XiQ9rjaa2Ow) Best Practices, Semantic HTML, Forms & Validations, Accessibility, SEO.
  - [CSS](https://www.youtube.com/watch?v=Tfjd5yzCaxk) [Flexbox](https://www.youtube.com/watch?v=qqDH0T6K5gY), [CSS Grid](https://www.youtube.com/watch?v=BDOzg4lXcSg), Custom Properties,[Animations/Transitions](https://animejs.com/), Responsive Design, CSS Preprocessor, Modern CSS, CSS Frameworks [Tailwind CSS](https://tailwindcss.com/),[Bootstrap](https://getbootstrap.com/).
  - [Full Stack Developer](https://www.interviewbit.com/full-stack-developer-interview-questions/)
+ - [How DNS works](https://howdns.works/)
+ - [How DNSSEC works](https://howdnssec.works/)
+ - [How HTTPS works](https://howhttps.works/)
+
  ## Front-End Starts
  - [JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
  - [TypeScript](https://www.youtube.com/watch?v=ahCwqrYpIuM)
