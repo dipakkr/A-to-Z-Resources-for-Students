@@ -36,16 +36,17 @@
 5. [Celebrities in ML and AI world](#5-celebrities-in-ml-and-ai-world)
 
 6. [Tips for ML & AI enthusiasts](#6-ml-ai-tips)
+     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
-7. [Pandas](#7-pandas)
+8. [Pandas](#7-pandas)
      - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
      - [Pandas Tutorial | Kaggle](https://www.kaggle.com/junaaaaloo/pandas-tutorial)
      - [https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
-8. [Online Mathematical Resources](#8-maths-online-resources)
+9. [Online Mathematical Resources](#8-maths-online-resources)
      - [Create staright line by slope and y-intercept](https://www.desmos.com/calculator/5kn5x8f7zk)
 
-9. [Frameworks](#9-frameworks)
+10. [Frameworks](#9-frameworks)
     -[Tensorflow](https://tensorflow.org)
     -[Caffe](http://caffe.berkeleyvision.org/)
     -[Caffe2](https://caffe2.ai/)
