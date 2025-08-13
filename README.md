@@ -151,7 +151,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Python interview questions for data analyst](https://www.interviewbit.com/data-analyst-interview-questions/)
     - [Python Cheat Sheet](https://www.interviewbit.com/python-cheat-sheet/)
     - [Python Language and Syntax Cheat Sheet](https://user-images.githubusercontent.com/84919650/227742970-7507ef1e-01fa-4e7e-a448-e0d587bb0769.png)
-    - [Python Tutorial: A Comprehensive Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/)
+    - [Best Ways to Learn Python Programming](https://wiingy.com/resources/best-ways-to-learn-python-programming/)
     - [Python Skill Tree | LabEx](https://labex.io/skilltrees/python)
 
 -  **Best GitHub Repositories to follow**
