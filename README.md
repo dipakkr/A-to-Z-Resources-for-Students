@@ -19,10 +19,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ## 🚀 Quick Start Guide
 
-**New to coding?** Start here → [Beginner-Friendly Resources](#beginner-friendly-resources)  
-**Looking for opportunities?** Check → [Student Programs & Opportunities](#student-programs--opportunities)  
-**Want to compete?** Explore → [Hackathons & Competitions](#hackathons--competitions)  
-**Need inspiration?** Follow → [Learning Resources](#learning-resources)
+**Complete Beginner?** → [Beginner-Friendly Resources](#beginner-friendly-resources)  
+**Want to Learn Trending Tech?** → [Web3 & Blockchain](#web3--blockchain-development) | [AI & ML](#ai--machine-learning) | [Cybersecurity](#cybersecurity--ethical-hacking)  
+**Building Web Apps?** → [Modern Frontend](#modern-frontend-technologies) | [Backend Development](#backend-development)  
+**Mobile Development?** → [Mobile Development](#mobile-development)  
+**Career Focused?** → [Student Programs](#student-programs--opportunities) | [Interview Prep](#interview-preparation)  
+**Want to Compete?** → [Hackathons](#hackathons--competitions) | [Open Source](#open-source-programs)
 
 ---
 
@@ -45,9 +47,15 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 7. [Community & Networking](#community--networking)
 8. [Additional Resources](#additional-resources)
 
+### 🔥 **Trending Technologies (2025)**
+- [Web3 & Blockchain Development](#web3--blockchain-development)
+- [AI & Machine Learning](#ai--machine-learning)
+- [Cybersecurity & Ethical Hacking](#cybersecurity--ethical-hacking)
+- [Cloud Computing & DevOps](#cloud-computing--devops)
+- [Modern Frontend Technologies](#modern-frontend-technologies)
+
 ### 🔍 **Quick Access**
 - [Beginner-Friendly Resources](#beginner-friendly-resources)
-- [AI & Machine Learning](#ai--machine-learning)
 - [Web Development](#web-development)
 - [Mobile Development](#mobile-development)
 - [Data Science](#data-science)
@@ -260,6 +268,152 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 
 
+
+# Web3 & Blockchain Development
+
+> **The future of decentralized applications and smart contracts**
+
+## Blockchain Platforms
+- [Ethereum](https://ethereum.org/) - Smart contracts and dApps platform
+- [Solana](https://solana.com/) - High-performance blockchain for DeFi
+- [Polygon](https://polygon.technology/) - Ethereum scaling solution
+- [Avalanche](https://www.avax.network/) - Fast blockchain platform
+- [Binance Smart Chain](https://www.bnbchain.org/) - BSC ecosystem
+- [Cardano](https://cardano.org/) - Research-driven blockchain platform
+
+## Learning Resources
+- [CryptoZombies](https://cryptozombies.io/) - Learn Solidity by building games :baby:
+- [Buildspace](https://buildspace.so/) - Web3 project-based learning
+- [Alchemy University](https://university.alchemy.com/) - Free Web3 education
+- [OpenZeppelin](https://docs.openzeppelin.com/) - Smart contract security
+- [Web3 University](https://web3.university/) - Comprehensive Web3 courses
+- [ConsenSys Academy](https://consensys.net/academy/) - Blockchain education
+
+## Development Tools & Frameworks
+- [Hardhat](https://hardhat.org/) - Ethereum development environment
+- [Truffle](https://trufflesuite.com/) - Blockchain development framework
+- [Web3.js](https://web3js.readthedocs.io/) - Ethereum JavaScript library
+- [Ethers.js](https://docs.ethers.io/) - Modern Ethereum library
+- [MetaMask](https://metamask.io/) - Ethereum wallet and gateway
+- [Remix IDE](https://remix.ethereum.org/) - Online Solidity IDE
+- [Foundry](https://book.getfoundry.sh/) - Fast Ethereum toolkit
+
+## Best GitHub Repositories
+- [Awesome Web3](https://github.com/Web3-University/awesome-web3)
+- [Web3 Development Resources](https://github.com/dappuniversity/web3-resources)
+- [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
+- [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
+---
+
+# Cybersecurity & Ethical Hacking
+
+> **Protect systems and learn ethical hacking techniques**
+
+## Learning Platforms
+- [TryHackMe](https://tryhackme.com/) - Interactive cybersecurity learning :baby:
+- [HackTheBox](https://www.hackthebox.com/) - Penetration testing labs
+- [Cybrary](https://www.cybrary.it/) - Free cybersecurity courses
+- [SANS](https://www.sans.org/) - Professional security training
+- [SecurityTube](https://www.securitytube.net/) - Security video training
+- [PentesterLab](https://pentesterlab.com/) - Web application security
+
+## Certifications
+- [CompTIA Security+](https://www.comptia.org/certifications/security) - Entry-level security certification
+- [CEH (Certified Ethical Hacker)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) - Ethical hacking certification
+- [CISSP](https://www.isc2.org/Certifications/CISSP) - Advanced security certification
+- [OSCP](https://www.offensive-security.com/pwk-oscp/) - Penetration testing certification
+- [CISM](https://www.isaca.org/credentialing/cism) - Information security management
+
+## Practice Platforms
+- [OverTheWire](https://overthewire.org/) - Wargames for security practice
+- [PicoCTF](https://picoctf.org/) - Cybersecurity competition
+- [VulnHub](https://www.vulnhub.com/) - Vulnerable machines for practice
+- [HackThisSite](https://www.hackthissite.org/) - Legal hacking challenges
+- [Root-Me](https://www.root-me.org/) - Security challenges platform
+
+## Tools & Resources
+- [Kali Linux](https://www.kali.org/) - Penetration testing distribution
+- [Burp Suite](https://portswigger.net/burp) - Web application security testing
+- [Nmap](https://nmap.org/) - Network discovery and security auditing
+- [Wireshark](https://www.wireshark.org/) - Network protocol analyzer
+- [Metasploit](https://www.metasploit.com/) - Penetration testing framework
+
+---
+
+# Cloud Computing & DevOps
+
+> **Modern infrastructure and deployment practices**
+
+## Cloud Platforms
+- [AWS](https://aws.amazon.com/) - Amazon Web Services
+- [Google Cloud](https://cloud.google.com/) - Google Cloud Platform
+- [Microsoft Azure](https://azure.microsoft.com/) - Microsoft's cloud platform
+- [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud
+- [Linode](https://www.linode.com/) - Cloud computing platform
+- [Vultr](https://www.vultr.com/) - High-performance cloud servers
+
+## DevOps Tools
+- [Docker](https://www.docker.com/) - Containerization platform
+- [Kubernetes](https://kubernetes.io/) - Container orchestration
+- [Jenkins](https://www.jenkins.io/) - CI/CD automation
+- [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - Integrated DevOps platform
+- [Terraform](https://www.terraform.io/) - Infrastructure as code
+- [Ansible](https://www.ansible.com/) - Configuration management
+- [Prometheus](https://prometheus.io/) - Monitoring and alerting
+
+## Learning Resources
+- [AWS Training](https://aws.amazon.com/training/) - Official AWS courses
+- [Google Cloud Training](https://cloud.google.com/training) - GCP learning paths
+- [Azure Learn](https://docs.microsoft.com/en-us/learn/) - Microsoft learning platform
+- [Docker Academy](https://academy.docker.com/) - Docker education
+- [Kubernetes Academy](https://kubernetes.academy/) - K8s learning platform
+
+## Certifications
+- [AWS Certified Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [Google Cloud Professional](https://cloud.google.com/certification)
+- [Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
+- [Docker Certified Associate](https://training.mirantis.com/certification/dca-certification-exam/)
+- [Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)
+
+---
+
+# Modern Frontend Technologies
+
+> **Cutting-edge frontend frameworks and tools**
+
+## Frameworks & Libraries
+- [Next.js](https://nextjs.org/) - React framework for production
+- [Svelte](https://svelte.dev/) - Compile-time optimized framework
+- [Astro](https://astro.build/) - Modern static site generator
+- [SolidJS](https://www.solidjs.com/) - Reactive UI library
+- [Qwik](https://qwik.builder.io/) - Resumable web framework
+- [Remix](https://remix.run/) - Full-stack web framework
+
+## Styling & UI
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Chakra UI](https://chakra-ui.com/) - Modular React component library
+- [Framer Motion](https://www.framer.com/motion/) - Animation library
+- [Headless UI](https://headlessui.com/) - Unstyled UI components
+- [Mantine](https://mantine.dev/) - React components library
+- [Radix UI](https://www.radix-ui.com/) - Low-level UI primitives
+
+## Build Tools & Performance
+- [Vite](https://vitejs.dev/) - Next generation frontend tooling
+- [Turbopack](https://turbo.build/pack) - Rust-based bundler
+- [Parcel](https://parceljs.org/) - Zero-configuration bundler
+- [Webpack](https://webpack.js.org/) - Module bundler
+- [Rollup](https://rollupjs.org/) - ES module bundler
+- [esbuild](https://esbuild.github.io/) - Extremely fast bundler
+
+## State Management
+- [Zustand](https://github.com/pmndrs/zustand) - Lightweight state management
+- [Jotai](https://jotai.org/) - Primitive and flexible state management
+- [Valtio](https://github.com/pmndrs/valtio) - Proxy-based state management
+- [Redux Toolkit](https://redux-toolkit.js.org/) - Modern Redux development
+- [Recoil](https://recoiljs.org/) - State management for React
+
+---
 
 # Mobile Development
 
@@ -872,12 +1026,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id | Name | Track | Description | Country | 
 |--|------ |---| --- | ---- | 
-|1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
-|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
-| 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
-| 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
-| 5| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
-| 6| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
+|1 | [Bloom Institute of Technology](https://bloomtech.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
+|2| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
+|3| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
+|4| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
 
 ## Design Resources
 
@@ -1022,12 +1174,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
-3. [Vettery](https://www.vettery.com/)
-4. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
-6. [Hackkar](https://hackkar.com/)
-7. [LetsIntern](https://www.letsintern.com)
-8. [Intern Supply](https://intern.supply/)
-9. [Indeed](https://www.indeed.ca/)
+3. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
+4. [Indeed](https://www.indeed.ca/)
 
 # Additional Resources
 
@@ -1042,6 +1190,64 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
 10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
+
+# 🧭 Recommended Learning Paths
+
+## 🎯 **For Complete Beginners**
+1. **Start Here:** [Beginner-Friendly Resources](#beginner-friendly-resources)
+2. **Choose Your Path:**
+   - **Web Development:** Learn HTML → CSS → JavaScript → React/Vue
+   - **Mobile Development:** Start with Flutter or React Native
+   - **Data Science:** Begin with Python → Pandas → Scikit-learn
+   - **AI/ML:** Python → NumPy → TensorFlow/PyTorch
+3. **Build Projects:** Create 3-5 portfolio projects
+4. **Join Communities:** Participate in [Community & Networking](#community--networking)
+5. **Apply for Opportunities:** Check [Student Programs](#student-programs--opportunities)
+
+## 🔥 **For Career Changers (2025 Focus)**
+1. **Assess Current Skills:** Identify transferable skills
+2. **Choose Trending Technology:**
+   - **Web3/Blockchain:** [Web3 & Blockchain Development](#web3--blockchain-development)
+   - **AI/ML:** [AI & Machine Learning](#ai--machine-learning)
+   - **Cybersecurity:** [Cybersecurity & Ethical Hacking](#cybersecurity--ethical-hacking)
+   - **Cloud/DevOps:** [Cloud Computing & DevOps](#cloud-computing--devops)
+3. **Structured Learning:** Enroll in [Coding Bootcamps](#coding-bootcamps) or online courses
+4. **Build Portfolio:** Create projects showcasing new skills
+5. **Network:** Join professional communities and attend events
+6. **Apply Strategically:** Target companies using your chosen technology
+
+## 🎓 **For Students**
+1. **Explore Opportunities:** Check [Student Programs](#student-programs--opportunities)
+2. **Join Communities:** Participate in [Community & Networking](#community--networking)
+3. **Compete:** Join [Hackathons](#hackathons--competitions) and coding competitions
+4. **Contribute:** Start with [Open Source Programs](#open-source-programs)
+5. **Internships:** Apply through [Internship Programs](#internship-programs)
+6. **Prepare:** Use [Interview Preparation](#interview-preparation) resources
+
+## 🚀 **For Experienced Developers**
+1. **Stay Current:** Learn trending technologies
+2. **Specialize:** Choose a niche (Web3, AI, Cybersecurity, etc.)
+3. **Certify:** Get relevant [certifications](#certifications--toolkits)
+4. **Mentor:** Help others through communities
+5. **Lead:** Start projects or contribute to open source
+6. **Network:** Attend [Conferences & Events](#conferences--events)
+
+## 📈 **Technology Roadmap 2025**
+
+### **High Demand Skills:**
+- **Web3/Blockchain:** Solidity, Smart Contracts, DeFi protocols
+- **AI/ML:** Large Language Models, MLOps, AI Ethics
+- **Cybersecurity:** Cloud Security, Zero Trust, Threat Intelligence
+- **Cloud/DevOps:** Kubernetes, Terraform, Multi-cloud strategies
+- **Modern Frontend:** Next.js, TypeScript, Performance optimization
+
+### **Emerging Technologies:**
+- **Quantum Computing:** Qiskit, Quantum algorithms
+- **Edge Computing:** IoT, Real-time processing
+- **AR/VR:** Unity, Unreal Engine, WebXR
+- **Low-Code/No-Code:** Automation, Citizen development
+
+---
 
 ## Maintainers
 [Deepak Kumar](https://github.com/dipakkr)
@@ -1296,14 +1502,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 5. [Google Cloud](https://cloud.google.com/free/)
 6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 7. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
-8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
-9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
-10. [Bitbucket Education](https://bitbucket.org/product/education)
-11. [Namecheap free .name Domain](https://nc.me/)
-12. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
-13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
-14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
-15. [CloudCredits.io - Free credits for prototyping and building startups](https://cloudcredits.io)
+8. [Bitbucket Education](https://bitbucket.org/product/education)
+9. [Namecheap free .name Domain](https://nc.me/)
+10. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
+11. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -1483,14 +1685,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 5. [Google Cloud](https://cloud.google.com/free/)
 6. [Intel Developer pack](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
 7. [Google Reskilling India Program | Pluralsight](https://www.pluralsight.com/partners/google/)
-8. [Free .tech domain for 1 year | dot tech Domains](https://get.tech/students)
-9. [Free Web Hosting for 1 year | Znetlive](https://www.znetlive.com/student-web-hosting/)
-10. [Bitbucket Education](https://bitbucket.org/product/education)
-11. [Namecheap free .name Domain](https://nc.me/)
-12. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
-13. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
-14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
-15. [CloudCredits.io - Free credits for prototyping and building startups](https://cloudcredits.io)
+8. [Bitbucket Education](https://bitbucket.org/product/education)
+9. [Namecheap free .name Domain](https://nc.me/)
+10. [Autodesk Education software for students](https://www.autodesk.com/education/free-software/featured)
+11. [Invision Free app for Education](https://www.invisionapp.com/education-signup)
 
 ## Student Fellowship Programs :v:
 1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
@@ -1581,12 +1779,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 1. [Angel List](https://angel.co)
 2. [Internshala](https://internshala.com)
-3. [Vettery](https://www.vettery.com/)
-4. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
-6. [Hackkar](https://hackkar.com/)
-7. [LetsIntern](https://www.letsintern.com)
-8. [Intern Supply](https://intern.supply/)
-9. [Indeed](https://www.indeed.ca/)
+3. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
+4. [Indeed](https://www.indeed.ca/)
 
 ---
 
@@ -1831,12 +2025,10 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 |Id | Name | Track | Description | Country | 
 |--|------ |---| --- | ---- | 
-|1 | [Lambda School](https://lambdaschool.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
-|2 | [SpringBoard](https://www.springboard.com/) | DataScience | 2 Year experience as Software Dev, Only Pay if you get a Job | USA, India | 
-| 3| [Pesto Tech](https://pesto.tech)|  FullStack JavaScript | 2 Year experience as Software Dev, Only pay 17.5 % of salary when you get more than 15LPA | India
-| 4| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
-| 5| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
-| 6| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
+|1 | [Bloom Institute of Technology](https://bloomtech.com/) | FullStack, Data Science, Android, iOS | No Upfront Fees, Pay 17.5% of salary only when you get a job | USA |
+|2| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
+|3| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
+|4| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
 
 # 14. Miscellaneous Resources
 
