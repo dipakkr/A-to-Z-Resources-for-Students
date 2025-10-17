@@ -1,10 +1,9 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
 
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/dipakkr_) and help it reach more people in the community. 
+If you found this repository helpful in discovering new opportunities, don’t keep it to yourself — share it with your friends or batchmates so they can benefit too!  
 
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/dipakkr/) — always happy to network and exchange ideas. 🚀
 
 ---
 
