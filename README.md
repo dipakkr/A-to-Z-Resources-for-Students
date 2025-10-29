@@ -422,7 +422,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > [**Checkout the Full Resources on ANDROID**](Android/Android.md) :baby:
 
 -  **Best Online Courses & Paths**
-    - [Free Android Development Courses | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
     - [Associate Android Developer Certification Path | GitHub](https://github.com/Amejia481/Associate-Android-Developer-Certification)
     - [Android Developer Roadmap | roadmap.sh](https://roadmap.sh/android)
     - [Build Your First App | Android Developers](https://developer.android.com/training/basics/firstapp)
