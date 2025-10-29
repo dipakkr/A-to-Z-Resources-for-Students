@@ -38,7 +38,6 @@
 + [Android Programming by Big Nerd Ranch](https://www.bignerdranch.com/books/android-programming/)
 + [Professional Android by Reto Meier, Ian Lake](https://www.wiley.com/en-us/Professional+Android%2C+4th+Edition-p-9781118949528)
 + [Kotlin for Android Developers](https://leanpub.com/kotlin-for-android-developers)
-+ [Android Development with Kotlin](https://www.packtpub.com/application-development/android-development-kotlin)
 
 ## Podcasts
 
