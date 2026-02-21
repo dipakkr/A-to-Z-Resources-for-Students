@@ -280,6 +280,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Avalanche](https://www.avax.network/) - Fast blockchain platform
 - [Binance Smart Chain](https://www.bnbchain.org/) - BSC ecosystem
 - [Cardano](https://cardano.org/) - Research-driven blockchain platform
+- [SailOnChain](https://sailonchain.com/) - Crypto & blockchain job board with 1,400+ positions across nearly 2,000 companies
 
 ## Learning Resources
 - [CryptoZombies](https://cryptozombies.io/) - Learn Solidity by building games :baby:
