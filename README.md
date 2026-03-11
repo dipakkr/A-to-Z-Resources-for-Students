@@ -183,6 +183,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Openreview](https://openreview.net/)
     - [Research Papers with code](https://github.com/zziz/pwc)
     - [Papers with code](https://paperswithcode.com/)
+    - [CiteMe](https://citeme.app) - Free citation generator that searches OpenAlex, CrossRef, PubMed, and Semantic Scholar. Formats references in APA, MLA, Chicago, ABNT, and 40+ styles.
 
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
