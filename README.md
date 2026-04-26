@@ -1176,6 +1176,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 2. [Internshala](https://internshala.com)
 3. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
 4. [Indeed](https://www.indeed.ca/)
+5. [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Daily-updated Canadian internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 
 # Additional Resources
 
