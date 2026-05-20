@@ -85,6 +85,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Midjourney](https://www.tooljunction.io/ai-tools/midjourney) - AI art generation platform
     - [RunwayML](https://www.tooljunction.io/ai-tools/runwayml) - Creative tools for AI-powered content creation
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
+    - [Lynote AI Humanize Text](https://github.com/lynote-ai/humanize-text) - Free open-source tool for students to optimize academic writing and make AI-generated drafts more natural. Full free web version: https://lynote.ai/ai-humanizer
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
 - **Best GitHub Repositories for AI Tools**
