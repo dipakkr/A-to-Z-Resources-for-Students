@@ -1,5 +1,11 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
+<p align="center">
+  <a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/stargazers"><img src="https://img.shields.io/github/stars/dipakkr/A-to-Z-Resources-for-Students?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/network/members"><img src="https://img.shields.io/github/forks/dipakkr/A-to-Z-Resources-for-Students?style=social" alt="GitHub forks"></a>
+  <a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students" alt="License"></a>
+  <a href="https://www.star-history.com/dipakkr/a-to-z-resources-for-students"><img src="https://api.star-history.com/badge?repo=dipakkr/A-to-Z-Resources-for-Students" alt="Star History Rank"></a>
+</p>
 
 If you found this repository helpful in discovering new opportunities, don’t keep it to yourself — share it with your friends or batchmates so they can benefit too!  
 
@@ -2115,6 +2121,20 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [AmbitionBox](https://www.ambitionbox.com/) - Interview experiences and company reviews
     - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/)
 
+
+## ⭐ Star History
+
+If this repository helped you, consider giving it a star — it helps more students discover these resources!
+
+<a href="https://www.star-history.com/?repos=dipakkr%2FA-to-Z-Resources-for-Students&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
+---
 
 ## 16. Maintainers
 [Deepak Kumar](https://github.com/dipakkr)
