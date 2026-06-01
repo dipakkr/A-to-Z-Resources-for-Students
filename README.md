@@ -97,7 +97,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
     - [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts)
-    - [Awesome Stable Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 # Programming Languages & Frameworks
 
@@ -192,15 +191,13 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Test ML Models on Datasets**
     - [Kaggle](https://www.kaggle.com/)
-    - [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets.html)
+    - [UCI ML Repository](https://archive.ics.uci.edu/datasets)
     - [Data.Gov](https://www.data.gov/)
 
 -  **Book for Machine Learning**
     - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
 
 ## Large Language Models (LLMs)
-
-> [**Browse this link for detailed information on LLMs**](LLM/LLM.md)
 
 - **Best Online Courses**
     - [CS25 - Transformers United | Stanford University](https://web.stanford.edu/class/cs25/)
@@ -209,16 +206,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Large Language Models Bootcamp | Full Stack Deep Learning](https://fullstackdeeplearning.com/llm-bootcamp/)
     - [LangChain for LLM Application Development | DeepLearning.AI](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
     - [Intro to LLMs | Cohere](https://academy.cohere.com/)
-    - [LLM University by Weaviate](https://university.weaviate.io/)
-    - [Fine-Tuning LLMs | Hugging Face](https://huggingface.co/blog/fine-tune-transformers)
+    - [Weaviate Academy](https://academy.weaviate.io/)
+    - [Fine-Tuning LLMs | Hugging Face](https://huggingface.co/docs/transformers/training)
     - [Transformers Course | Hugging Face](https://huggingface.co/course/chapter1)
     - [Prompt Engineering for Developers | OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
     - [Mastering LLMs | YouTube (AssemblyAI)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 - **Best GitHub Repositories to Follow**
     - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM)
-    - [LLM Course Materials | Full Stack Deep Learning](https://github.com/fullstackdeeplearning/llm-bootcamp)
-    - [LLM University (Free Curriculum)](https://github.com/weaviate/llm-university)
     - [LLM Papers and Tools](https://github.com/Mooler0410/LLMsPracticalGuide)
     - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
     - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
@@ -305,8 +300,6 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Foundry](https://book.getfoundry.sh/) - Fast Ethereum toolkit
 
 ## Best GitHub Repositories
-- [Awesome Web3](https://github.com/Web3-University/awesome-web3)
-- [Web3 Development Resources](https://github.com/dappuniversity/web3-resources)
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
 - [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
