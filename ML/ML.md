@@ -111,3 +111,4 @@
 - [sentdex](https://github.com/Sentdex)
 - [Ashish Tendulkar](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
 - [Andrew Yan-Tak Ng](http://www.andrewng.org/)
+- - [Kaggle ML Courses](https://www.kaggle.com/learn/overview) - free hands-on ML courses
