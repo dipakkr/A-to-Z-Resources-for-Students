@@ -92,6 +92,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [RunwayML](https://www.tooljunction.io/ai-tools/runwayml) - Creative tools for AI-powered content creation
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
+    - [Tura](https://github.com/Tura-AI/tura) - Open-source local coding agent with custom model providers and CLI, TUI, and desktop interfaces
 
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
