@@ -384,6 +384,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Frameworks & Libraries
 - [Next.js](https://nextjs.org/) - React framework for production
 - [Svelte](https://svelte.dev/) - Compile-time optimized framework
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte, and Angular
 - [Astro](https://astro.build/) - Modern static site generator
 - [SolidJS](https://www.solidjs.com/) - Reactive UI library
 - [Qwik](https://qwik.builder.io/) - Resumable web framework
