@@ -2121,11 +2121,11 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 If this repository helped you, consider giving it a star — it helps more students discover these resources!
 
-<a href="https://www.star-history.com/?repos=dipakkr%2FA-to-Z-Resources-for-Students&type=date&legend=bottom-right">
+<a href="https://star-history.dera.page/#dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.dera.page/svg?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.dera.page/svg?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.dera.page/svg?repos=dipakkr/A-to-Z-Resources-for-Students&type=date&legend=bottom-right" />
  </picture>
 </a>
 
