@@ -463,6 +463,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [CSS Flexbox](https://flexbox.io/) - Learn Flexbox with Wes Bos
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Interactive Flexbox learning game
 - [Grid Garden](https://cssgridgarden.com/) - Interactive Grid learning game
+- [CSS Sticky Debugging Lab](https://frontendatlas.com/css/trivia/css-position-sticky-not-working) — Diagnose five position: sticky failures with editable CSS and browser-derived scroll-container and geometry evidence.
 - [CSS Basic Cheatsheet](https://user-images.githubusercontent.com/84919650/227743321-96c328b5-1378-42b1-8613-cc0fd1e1962e.png)
 
 **Courses & Tutorials**
