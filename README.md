@@ -480,6 +480,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [javascript.info](https://javascript.info/) - Modern JavaScript Tutorial
 - [Javascript30 | Wes Bos](https://javascript30.com/) - 30 Day Vanilla JS Challenge
+- [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) - Free and open-source TypeScript book in Italian.
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) :star:
 - [Eloquent JavaScript Online](https://eloquentjavascript.net/)
 - [JavaScript: The Good Parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) :star: :heavy_dollar_sign:
