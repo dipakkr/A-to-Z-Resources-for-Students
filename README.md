@@ -171,6 +171,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
     - [Machine Learning Tutorial | Scaler Topics](https://www.scaler.com/topics/machine-learning/)
     - [Machine Learning Roadmap  | Scaler Blogs](https://www.scaler.com/blog/machine-learning-roadmap/)
+    - [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=A-to-Z-Resources-for-Students) - The Duolingo of machine learning: short lessons, hands-on coding exercises, spaced repetition, and a roadmap from Python to NLP and computer vision
   
 
 -  **Best GitHub Repositories to follow**
