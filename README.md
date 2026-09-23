@@ -572,6 +572,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - [Introduction to backend](https://in.udacity.com/course/intro-to-backend--ud171)
 - [Backend Roadmap](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/img/backend.png)
+- [Cortex](https://github.com/cortex-docs/cortex) - Generate interactive API documentation, typed SDKs, and MCP servers from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC.
 
 -  **Django - Python**
     - [Try Django | YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW) :baby:
