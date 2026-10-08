@@ -2140,3 +2140,4 @@ If this repository helped you, consider giving it a star — it helps more stude
 
 <a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dipakkr/A-to-Z-Resources-for-Students"></a>
 ----
+- [MIDDLE](https://middle-production.up.railway.app) — AI relationship coach. Messaging-first, 24/7, practical advice.
