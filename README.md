@@ -337,6 +337,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Nmap](https://nmap.org/) - Network discovery and security auditing
 - [Wireshark](https://www.wireshark.org/) - Network protocol analyzer
 - [Metasploit](https://www.metasploit.com/) - Penetration testing framework
+- [Rynler Token Cost Calculator](https://github.com/Slymaster/rynler-token-cost-calculator) - Browser-only LLM API token-cost calculator: estimate bills from your own rates and token counts. No accounts, no analytics, no API calls.
 
 ---
 
