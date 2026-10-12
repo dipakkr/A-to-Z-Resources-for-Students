@@ -217,6 +217,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [LLM Papers and Tools](https://github.com/Mooler0410/LLMsPracticalGuide)
     - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
     - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+    - [OpenConnector](https://github.com/oomol-lab/open-connector) - Self-hostable SaaS tool gateway for LLM agents with MCP, HTTP, and OpenAPI interfaces, OAuth/API-key credential management, and scoped action policies.
 
 - **Research Papers**
     - [Arxiv - LLM Category](https://arxiv.org/search/cs?query=large+language+model&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
