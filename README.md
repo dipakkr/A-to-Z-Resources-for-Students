@@ -97,6 +97,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
     - [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts)
+    - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce where Commander coordinates specialist agents for research, documents and code, with supported own-provider API keys.
 
 # Programming Languages & Frameworks
 
