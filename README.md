@@ -1598,6 +1598,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
 |9| [Kaggle Competitions](https://www.kaggle.com/competitions) | Online | Data Science |
 |10| [MLH](https://mlh.io/) | Global | ALL|
+|11| [AI Competition Radar](https://www.aicompetition.dev/en) | Global | AI/ML |
 
 ## 2.4 Events 🎫
 
