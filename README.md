@@ -91,6 +91,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
+- **Open-source AI Applications**
+    - [Pagekin](https://github.com/EthanYoQ/AI-Novel-Writer) - Free, open-source desktop novel-writing workspace for story planning, chapter drafts, review and revision with user-configured cloud or local models.
+
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
