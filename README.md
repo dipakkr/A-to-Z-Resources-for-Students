@@ -300,6 +300,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Best GitHub Repositories
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
 - [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Doomsday Network & Proof-of-Escrow Agent SDK](https://github.com/doomsday-network/doomsday) - Open-source Layer-1 PoW blockchain, Base Mainnet wDOOM bridge, and MCP/LangChain/LlamaIndex/CrewAI Proof-of-Escrow verification suite for autonomous AI coding agents
 
 ---
 
