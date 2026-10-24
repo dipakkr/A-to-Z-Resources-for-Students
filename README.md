@@ -232,6 +232,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Anthropic Console (Claude)](https://claude.ai/)
     - [OpenRouter (Multi-LLM API Playground)](https://openrouter.ai/)
     - [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain)
+    - [Heym](https://github.com/heymrun/heym) - Self-hosted workspace for building and testing LLM agent workflows with tool calls, human approvals, and execution traces (MIT with Commons Clause)
 
 
 
