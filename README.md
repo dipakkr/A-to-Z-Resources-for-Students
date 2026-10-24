@@ -91,6 +91,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
+- **Open-source document tools**
+    - [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - Desktop tool for Chinese email invoices, with OCR, file organization and Excel reimbursement summaries. Supports Windows and macOS.
+
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
