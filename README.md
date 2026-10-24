@@ -7,9 +7,11 @@
   <a href="https://www.star-history.com/dipakkr/a-to-z-resources-for-students"><img src="https://api.star-history.com/badge?repo=dipakkr/A-to-Z-Resources-for-Students" alt="Star History Rank"></a>
 </p>
 
+WELCOME TO MY OWN LITTLE TAKE ON A2Z RESOURCES FOR STUDENTS!  EVERYTHING HERE IS MERELY AN EXTENSION OF THE WONDERFUL AND EXTREMELY HELPFUL WORK OF @DIPAKKR, AND WOULDN'T EXIST WITHOUT THEIR FINE WORK AND DEDICATION TO THE COMMUNITY!
+
 If you found this repository helpful in discovering new opportunities, don’t keep it to yourself — share it with your friends or batchmates so they can benefit too!  
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/dipakkr/) — always happy to network and exchange ideas. 🚀
+You can also connect with DIPAKKR on [LinkedIn](https://www.linkedin.com/in/dipakkr/) — always happy to network and exchange ideas. 🚀
 
 ---
 
