@@ -90,6 +90,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [RunwayML](https://www.tooljunction.io/ai-tools/runwayml) - Creative tools for AI-powered content creation
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
+    - [Scalekit](https://scalekit.com) - AI agent integration platform: 600+ connectors and 35,000+ tools with per-user OAuth for agents
 
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
