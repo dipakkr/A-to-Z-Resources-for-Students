@@ -91,6 +91,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
 
+- **AI Development and Testing**
+    - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with memidex memory, CLI, dashboard, and MCP workflows.
+
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
