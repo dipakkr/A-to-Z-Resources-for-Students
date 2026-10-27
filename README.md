@@ -94,6 +94,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools)
+    - [Awesome AI Coding Tools](https://github.com/mahmoudsajjadi/awesome-ai-coding-tools) - Curated taxonomy of coding agents, MCP integrations, local GPU VRAM calculators, and benchmarks
     - [Awesome ChatGPT](https://github.com/f/awesome-chatgpt-prompts)
 
 # Programming Languages & Frameworks
