@@ -81,6 +81,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 > A curated list of AI tools and platforms to enhance your productivity
 
 - **AI Tool Directories and Resources**
+    - [Agent Stack Directory](https://agentstackdirectory.com) - Checked directory of infrastructure for AI agents (79 tools, 13 categories) with side-by-side comparison pages
     - [ToolJunction](https://www.tooljunction.io/) - Comprehensive directory of AI tools
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) - Curated collection of AI tools and resources
 
