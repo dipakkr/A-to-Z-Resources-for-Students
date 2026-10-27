@@ -1174,6 +1174,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 3. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
 4. [Indeed](https://www.indeed.ca/)
 5. [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free daily-updated Canadian student internship, co-op, new-grad, junior, and entry-level jobs across tech, engineering, business, finance, sciences, arts, and related fields.
+6. [Tech Internships](https://github.com/landedjobs/tech-internships) - Free list of software, AI, data, product, and design internships, refreshed every 2 days with direct employer links.
 
 # Additional Resources
 
@@ -1780,6 +1781,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 3. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
 4. [Indeed](https://www.indeed.ca/)
 5. [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free daily-updated Canadian student internship, co-op, new-grad, junior, and entry-level jobs across tech, engineering, business, finance, sciences, arts, and related fields.
+6. [Tech Internships](https://github.com/landedjobs/tech-internships) - Free list of software, AI, data, product, and design internships, refreshed every 2 days with direct employer links.
 
 ---
 
