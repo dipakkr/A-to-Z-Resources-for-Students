@@ -215,6 +215,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [LLM Papers and Tools](https://github.com/Mooler0410/LLMsPracticalGuide)
     - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
     - [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
+    - [Ultimate AI Engineering Guide](https://github.com/mchittineni/ultimate-ai-engineering-guide) - LLM, agentic AI and LLMOps interview questions with worked examples
 
 - **Research Papers**
     - [Arxiv - LLM Category](https://arxiv.org/search/cs?query=large+language+model&searchtype=all&abstracts=show&order=-announced_date_first&size=50)
