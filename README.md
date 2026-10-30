@@ -231,6 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Google AI Studio (Gemini)](https://makersuite.google.com/)
     - [Anthropic Console (Claude)](https://claude.ai/)
     - [OpenRouter (Multi-LLM API Playground)](https://openrouter.ai/)
+    - [Cheaper Inference (OpenAI-compatible LLM API)](https://cheaperinference.com/)
     - [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain)
 
 
