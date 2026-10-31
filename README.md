@@ -149,6 +149,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
+     - [Pythonlings](https://github.com/abhiksark/pythonlings) - Learn Python by fixing tiny broken programs in a live terminal TUI. :baby:
 
 # AI & Machine Learning
 
