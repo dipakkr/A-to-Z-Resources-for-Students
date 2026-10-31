@@ -848,6 +848,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [CoCubes](https://www.cocubes.com/) - Placement preparation platform
 - [eLitmus](https://www.elitmus.com/) - pH test practice
 - [AspiringMinds](https://www.aspiringminds.com/) - AMCAT practice tests
+- [Ultimate Aptitude Prep](https://ultimateaptitudeprep.com/) - Free timed practice tests for quantitative aptitude, logical reasoning, verbal ability and puzzles, with instant feedback
 
 ### Free Resources
 - [Brilliant.org](https://brilliant.org/) - Interactive courses and problems
@@ -2094,6 +2095,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [CoCubes](https://www.cocubes.com/) - Placement preparation platform
     - [eLitmus](https://www.elitmus.com/) - pH test practice
     - [AspiringMinds](https://www.aspiringminds.com/) - AMCAT practice tests
+    - [Ultimate Aptitude Prep](https://ultimateaptitudeprep.com/) - Free timed practice tests for quantitative aptitude, logical reasoning, verbal ability and puzzles, with instant feedback
 
 - **Free Resources**
     - [Brilliant.org](https://brilliant.org/) - Interactive courses and problems
