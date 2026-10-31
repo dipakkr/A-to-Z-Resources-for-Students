@@ -1338,6 +1338,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
  - [An Introduction to Github](https://www.scaler.com/topics/what-is-github/)
  - [Git Vs Github by Scaler Topics](https://www.scaler.com/topics/git-vs-github/)
  - [Git Skill Tree](https://labex.io/skilltrees/git)
+ - [Git Introduction - WebTerm Learn](https://learn.webterm.app/en/courses/git-introduction)
 
 
 ## 1.12 R Language
