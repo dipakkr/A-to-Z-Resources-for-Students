@@ -1188,6 +1188,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 9. [App Academy - Full Stack Coding Bootcamp, Free Curriculum](https://open.appacademy.io/#free)
 10. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) - *Learning*
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
+12.  [OffLadder](https://offladder.com) - Free career exploration tool that suggests career directions and small real-world experiments to test them. Ages 13+.
 
 # 🧭 Recommended Learning Paths
 
