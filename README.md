@@ -300,6 +300,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## Best GitHub Repositories
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
 - [DeFi Developer Roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants)
 
 ---
 
