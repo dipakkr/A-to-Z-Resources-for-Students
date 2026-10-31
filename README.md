@@ -856,6 +856,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Unacademy](https://www.youtube.com/c/unacademy)
     - [CareerRide](https://www.youtube.com/user/CareerRideVideos)
     - [MathsTricks](https://www.youtube.com/c/MathsTricks)
+	- [CareerNest](https://careernest.ai) - Free AI resume builder, real-time ATS compatibility scanner, and STAR interview prep coach.
+
 
 ### Mobile Apps
 - [Aptitude Test by Career Power](https://play.google.com/store/apps/details?id=com.careerpower.aptitude)
@@ -867,6 +869,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - [Glassdoor Interviews](https://www.glassdoor.co.in/Interview/index.htm) - Company-specific interview experiences
 - [AmbitionBox](https://www.ambitionbox.com/) - Interview experiences and company reviews
 - [LinkedIn Interview Prep](https://www.linkedin.com/interview-prep/)
+- [CareerNest](https://careernest.ai) - Free AI resume builder, real-time ATS compatibility scanner, and STAR interview prep coach.
 
 # Learning Resources
 
@@ -1027,6 +1030,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 |2| [InterviewBit Academy](https://www.interviewbit.com/academy/)|  Software Developer | No Experience Required, 6 month online trainging, Only Pay when you get a Job | India
 |3| [General Assembly](https://generalassemb.ly)|  Software Developer, Data Science, Android, iOS, Design | On Campus and fully remote options, both part-time and full-time | US and International
 |4| [Coding Dojo](https://www.codingdojo.com)|  Software Developer, Data Science | Remote and On Campus options, Software dev teaches 3 full stacks | US and International
+- [CareerNest](https://careernest.ai) - Free AI resume builder, real-time ATS compatibility scanner, and STAR interview prep coach.
+
 
 ## Design Resources
 
