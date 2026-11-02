@@ -231,6 +231,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Google AI Studio (Gemini)](https://makersuite.google.com/)
     - [Anthropic Console (Claude)](https://claude.ai/)
     - [OpenRouter (Multi-LLM API Playground)](https://openrouter.ai/)
+    - [DeeDee Pulse API tests](https://pulse.deedee.tech/probe) - Tests a supplied LLM endpoint and publishes evidence reports; bring your own API key and pay provider usage.
     - [LangChain + OpenAI Agent Playground](https://github.com/langchain-ai/langchain)
 
 
