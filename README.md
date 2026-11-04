@@ -1174,6 +1174,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 3. [LinkedIn](https://linkedin.com) *Contact HRs on LinkedIn*
 4. [Indeed](https://www.indeed.ca/)
 5. [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free daily-updated Canadian student internship, co-op, new-grad, junior, and entry-level jobs across tech, engineering, business, finance, sciences, arts, and related fields.
+6. [New Grad and Internships 2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027) - Free daily-updated tech internships and new-grad roles worldwide, read from 15,000+ company career pages (Greenhouse, Lever, Ashby, Workday and more); every link goes to the employer.
 
 # Additional Resources
 
