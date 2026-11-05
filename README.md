@@ -83,6 +83,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **AI Tool Directories and Resources**
     - [ToolJunction](https://www.tooljunction.io/) - Comprehensive directory of AI tools
     - [Awesome AI Tools](https://github.com/dipakkr/awesome-ai-tools) - Curated collection of AI tools and resources
+    - [Benchmark Radar](https://github.com/ktwu01/benchmark-radar) - Living database and search engine for AI benchmarks and evaluation
 
 - **Popular AI Tools**
     - [ChatGPT](https://www.tooljunction.io/ai-tools/chatgpt) - Advanced AI chatbot for conversations and tasks
