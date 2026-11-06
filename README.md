@@ -90,6 +90,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [RunwayML](https://www.tooljunction.io/ai-tools/runwayml) - Creative tools for AI-powered content creation
     - [InVideo](https://www.tooljunction.io/ai-tools/invideo) - AI-powered video creation platform
     - [ToolBaz](https://www.tooljunction.io/ai-tools/toolbaz) - Collection of AI-powered productivity tools
+    - [OneMira AI](https://onemira.com/products/c1) - Standalone AI voice recorder (C1) and local AI meeting context system with speaker ID, Markdown Wiki, and [MCP server](https://github.com/onemira-space/onemira-mcp)
 
 - **Best GitHub Repositories for AI Tools**
     - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
