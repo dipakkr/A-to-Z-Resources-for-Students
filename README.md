@@ -207,6 +207,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Weaviate Academy](https://academy.weaviate.io/)
     - [Fine-Tuning LLMs | Hugging Face](https://huggingface.co/docs/transformers/training)
     - [Transformers Course | Hugging Face](https://huggingface.co/course/chapter1)
+    - [LLM Fundamentals, RAG and AI Agents | DataDank](https://datadank.com/llm/) - Free, plain-English courses with runnable Python examples
     - [Prompt Engineering for Developers | OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
     - [Mastering LLMs | YouTube (AssemblyAI)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
