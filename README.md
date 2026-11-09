@@ -166,6 +166,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/ml-intro)
     - [Applied Data Science with Python Specialization | Coursera](https://www.coursera.org/specializations/data-science-python) -Select individual course if it consists of multiple then click on audit below the trial/payment options
     - [Machine Learning | Kaggle](https://www.kaggle.com/learn/machine-learning)
+    - [ML Coding Practice | TensorTonic](https://www.tensortonic.com/problems) - Implement ML algorithms from scratch in the browser with tests
     - [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
     - [Machine Learning Tutorial | Scaler Topics](https://www.scaler.com/topics/machine-learning/)
     - [Machine Learning Roadmap  | Scaler Blogs](https://www.scaler.com/blog/machine-learning-roadmap/)
